@@ -4,6 +4,14 @@ Apps built with care for Vietnamese users.
 
 ---
 
+## Xu — Quản lý chi tiêu cá nhân
+
+A local-first personal finance tracker for Vietnamese users. Pixel-art, offline-first, AI-powered.
+
+- [Support & Contact](xu/support.md)
+- [Privacy Policy](xu/privacy-policy.md)
+- [Terms of Service](xu/terms-of-service.md)
+
 ## Hảo (好) — Học tiếng Trung & HSK
 
 A comprehensive Chinese-learning app for Vietnamese speakers.
