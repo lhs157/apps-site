@@ -4,6 +4,13 @@ Apps built with care for Vietnamese users.
 
 ---
 
+## Hôm Nay Ăn Gì — Công thức & Thực đơn món Việt
+
+A fully offline Vietnamese recipe and family meal-planning app.
+
+- [Support & Contact](hom-nay-an-gi/support.md)
+- [Privacy Policy](hom-nay-an-gi/privacy-policy.md)
+
 ## Xu — Quản lý chi tiêu cá nhân
 
 A local-first personal finance tracker for Vietnamese users. Pixel-art, offline-first, AI-powered.
