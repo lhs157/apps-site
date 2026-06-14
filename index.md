@@ -4,6 +4,13 @@ Apps built with care for Vietnamese users.
 
 ---
 
+## BlockDelve — Roguelike xếp khối đào hầm
+
+A block-placement roguelike puzzle game with daily challenges and an online leaderboard.
+
+- [Support & Contact](blockdelve/support.md)
+- [Privacy Policy](blockdelve/privacy-policy.md)
+
 ## Hôm Nay Ăn Gì — Công thức & Thực đơn món Việt
 
 A fully offline Vietnamese recipe and family meal-planning app.
