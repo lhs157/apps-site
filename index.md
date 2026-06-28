@@ -18,6 +18,13 @@ A cute pixel-art nonogram (picross) puzzle game. Fully offline, free, no ads.
 - [Support & Contact](pixcross/support.md)
 - [Privacy Policy](pixcross/privacy-policy.md)
 
+## PourPop — Water / Color Sort Puzzle
+
+A cute, relaxing water/color-sort puzzle. Fully offline, free, no ads.
+
+- [Support & Contact](pourpop/support.md)
+- [Privacy Policy](pourpop/privacy-policy.md)
+
 ## Hôm Nay Ăn Gì — Công thức & Thực đơn món Việt
 
 A fully offline Vietnamese recipe and family meal-planning app.
