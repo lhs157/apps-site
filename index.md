@@ -11,6 +11,13 @@ A block-placement roguelike puzzle game with daily challenges and an online lead
 - [Support & Contact](blockdelve/support.md)
 - [Privacy Policy](blockdelve/privacy-policy.md)
 
+## PixCross — Pixel Nonogram / Picross
+
+A cute pixel-art nonogram (picross) puzzle game. Fully offline, free, no ads.
+
+- [Support & Contact](pixcross/support.md)
+- [Privacy Policy](pixcross/privacy-policy.md)
+
 ## Hôm Nay Ăn Gì — Công thức & Thực đơn món Việt
 
 A fully offline Vietnamese recipe and family meal-planning app.
