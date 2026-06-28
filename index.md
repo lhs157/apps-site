@@ -54,6 +54,13 @@ An English-learning and TOEIC-preparation app for Vietnamese speakers.
 - [Support & Contact](spark/support.md)
 - [Privacy Policy](spark/privacy-policy.md)
 
+## Watermelon Merge — Thả & gộp hoa quả (Suika)
+
+A Suika-style fruit drop-and-merge puzzle game. Fully offline, free, no ads.
+
+- [Support & Contact](watermelon/support.md)
+- [Privacy Policy](watermelon/privacy-policy.md)
+
 ---
 
 Contact: luuhongson157@gmail.com
