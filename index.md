@@ -4,6 +4,14 @@ Apps built with care for Vietnamese users.
 
 ---
 
+## Astro Flick — Búng bi vũ trụ, không trọng lực
+
+A gravity-free physics puzzler: flick celestial bodies across open space and merge matching ones,
+from stardust to a galaxy. Endless mode plus hand-verified puzzle levels.
+
+- [Support & Contact](astroflick/support.md)
+- [Privacy Policy](astroflick/privacy-policy.md)
+
 ## BlockDelve — Roguelike xếp khối đào hầm
 
 A block-placement roguelike puzzle game with daily challenges and an online leaderboard.
