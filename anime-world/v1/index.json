@@ -1,14 +1,150 @@
 {
  "schemaVersion": 1,
- "generatedAt": "2026-07-19T20:14:15.383Z",
- "total": 4,
+ "generatedAt": "2026-07-19T20:16:15.827Z",
+ "total": 27,
  "pageCount": 1,
  "pageSize": 200,
- "collections": [],
+ "collections": [
+  {
+   "id": "theme-phong-canh",
+   "title": "Phong cảnh",
+   "wallpaperIds": [
+    "aw_scene_026",
+    "aw_scene_024",
+    "aw_scene_022",
+    "aw_scene_020",
+    "aw_scene_018",
+    "aw_scene_016",
+    "aw_scene_014",
+    "aw_scene_012",
+    "aw_scene_010",
+    "aw_scene_008",
+    "aw_scene_006",
+    "aw_scene_004",
+    "aw_scene_002",
+    "aw_scene_000"
+   ]
+  },
+  {
+   "id": "theme-nhan-vat-goc",
+   "title": "Nhân vật gốc",
+   "wallpaperIds": [
+    "aw_char_025",
+    "aw_char_023",
+    "aw_char_021",
+    "aw_char_019",
+    "aw_char_017",
+    "aw_char_015",
+    "aw_char_013",
+    "aw_char_011",
+    "aw_char_009",
+    "aw_char_007",
+    "aw_char_005",
+    "aw_char_003",
+    "aw_char_001"
+   ]
+  },
+  {
+   "id": "theme-chang-vang",
+   "title": "Chạng vạng",
+   "wallpaperIds": [
+    "aw_scene_018",
+    "aw_scene_012",
+    "aw_scene_008",
+    "aw_scene_006",
+    "aw_scene_002",
+    "aw_scene_000",
+    "aw_char_021",
+    "aw_char_019",
+    "aw_char_013",
+    "aw_char_009"
+   ]
+  },
+  {
+   "id": "theme-dem",
+   "title": "Đêm",
+   "wallpaperIds": [
+    "aw_scene_020",
+    "aw_scene_004",
+    "aw_char_017",
+    "aw_char_007",
+    "aw_char_005",
+    "aw_char_003",
+    "aw_char_001"
+   ]
+  },
+  {
+   "id": "theme-rung-tre",
+   "title": "Rừng tre",
+   "wallpaperIds": [
+    "aw_scene_016",
+    "aw_scene_008",
+    "aw_scene_002",
+    "aw_char_017",
+    "aw_char_015",
+    "aw_char_003"
+   ]
+  },
+  {
+   "id": "theme-ha",
+   "title": "Hạ",
+   "wallpaperIds": [
+    "aw_scene_024",
+    "aw_scene_022",
+    "aw_scene_016",
+    "aw_scene_014",
+    "aw_scene_012"
+   ]
+  },
+  {
+   "id": "theme-hoang-hon",
+   "title": "Hoàng hôn",
+   "wallpaperIds": [
+    "aw_scene_026",
+    "aw_scene_016",
+    "aw_char_025",
+    "aw_char_015"
+   ]
+  },
+  {
+   "id": "theme-thu",
+   "title": "Thu",
+   "wallpaperIds": [
+    "aw_scene_026",
+    "aw_scene_004",
+    "aw_scene_002",
+    "aw_scene_000"
+   ]
+  },
+  {
+   "id": "theme-xuan",
+   "title": "Xuân",
+   "wallpaperIds": [
+    "aw_scene_020",
+    "aw_scene_010",
+    "aw_scene_008",
+    "aw_scene_006"
+   ]
+  },
+  {
+   "id": "theme-dong-hoa",
+   "title": "Đồng hoa",
+   "wallpaperIds": [
+    "aw_scene_022",
+    "aw_scene_014",
+    "aw_char_021",
+    "aw_char_009"
+   ]
+  }
+ ],
  "seasonalSpotlight": {
   "id": "season-ha",
   "title": "Hạ",
   "wallpaperIds": [
+   "aw_scene_012",
+   "aw_scene_014",
+   "aw_scene_016",
+   "aw_scene_022",
    "aw_scene_024"
   ]
  },
@@ -16,127 +152,155 @@
   {
    "date": "2026-07-20",
    "wallpaperIds": [
-    "aw_char_023",
-    "aw_char_025",
-    "aw_scene_026",
-    "aw_scene_024"
+    "aw_scene_008",
+    "aw_scene_016",
+    "aw_scene_012",
+    "aw_char_003",
+    "aw_scene_006",
+    "aw_char_015"
    ]
   },
   {
    "date": "2026-07-21",
    "wallpaperIds": [
-    "aw_char_023",
-    "aw_char_025",
     "aw_scene_026",
-    "aw_scene_024"
+    "aw_char_023",
+    "aw_char_001",
+    "aw_scene_000",
+    "aw_char_009",
+    "aw_scene_004"
    ]
   },
   {
    "date": "2026-07-22",
    "wallpaperIds": [
-    "aw_char_023",
-    "aw_char_025",
-    "aw_scene_026",
-    "aw_scene_024"
+    "aw_char_005",
+    "aw_scene_022",
+    "aw_char_007",
+    "aw_char_011",
+    "aw_char_013",
+    "aw_char_021"
    ]
   },
   {
    "date": "2026-07-23",
    "wallpaperIds": [
-    "aw_char_023",
+    "aw_char_019",
+    "aw_scene_020",
+    "aw_scene_024",
     "aw_char_025",
-    "aw_scene_026",
-    "aw_scene_024"
+    "aw_scene_018",
+    "aw_scene_002"
    ]
   },
   {
    "date": "2026-07-24",
    "wallpaperIds": [
-    "aw_char_023",
-    "aw_char_025",
-    "aw_scene_026",
-    "aw_scene_024"
+    "aw_scene_010",
+    "aw_scene_014",
+    "aw_char_017",
+    "aw_scene_008",
+    "aw_scene_016",
+    "aw_scene_012"
    ]
   },
   {
    "date": "2026-07-25",
    "wallpaperIds": [
-    "aw_char_023",
-    "aw_char_025",
+    "aw_char_003",
+    "aw_scene_006",
+    "aw_char_015",
     "aw_scene_026",
-    "aw_scene_024"
+    "aw_char_023",
+    "aw_char_001"
    ]
   },
   {
    "date": "2026-07-26",
    "wallpaperIds": [
-    "aw_char_023",
-    "aw_char_025",
-    "aw_scene_026",
-    "aw_scene_024"
+    "aw_scene_000",
+    "aw_char_009",
+    "aw_scene_004",
+    "aw_char_005",
+    "aw_scene_022",
+    "aw_char_007"
    ]
   },
   {
    "date": "2026-07-27",
    "wallpaperIds": [
-    "aw_char_023",
-    "aw_char_025",
-    "aw_scene_026",
+    "aw_char_011",
+    "aw_char_013",
+    "aw_char_021",
+    "aw_char_019",
+    "aw_scene_020",
     "aw_scene_024"
    ]
   },
   {
    "date": "2026-07-28",
    "wallpaperIds": [
-    "aw_char_023",
     "aw_char_025",
-    "aw_scene_026",
-    "aw_scene_024"
+    "aw_scene_018",
+    "aw_scene_002",
+    "aw_scene_010",
+    "aw_scene_014",
+    "aw_char_017"
    ]
   },
   {
    "date": "2026-07-29",
    "wallpaperIds": [
-    "aw_char_023",
-    "aw_char_025",
-    "aw_scene_026",
-    "aw_scene_024"
+    "aw_scene_008",
+    "aw_scene_016",
+    "aw_scene_012",
+    "aw_char_003",
+    "aw_scene_006",
+    "aw_char_015"
    ]
   },
   {
    "date": "2026-07-30",
    "wallpaperIds": [
-    "aw_char_023",
-    "aw_char_025",
     "aw_scene_026",
-    "aw_scene_024"
+    "aw_char_023",
+    "aw_char_001",
+    "aw_scene_000",
+    "aw_char_009",
+    "aw_scene_004"
    ]
   },
   {
    "date": "2026-07-31",
    "wallpaperIds": [
-    "aw_char_023",
-    "aw_char_025",
-    "aw_scene_026",
-    "aw_scene_024"
+    "aw_char_005",
+    "aw_scene_022",
+    "aw_char_007",
+    "aw_char_011",
+    "aw_char_013",
+    "aw_char_021"
    ]
   },
   {
    "date": "2026-08-01",
    "wallpaperIds": [
-    "aw_char_023",
+    "aw_char_019",
+    "aw_scene_020",
+    "aw_scene_024",
     "aw_char_025",
-    "aw_scene_026",
-    "aw_scene_024"
+    "aw_scene_018",
+    "aw_scene_002"
    ]
   },
   {
    "date": "2026-08-02",
    "wallpaperIds": [
-    "aw_char_023",
-    "aw_char_025",
-    "aw_scene_026",
-    "aw_scene_024"
+    "aw_scene_010",
+    "aw_scene_014",
+    "aw_char_017",
+    "aw_scene_008",
+    "aw_scene_016",
+    "aw_scene_012"
    ]
   }
  ]
