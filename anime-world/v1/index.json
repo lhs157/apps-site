@@ -1,0 +1,143 @@
+{
+ "schemaVersion": 1,
+ "generatedAt": "2026-07-19T20:14:15.383Z",
+ "total": 4,
+ "pageCount": 1,
+ "pageSize": 200,
+ "collections": [],
+ "seasonalSpotlight": {
+  "id": "season-ha",
+  "title": "Hạ",
+  "wallpaperIds": [
+   "aw_scene_024"
+  ]
+ },
+ "dailyDrop": [
+  {
+   "date": "2026-07-20",
+   "wallpaperIds": [
+    "aw_char_023",
+    "aw_char_025",
+    "aw_scene_026",
+    "aw_scene_024"
+   ]
+  },
+  {
+   "date": "2026-07-21",
+   "wallpaperIds": [
+    "aw_char_023",
+    "aw_char_025",
+    "aw_scene_026",
+    "aw_scene_024"
+   ]
+  },
+  {
+   "date": "2026-07-22",
+   "wallpaperIds": [
+    "aw_char_023",
+    "aw_char_025",
+    "aw_scene_026",
+    "aw_scene_024"
+   ]
+  },
+  {
+   "date": "2026-07-23",
+   "wallpaperIds": [
+    "aw_char_023",
+    "aw_char_025",
+    "aw_scene_026",
+    "aw_scene_024"
+   ]
+  },
+  {
+   "date": "2026-07-24",
+   "wallpaperIds": [
+    "aw_char_023",
+    "aw_char_025",
+    "aw_scene_026",
+    "aw_scene_024"
+   ]
+  },
+  {
+   "date": "2026-07-25",
+   "wallpaperIds": [
+    "aw_char_023",
+    "aw_char_025",
+    "aw_scene_026",
+    "aw_scene_024"
+   ]
+  },
+  {
+   "date": "2026-07-26",
+   "wallpaperIds": [
+    "aw_char_023",
+    "aw_char_025",
+    "aw_scene_026",
+    "aw_scene_024"
+   ]
+  },
+  {
+   "date": "2026-07-27",
+   "wallpaperIds": [
+    "aw_char_023",
+    "aw_char_025",
+    "aw_scene_026",
+    "aw_scene_024"
+   ]
+  },
+  {
+   "date": "2026-07-28",
+   "wallpaperIds": [
+    "aw_char_023",
+    "aw_char_025",
+    "aw_scene_026",
+    "aw_scene_024"
+   ]
+  },
+  {
+   "date": "2026-07-29",
+   "wallpaperIds": [
+    "aw_char_023",
+    "aw_char_025",
+    "aw_scene_026",
+    "aw_scene_024"
+   ]
+  },
+  {
+   "date": "2026-07-30",
+   "wallpaperIds": [
+    "aw_char_023",
+    "aw_char_025",
+    "aw_scene_026",
+    "aw_scene_024"
+   ]
+  },
+  {
+   "date": "2026-07-31",
+   "wallpaperIds": [
+    "aw_char_023",
+    "aw_char_025",
+    "aw_scene_026",
+    "aw_scene_024"
+   ]
+  },
+  {
+   "date": "2026-08-01",
+   "wallpaperIds": [
+    "aw_char_023",
+    "aw_char_025",
+    "aw_scene_026",
+    "aw_scene_024"
+   ]
+  },
+  {
+   "date": "2026-08-02",
+   "wallpaperIds": [
+    "aw_char_023",
+    "aw_char_025",
+    "aw_scene_026",
+    "aw_scene_024"
+   ]
+  }
+ ]
+}
