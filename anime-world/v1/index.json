@@ -1,34 +1,51 @@
 {
  "schemaVersion": 1,
- "generatedAt": "2026-07-19T20:16:15.827Z",
- "total": 27,
+ "generatedAt": "2026-07-20T00:51:21.862Z",
+ "total": 99,
  "pageCount": 1,
  "pageSize": 200,
  "collections": [
   {
-   "id": "theme-phong-canh",
-   "title": "Phong cảnh",
-   "wallpaperIds": [
-    "aw_scene_026",
-    "aw_scene_024",
-    "aw_scene_022",
-    "aw_scene_020",
-    "aw_scene_018",
-    "aw_scene_016",
-    "aw_scene_014",
-    "aw_scene_012",
-    "aw_scene_010",
-    "aw_scene_008",
-    "aw_scene_006",
-    "aw_scene_004",
-    "aw_scene_002",
-    "aw_scene_000"
-   ]
-  },
-  {
    "id": "theme-nhan-vat-goc",
    "title": "Nhân vật gốc",
    "wallpaperIds": [
+    "aw_char_099",
+    "aw_char_097",
+    "aw_char_095",
+    "aw_char_093",
+    "aw_char_091",
+    "aw_char_089",
+    "aw_char_087",
+    "aw_char_085",
+    "aw_char_083",
+    "aw_char_081",
+    "aw_char_079",
+    "aw_char_077",
+    "aw_char_075",
+    "aw_char_073",
+    "aw_char_071",
+    "aw_char_069",
+    "aw_char_067",
+    "aw_char_065",
+    "aw_char_063",
+    "aw_char_061",
+    "aw_char_059",
+    "aw_char_057",
+    "aw_char_055",
+    "aw_char_053",
+    "aw_char_051",
+    "aw_char_049",
+    "aw_char_047",
+    "aw_char_045",
+    "aw_char_043",
+    "aw_char_041",
+    "aw_char_039",
+    "aw_char_037",
+    "aw_char_035",
+    "aw_char_033",
+    "aw_char_031",
+    "aw_char_029",
+    "aw_char_027",
     "aw_char_025",
     "aw_char_023",
     "aw_char_021",
@@ -45,27 +62,83 @@
    ]
   },
   {
-   "id": "theme-chang-vang",
-   "title": "Chạng vạng",
+   "id": "theme-phong-canh",
+   "title": "Phong cảnh",
    "wallpaperIds": [
+    "aw_scene_098",
+    "aw_scene_096",
+    "aw_scene_094",
+    "aw_scene_092",
+    "aw_scene_090",
+    "aw_scene_088",
+    "aw_scene_086",
+    "aw_scene_084",
+    "aw_scene_082",
+    "aw_scene_080",
+    "aw_scene_078",
+    "aw_scene_076",
+    "aw_scene_074",
+    "aw_scene_072",
+    "aw_scene_070",
+    "aw_scene_068",
+    "aw_scene_066",
+    "aw_scene_064",
+    "aw_scene_062",
+    "aw_scene_060",
+    "aw_scene_058",
+    "aw_scene_056",
+    "aw_scene_054",
+    "aw_scene_052",
+    "aw_scene_048",
+    "aw_scene_046",
+    "aw_scene_044",
+    "aw_scene_042",
+    "aw_scene_040",
+    "aw_scene_038",
+    "aw_scene_036",
+    "aw_scene_034",
+    "aw_scene_032",
+    "aw_scene_030",
+    "aw_scene_028",
+    "aw_scene_026",
+    "aw_scene_024",
+    "aw_scene_022",
+    "aw_scene_020",
     "aw_scene_018",
+    "aw_scene_016",
+    "aw_scene_014",
     "aw_scene_012",
+    "aw_scene_010",
     "aw_scene_008",
     "aw_scene_006",
+    "aw_scene_004",
     "aw_scene_002",
-    "aw_scene_000",
-    "aw_char_021",
-    "aw_char_019",
-    "aw_char_013",
-    "aw_char_009"
+    "aw_scene_000"
    ]
   },
   {
    "id": "theme-dem",
    "title": "Đêm",
    "wallpaperIds": [
+    "aw_scene_088",
+    "aw_scene_086",
+    "aw_scene_084",
+    "aw_scene_068",
+    "aw_scene_054",
+    "aw_scene_044",
+    "aw_scene_030",
+    "aw_scene_028",
     "aw_scene_020",
     "aw_scene_004",
+    "aw_char_093",
+    "aw_char_087",
+    "aw_char_085",
+    "aw_char_075",
+    "aw_char_073",
+    "aw_char_065",
+    "aw_char_049",
+    "aw_char_045",
+    "aw_char_035",
     "aw_char_017",
     "aw_char_007",
     "aw_char_005",
@@ -74,12 +147,105 @@
    ]
   },
   {
+   "id": "theme-chang-vang",
+   "title": "Chạng vạng",
+   "wallpaperIds": [
+    "aw_scene_094",
+    "aw_scene_080",
+    "aw_scene_072",
+    "aw_scene_070",
+    "aw_scene_066",
+    "aw_scene_060",
+    "aw_scene_056",
+    "aw_scene_042",
+    "aw_scene_018",
+    "aw_scene_012",
+    "aw_scene_008",
+    "aw_scene_006",
+    "aw_scene_002",
+    "aw_scene_000",
+    "aw_char_099",
+    "aw_char_089",
+    "aw_char_083",
+    "aw_char_067",
+    "aw_char_041",
+    "aw_char_021",
+    "aw_char_019",
+    "aw_char_013",
+    "aw_char_009"
+   ]
+  },
+  {
+   "id": "theme-hoang-hon",
+   "title": "Hoàng hôn",
+   "wallpaperIds": [
+    "aw_scene_092",
+    "aw_scene_074",
+    "aw_scene_058",
+    "aw_scene_048",
+    "aw_scene_040",
+    "aw_scene_038",
+    "aw_scene_026",
+    "aw_scene_016",
+    "aw_char_095",
+    "aw_char_081",
+    "aw_char_079",
+    "aw_char_077",
+    "aw_char_071",
+    "aw_char_069",
+    "aw_char_063",
+    "aw_char_061",
+    "aw_char_047",
+    "aw_char_031",
+    "aw_char_029",
+    "aw_char_025",
+    "aw_char_015"
+   ]
+  },
+  {
+   "id": "theme-binh-minh",
+   "title": "Bình minh",
+   "wallpaperIds": [
+    "aw_scene_096",
+    "aw_scene_090",
+    "aw_scene_082",
+    "aw_scene_064",
+    "aw_scene_052",
+    "aw_scene_046",
+    "aw_scene_036",
+    "aw_scene_034",
+    "aw_scene_032",
+    "aw_scene_022",
+    "aw_scene_010",
+    "aw_char_057",
+    "aw_char_055",
+    "aw_char_053",
+    "aw_char_043",
+    "aw_char_037",
+    "aw_char_033",
+    "aw_char_027",
+    "aw_char_023"
+   ]
+  },
+  {
    "id": "theme-rung-tre",
    "title": "Rừng tre",
    "wallpaperIds": [
+    "aw_scene_098",
+    "aw_scene_090",
+    "aw_scene_072",
+    "aw_scene_058",
     "aw_scene_016",
     "aw_scene_008",
     "aw_scene_002",
+    "aw_char_091",
+    "aw_char_089",
+    "aw_char_083",
+    "aw_char_073",
+    "aw_char_071",
+    "aw_char_045",
+    "aw_char_043",
+    "aw_char_029",
     "aw_char_017",
     "aw_char_015",
     "aw_char_003"
@@ -89,6 +255,18 @@
    "id": "theme-ha",
    "title": "Hạ",
    "wallpaperIds": [
+    "aw_scene_096",
+    "aw_scene_088",
+    "aw_scene_086",
+    "aw_scene_066",
+    "aw_scene_064",
+    "aw_scene_062",
+    "aw_scene_058",
+    "aw_scene_054",
+    "aw_scene_048",
+    "aw_scene_034",
+    "aw_scene_032",
+    "aw_scene_028",
     "aw_scene_024",
     "aw_scene_022",
     "aw_scene_016",
@@ -97,19 +275,108 @@
    ]
   },
   {
-   "id": "theme-hoang-hon",
-   "title": "Hoàng hôn",
+   "id": "theme-thanh-pho",
+   "title": "Thành phố",
    "wallpaperIds": [
+    "aw_scene_092",
+    "aw_scene_080",
+    "aw_scene_078",
+    "aw_scene_076",
+    "aw_scene_066",
+    "aw_scene_036",
+    "aw_scene_024",
+    "aw_scene_010",
+    "aw_char_085",
+    "aw_char_077",
+    "aw_char_059",
+    "aw_char_051",
+    "aw_char_039",
+    "aw_char_013"
+   ]
+  },
+  {
+   "id": "theme-bau-troi-sao",
+   "title": "Bầu trời sao",
+   "wallpaperIds": [
+    "aw_scene_094",
+    "aw_scene_088",
+    "aw_scene_056",
+    "aw_scene_048",
     "aw_scene_026",
-    "aw_scene_016",
+    "aw_char_097",
+    "aw_char_075",
+    "aw_char_069",
+    "aw_char_057",
+    "aw_char_037",
+    "aw_char_035",
+    "aw_char_019",
+    "aw_char_007"
+   ]
+  },
+  {
+   "id": "theme-bien",
+   "title": "Biển",
+   "wallpaperIds": [
+    "aw_scene_074",
+    "aw_scene_062",
+    "aw_scene_046",
+    "aw_scene_042",
+    "aw_scene_034",
+    "aw_scene_006",
+    "aw_char_095",
+    "aw_char_087",
+    "aw_char_081",
+    "aw_char_067",
     "aw_char_025",
-    "aw_char_015"
+    "aw_char_005"
+   ]
+  },
+  {
+   "id": "theme-ngay-mua",
+   "title": "Ngày mưa",
+   "wallpaperIds": [
+    "aw_scene_098",
+    "aw_scene_078",
+    "aw_scene_076",
+    "aw_scene_062",
+    "aw_scene_024",
+    "aw_scene_014",
+    "aw_char_097",
+    "aw_char_091",
+    "aw_char_059",
+    "aw_char_051",
+    "aw_char_039",
+    "aw_char_011"
+   ]
+  },
+  {
+   "id": "theme-lang-tuyet",
+   "title": "Làng tuyết",
+   "wallpaperIds": [
+    "aw_scene_096",
+    "aw_scene_084",
+    "aw_scene_054",
+    "aw_scene_018",
+    "aw_scene_012",
+    "aw_char_065",
+    "aw_char_055",
+    "aw_char_053",
+    "aw_char_047",
+    "aw_char_033",
+    "aw_char_001"
    ]
   },
   {
    "id": "theme-thu",
    "title": "Thu",
    "wallpaperIds": [
+    "aw_scene_098",
+    "aw_scene_094",
+    "aw_scene_078",
+    "aw_scene_076",
+    "aw_scene_068",
+    "aw_scene_046",
+    "aw_scene_036",
     "aw_scene_026",
     "aw_scene_004",
     "aw_scene_002",
@@ -117,9 +384,65 @@
    ]
   },
   {
+   "id": "theme-dong",
+   "title": "Đông",
+   "wallpaperIds": [
+    "aw_scene_092",
+    "aw_scene_084",
+    "aw_scene_082",
+    "aw_scene_072",
+    "aw_scene_070",
+    "aw_scene_056",
+    "aw_scene_052",
+    "aw_scene_044",
+    "aw_scene_040",
+    "aw_scene_030",
+    "aw_scene_018"
+   ]
+  },
+  {
+   "id": "theme-dong-hoa",
+   "title": "Đồng hoa",
+   "wallpaperIds": [
+    "aw_scene_040",
+    "aw_scene_038",
+    "aw_scene_030",
+    "aw_scene_028",
+    "aw_scene_022",
+    "aw_scene_014",
+    "aw_char_063",
+    "aw_char_041",
+    "aw_char_027",
+    "aw_char_021",
+    "aw_char_009"
+   ]
+  },
+  {
+   "id": "theme-san-ga",
+   "title": "Sân ga",
+   "wallpaperIds": [
+    "aw_scene_070",
+    "aw_scene_064",
+    "aw_scene_060",
+    "aw_scene_032",
+    "aw_scene_000",
+    "aw_char_093",
+    "aw_char_079",
+    "aw_char_061",
+    "aw_char_031",
+    "aw_char_011"
+   ]
+  },
+  {
    "id": "theme-xuan",
    "title": "Xuân",
    "wallpaperIds": [
+    "aw_scene_090",
+    "aw_scene_080",
+    "aw_scene_074",
+    "aw_scene_060",
+    "aw_scene_042",
+    "aw_scene_038",
     "aw_scene_020",
     "aw_scene_010",
     "aw_scene_008",
@@ -127,13 +450,19 @@
    ]
   },
   {
-   "id": "theme-dong-hoa",
-   "title": "Đồng hoa",
+   "id": "theme-den-chua",
+   "title": "Đền chùa",
    "wallpaperIds": [
-    "aw_scene_022",
-    "aw_scene_014",
-    "aw_char_021",
-    "aw_char_009"
+    "aw_scene_086",
+    "aw_scene_082",
+    "aw_scene_068",
+    "aw_scene_052",
+    "aw_scene_044",
+    "aw_scene_020",
+    "aw_scene_004",
+    "aw_char_099",
+    "aw_char_049",
+    "aw_char_023"
    ]
   }
  ],
@@ -145,162 +474,174 @@
    "aw_scene_014",
    "aw_scene_016",
    "aw_scene_022",
-   "aw_scene_024"
+   "aw_scene_024",
+   "aw_scene_028",
+   "aw_scene_032",
+   "aw_scene_034",
+   "aw_scene_048",
+   "aw_scene_054",
+   "aw_scene_058",
+   "aw_scene_062",
+   "aw_scene_064",
+   "aw_scene_066",
+   "aw_scene_086",
+   "aw_scene_088",
+   "aw_scene_096"
   ]
  },
  "dailyDrop": [
   {
    "date": "2026-07-20",
    "wallpaperIds": [
-    "aw_scene_008",
-    "aw_scene_016",
-    "aw_scene_012",
-    "aw_char_003",
-    "aw_scene_006",
-    "aw_char_015"
+    "aw_scene_048",
+    "aw_char_055",
+    "aw_char_007",
+    "aw_char_097",
+    "aw_scene_028",
+    "aw_scene_072"
    ]
   },
   {
    "date": "2026-07-21",
    "wallpaperIds": [
-    "aw_scene_026",
-    "aw_char_023",
+    "aw_scene_076",
+    "aw_scene_064",
     "aw_char_001",
-    "aw_scene_000",
-    "aw_char_009",
-    "aw_scene_004"
+    "aw_char_061",
+    "aw_scene_052",
+    "aw_char_073"
    ]
   },
   {
    "date": "2026-07-22",
    "wallpaperIds": [
-    "aw_char_005",
-    "aw_scene_022",
-    "aw_char_007",
-    "aw_char_011",
-    "aw_char_013",
-    "aw_char_021"
+    "aw_scene_000",
+    "aw_scene_036",
+    "aw_scene_094",
+    "aw_scene_086",
+    "aw_char_043",
+    "aw_char_023"
    ]
   },
   {
    "date": "2026-07-23",
    "wallpaperIds": [
+    "aw_scene_038",
     "aw_char_019",
-    "aw_scene_020",
-    "aw_scene_024",
+    "aw_char_037",
+    "aw_char_027",
     "aw_char_025",
-    "aw_scene_018",
-    "aw_scene_002"
+    "aw_char_013"
    ]
   },
   {
    "date": "2026-07-24",
    "wallpaperIds": [
-    "aw_scene_010",
-    "aw_scene_014",
+    "aw_scene_098",
+    "aw_scene_054",
+    "aw_scene_078",
+    "aw_scene_030",
     "aw_char_017",
-    "aw_scene_008",
-    "aw_scene_016",
-    "aw_scene_012"
+    "aw_char_047"
    ]
   },
   {
    "date": "2026-07-25",
    "wallpaperIds": [
-    "aw_char_003",
-    "aw_scene_006",
-    "aw_char_015",
-    "aw_scene_026",
-    "aw_char_023",
-    "aw_char_001"
+    "aw_scene_042",
+    "aw_scene_032",
+    "aw_char_079",
+    "aw_char_053",
+    "aw_scene_068",
+    "aw_char_039"
    ]
   },
   {
    "date": "2026-07-26",
    "wallpaperIds": [
-    "aw_scene_000",
-    "aw_char_009",
-    "aw_scene_004",
-    "aw_char_005",
-    "aw_scene_022",
-    "aw_char_007"
+    "aw_scene_008",
+    "aw_scene_034",
+    "aw_char_011",
+    "aw_scene_056",
+    "aw_char_049",
+    "aw_scene_026"
    ]
   },
   {
    "date": "2026-07-27",
    "wallpaperIds": [
-    "aw_char_011",
-    "aw_char_013",
-    "aw_char_021",
-    "aw_char_019",
-    "aw_scene_020",
-    "aw_scene_024"
+    "aw_char_033",
+    "aw_scene_002",
+    "aw_scene_082",
+    "aw_scene_088",
+    "aw_char_005",
+    "aw_scene_020"
    ]
   },
   {
    "date": "2026-07-28",
    "wallpaperIds": [
-    "aw_char_025",
-    "aw_scene_018",
-    "aw_scene_002",
-    "aw_scene_010",
-    "aw_scene_014",
-    "aw_char_017"
+    "aw_char_067",
+    "aw_scene_022",
+    "aw_scene_046",
+    "aw_char_041",
+    "aw_scene_060",
+    "aw_scene_092"
    ]
   },
   {
    "date": "2026-07-29",
    "wallpaperIds": [
-    "aw_scene_008",
+    "aw_char_065",
+    "aw_scene_010",
+    "aw_scene_066",
     "aw_scene_016",
-    "aw_scene_012",
-    "aw_char_003",
-    "aw_scene_006",
-    "aw_char_015"
+    "aw_scene_014",
+    "aw_char_081"
    ]
   },
   {
    "date": "2026-07-30",
    "wallpaperIds": [
-    "aw_scene_026",
-    "aw_char_023",
-    "aw_char_001",
-    "aw_scene_000",
+    "aw_char_089",
+    "aw_scene_040",
+    "aw_char_095",
     "aw_char_009",
-    "aw_scene_004"
+    "aw_char_003",
+    "aw_scene_006"
    ]
   },
   {
    "date": "2026-07-31",
    "wallpaperIds": [
-    "aw_char_005",
-    "aw_scene_022",
-    "aw_char_007",
-    "aw_char_011",
-    "aw_char_013",
+    "aw_char_035",
+    "aw_char_057",
+    "aw_char_077",
+    "aw_char_085",
+    "aw_scene_004",
     "aw_char_021"
    ]
   },
   {
    "date": "2026-08-01",
    "wallpaperIds": [
-    "aw_char_019",
-    "aw_scene_020",
+    "aw_char_069",
     "aw_scene_024",
-    "aw_char_025",
-    "aw_scene_018",
-    "aw_scene_002"
+    "aw_char_093",
+    "aw_char_059",
+    "aw_char_031",
+    "aw_char_029"
    ]
   },
   {
    "date": "2026-08-02",
    "wallpaperIds": [
-    "aw_scene_010",
-    "aw_scene_014",
-    "aw_char_017",
-    "aw_scene_008",
-    "aw_scene_016",
-    "aw_scene_012"
+    "aw_char_083",
+    "aw_char_015",
+    "aw_scene_084",
+    "aw_scene_090",
+    "aw_char_091",
+    "aw_scene_074"
    ]
   }
  ]
