@@ -2,6 +2,947 @@
  "page": 0,
  "items": [
   {
+   "id": "aw_scene_212",
+   "source": "anime-world",
+   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
+   "originUrl": null,
+   "uploader": null,
+   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_scene_212.webp",
+   "thumbPath": "thumbs/aw_scene_212.webp",
+   "width": 1290,
+   "height": 2796,
+   "fileSize": 279110,
+   "colors": [],
+   "tags": [
+    "Phong cảnh",
+    "Hiệu sách",
+    "Ngày mưa",
+    "Xuân",
+    "Trong nhà"
+   ],
+   "anime": null,
+   "character": null,
+   "phash": "9762618d9e72c92e",
+   "favorites": 0,
+   "aspectRatio": 2.167441860465116
+  },
+  {
+   "id": "aw_scene_211",
+   "source": "anime-world",
+   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
+   "originUrl": null,
+   "uploader": null,
+   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_scene_211.webp",
+   "thumbPath": "thumbs/aw_scene_211.webp",
+   "width": 1290,
+   "height": 2796,
+   "fileSize": 383818,
+   "colors": [],
+   "tags": [
+    "Phong cảnh",
+    "Bầu trời sao",
+    "Bình minh",
+    "Xuân",
+    "Thiên nhiên"
+   ],
+   "anime": null,
+   "character": null,
+   "phash": "9866cae6dac6d8d0",
+   "favorites": 0,
+   "aspectRatio": 2.167441860465116
+  },
+  {
+   "id": "aw_scene_210",
+   "source": "anime-world",
+   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
+   "originUrl": null,
+   "uploader": null,
+   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_scene_210.webp",
+   "thumbPath": "thumbs/aw_scene_210.webp",
+   "width": 1290,
+   "height": 2796,
+   "fileSize": 155894,
+   "colors": [],
+   "tags": [
+    "Phong cảnh",
+    "Biển",
+    "Đêm",
+    "Đông",
+    "Thiên nhiên"
+   ],
+   "anime": null,
+   "character": null,
+   "phash": "c19ca3e73ce21cd8",
+   "favorites": 0,
+   "aspectRatio": 2.167441860465116
+  },
+  {
+   "id": "aw_scene_202",
+   "source": "anime-world",
+   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
+   "originUrl": null,
+   "uploader": null,
+   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_scene_202.webp",
+   "thumbPath": "thumbs/aw_scene_202.webp",
+   "width": 1290,
+   "height": 2796,
+   "fileSize": 305166,
+   "colors": [],
+   "tags": [
+    "Phong cảnh",
+    "Trên tàu",
+    "Chạng vạng",
+    "Xuân",
+    "Trong nhà"
+   ],
+   "anime": null,
+   "character": null,
+   "phash": "d8c4c1ea6f67382c",
+   "favorites": 0,
+   "aspectRatio": 2.167441860465116
+  },
+  {
+   "id": "aw_scene_201",
+   "source": "anime-world",
+   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
+   "originUrl": null,
+   "uploader": null,
+   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_scene_201.webp",
+   "thumbPath": "thumbs/aw_scene_201.webp",
+   "width": 1290,
+   "height": 2796,
+   "fileSize": 229622,
+   "colors": [],
+   "tags": [
+    "Phong cảnh",
+    "Làng tuyết",
+    "Chạng vạng",
+    "Hạ",
+    "Thiên nhiên"
+   ],
+   "anime": null,
+   "character": null,
+   "phash": "89713666cfc18e66",
+   "favorites": 0,
+   "aspectRatio": 2.167441860465116
+  },
+  {
+   "id": "aw_scene_200",
+   "source": "anime-world",
+   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
+   "originUrl": null,
+   "uploader": null,
+   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_scene_200.webp",
+   "thumbPath": "thumbs/aw_scene_200.webp",
+   "width": 1290,
+   "height": 2796,
+   "fileSize": 354794,
+   "colors": [],
+   "tags": [
+    "Phong cảnh",
+    "Phố đêm",
+    "Bình minh",
+    "Xuân",
+    "Thành thị"
+   ],
+   "anime": null,
+   "character": null,
+   "phash": "99ca67f1c0ba6865",
+   "favorites": 0,
+   "aspectRatio": 2.167441860465116
+  },
+  {
+   "id": "aw_scene_192",
+   "source": "anime-world",
+   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
+   "originUrl": null,
+   "uploader": null,
+   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_scene_192.webp",
+   "thumbPath": "thumbs/aw_scene_192.webp",
+   "width": 1290,
+   "height": 2796,
+   "fileSize": 251208,
+   "colors": [],
+   "tags": [
+    "Phong cảnh",
+    "Cầu vượt",
+    "Đêm",
+    "Hạ",
+    "Thành thị"
+   ],
+   "anime": null,
+   "character": null,
+   "phash": "cb1838e36634c79b",
+   "favorites": 0,
+   "aspectRatio": 2.167441860465116
+  },
+  {
+   "id": "aw_scene_191",
+   "source": "anime-world",
+   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
+   "originUrl": null,
+   "uploader": null,
+   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_scene_191.webp",
+   "thumbPath": "thumbs/aw_scene_191.webp",
+   "width": 1290,
+   "height": 2796,
+   "fileSize": 289394,
+   "colors": [],
+   "tags": [
+    "Phong cảnh",
+    "Trên tàu",
+    "Ngày mưa",
+    "Xuân",
+    "Trong nhà"
+   ],
+   "anime": null,
+   "character": null,
+   "phash": "8b83743c7d2d2c6c",
+   "favorites": 0,
+   "aspectRatio": 2.167441860465116
+  },
+  {
+   "id": "aw_scene_190",
+   "source": "anime-world",
+   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
+   "originUrl": null,
+   "uploader": null,
+   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_scene_190.webp",
+   "thumbPath": "thumbs/aw_scene_190.webp",
+   "width": 1290,
+   "height": 2796,
+   "fileSize": 289410,
+   "colors": [],
+   "tags": [
+    "Phong cảnh",
+    "Sân ga",
+    "Chạng vạng",
+    "Thu",
+    "Thành thị"
+   ],
+   "anime": null,
+   "character": null,
+   "phash": "c49186acb9b1a7a7",
+   "favorites": 0,
+   "aspectRatio": 2.167441860465116
+  },
+  {
+   "id": "aw_scene_182",
+   "source": "anime-world",
+   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
+   "originUrl": null,
+   "uploader": null,
+   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_scene_182.webp",
+   "thumbPath": "thumbs/aw_scene_182.webp",
+   "width": 1290,
+   "height": 2796,
+   "fileSize": 214334,
+   "colors": [],
+   "tags": [
+    "Phong cảnh",
+    "Đền chùa",
+    "Hoàng hôn",
+    "Xuân"
+   ],
+   "anime": null,
+   "character": null,
+   "phash": "9cd6336c23712db1",
+   "favorites": 0,
+   "aspectRatio": 2.167441860465116
+  },
+  {
+   "id": "aw_scene_181",
+   "source": "anime-world",
+   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
+   "originUrl": null,
+   "uploader": null,
+   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_scene_181.webp",
+   "thumbPath": "thumbs/aw_scene_181.webp",
+   "width": 1290,
+   "height": 2796,
+   "fileSize": 454046,
+   "colors": [],
+   "tags": [
+    "Phong cảnh",
+    "Thành phố",
+    "Bình minh",
+    "Hạ"
+   ],
+   "anime": null,
+   "character": null,
+   "phash": "8cbce59132961b67",
+   "favorites": 0,
+   "aspectRatio": 2.167441860465116
+  },
+  {
+   "id": "aw_scene_180",
+   "source": "anime-world",
+   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
+   "originUrl": null,
+   "uploader": null,
+   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_scene_180.webp",
+   "thumbPath": "thumbs/aw_scene_180.webp",
+   "width": 1290,
+   "height": 2796,
+   "fileSize": 234940,
+   "colors": [],
+   "tags": [
+    "Phong cảnh",
+    "Sân thượng",
+    "Bình minh",
+    "Hạ"
+   ],
+   "anime": null,
+   "character": null,
+   "phash": "d03e21f83de19e0e",
+   "favorites": 0,
+   "aspectRatio": 2.167441860465116
+  },
+  {
+   "id": "aw_scene_172",
+   "source": "anime-world",
+   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
+   "originUrl": null,
+   "uploader": null,
+   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_scene_172.webp",
+   "thumbPath": "thumbs/aw_scene_172.webp",
+   "width": 1290,
+   "height": 2796,
+   "fileSize": 274814,
+   "colors": [],
+   "tags": [
+    "Phong cảnh",
+    "Cầu vượt",
+    "Hoàng hôn",
+    "Xuân"
+   ],
+   "anime": null,
+   "character": null,
+   "phash": "924c3993ccd35d55",
+   "favorites": 0,
+   "aspectRatio": 2.167441860465116
+  },
+  {
+   "id": "aw_scene_171",
+   "source": "anime-world",
+   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
+   "originUrl": null,
+   "uploader": null,
+   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_scene_171.webp",
+   "thumbPath": "thumbs/aw_scene_171.webp",
+   "width": 1290,
+   "height": 2796,
+   "fileSize": 396024,
+   "colors": [],
+   "tags": [
+    "Phong cảnh",
+    "Đồi cỏ",
+    "Chạng vạng",
+    "Xuân"
+   ],
+   "anime": null,
+   "character": null,
+   "phash": "84c91b3e76610f37",
+   "favorites": 0,
+   "aspectRatio": 2.167441860465116
+  },
+  {
+   "id": "aw_scene_170",
+   "source": "anime-world",
+   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
+   "originUrl": null,
+   "uploader": null,
+   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_scene_170.webp",
+   "thumbPath": "thumbs/aw_scene_170.webp",
+   "width": 1290,
+   "height": 2796,
+   "fileSize": 366986,
+   "colors": [],
+   "tags": [
+    "Phong cảnh",
+    "Đồng hoa",
+    "Đêm",
+    "Hạ"
+   ],
+   "anime": null,
+   "character": null,
+   "phash": "817b1ea77856c5a4",
+   "favorites": 0,
+   "aspectRatio": 2.167441860465116
+  },
+  {
+   "id": "aw_scene_162",
+   "source": "anime-world",
+   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
+   "originUrl": null,
+   "uploader": null,
+   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_scene_162.webp",
+   "thumbPath": "thumbs/aw_scene_162.webp",
+   "width": 1290,
+   "height": 2796,
+   "fileSize": 418812,
+   "colors": [],
+   "tags": [
+    "Phong cảnh",
+    "Thành phố",
+    "Ngày mưa",
+    "Hạ"
+   ],
+   "anime": null,
+   "character": null,
+   "phash": "999972c03374dd59",
+   "favorites": 0,
+   "aspectRatio": 2.167441860465116
+  },
+  {
+   "id": "aw_scene_161",
+   "source": "anime-world",
+   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
+   "originUrl": null,
+   "uploader": null,
+   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_scene_161.webp",
+   "thumbPath": "thumbs/aw_scene_161.webp",
+   "width": 1290,
+   "height": 2796,
+   "fileSize": 216198,
+   "colors": [],
+   "tags": [
+    "Phong cảnh",
+    "Đền chùa",
+    "Chạng vạng",
+    "Thu"
+   ],
+   "anime": null,
+   "character": null,
+   "phash": "c4e7330e4f581e39",
+   "favorites": 0,
+   "aspectRatio": 2.167441860465116
+  },
+  {
+   "id": "aw_scene_160",
+   "source": "anime-world",
+   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
+   "originUrl": null,
+   "uploader": null,
+   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_scene_160.webp",
+   "thumbPath": "thumbs/aw_scene_160.webp",
+   "width": 1290,
+   "height": 2796,
+   "fileSize": 288160,
+   "colors": [],
+   "tags": [
+    "Phong cảnh",
+    "Thư viện",
+    "Bình minh",
+    "Xuân"
+   ],
+   "anime": null,
+   "character": null,
+   "phash": "9c73acc99c8b728c",
+   "favorites": 0,
+   "aspectRatio": 2.167441860465116
+  },
+  {
+   "id": "aw_scene_152",
+   "source": "anime-world",
+   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
+   "originUrl": null,
+   "uploader": null,
+   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_scene_152.webp",
+   "thumbPath": "thumbs/aw_scene_152.webp",
+   "width": 1290,
+   "height": 2796,
+   "fileSize": 308954,
+   "colors": [],
+   "tags": [
+    "Phong cảnh",
+    "Bầu trời sao",
+    "Ngày mưa",
+    "Đông",
+    "Thiên nhiên"
+   ],
+   "anime": null,
+   "character": null,
+   "phash": "cc31923726b9376c",
+   "favorites": 0,
+   "aspectRatio": 2.167441860465116
+  },
+  {
+   "id": "aw_scene_151",
+   "source": "anime-world",
+   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
+   "originUrl": null,
+   "uploader": null,
+   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_scene_151.webp",
+   "thumbPath": "thumbs/aw_scene_151.webp",
+   "width": 1290,
+   "height": 2796,
+   "fileSize": 254166,
+   "colors": [],
+   "tags": [
+    "Phong cảnh",
+    "Sân ga",
+    "Đêm",
+    "Hạ",
+    "Thành thị"
+   ],
+   "anime": null,
+   "character": null,
+   "phash": "c5c3c3e463367331",
+   "favorites": 0,
+   "aspectRatio": 2.167441860465116
+  },
+  {
+   "id": "aw_scene_150",
+   "source": "anime-world",
+   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
+   "originUrl": null,
+   "uploader": null,
+   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_scene_150.webp",
+   "thumbPath": "thumbs/aw_scene_150.webp",
+   "width": 1290,
+   "height": 2796,
+   "fileSize": 483686,
+   "colors": [],
+   "tags": [
+    "Phong cảnh",
+    "Sân thượng",
+    "Ngày mưa",
+    "Hạ",
+    "Thành thị"
+   ],
+   "anime": null,
+   "character": null,
+   "phash": "939b72e6263cc88d",
+   "favorites": 0,
+   "aspectRatio": 2.167441860465116
+  },
+  {
+   "id": "aw_scene_142",
+   "source": "anime-world",
+   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
+   "originUrl": null,
+   "uploader": null,
+   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_scene_142.webp",
+   "thumbPath": "thumbs/aw_scene_142.webp",
+   "width": 1290,
+   "height": 2796,
+   "fileSize": 283844,
+   "colors": [],
+   "tags": [
+    "Phong cảnh",
+    "Bầu trời sao",
+    "Đêm",
+    "Đông",
+    "Thiên nhiên"
+   ],
+   "anime": null,
+   "character": null,
+   "phash": "cccc669365b331b4",
+   "favorites": 0,
+   "aspectRatio": 2.167441860465116
+  },
+  {
+   "id": "aw_scene_141",
+   "source": "anime-world",
+   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
+   "originUrl": null,
+   "uploader": null,
+   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_scene_141.webp",
+   "thumbPath": "thumbs/aw_scene_141.webp",
+   "width": 1290,
+   "height": 2796,
+   "fileSize": 121624,
+   "colors": [],
+   "tags": [
+    "Phong cảnh",
+    "Hiệu sách",
+    "Chạng vạng",
+    "Đông",
+    "Trong nhà"
+   ],
+   "anime": null,
+   "character": null,
+   "phash": "9a6d6592c9cd92e4",
+   "favorites": 0,
+   "aspectRatio": 2.167441860465116
+  },
+  {
+   "id": "aw_scene_140",
+   "source": "anime-world",
+   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
+   "originUrl": null,
+   "uploader": null,
+   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_scene_140.webp",
+   "thumbPath": "thumbs/aw_scene_140.webp",
+   "width": 1290,
+   "height": 2796,
+   "fileSize": 390768,
+   "colors": [],
+   "tags": [
+    "Phong cảnh",
+    "Bầu trời sao",
+    "Đêm",
+    "Thu",
+    "Thiên nhiên"
+   ],
+   "anime": null,
+   "character": null,
+   "phash": "936d66b368986c96",
+   "favorites": 0,
+   "aspectRatio": 2.167441860465116
+  },
+  {
+   "id": "aw_scene_132",
+   "source": "anime-world",
+   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
+   "originUrl": null,
+   "uploader": null,
+   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_scene_132.webp",
+   "thumbPath": "thumbs/aw_scene_132.webp",
+   "width": 1290,
+   "height": 2796,
+   "fileSize": 181606,
+   "colors": [],
+   "tags": [
+    "Phong cảnh",
+    "Quán cà phê",
+    "Chạng vạng",
+    "Đông",
+    "Trong nhà"
+   ],
+   "anime": null,
+   "character": null,
+   "phash": "92ca335b4d936d92",
+   "favorites": 0,
+   "aspectRatio": 2.167441860465116
+  },
+  {
+   "id": "aw_scene_131",
+   "source": "anime-world",
+   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
+   "originUrl": null,
+   "uploader": null,
+   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_scene_131.webp",
+   "thumbPath": "thumbs/aw_scene_131.webp",
+   "width": 1290,
+   "height": 2796,
+   "fileSize": 245130,
+   "colors": [],
+   "tags": [
+    "Phong cảnh",
+    "Bầu trời sao",
+    "Chạng vạng",
+    "Hạ",
+    "Thiên nhiên"
+   ],
+   "anime": null,
+   "character": null,
+   "phash": "c690392766e8de0f",
+   "favorites": 0,
+   "aspectRatio": 2.167441860465116
+  },
+  {
+   "id": "aw_scene_130",
+   "source": "anime-world",
+   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
+   "originUrl": null,
+   "uploader": null,
+   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_scene_130.webp",
+   "thumbPath": "thumbs/aw_scene_130.webp",
+   "width": 1290,
+   "height": 2796,
+   "fileSize": 454174,
+   "colors": [],
+   "tags": [
+    "Phong cảnh",
+    "Thành phố",
+    "Ngày mưa",
+    "Xuân",
+    "Thành thị"
+   ],
+   "anime": null,
+   "character": null,
+   "phash": "85634bb231d967c6",
+   "favorites": 0,
+   "aspectRatio": 2.167441860465116
+  },
+  {
+   "id": "aw_scene_120",
+   "source": "anime-world",
+   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
+   "originUrl": null,
+   "uploader": null,
+   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_scene_120.webp",
+   "thumbPath": "thumbs/aw_scene_120.webp",
+   "width": 1290,
+   "height": 2796,
+   "fileSize": 205264,
+   "colors": [],
+   "tags": [
+    "Phong cảnh",
+    "Đồng hoa",
+    "Chạng vạng",
+    "Đông",
+    "Thiên nhiên"
+   ],
+   "anime": null,
+   "character": null,
+   "phash": "c13a34c31cfac53d",
+   "favorites": 0,
+   "aspectRatio": 2.167441860465116
+  },
+  {
+   "id": "aw_scene_118",
+   "source": "anime-world",
+   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
+   "originUrl": null,
+   "uploader": null,
+   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_scene_118.webp",
+   "thumbPath": "thumbs/aw_scene_118.webp",
+   "width": 1290,
+   "height": 2796,
+   "fileSize": 340388,
+   "colors": [],
+   "tags": [
+    "Phong cảnh",
+    "Rừng tre",
+    "Ngày mưa",
+    "Xuân",
+    "Thiên nhiên"
+   ],
+   "anime": null,
+   "character": null,
+   "phash": "989796a5a9a959f0",
+   "favorites": 0,
+   "aspectRatio": 2.167441860465116
+  },
+  {
+   "id": "aw_scene_116",
+   "source": "anime-world",
+   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
+   "originUrl": null,
+   "uploader": null,
+   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_scene_116.webp",
+   "thumbPath": "thumbs/aw_scene_116.webp",
+   "width": 1290,
+   "height": 2796,
+   "fileSize": 315302,
+   "colors": [],
+   "tags": [
+    "Phong cảnh",
+    "Biển",
+    "Ngày mưa",
+    "Hạ",
+    "Thiên nhiên"
+   ],
+   "anime": null,
+   "character": null,
+   "phash": "874361723b195abd",
+   "favorites": 0,
+   "aspectRatio": 2.167441860465116
+  },
+  {
+   "id": "aw_scene_114",
+   "source": "anime-world",
+   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
+   "originUrl": null,
+   "uploader": null,
+   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_scene_114.webp",
+   "thumbPath": "thumbs/aw_scene_114.webp",
+   "width": 1290,
+   "height": 2796,
+   "fileSize": 290916,
+   "colors": [],
+   "tags": [
+    "Phong cảnh",
+    "Bầu trời sao",
+    "Đêm",
+    "Xuân",
+    "Thiên nhiên"
+   ],
+   "anime": null,
+   "character": null,
+   "phash": "8c5a5ba952d4b6a9",
+   "favorites": 0,
+   "aspectRatio": 2.167441860465116
+  },
+  {
+   "id": "aw_scene_112",
+   "source": "anime-world",
+   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
+   "originUrl": null,
+   "uploader": null,
+   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_scene_112.webp",
+   "thumbPath": "thumbs/aw_scene_112.webp",
+   "width": 1290,
+   "height": 2796,
+   "fileSize": 520462,
+   "colors": [],
+   "tags": [
+    "Phong cảnh",
+    "Bầu trời sao",
+    "Ngày mưa",
+    "Xuân",
+    "Thiên nhiên"
+   ],
+   "anime": null,
+   "character": null,
+   "phash": "98ae82b5b583f097",
+   "favorites": 0,
+   "aspectRatio": 2.167441860465116
+  },
+  {
+   "id": "aw_scene_110",
+   "source": "anime-world",
+   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
+   "originUrl": null,
+   "uploader": null,
+   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_scene_110.webp",
+   "thumbPath": "thumbs/aw_scene_110.webp",
+   "width": 1290,
+   "height": 2796,
+   "fileSize": 270132,
+   "colors": [],
+   "tags": [
+    "Phong cảnh",
+    "Rừng tre",
+    "Bình minh",
+    "Hạ",
+    "Thiên nhiên"
+   ],
+   "anime": null,
+   "character": null,
+   "phash": "9497724f69780eb1",
+   "favorites": 0,
+   "aspectRatio": 2.167441860465116
+  },
+  {
+   "id": "aw_scene_108",
+   "source": "anime-world",
+   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
+   "originUrl": null,
+   "uploader": null,
+   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_scene_108.webp",
+   "thumbPath": "thumbs/aw_scene_108.webp",
+   "width": 1290,
+   "height": 2796,
+   "fileSize": 408730,
+   "colors": [],
+   "tags": [
+    "Phong cảnh",
+    "Đồng hoa",
+    "Bình minh",
+    "Xuân",
+    "Thiên nhiên"
+   ],
+   "anime": null,
+   "character": null,
+   "phash": "849373c749e35e4c",
+   "favorites": 0,
+   "aspectRatio": 2.167441860465116
+  },
+  {
+   "id": "aw_scene_106",
+   "source": "anime-world",
+   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
+   "originUrl": null,
+   "uploader": null,
+   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_scene_106.webp",
+   "thumbPath": "thumbs/aw_scene_106.webp",
+   "width": 1290,
+   "height": 2796,
+   "fileSize": 596386,
+   "colors": [],
+   "tags": [
+    "Phong cảnh",
+    "Thành phố",
+    "Đêm",
+    "Hạ",
+    "Thành thị"
+   ],
+   "anime": null,
+   "character": null,
+   "phash": "988e667119d84f37",
+   "favorites": 0,
+   "aspectRatio": 2.167441860465116
+  },
+  {
+   "id": "aw_scene_104",
+   "source": "anime-world",
+   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
+   "originUrl": null,
+   "uploader": null,
+   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_scene_104.webp",
+   "thumbPath": "thumbs/aw_scene_104.webp",
+   "width": 1290,
+   "height": 2796,
+   "fileSize": 230408,
+   "colors": [],
+   "tags": [
+    "Phong cảnh",
+    "Rừng tre",
+    "Đêm",
+    "Đông",
+    "Thiên nhiên"
+   ],
+   "anime": null,
+   "character": null,
+   "phash": "9119a5666d9b63b4",
+   "favorites": 0,
+   "aspectRatio": 2.167441860465116
+  },
+  {
+   "id": "aw_scene_102",
+   "source": "anime-world",
+   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
+   "originUrl": null,
+   "uploader": null,
+   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_scene_102.webp",
+   "thumbPath": "thumbs/aw_scene_102.webp",
+   "width": 1290,
+   "height": 2796,
+   "fileSize": 267000,
+   "colors": [],
+   "tags": [
+    "Phong cảnh",
+    "Rừng tre",
+    "Hoàng hôn",
+    "Hạ",
+    "Thiên nhiên"
+   ],
+   "anime": null,
+   "character": null,
+   "phash": "98716ac4719b96ba",
+   "favorites": 0,
+   "aspectRatio": 2.167441860465116
+  },
+  {
+   "id": "aw_scene_100",
+   "source": "anime-world",
+   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
+   "originUrl": null,
+   "uploader": null,
+   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_scene_100.webp",
+   "thumbPath": "thumbs/aw_scene_100.webp",
+   "width": 1290,
+   "height": 2796,
+   "fileSize": 304712,
+   "colors": [],
+   "tags": [
+    "Phong cảnh",
+    "Đền chùa",
+    "Ngày mưa",
+    "Hạ",
+    "Truyền thống"
+   ],
+   "anime": null,
+   "character": null,
+   "phash": "d93b62ce2493631e",
+   "favorites": 0,
+   "aspectRatio": 2.167441860465116
+  },
+  {
    "id": "aw_scene_098",
    "source": "anime-world",
    "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
@@ -17,7 +958,8 @@
     "Phong cảnh",
     "Rừng tre",
     "Ngày mưa",
-    "Thu"
+    "Thu",
+    "Thiên nhiên"
    ],
    "anime": null,
    "character": null,
@@ -41,7 +983,8 @@
     "Phong cảnh",
     "Làng tuyết",
     "Bình minh",
-    "Hạ"
+    "Hạ",
+    "Thiên nhiên"
    ],
    "anime": null,
    "character": null,
@@ -65,7 +1008,8 @@
     "Phong cảnh",
     "Bầu trời sao",
     "Chạng vạng",
-    "Thu"
+    "Thu",
+    "Thiên nhiên"
    ],
    "anime": null,
    "character": null,
@@ -89,7 +1033,8 @@
     "Phong cảnh",
     "Thành phố",
     "Hoàng hôn",
-    "Đông"
+    "Đông",
+    "Thành thị"
    ],
    "anime": null,
    "character": null,
@@ -113,7 +1058,8 @@
     "Phong cảnh",
     "Rừng tre",
     "Bình minh",
-    "Xuân"
+    "Xuân",
+    "Thiên nhiên"
    ],
    "anime": null,
    "character": null,
@@ -137,7 +1083,8 @@
     "Phong cảnh",
     "Bầu trời sao",
     "Đêm",
-    "Hạ"
+    "Hạ",
+    "Thiên nhiên"
    ],
    "anime": null,
    "character": null,
@@ -161,7 +1108,8 @@
     "Phong cảnh",
     "Đền chùa",
     "Đêm",
-    "Hạ"
+    "Hạ",
+    "Truyền thống"
    ],
    "anime": null,
    "character": null,
@@ -185,7 +1133,8 @@
     "Phong cảnh",
     "Làng tuyết",
     "Đêm",
-    "Đông"
+    "Đông",
+    "Thiên nhiên"
    ],
    "anime": null,
    "character": null,
@@ -209,7 +1158,8 @@
     "Phong cảnh",
     "Đền chùa",
     "Bình minh",
-    "Đông"
+    "Đông",
+    "Truyền thống"
    ],
    "anime": null,
    "character": null,
@@ -233,7 +1183,8 @@
     "Phong cảnh",
     "Thành phố",
     "Chạng vạng",
-    "Xuân"
+    "Xuân",
+    "Thành thị"
    ],
    "anime": null,
    "character": null,
@@ -257,7 +1208,8 @@
     "Phong cảnh",
     "Thành phố",
     "Ngày mưa",
-    "Thu"
+    "Thu",
+    "Thành thị"
    ],
    "anime": null,
    "character": null,
@@ -281,7 +1233,8 @@
     "Phong cảnh",
     "Thành phố",
     "Ngày mưa",
-    "Thu"
+    "Thu",
+    "Thành thị"
    ],
    "anime": null,
    "character": null,
@@ -305,7 +1258,8 @@
     "Phong cảnh",
     "Biển",
     "Hoàng hôn",
-    "Xuân"
+    "Xuân",
+    "Thiên nhiên"
    ],
    "anime": null,
    "character": null,
@@ -329,7 +1283,8 @@
     "Phong cảnh",
     "Rừng tre",
     "Chạng vạng",
-    "Đông"
+    "Đông",
+    "Thiên nhiên"
    ],
    "anime": null,
    "character": null,
@@ -353,7 +1308,8 @@
     "Phong cảnh",
     "Sân ga",
     "Chạng vạng",
-    "Đông"
+    "Đông",
+    "Thành thị"
    ],
    "anime": null,
    "character": null,
@@ -377,7 +1333,8 @@
     "Phong cảnh",
     "Đền chùa",
     "Đêm",
-    "Thu"
+    "Thu",
+    "Truyền thống"
    ],
    "anime": null,
    "character": null,
@@ -401,7 +1358,8 @@
     "Phong cảnh",
     "Thành phố",
     "Chạng vạng",
-    "Hạ"
+    "Hạ",
+    "Thành thị"
    ],
    "anime": null,
    "character": null,
@@ -425,7 +1383,8 @@
     "Phong cảnh",
     "Sân ga",
     "Bình minh",
-    "Hạ"
+    "Hạ",
+    "Thành thị"
    ],
    "anime": null,
    "character": null,
@@ -449,7 +1408,8 @@
     "Phong cảnh",
     "Biển",
     "Ngày mưa",
-    "Hạ"
+    "Hạ",
+    "Thiên nhiên"
    ],
    "anime": null,
    "character": null,
@@ -473,7 +1433,8 @@
     "Phong cảnh",
     "Sân ga",
     "Chạng vạng",
-    "Xuân"
+    "Xuân",
+    "Thành thị"
    ],
    "anime": null,
    "character": null,
@@ -497,7 +1458,8 @@
     "Phong cảnh",
     "Rừng tre",
     "Hoàng hôn",
-    "Hạ"
+    "Hạ",
+    "Thiên nhiên"
    ],
    "anime": null,
    "character": null,
@@ -521,7 +1483,8 @@
     "Phong cảnh",
     "Bầu trời sao",
     "Chạng vạng",
-    "Đông"
+    "Đông",
+    "Thiên nhiên"
    ],
    "anime": null,
    "character": null,
@@ -545,7 +1508,8 @@
     "Phong cảnh",
     "Làng tuyết",
     "Đêm",
-    "Hạ"
+    "Hạ",
+    "Thiên nhiên"
    ],
    "anime": null,
    "character": null,
@@ -569,7 +1533,8 @@
     "Phong cảnh",
     "Đền chùa",
     "Bình minh",
-    "Đông"
+    "Đông",
+    "Truyền thống"
    ],
    "anime": null,
    "character": null,
@@ -593,7 +1558,8 @@
     "Phong cảnh",
     "Bầu trời sao",
     "Hoàng hôn",
-    "Hạ"
+    "Hạ",
+    "Thiên nhiên"
    ],
    "anime": null,
    "character": null,
@@ -617,7 +1583,8 @@
     "Phong cảnh",
     "Biển",
     "Bình minh",
-    "Thu"
+    "Thu",
+    "Thiên nhiên"
    ],
    "anime": null,
    "character": null,
@@ -641,7 +1608,8 @@
     "Phong cảnh",
     "Đền chùa",
     "Đêm",
-    "Đông"
+    "Đông",
+    "Truyền thống"
    ],
    "anime": null,
    "character": null,
@@ -665,7 +1633,8 @@
     "Phong cảnh",
     "Biển",
     "Chạng vạng",
-    "Xuân"
+    "Xuân",
+    "Thiên nhiên"
    ],
    "anime": null,
    "character": null,
@@ -689,7 +1658,8 @@
     "Phong cảnh",
     "Đồng hoa",
     "Hoàng hôn",
-    "Đông"
+    "Đông",
+    "Thiên nhiên"
    ],
    "anime": null,
    "character": null,
@@ -713,7 +1683,8 @@
     "Phong cảnh",
     "Đồng hoa",
     "Hoàng hôn",
-    "Xuân"
+    "Xuân",
+    "Thiên nhiên"
    ],
    "anime": null,
    "character": null,
@@ -737,7 +1708,8 @@
     "Phong cảnh",
     "Thành phố",
     "Bình minh",
-    "Thu"
+    "Thu",
+    "Thành thị"
    ],
    "anime": null,
    "character": null,
@@ -761,7 +1733,8 @@
     "Phong cảnh",
     "Biển",
     "Bình minh",
-    "Hạ"
+    "Hạ",
+    "Thiên nhiên"
    ],
    "anime": null,
    "character": null,
@@ -785,7 +1758,8 @@
     "Phong cảnh",
     "Sân ga",
     "Bình minh",
-    "Hạ"
+    "Hạ",
+    "Thành thị"
    ],
    "anime": null,
    "character": null,
@@ -809,7 +1783,8 @@
     "Phong cảnh",
     "Đồng hoa",
     "Đêm",
-    "Đông"
+    "Đông",
+    "Thiên nhiên"
    ],
    "anime": null,
    "character": null,
@@ -833,7 +1808,8 @@
     "Phong cảnh",
     "Đồng hoa",
     "Đêm",
-    "Hạ"
+    "Hạ",
+    "Thiên nhiên"
    ],
    "anime": null,
    "character": null,
@@ -857,7 +1833,8 @@
     "Phong cảnh",
     "Bầu trời sao",
     "Hoàng hôn",
-    "Thu"
+    "Thu",
+    "Thiên nhiên"
    ],
    "anime": null,
    "character": null,
@@ -881,7 +1858,8 @@
     "Phong cảnh",
     "Thành phố",
     "Ngày mưa",
-    "Hạ"
+    "Hạ",
+    "Thành thị"
    ],
    "anime": null,
    "character": null,
@@ -905,7 +1883,8 @@
     "Phong cảnh",
     "Đồng hoa",
     "Bình minh",
-    "Hạ"
+    "Hạ",
+    "Thiên nhiên"
    ],
    "anime": null,
    "character": null,
@@ -929,7 +1908,8 @@
     "Phong cảnh",
     "Đền chùa",
     "Đêm",
-    "Xuân"
+    "Xuân",
+    "Truyền thống"
    ],
    "anime": null,
    "character": null,
@@ -953,7 +1933,8 @@
     "Phong cảnh",
     "Làng tuyết",
     "Chạng vạng",
-    "Đông"
+    "Đông",
+    "Thiên nhiên"
    ],
    "anime": null,
    "character": null,
@@ -977,7 +1958,8 @@
     "Phong cảnh",
     "Rừng tre",
     "Hoàng hôn",
-    "Hạ"
+    "Hạ",
+    "Thiên nhiên"
    ],
    "anime": null,
    "character": null,
@@ -1001,7 +1983,8 @@
     "Phong cảnh",
     "Đồng hoa",
     "Ngày mưa",
-    "Hạ"
+    "Hạ",
+    "Thiên nhiên"
    ],
    "anime": null,
    "character": null,
@@ -1025,7 +2008,8 @@
     "Phong cảnh",
     "Làng tuyết",
     "Chạng vạng",
-    "Hạ"
+    "Hạ",
+    "Thiên nhiên"
    ],
    "anime": null,
    "character": null,
@@ -1049,7 +2033,8 @@
     "Phong cảnh",
     "Thành phố",
     "Bình minh",
-    "Xuân"
+    "Xuân",
+    "Thành thị"
    ],
    "anime": null,
    "character": null,
@@ -1073,7 +2058,8 @@
     "Phong cảnh",
     "Rừng tre",
     "Chạng vạng",
-    "Xuân"
+    "Xuân",
+    "Thiên nhiên"
    ],
    "anime": null,
    "character": null,
@@ -1097,7 +2083,8 @@
     "Phong cảnh",
     "Biển",
     "Chạng vạng",
-    "Xuân"
+    "Xuân",
+    "Thiên nhiên"
    ],
    "anime": null,
    "character": null,
@@ -1121,7 +2108,8 @@
     "Phong cảnh",
     "Đền chùa",
     "Đêm",
-    "Thu"
+    "Thu",
+    "Truyền thống"
    ],
    "anime": null,
    "character": null,
@@ -1145,7 +2133,8 @@
     "Phong cảnh",
     "Rừng tre",
     "Chạng vạng",
-    "Thu"
+    "Thu",
+    "Thiên nhiên"
    ],
    "anime": null,
    "character": null,
@@ -1169,11 +2158,1938 @@
     "Phong cảnh",
     "Sân ga",
     "Chạng vạng",
-    "Thu"
+    "Thu",
+    "Thành thị"
    ],
    "anime": null,
    "character": null,
    "phash": "dc37c13da3685274",
+   "favorites": 0,
+   "aspectRatio": 2.167441860465116
+  },
+  {
+   "id": "aw_char_217",
+   "source": "anime-world",
+   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
+   "originUrl": null,
+   "uploader": null,
+   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_char_217.webp",
+   "thumbPath": "thumbs/aw_char_217.webp",
+   "width": 1290,
+   "height": 2796,
+   "fileSize": 225710,
+   "colors": [],
+   "tags": [
+    "Nhân vật gốc",
+    "Ruộng bậc thang",
+    "Đêm",
+    "Thu",
+    "Thiên nhiên"
+   ],
+   "anime": null,
+   "character": null,
+   "phash": "996c9d689a6dd2c4",
+   "favorites": 0,
+   "aspectRatio": 2.167441860465116
+  },
+  {
+   "id": "aw_char_216",
+   "source": "anime-world",
+   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
+   "originUrl": null,
+   "uploader": null,
+   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_char_216.webp",
+   "thumbPath": "thumbs/aw_char_216.webp",
+   "width": 1290,
+   "height": 2796,
+   "fileSize": 163916,
+   "colors": [],
+   "tags": [
+    "Nhân vật gốc",
+    "Bầu trời sao",
+    "Đêm",
+    "Đông",
+    "Thiên nhiên"
+   ],
+   "anime": null,
+   "character": null,
+   "phash": "85e64a6077b972d8",
+   "favorites": 0,
+   "aspectRatio": 2.167441860465116
+  },
+  {
+   "id": "aw_char_215",
+   "source": "anime-world",
+   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
+   "originUrl": null,
+   "uploader": null,
+   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_char_215.webp",
+   "thumbPath": "thumbs/aw_char_215.webp",
+   "width": 1290,
+   "height": 2796,
+   "fileSize": 182348,
+   "colors": [],
+   "tags": [
+    "Nhân vật gốc",
+    "Quán cà phê",
+    "Ngày mưa",
+    "Hạ",
+    "Trong nhà"
+   ],
+   "anime": null,
+   "character": null,
+   "phash": "d4e17267230e5a5e",
+   "favorites": 0,
+   "aspectRatio": 2.167441860465116
+  },
+  {
+   "id": "aw_char_214",
+   "source": "anime-world",
+   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
+   "originUrl": null,
+   "uploader": null,
+   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_char_214.webp",
+   "thumbPath": "thumbs/aw_char_214.webp",
+   "width": 1290,
+   "height": 2796,
+   "fileSize": 187108,
+   "colors": [],
+   "tags": [
+    "Nhân vật gốc",
+    "Biển",
+    "Ngày mưa",
+    "Hạ",
+    "Thiên nhiên"
+   ],
+   "anime": null,
+   "character": null,
+   "phash": "b04f17324b4d967a",
+   "favorites": 0,
+   "aspectRatio": 2.167441860465116
+  },
+  {
+   "id": "aw_char_213",
+   "source": "anime-world",
+   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
+   "originUrl": null,
+   "uploader": null,
+   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_char_213.webp",
+   "thumbPath": "thumbs/aw_char_213.webp",
+   "width": 1290,
+   "height": 2796,
+   "fileSize": 180672,
+   "colors": [],
+   "tags": [
+    "Nhân vật gốc",
+    "Lễ hội",
+    "Đêm",
+    "Hạ",
+    "Truyền thống"
+   ],
+   "anime": null,
+   "character": null,
+   "phash": "a34b7ca341b1ab4e",
+   "favorites": 0,
+   "aspectRatio": 2.167441860465116
+  },
+  {
+   "id": "aw_char_209",
+   "source": "anime-world",
+   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
+   "originUrl": null,
+   "uploader": null,
+   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_char_209.webp",
+   "thumbPath": "thumbs/aw_char_209.webp",
+   "width": 1290,
+   "height": 2796,
+   "fileSize": 162800,
+   "colors": [],
+   "tags": [
+    "Nhân vật gốc",
+    "Vịnh đá",
+    "Giữa trưa",
+    "Hạ",
+    "Bãi biển"
+   ],
+   "anime": null,
+   "character": null,
+   "phash": "a4991ba72d3c7463",
+   "favorites": 0,
+   "aspectRatio": 2.167441860465116
+  },
+  {
+   "id": "aw_char_208",
+   "source": "anime-world",
+   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
+   "originUrl": null,
+   "uploader": null,
+   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_char_208.webp",
+   "thumbPath": "thumbs/aw_char_208.webp",
+   "width": 1290,
+   "height": 2796,
+   "fileSize": 190794,
+   "colors": [],
+   "tags": [
+    "Nhân vật gốc",
+    "Biển",
+    "Hoàng hôn",
+    "Xuân",
+    "Thiên nhiên"
+   ],
+   "anime": null,
+   "character": null,
+   "phash": "918da65a4b6574b6",
+   "favorites": 0,
+   "aspectRatio": 2.167441860465116
+  },
+  {
+   "id": "aw_char_207",
+   "source": "anime-world",
+   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
+   "originUrl": null,
+   "uploader": null,
+   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_char_207.webp",
+   "thumbPath": "thumbs/aw_char_207.webp",
+   "width": 1290,
+   "height": 2796,
+   "fileSize": 162642,
+   "colors": [],
+   "tags": [
+    "Nhân vật gốc",
+    "Rừng tre",
+    "Bình minh",
+    "Hạ",
+    "Thiên nhiên"
+   ],
+   "anime": null,
+   "character": null,
+   "phash": "925a69a57ad96469",
+   "favorites": 0,
+   "aspectRatio": 2.167441860465116
+  },
+  {
+   "id": "aw_char_206",
+   "source": "anime-world",
+   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
+   "originUrl": null,
+   "uploader": null,
+   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_char_206.webp",
+   "thumbPath": "thumbs/aw_char_206.webp",
+   "width": 1290,
+   "height": 2796,
+   "fileSize": 223884,
+   "colors": [],
+   "tags": [
+    "Nhân vật gốc",
+    "Cầu vượt",
+    "Đêm",
+    "Xuân",
+    "Thành thị"
+   ],
+   "anime": null,
+   "character": null,
+   "phash": "8e76a2679854f03b",
+   "favorites": 0,
+   "aspectRatio": 2.167441860465116
+  },
+  {
+   "id": "aw_char_205",
+   "source": "anime-world",
+   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
+   "originUrl": null,
+   "uploader": null,
+   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_char_205.webp",
+   "thumbPath": "thumbs/aw_char_205.webp",
+   "width": 1290,
+   "height": 2796,
+   "fileSize": 220822,
+   "colors": [],
+   "tags": [
+    "Nhân vật gốc",
+    "Rừng tre",
+    "Bình minh",
+    "Đông",
+    "Thiên nhiên"
+   ],
+   "anime": null,
+   "character": null,
+   "phash": "9a8d65b6969984d3",
+   "favorites": 0,
+   "aspectRatio": 2.167441860465116
+  },
+  {
+   "id": "aw_char_204",
+   "source": "anime-world",
+   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
+   "originUrl": null,
+   "uploader": null,
+   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_char_204.webp",
+   "thumbPath": "thumbs/aw_char_204.webp",
+   "width": 1290,
+   "height": 2796,
+   "fileSize": 185794,
+   "colors": [],
+   "tags": [
+    "Nhân vật gốc",
+    "Vườn Nhật",
+    "Đêm",
+    "Xuân",
+    "Truyền thống"
+   ],
+   "anime": null,
+   "character": null,
+   "phash": "c3d96ce4c4933a93",
+   "favorites": 0,
+   "aspectRatio": 2.167441860465116
+  },
+  {
+   "id": "aw_char_203",
+   "source": "anime-world",
+   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
+   "originUrl": null,
+   "uploader": null,
+   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_char_203.webp",
+   "thumbPath": "thumbs/aw_char_203.webp",
+   "width": 1290,
+   "height": 2796,
+   "fileSize": 195596,
+   "colors": [],
+   "tags": [
+    "Nhân vật gốc",
+    "Hồ nước",
+    "Hoàng hôn",
+    "Xuân",
+    "Thiên nhiên"
+   ],
+   "anime": null,
+   "character": null,
+   "phash": "c5b6961b193986e5",
+   "favorites": 0,
+   "aspectRatio": 2.167441860465116
+  },
+  {
+   "id": "aw_char_199",
+   "source": "anime-world",
+   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
+   "originUrl": null,
+   "uploader": null,
+   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_char_199.webp",
+   "thumbPath": "thumbs/aw_char_199.webp",
+   "width": 1290,
+   "height": 2796,
+   "fileSize": 271174,
+   "colors": [],
+   "tags": [
+    "Nhân vật gốc",
+    "Đồng hoa",
+    "Chạng vạng",
+    "Xuân",
+    "Thiên nhiên"
+   ],
+   "anime": null,
+   "character": null,
+   "phash": "93d3cda43e591833",
+   "favorites": 0,
+   "aspectRatio": 2.167441860465116
+  },
+  {
+   "id": "aw_char_198",
+   "source": "anime-world",
+   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
+   "originUrl": null,
+   "uploader": null,
+   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_char_198.webp",
+   "thumbPath": "thumbs/aw_char_198.webp",
+   "width": 1290,
+   "height": 2796,
+   "fileSize": 163492,
+   "colors": [],
+   "tags": [
+    "Nhân vật gốc",
+    "Đồi cỏ",
+    "Đêm",
+    "Xuân",
+    "Thiên nhiên"
+   ],
+   "anime": null,
+   "character": null,
+   "phash": "b11961b453d15eb5",
+   "favorites": 0,
+   "aspectRatio": 2.167441860465116
+  },
+  {
+   "id": "aw_char_197",
+   "source": "anime-world",
+   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
+   "originUrl": null,
+   "uploader": null,
+   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_char_197.webp",
+   "thumbPath": "thumbs/aw_char_197.webp",
+   "width": 1290,
+   "height": 2796,
+   "fileSize": 142538,
+   "colors": [],
+   "tags": [
+    "Nhân vật gốc",
+    "Bãi cát trắng",
+    "Giữa trưa",
+    "Hạ",
+    "Bãi biển"
+   ],
+   "anime": null,
+   "character": null,
+   "phash": "b6934fa652836e98",
+   "favorites": 0,
+   "aspectRatio": 2.167441860465116
+  },
+  {
+   "id": "aw_char_196",
+   "source": "anime-world",
+   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
+   "originUrl": null,
+   "uploader": null,
+   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_char_196.webp",
+   "thumbPath": "thumbs/aw_char_196.webp",
+   "width": 1290,
+   "height": 2796,
+   "fileSize": 170554,
+   "colors": [],
+   "tags": [
+    "Nhân vật gốc",
+    "Hồ nước",
+    "Hoàng hôn",
+    "Đông",
+    "Thiên nhiên"
+   ],
+   "anime": null,
+   "character": null,
+   "phash": "91da66316a9b1d72",
+   "favorites": 0,
+   "aspectRatio": 2.167441860465116
+  },
+  {
+   "id": "aw_char_195",
+   "source": "anime-world",
+   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
+   "originUrl": null,
+   "uploader": null,
+   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_char_195.webp",
+   "thumbPath": "thumbs/aw_char_195.webp",
+   "width": 1290,
+   "height": 2796,
+   "fileSize": 208814,
+   "colors": [],
+   "tags": [
+    "Nhân vật gốc",
+    "Làng tuyết",
+    "Hoàng hôn",
+    "Thu",
+    "Thiên nhiên"
+   ],
+   "anime": null,
+   "character": null,
+   "phash": "a51c3ae7486f6570",
+   "favorites": 0,
+   "aspectRatio": 2.167441860465116
+  },
+  {
+   "id": "aw_char_194",
+   "source": "anime-world",
+   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
+   "originUrl": null,
+   "uploader": null,
+   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_char_194.webp",
+   "thumbPath": "thumbs/aw_char_194.webp",
+   "width": 1290,
+   "height": 2796,
+   "fileSize": 161816,
+   "colors": [],
+   "tags": [
+    "Nhân vật gốc",
+    "Sân ga",
+    "Chạng vạng",
+    "Hạ",
+    "Thành thị"
+   ],
+   "anime": null,
+   "character": null,
+   "phash": "bdba2667144249bb",
+   "favorites": 0,
+   "aspectRatio": 2.167441860465116
+  },
+  {
+   "id": "aw_char_193",
+   "source": "anime-world",
+   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
+   "originUrl": null,
+   "uploader": null,
+   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_char_193.webp",
+   "thumbPath": "thumbs/aw_char_193.webp",
+   "width": 1290,
+   "height": 2796,
+   "fileSize": 157388,
+   "colors": [],
+   "tags": [
+    "Nhân vật gốc",
+    "Hiệu sách",
+    "Hoàng hôn",
+    "Hạ",
+    "Trong nhà"
+   ],
+   "anime": null,
+   "character": null,
+   "phash": "8dc9479c6d334ba4",
+   "favorites": 0,
+   "aspectRatio": 2.167441860465116
+  },
+  {
+   "id": "aw_char_189",
+   "source": "anime-world",
+   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
+   "originUrl": null,
+   "uploader": null,
+   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_char_189.webp",
+   "thumbPath": "thumbs/aw_char_189.webp",
+   "width": 1290,
+   "height": 2796,
+   "fileSize": 148248,
+   "colors": [],
+   "tags": [
+    "Nhân vật gốc",
+    "Sân ga",
+    "Chạng vạng",
+    "Hạ",
+    "Thành thị"
+   ],
+   "anime": null,
+   "character": null,
+   "phash": "c6b9e4b1649ace58",
+   "favorites": 0,
+   "aspectRatio": 2.167441860465116
+  },
+  {
+   "id": "aw_char_188",
+   "source": "anime-world",
+   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
+   "originUrl": null,
+   "uploader": null,
+   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_char_188.webp",
+   "thumbPath": "thumbs/aw_char_188.webp",
+   "width": 1290,
+   "height": 2796,
+   "fileSize": 148812,
+   "colors": [],
+   "tags": [
+    "Nhân vật gốc",
+    "Bãi cát trắng",
+    "Hoàng hôn",
+    "Hạ",
+    "Bãi biển"
+   ],
+   "anime": null,
+   "character": null,
+   "phash": "e427d3b29cce9059",
+   "favorites": 0,
+   "aspectRatio": 2.167441860465116
+  },
+  {
+   "id": "aw_char_187",
+   "source": "anime-world",
+   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
+   "originUrl": null,
+   "uploader": null,
+   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_char_187.webp",
+   "thumbPath": "thumbs/aw_char_187.webp",
+   "width": 1290,
+   "height": 2796,
+   "fileSize": 157206,
+   "colors": [],
+   "tags": [
+    "Nhân vật gốc",
+    "Bãi cát trắng",
+    "Ngày nắng",
+    "Hạ",
+    "Bãi biển"
+   ],
+   "anime": null,
+   "character": null,
+   "phash": "9357ac0c0797f68c",
+   "favorites": 0,
+   "aspectRatio": 2.167441860465116
+  },
+  {
+   "id": "aw_char_186",
+   "source": "anime-world",
+   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
+   "originUrl": null,
+   "uploader": null,
+   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_char_186.webp",
+   "thumbPath": "thumbs/aw_char_186.webp",
+   "width": 1290,
+   "height": 2796,
+   "fileSize": 226388,
+   "colors": [],
+   "tags": [
+    "Nhân vật gốc",
+    "Lễ hội",
+    "Ngày mưa",
+    "Xuân",
+    "Truyền thống"
+   ],
+   "anime": null,
+   "character": null,
+   "phash": "e83cd45b658a9f60",
+   "favorites": 0,
+   "aspectRatio": 2.167441860465116
+  },
+  {
+   "id": "aw_char_185",
+   "source": "anime-world",
+   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
+   "originUrl": null,
+   "uploader": null,
+   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_char_185.webp",
+   "thumbPath": "thumbs/aw_char_185.webp",
+   "width": 1290,
+   "height": 2796,
+   "fileSize": 150176,
+   "colors": [],
+   "tags": [
+    "Nhân vật gốc",
+    "Quán cà phê",
+    "Bình minh",
+    "Đông",
+    "Trong nhà"
+   ],
+   "anime": null,
+   "character": null,
+   "phash": "e5951a2765183f1e",
+   "favorites": 0,
+   "aspectRatio": 2.167441860465116
+  },
+  {
+   "id": "aw_char_184",
+   "source": "anime-world",
+   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
+   "originUrl": null,
+   "uploader": null,
+   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_char_184.webp",
+   "thumbPath": "thumbs/aw_char_184.webp",
+   "width": 1290,
+   "height": 2796,
+   "fileSize": 201296,
+   "colors": [],
+   "tags": [
+    "Nhân vật gốc",
+    "Hiệu sách",
+    "Bình minh",
+    "Đông"
+   ],
+   "anime": null,
+   "character": null,
+   "phash": "c699993966666798",
+   "favorites": 0,
+   "aspectRatio": 2.167441860465116
+  },
+  {
+   "id": "aw_char_183",
+   "source": "anime-world",
+   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
+   "originUrl": null,
+   "uploader": null,
+   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_char_183.webp",
+   "thumbPath": "thumbs/aw_char_183.webp",
+   "width": 1290,
+   "height": 2796,
+   "fileSize": 138800,
+   "colors": [],
+   "tags": [
+    "Nhân vật gốc",
+    "Làng tuyết",
+    "Bình minh",
+    "Hạ"
+   ],
+   "anime": null,
+   "character": null,
+   "phash": "cde18f20983f1f26",
+   "favorites": 0,
+   "aspectRatio": 2.167441860465116
+  },
+  {
+   "id": "aw_char_179",
+   "source": "anime-world",
+   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
+   "originUrl": null,
+   "uploader": null,
+   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_char_179.webp",
+   "thumbPath": "thumbs/aw_char_179.webp",
+   "width": 1290,
+   "height": 2796,
+   "fileSize": 291738,
+   "colors": [],
+   "tags": [
+    "Nhân vật gốc",
+    "Đồng hoa",
+    "Ngày mưa",
+    "Xuân"
+   ],
+   "anime": null,
+   "character": null,
+   "phash": "a6cc9db290a7f4a4",
+   "favorites": 0,
+   "aspectRatio": 2.167441860465116
+  },
+  {
+   "id": "aw_char_178",
+   "source": "anime-world",
+   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
+   "originUrl": null,
+   "uploader": null,
+   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_char_178.webp",
+   "thumbPath": "thumbs/aw_char_178.webp",
+   "width": 1290,
+   "height": 2796,
+   "fileSize": 180448,
+   "colors": [],
+   "tags": [
+    "Nhân vật gốc",
+    "Phố đêm",
+    "Bình minh",
+    "Đông"
+   ],
+   "anime": null,
+   "character": null,
+   "phash": "c9abebbe9b920482",
+   "favorites": 0,
+   "aspectRatio": 2.167441860465116
+  },
+  {
+   "id": "aw_char_177",
+   "source": "anime-world",
+   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
+   "originUrl": null,
+   "uploader": null,
+   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_char_177.webp",
+   "thumbPath": "thumbs/aw_char_177.webp",
+   "width": 1290,
+   "height": 2796,
+   "fileSize": 172842,
+   "colors": [],
+   "tags": [
+    "Nhân vật gốc",
+    "Hồ bơi",
+    "Hoàng hôn",
+    "Hạ",
+    "Bãi biển"
+   ],
+   "anime": null,
+   "character": null,
+   "phash": "d9668e610ce85eb5",
+   "favorites": 0,
+   "aspectRatio": 2.167441860465116
+  },
+  {
+   "id": "aw_char_176",
+   "source": "anime-world",
+   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
+   "originUrl": null,
+   "uploader": null,
+   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_char_176.webp",
+   "thumbPath": "thumbs/aw_char_176.webp",
+   "width": 1290,
+   "height": 2796,
+   "fileSize": 145470,
+   "colors": [],
+   "tags": [
+    "Nhân vật gốc",
+    "Làng tuyết",
+    "Chạng vạng",
+    "Đông"
+   ],
+   "anime": null,
+   "character": null,
+   "phash": "9140c5b19ab76d9d",
+   "favorites": 0,
+   "aspectRatio": 2.167441860465116
+  },
+  {
+   "id": "aw_char_175",
+   "source": "anime-world",
+   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
+   "originUrl": null,
+   "uploader": null,
+   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_char_175.webp",
+   "thumbPath": "thumbs/aw_char_175.webp",
+   "width": 1290,
+   "height": 2796,
+   "fileSize": 182872,
+   "colors": [],
+   "tags": [
+    "Nhân vật gốc",
+    "Quán cà phê",
+    "Đêm",
+    "Hạ"
+   ],
+   "anime": null,
+   "character": null,
+   "phash": "d1ca0ef4919ee6c2",
+   "favorites": 0,
+   "aspectRatio": 2.167441860465116
+  },
+  {
+   "id": "aw_char_174",
+   "source": "anime-world",
+   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
+   "originUrl": null,
+   "uploader": null,
+   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_char_174.webp",
+   "thumbPath": "thumbs/aw_char_174.webp",
+   "width": 1290,
+   "height": 2796,
+   "fileSize": 204678,
+   "colors": [],
+   "tags": [
+    "Nhân vật gốc",
+    "Cầu vượt",
+    "Hoàng hôn",
+    "Xuân"
+   ],
+   "anime": null,
+   "character": null,
+   "phash": "c1c8c2b594bd9db1",
+   "favorites": 0,
+   "aspectRatio": 2.167441860465116
+  },
+  {
+   "id": "aw_char_173",
+   "source": "anime-world",
+   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
+   "originUrl": null,
+   "uploader": null,
+   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_char_173.webp",
+   "thumbPath": "thumbs/aw_char_173.webp",
+   "width": 1290,
+   "height": 2796,
+   "fileSize": 201534,
+   "colors": [],
+   "tags": [
+    "Nhân vật gốc",
+    "Đền chùa",
+    "Bình minh",
+    "Thu"
+   ],
+   "anime": null,
+   "character": null,
+   "phash": "80b9d8d072726fce",
+   "favorites": 0,
+   "aspectRatio": 2.167441860465116
+  },
+  {
+   "id": "aw_char_169",
+   "source": "anime-world",
+   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
+   "originUrl": null,
+   "uploader": null,
+   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_char_169.webp",
+   "thumbPath": "thumbs/aw_char_169.webp",
+   "width": 1290,
+   "height": 2796,
+   "fileSize": 145292,
+   "colors": [],
+   "tags": [
+    "Nhân vật gốc",
+    "Hiệu sách",
+    "Bình minh",
+    "Hạ"
+   ],
+   "anime": null,
+   "character": null,
+   "phash": "f1c907f48925723b",
+   "favorites": 0,
+   "aspectRatio": 2.167441860465116
+  },
+  {
+   "id": "aw_char_168",
+   "source": "anime-world",
+   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
+   "originUrl": null,
+   "uploader": null,
+   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_char_168.webp",
+   "thumbPath": "thumbs/aw_char_168.webp",
+   "width": 1290,
+   "height": 2796,
+   "fileSize": 156436,
+   "colors": [],
+   "tags": [
+    "Nhân vật gốc",
+    "Bờ kè",
+    "Giữa trưa",
+    "Hạ",
+    "Bãi biển"
+   ],
+   "anime": null,
+   "character": null,
+   "phash": "e7ea6e251c1c1596",
+   "favorites": 0,
+   "aspectRatio": 2.167441860465116
+  },
+  {
+   "id": "aw_char_167",
+   "source": "anime-world",
+   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
+   "originUrl": null,
+   "uploader": null,
+   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_char_167.webp",
+   "thumbPath": "thumbs/aw_char_167.webp",
+   "width": 1290,
+   "height": 2796,
+   "fileSize": 252282,
+   "colors": [],
+   "tags": [
+    "Nhân vật gốc",
+    "Đồng hoa",
+    "Chạng vạng",
+    "Thu"
+   ],
+   "anime": null,
+   "character": null,
+   "phash": "e8a5a71a5b0a15f9",
+   "favorites": 0,
+   "aspectRatio": 2.167441860465116
+  },
+  {
+   "id": "aw_char_166",
+   "source": "anime-world",
+   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
+   "originUrl": null,
+   "uploader": null,
+   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_char_166.webp",
+   "thumbPath": "thumbs/aw_char_166.webp",
+   "width": 1290,
+   "height": 2796,
+   "fileSize": 229834,
+   "colors": [],
+   "tags": [
+    "Nhân vật gốc",
+    "Sân thượng",
+    "Hoàng hôn",
+    "Thu"
+   ],
+   "anime": null,
+   "character": null,
+   "phash": "b8d641a55e3ad1d8",
+   "favorites": 0,
+   "aspectRatio": 2.167441860465116
+  },
+  {
+   "id": "aw_char_165",
+   "source": "anime-world",
+   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
+   "originUrl": null,
+   "uploader": null,
+   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_char_165.webp",
+   "thumbPath": "thumbs/aw_char_165.webp",
+   "width": 1290,
+   "height": 2796,
+   "fileSize": 173398,
+   "colors": [],
+   "tags": [
+    "Nhân vật gốc",
+    "Đồi cỏ",
+    "Bình minh",
+    "Hạ"
+   ],
+   "anime": null,
+   "character": null,
+   "phash": "e5de18a14658e94f",
+   "favorites": 0,
+   "aspectRatio": 2.167441860465116
+  },
+  {
+   "id": "aw_char_164",
+   "source": "anime-world",
+   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
+   "originUrl": null,
+   "uploader": null,
+   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_char_164.webp",
+   "thumbPath": "thumbs/aw_char_164.webp",
+   "width": 1290,
+   "height": 2796,
+   "fileSize": 180020,
+   "colors": [],
+   "tags": [
+    "Nhân vật gốc",
+    "Bãi cát vắng",
+    "Giữa trưa",
+    "Hạ",
+    "Bãi biển"
+   ],
+   "anime": null,
+   "character": null,
+   "phash": "c6c16ce6a74d61e4",
+   "favorites": 0,
+   "aspectRatio": 2.167441860465116
+  },
+  {
+   "id": "aw_char_163",
+   "source": "anime-world",
+   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
+   "originUrl": null,
+   "uploader": null,
+   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_char_163.webp",
+   "thumbPath": "thumbs/aw_char_163.webp",
+   "width": 1290,
+   "height": 2796,
+   "fileSize": 159918,
+   "colors": [],
+   "tags": [
+    "Nhân vật gốc",
+    "Biển",
+    "Bình minh",
+    "Xuân"
+   ],
+   "anime": null,
+   "character": null,
+   "phash": "ccd371e8d2f48835",
+   "favorites": 0,
+   "aspectRatio": 2.167441860465116
+  },
+  {
+   "id": "aw_char_159",
+   "source": "anime-world",
+   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
+   "originUrl": null,
+   "uploader": null,
+   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_char_159.webp",
+   "thumbPath": "thumbs/aw_char_159.webp",
+   "width": 1290,
+   "height": 2796,
+   "fileSize": 170208,
+   "colors": [],
+   "tags": [
+    "Nhân vật gốc",
+    "Hồ bơi",
+    "Hoàng hôn",
+    "Hạ",
+    "Bãi biển"
+   ],
+   "anime": null,
+   "character": null,
+   "phash": "c695d9f80ccccec2",
+   "favorites": 0,
+   "aspectRatio": 2.167441860465116
+  },
+  {
+   "id": "aw_char_158",
+   "source": "anime-world",
+   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
+   "originUrl": null,
+   "uploader": null,
+   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_char_158.webp",
+   "thumbPath": "thumbs/aw_char_158.webp",
+   "width": 1290,
+   "height": 2796,
+   "fileSize": 156696,
+   "colors": [],
+   "tags": [
+    "Nhân vật gốc",
+    "Hồ nước",
+    "Ngày mưa",
+    "Đông"
+   ],
+   "anime": null,
+   "character": null,
+   "phash": "9296695a1b2bcba5",
+   "favorites": 0,
+   "aspectRatio": 2.167441860465116
+  },
+  {
+   "id": "aw_char_157",
+   "source": "anime-world",
+   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
+   "originUrl": null,
+   "uploader": null,
+   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_char_157.webp",
+   "thumbPath": "thumbs/aw_char_157.webp",
+   "width": 1290,
+   "height": 2796,
+   "fileSize": 173138,
+   "colors": [],
+   "tags": [
+    "Nhân vật gốc",
+    "Ruộng bậc thang",
+    "Đêm",
+    "Xuân"
+   ],
+   "anime": null,
+   "character": null,
+   "phash": "8a50b10e973f9c3b",
+   "favorites": 0,
+   "aspectRatio": 2.167441860465116
+  },
+  {
+   "id": "aw_char_156",
+   "source": "anime-world",
+   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
+   "originUrl": null,
+   "uploader": null,
+   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_char_156.webp",
+   "thumbPath": "thumbs/aw_char_156.webp",
+   "width": 1290,
+   "height": 2796,
+   "fileSize": 120668,
+   "colors": [],
+   "tags": [
+    "Nhân vật gốc",
+    "Quán cà phê",
+    "Đêm",
+    "Hạ"
+   ],
+   "anime": null,
+   "character": null,
+   "phash": "b068415c73bf0f17",
+   "favorites": 0,
+   "aspectRatio": 2.167441860465116
+  },
+  {
+   "id": "aw_char_155",
+   "source": "anime-world",
+   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
+   "originUrl": null,
+   "uploader": null,
+   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_char_155.webp",
+   "thumbPath": "thumbs/aw_char_155.webp",
+   "width": 1290,
+   "height": 2796,
+   "fileSize": 114028,
+   "colors": [],
+   "tags": [
+    "Nhân vật gốc",
+    "Biển",
+    "Đêm",
+    "Thiên nhiên"
+   ],
+   "anime": null,
+   "character": null,
+   "phash": "dbf0649b1b649493",
+   "favorites": 0,
+   "aspectRatio": 2.167441860465116
+  },
+  {
+   "id": "aw_char_154",
+   "source": "anime-world",
+   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
+   "originUrl": null,
+   "uploader": null,
+   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_char_154.webp",
+   "thumbPath": "thumbs/aw_char_154.webp",
+   "width": 1290,
+   "height": 2796,
+   "fileSize": 225204,
+   "colors": [],
+   "tags": [
+    "Nhân vật gốc",
+    "Lễ hội",
+    "Ngày mưa",
+    "Truyền thống",
+    "Hạ"
+   ],
+   "anime": null,
+   "character": null,
+   "phash": "9766cd1e3111c9cd",
+   "favorites": 0,
+   "aspectRatio": 2.167441860465116
+  },
+  {
+   "id": "aw_char_153",
+   "source": "anime-world",
+   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
+   "originUrl": null,
+   "uploader": null,
+   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_char_153.webp",
+   "thumbPath": "thumbs/aw_char_153.webp",
+   "width": 1290,
+   "height": 2796,
+   "fileSize": 179196,
+   "colors": [],
+   "tags": [
+    "Nhân vật gốc",
+    "Bầu trời sao",
+    "Hoàng hôn",
+    "Thiên nhiên"
+   ],
+   "anime": null,
+   "character": null,
+   "phash": "f19b0e44609735cf",
+   "favorites": 0,
+   "aspectRatio": 2.167441860465116
+  },
+  {
+   "id": "aw_char_149",
+   "source": "anime-world",
+   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
+   "originUrl": null,
+   "uploader": null,
+   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_char_149.webp",
+   "thumbPath": "thumbs/aw_char_149.webp",
+   "width": 1290,
+   "height": 2796,
+   "fileSize": 228038,
+   "colors": [],
+   "tags": [
+    "Nhân vật gốc",
+    "Trên tàu",
+    "Ngày mưa",
+    "Trong nhà"
+   ],
+   "anime": null,
+   "character": null,
+   "phash": "c2e4da1e6617f18c",
+   "favorites": 0,
+   "aspectRatio": 2.167441860465116
+  },
+  {
+   "id": "aw_char_148",
+   "source": "anime-world",
+   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
+   "originUrl": null,
+   "uploader": null,
+   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_char_148.webp",
+   "thumbPath": "thumbs/aw_char_148.webp",
+   "width": 1290,
+   "height": 2796,
+   "fileSize": 206280,
+   "colors": [],
+   "tags": [
+    "Nhân vật gốc",
+    "Phố đêm",
+    "Hoàng hôn",
+    "Thành thị"
+   ],
+   "anime": null,
+   "character": null,
+   "phash": "92896d263f9d25c3",
+   "favorites": 0,
+   "aspectRatio": 2.167441860465116
+  },
+  {
+   "id": "aw_char_147",
+   "source": "anime-world",
+   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
+   "originUrl": null,
+   "uploader": null,
+   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_char_147.webp",
+   "thumbPath": "thumbs/aw_char_147.webp",
+   "width": 1290,
+   "height": 2796,
+   "fileSize": 124674,
+   "colors": [],
+   "tags": [
+    "Nhân vật gốc",
+    "Sân ga",
+    "Hoàng hôn",
+    "Thành thị"
+   ],
+   "anime": null,
+   "character": null,
+   "phash": "8dd9d9848d9993cc",
+   "favorites": 0,
+   "aspectRatio": 2.167441860465116
+  },
+  {
+   "id": "aw_char_146",
+   "source": "anime-world",
+   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
+   "originUrl": null,
+   "uploader": null,
+   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_char_146.webp",
+   "thumbPath": "thumbs/aw_char_146.webp",
+   "width": 1290,
+   "height": 2796,
+   "fileSize": 127630,
+   "colors": [],
+   "tags": [
+    "Nhân vật gốc",
+    "Đồi cỏ",
+    "Bình minh",
+    "Thiên nhiên"
+   ],
+   "anime": null,
+   "character": null,
+   "phash": "b19e4eb209c93e72",
+   "favorites": 0,
+   "aspectRatio": 2.167441860465116
+  },
+  {
+   "id": "aw_char_145",
+   "source": "anime-world",
+   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
+   "originUrl": null,
+   "uploader": null,
+   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_char_145.webp",
+   "thumbPath": "thumbs/aw_char_145.webp",
+   "width": 1290,
+   "height": 2796,
+   "fileSize": 179274,
+   "colors": [],
+   "tags": [
+    "Nhân vật gốc",
+    "Hồ nước",
+    "Ngày mưa",
+    "Xuân"
+   ],
+   "anime": null,
+   "character": null,
+   "phash": "8cf3b78741968cca",
+   "favorites": 0,
+   "aspectRatio": 2.167441860465116
+  },
+  {
+   "id": "aw_char_144",
+   "source": "anime-world",
+   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
+   "originUrl": null,
+   "uploader": null,
+   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_char_144.webp",
+   "thumbPath": "thumbs/aw_char_144.webp",
+   "width": 1290,
+   "height": 2796,
+   "fileSize": 117668,
+   "colors": [],
+   "tags": [
+    "Nhân vật gốc",
+    "Biển",
+    "Bình minh",
+    "Thiên nhiên"
+   ],
+   "anime": null,
+   "character": null,
+   "phash": "8ca5331a6e278d6d",
+   "favorites": 0,
+   "aspectRatio": 2.167441860465116
+  },
+  {
+   "id": "aw_char_143",
+   "source": "anime-world",
+   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
+   "originUrl": null,
+   "uploader": null,
+   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_char_143.webp",
+   "thumbPath": "thumbs/aw_char_143.webp",
+   "width": 1290,
+   "height": 2796,
+   "fileSize": 160146,
+   "colors": [],
+   "tags": [
+    "Nhân vật gốc",
+    "Phố đêm",
+    "Đêm",
+    "Thành thị"
+   ],
+   "anime": null,
+   "character": null,
+   "phash": "873436b6d3d22e4a",
+   "favorites": 0,
+   "aspectRatio": 2.167441860465116
+  },
+  {
+   "id": "aw_char_139",
+   "source": "anime-world",
+   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
+   "originUrl": null,
+   "uploader": null,
+   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_char_139.webp",
+   "thumbPath": "thumbs/aw_char_139.webp",
+   "width": 1290,
+   "height": 2796,
+   "fileSize": 130344,
+   "colors": [],
+   "tags": [
+    "Nhân vật gốc",
+    "Bầu trời sao",
+    "Ngày mưa",
+    "Thiên nhiên"
+   ],
+   "anime": null,
+   "character": null,
+   "phash": "d3983c73d3e62c24",
+   "favorites": 0,
+   "aspectRatio": 2.167441860465116
+  },
+  {
+   "id": "aw_char_138",
+   "source": "anime-world",
+   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
+   "originUrl": null,
+   "uploader": null,
+   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_char_138.webp",
+   "thumbPath": "thumbs/aw_char_138.webp",
+   "width": 1290,
+   "height": 2796,
+   "fileSize": 234158,
+   "colors": [],
+   "tags": [
+    "Nhân vật gốc",
+    "Vườn Nhật",
+    "Ngày mưa",
+    "Truyền thống"
+   ],
+   "anime": null,
+   "character": null,
+   "phash": "87ee9d9459914b45",
+   "favorites": 0,
+   "aspectRatio": 2.167441860465116
+  },
+  {
+   "id": "aw_char_137",
+   "source": "anime-world",
+   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
+   "originUrl": null,
+   "uploader": null,
+   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_char_137.webp",
+   "thumbPath": "thumbs/aw_char_137.webp",
+   "width": 1290,
+   "height": 2796,
+   "fileSize": 141102,
+   "colors": [],
+   "tags": [
+    "Nhân vật gốc",
+    "Thư viện",
+    "Hoàng hôn",
+    "Trong nhà"
+   ],
+   "anime": null,
+   "character": null,
+   "phash": "9e20ca3e8c96d99e",
+   "favorites": 0,
+   "aspectRatio": 2.167441860465116
+  },
+  {
+   "id": "aw_char_136",
+   "source": "anime-world",
+   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
+   "originUrl": null,
+   "uploader": null,
+   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_char_136.webp",
+   "thumbPath": "thumbs/aw_char_136.webp",
+   "width": 1290,
+   "height": 2796,
+   "fileSize": 151902,
+   "colors": [],
+   "tags": [
+    "Nhân vật gốc",
+    "Quán cà phê",
+    "Đêm",
+    "Trong nhà"
+   ],
+   "anime": null,
+   "character": null,
+   "phash": "807f2eb070f5c7c8",
+   "favorites": 0,
+   "aspectRatio": 2.167441860465116
+  },
+  {
+   "id": "aw_char_135",
+   "source": "anime-world",
+   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
+   "originUrl": null,
+   "uploader": null,
+   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_char_135.webp",
+   "thumbPath": "thumbs/aw_char_135.webp",
+   "width": 1290,
+   "height": 2796,
+   "fileSize": 119114,
+   "colors": [],
+   "tags": [
+    "Nhân vật gốc",
+    "Đồi cỏ",
+    "Bình minh",
+    "Thiên nhiên"
+   ],
+   "anime": null,
+   "character": null,
+   "phash": "e6b921a619e63e19",
+   "favorites": 0,
+   "aspectRatio": 2.167441860465116
+  },
+  {
+   "id": "aw_char_134",
+   "source": "anime-world",
+   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
+   "originUrl": null,
+   "uploader": null,
+   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_char_134.webp",
+   "thumbPath": "thumbs/aw_char_134.webp",
+   "width": 1290,
+   "height": 2796,
+   "fileSize": 159616,
+   "colors": [],
+   "tags": [
+    "Nhân vật gốc",
+    "Phố đêm",
+    "Hoàng hôn",
+    "Thành thị"
+   ],
+   "anime": null,
+   "character": null,
+   "phash": "909a1a696467f61f",
+   "favorites": 0,
+   "aspectRatio": 2.167441860465116
+  },
+  {
+   "id": "aw_char_133",
+   "source": "anime-world",
+   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
+   "originUrl": null,
+   "uploader": null,
+   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_char_133.webp",
+   "thumbPath": "thumbs/aw_char_133.webp",
+   "width": 1290,
+   "height": 2796,
+   "fileSize": 162712,
+   "colors": [],
+   "tags": [
+    "Nhân vật gốc",
+    "Rừng tre",
+    "Hoàng hôn",
+    "Thiên nhiên"
+   ],
+   "anime": null,
+   "character": null,
+   "phash": "c7cdcd246678932c",
+   "favorites": 0,
+   "aspectRatio": 2.167441860465116
+  },
+  {
+   "id": "aw_char_129",
+   "source": "anime-world",
+   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
+   "originUrl": null,
+   "uploader": null,
+   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_char_129.webp",
+   "thumbPath": "thumbs/aw_char_129.webp",
+   "width": 1290,
+   "height": 2796,
+   "fileSize": 130004,
+   "colors": [],
+   "tags": [
+    "Nhân vật gốc",
+    "Hồ nước",
+    "Chạng vạng",
+    "Thiên nhiên"
+   ],
+   "anime": null,
+   "character": null,
+   "phash": "b7d9b4b249cc4991",
+   "favorites": 0,
+   "aspectRatio": 2.167441860465116
+  },
+  {
+   "id": "aw_char_128",
+   "source": "anime-world",
+   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
+   "originUrl": null,
+   "uploader": null,
+   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_char_128.webp",
+   "thumbPath": "thumbs/aw_char_128.webp",
+   "width": 1290,
+   "height": 2796,
+   "fileSize": 169494,
+   "colors": [],
+   "tags": [
+    "Nhân vật gốc",
+    "Đồng hoa",
+    "Bình minh",
+    "Thiên nhiên"
+   ],
+   "anime": null,
+   "character": null,
+   "phash": "cabf35dcc0024d3e",
+   "favorites": 0,
+   "aspectRatio": 2.167441860465116
+  },
+  {
+   "id": "aw_char_127",
+   "source": "anime-world",
+   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
+   "originUrl": null,
+   "uploader": null,
+   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_char_127.webp",
+   "thumbPath": "thumbs/aw_char_127.webp",
+   "width": 1290,
+   "height": 2796,
+   "fileSize": 173450,
+   "colors": [],
+   "tags": [
+    "Nhân vật gốc",
+    "Lễ hội",
+    "Đêm",
+    "Truyền thống",
+    "Hạ"
+   ],
+   "anime": null,
+   "character": null,
+   "phash": "90ba6e60aa62f5b6",
+   "favorites": 0,
+   "aspectRatio": 2.167441860465116
+  },
+  {
+   "id": "aw_char_126",
+   "source": "anime-world",
+   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
+   "originUrl": null,
+   "uploader": null,
+   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_char_126.webp",
+   "thumbPath": "thumbs/aw_char_126.webp",
+   "width": 1290,
+   "height": 2796,
+   "fileSize": 143214,
+   "colors": [],
+   "tags": [
+    "Nhân vật gốc",
+    "Bầu trời sao",
+    "Đêm",
+    "Thiên nhiên"
+   ],
+   "anime": null,
+   "character": null,
+   "phash": "879397b64f4c2c25",
+   "favorites": 0,
+   "aspectRatio": 2.167441860465116
+  },
+  {
+   "id": "aw_char_125",
+   "source": "anime-world",
+   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
+   "originUrl": null,
+   "uploader": null,
+   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_char_125.webp",
+   "thumbPath": "thumbs/aw_char_125.webp",
+   "width": 1290,
+   "height": 2796,
+   "fileSize": 260240,
+   "colors": [],
+   "tags": [
+    "Nhân vật gốc",
+    "Phố đêm",
+    "Đêm",
+    "Thành thị"
+   ],
+   "anime": null,
+   "character": null,
+   "phash": "953b2d0db5665ad0",
+   "favorites": 0,
+   "aspectRatio": 2.167441860465116
+  },
+  {
+   "id": "aw_char_124",
+   "source": "anime-world",
+   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
+   "originUrl": null,
+   "uploader": null,
+   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_char_124.webp",
+   "thumbPath": "thumbs/aw_char_124.webp",
+   "width": 1290,
+   "height": 2796,
+   "fileSize": 176992,
+   "colors": [],
+   "tags": [
+    "Nhân vật gốc",
+    "Đồng hoa",
+    "Hoàng hôn",
+    "Thiên nhiên"
+   ],
+   "anime": null,
+   "character": null,
+   "phash": "e5e6174a487135ec",
+   "favorites": 0,
+   "aspectRatio": 2.167441860465116
+  },
+  {
+   "id": "aw_char_123",
+   "source": "anime-world",
+   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
+   "originUrl": null,
+   "uploader": null,
+   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_char_123.webp",
+   "thumbPath": "thumbs/aw_char_123.webp",
+   "width": 1290,
+   "height": 2796,
+   "fileSize": 162044,
+   "colors": [],
+   "tags": [
+    "Nhân vật gốc",
+    "Bãi biển",
+    "Giữa trưa",
+    "Hạ"
+   ],
+   "anime": null,
+   "character": null,
+   "phash": "e55e70f1c3c2c748",
+   "favorites": 0,
+   "aspectRatio": 2.167441860465116
+  },
+  {
+   "id": "aw_char_121",
+   "source": "anime-world",
+   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
+   "originUrl": null,
+   "uploader": null,
+   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_char_121.webp",
+   "thumbPath": "thumbs/aw_char_121.webp",
+   "width": 1290,
+   "height": 2796,
+   "fileSize": 164592,
+   "colors": [],
+   "tags": [
+    "Nhân vật gốc",
+    "Bầu trời sao",
+    "Bình minh",
+    "Thiên nhiên"
+   ],
+   "anime": null,
+   "character": null,
+   "phash": "93e44c4b26bae179",
+   "favorites": 0,
+   "aspectRatio": 2.167441860465116
+  },
+  {
+   "id": "aw_char_119",
+   "source": "anime-world",
+   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
+   "originUrl": null,
+   "uploader": null,
+   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_char_119.webp",
+   "thumbPath": "thumbs/aw_char_119.webp",
+   "width": 1290,
+   "height": 2796,
+   "fileSize": 192590,
+   "colors": [],
+   "tags": [
+    "Nhân vật gốc",
+    "Biển",
+    "Ngày mưa",
+    "Thiên nhiên"
+   ],
+   "anime": null,
+   "character": null,
+   "phash": "86ed699c5c1a5933",
+   "favorites": 0,
+   "aspectRatio": 2.167441860465116
+  },
+  {
+   "id": "aw_char_117",
+   "source": "anime-world",
+   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
+   "originUrl": null,
+   "uploader": null,
+   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_char_117.webp",
+   "thumbPath": "thumbs/aw_char_117.webp",
+   "width": 1290,
+   "height": 2796,
+   "fileSize": 251284,
+   "colors": [],
+   "tags": [
+    "Nhân vật gốc",
+    "Thành phố",
+    "Đêm",
+    "Thành thị"
+   ],
+   "anime": null,
+   "character": null,
+   "phash": "90dec7a319d2538d",
+   "favorites": 0,
+   "aspectRatio": 2.167441860465116
+  },
+  {
+   "id": "aw_char_115",
+   "source": "anime-world",
+   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
+   "originUrl": null,
+   "uploader": null,
+   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_char_115.webp",
+   "thumbPath": "thumbs/aw_char_115.webp",
+   "width": 1290,
+   "height": 2796,
+   "fileSize": 117806,
+   "colors": [],
+   "tags": [
+    "Nhân vật gốc",
+    "Thành phố",
+    "Đêm",
+    "Thành thị"
+   ],
+   "anime": null,
+   "character": null,
+   "phash": "c67838c7d70e5a31",
+   "favorites": 0,
+   "aspectRatio": 2.167441860465116
+  },
+  {
+   "id": "aw_char_113",
+   "source": "anime-world",
+   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
+   "originUrl": null,
+   "uploader": null,
+   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_char_113.webp",
+   "thumbPath": "thumbs/aw_char_113.webp",
+   "width": 1290,
+   "height": 2796,
+   "fileSize": 128448,
+   "colors": [],
+   "tags": [
+    "Nhân vật gốc",
+    "Biển",
+    "Hoàng hôn",
+    "Thiên nhiên"
+   ],
+   "anime": null,
+   "character": null,
+   "phash": "b4c25b91c36d3cb4",
+   "favorites": 0,
+   "aspectRatio": 2.167441860465116
+  },
+  {
+   "id": "aw_char_111",
+   "source": "anime-world",
+   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
+   "originUrl": null,
+   "uploader": null,
+   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_char_111.webp",
+   "thumbPath": "thumbs/aw_char_111.webp",
+   "width": 1290,
+   "height": 2796,
+   "fileSize": 137428,
+   "colors": [],
+   "tags": [
+    "Nhân vật gốc",
+    "Đền chùa",
+    "Đêm",
+    "Truyền thống"
+   ],
+   "anime": null,
+   "character": null,
+   "phash": "94cb2d94076793d9",
+   "favorites": 0,
+   "aspectRatio": 2.167441860465116
+  },
+  {
+   "id": "aw_char_109",
+   "source": "anime-world",
+   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
+   "originUrl": null,
+   "uploader": null,
+   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_char_109.webp",
+   "thumbPath": "thumbs/aw_char_109.webp",
+   "width": 1290,
+   "height": 2796,
+   "fileSize": 146356,
+   "colors": [],
+   "tags": [
+    "Nhân vật gốc",
+    "Bầu trời sao",
+    "Hoàng hôn",
+    "Thiên nhiên"
+   ],
+   "anime": null,
+   "character": null,
+   "phash": "e1ca1a1d875e7871",
+   "favorites": 0,
+   "aspectRatio": 2.167441860465116
+  },
+  {
+   "id": "aw_char_107",
+   "source": "anime-world",
+   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
+   "originUrl": null,
+   "uploader": null,
+   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_char_107.webp",
+   "thumbPath": "thumbs/aw_char_107.webp",
+   "width": 1290,
+   "height": 2796,
+   "fileSize": 122530,
+   "colors": [],
+   "tags": [
+    "Nhân vật gốc",
+    "Thành phố",
+    "Hoàng hôn",
+    "Thành thị"
+   ],
+   "anime": null,
+   "character": null,
+   "phash": "e2ee783115bc89c3",
+   "favorites": 0,
+   "aspectRatio": 2.167441860465116
+  },
+  {
+   "id": "aw_char_105",
+   "source": "anime-world",
+   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
+   "originUrl": null,
+   "uploader": null,
+   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_char_105.webp",
+   "thumbPath": "thumbs/aw_char_105.webp",
+   "width": 1290,
+   "height": 2796,
+   "fileSize": 143510,
+   "colors": [],
+   "tags": [
+    "Nhân vật gốc",
+    "Rừng tre",
+    "Đêm",
+    "Thiên nhiên"
+   ],
+   "anime": null,
+   "character": null,
+   "phash": "e0c03a7363a58fcb",
+   "favorites": 0,
+   "aspectRatio": 2.167441860465116
+  },
+  {
+   "id": "aw_char_103",
+   "source": "anime-world",
+   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
+   "originUrl": null,
+   "uploader": null,
+   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_char_103.webp",
+   "thumbPath": "thumbs/aw_char_103.webp",
+   "width": 1290,
+   "height": 2796,
+   "fileSize": 162072,
+   "colors": [],
+   "tags": [
+    "Nhân vật gốc",
+    "Đồng hoa",
+    "Bình minh",
+    "Thiên nhiên"
+   ],
+   "anime": null,
+   "character": null,
+   "phash": "e5c39ab5475c3063",
+   "favorites": 0,
+   "aspectRatio": 2.167441860465116
+  },
+  {
+   "id": "aw_char_101",
+   "source": "anime-world",
+   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
+   "originUrl": null,
+   "uploader": null,
+   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_char_101.webp",
+   "thumbPath": "thumbs/aw_char_101.webp",
+   "width": 1290,
+   "height": 2796,
+   "fileSize": 142390,
+   "colors": [],
+   "tags": [
+    "Nhân vật gốc",
+    "Biển",
+    "Ngày mưa",
+    "Thiên nhiên"
+   ],
+   "anime": null,
+   "character": null,
+   "phash": "a1ce1b310fc67e31",
    "favorites": 0,
    "aspectRatio": 2.167441860465116
   },
@@ -1192,7 +4108,8 @@
    "tags": [
     "Nhân vật gốc",
     "Đền chùa",
-    "Chạng vạng"
+    "Chạng vạng",
+    "Truyền thống"
    ],
    "anime": null,
    "character": null,
@@ -1215,7 +4132,8 @@
    "tags": [
     "Nhân vật gốc",
     "Bầu trời sao",
-    "Ngày mưa"
+    "Ngày mưa",
+    "Thiên nhiên"
    ],
    "anime": null,
    "character": null,
@@ -1238,7 +4156,8 @@
    "tags": [
     "Nhân vật gốc",
     "Biển",
-    "Hoàng hôn"
+    "Hoàng hôn",
+    "Thiên nhiên"
    ],
    "anime": null,
    "character": null,
@@ -1261,7 +4180,8 @@
    "tags": [
     "Nhân vật gốc",
     "Sân ga",
-    "Đêm"
+    "Đêm",
+    "Thành thị"
    ],
    "anime": null,
    "character": null,
@@ -1284,7 +4204,8 @@
    "tags": [
     "Nhân vật gốc",
     "Rừng tre",
-    "Ngày mưa"
+    "Ngày mưa",
+    "Thiên nhiên"
    ],
    "anime": null,
    "character": null,
@@ -1307,7 +4228,8 @@
    "tags": [
     "Nhân vật gốc",
     "Rừng tre",
-    "Chạng vạng"
+    "Chạng vạng",
+    "Thiên nhiên"
    ],
    "anime": null,
    "character": null,
@@ -1330,7 +4252,8 @@
    "tags": [
     "Nhân vật gốc",
     "Biển",
-    "Đêm"
+    "Đêm",
+    "Thiên nhiên"
    ],
    "anime": null,
    "character": null,
@@ -1353,7 +4276,8 @@
    "tags": [
     "Nhân vật gốc",
     "Thành phố",
-    "Đêm"
+    "Đêm",
+    "Thành thị"
    ],
    "anime": null,
    "character": null,
@@ -1376,7 +4300,8 @@
    "tags": [
     "Nhân vật gốc",
     "Rừng tre",
-    "Chạng vạng"
+    "Chạng vạng",
+    "Thiên nhiên"
    ],
    "anime": null,
    "character": null,
@@ -1399,7 +4324,8 @@
    "tags": [
     "Nhân vật gốc",
     "Biển",
-    "Hoàng hôn"
+    "Hoàng hôn",
+    "Thiên nhiên"
    ],
    "anime": null,
    "character": null,
@@ -1422,7 +4348,8 @@
    "tags": [
     "Nhân vật gốc",
     "Sân ga",
-    "Hoàng hôn"
+    "Hoàng hôn",
+    "Thành thị"
    ],
    "anime": null,
    "character": null,
@@ -1445,7 +4372,8 @@
    "tags": [
     "Nhân vật gốc",
     "Thành phố",
-    "Hoàng hôn"
+    "Hoàng hôn",
+    "Thành thị"
    ],
    "anime": null,
    "character": null,
@@ -1468,7 +4396,8 @@
    "tags": [
     "Nhân vật gốc",
     "Bầu trời sao",
-    "Đêm"
+    "Đêm",
+    "Thiên nhiên"
    ],
    "anime": null,
    "character": null,
@@ -1491,7 +4420,8 @@
    "tags": [
     "Nhân vật gốc",
     "Rừng tre",
-    "Đêm"
+    "Đêm",
+    "Thiên nhiên"
    ],
    "anime": null,
    "character": null,
@@ -1514,7 +4444,8 @@
    "tags": [
     "Nhân vật gốc",
     "Rừng tre",
-    "Hoàng hôn"
+    "Hoàng hôn",
+    "Thiên nhiên"
    ],
    "anime": null,
    "character": null,
@@ -1537,7 +4468,8 @@
    "tags": [
     "Nhân vật gốc",
     "Bầu trời sao",
-    "Hoàng hôn"
+    "Hoàng hôn",
+    "Thiên nhiên"
    ],
    "anime": null,
    "character": null,
@@ -1560,7 +4492,8 @@
    "tags": [
     "Nhân vật gốc",
     "Biển",
-    "Chạng vạng"
+    "Chạng vạng",
+    "Thiên nhiên"
    ],
    "anime": null,
    "character": null,
@@ -1583,7 +4516,9 @@
    "tags": [
     "Nhân vật gốc",
     "Làng tuyết",
-    "Đêm"
+    "Đêm",
+    "Thiên nhiên",
+    "Đông"
    ],
    "anime": null,
    "character": null,
@@ -1606,7 +4541,8 @@
    "tags": [
     "Nhân vật gốc",
     "Đồng hoa",
-    "Hoàng hôn"
+    "Hoàng hôn",
+    "Thiên nhiên"
    ],
    "anime": null,
    "character": null,
@@ -1629,7 +4565,8 @@
    "tags": [
     "Nhân vật gốc",
     "Sân ga",
-    "Hoàng hôn"
+    "Hoàng hôn",
+    "Thành thị"
    ],
    "anime": null,
    "character": null,
@@ -1652,7 +4589,8 @@
    "tags": [
     "Nhân vật gốc",
     "Thành phố",
-    "Ngày mưa"
+    "Ngày mưa",
+    "Thành thị"
    ],
    "anime": null,
    "character": null,
@@ -1675,7 +4613,8 @@
    "tags": [
     "Nhân vật gốc",
     "Bầu trời sao",
-    "Bình minh"
+    "Bình minh",
+    "Thiên nhiên"
    ],
    "anime": null,
    "character": null,
@@ -1698,7 +4637,9 @@
    "tags": [
     "Nhân vật gốc",
     "Làng tuyết",
-    "Bình minh"
+    "Bình minh",
+    "Thiên nhiên",
+    "Đông"
    ],
    "anime": null,
    "character": null,
@@ -1721,7 +4662,9 @@
    "tags": [
     "Nhân vật gốc",
     "Làng tuyết",
-    "Bình minh"
+    "Bình minh",
+    "Thiên nhiên",
+    "Đông"
    ],
    "anime": null,
    "character": null,
@@ -1744,7 +4687,8 @@
    "tags": [
     "Nhân vật gốc",
     "Thành phố",
-    "Ngày mưa"
+    "Ngày mưa",
+    "Thành thị"
    ],
    "anime": null,
    "character": null,
@@ -1767,7 +4711,8 @@
    "tags": [
     "Nhân vật gốc",
     "Đền chùa",
-    "Đêm"
+    "Đêm",
+    "Truyền thống"
    ],
    "anime": null,
    "character": null,
@@ -1790,7 +4735,9 @@
    "tags": [
     "Nhân vật gốc",
     "Làng tuyết",
-    "Hoàng hôn"
+    "Hoàng hôn",
+    "Thiên nhiên",
+    "Đông"
    ],
    "anime": null,
    "character": null,
@@ -1813,7 +4760,8 @@
    "tags": [
     "Nhân vật gốc",
     "Rừng tre",
-    "Đêm"
+    "Đêm",
+    "Thiên nhiên"
    ],
    "anime": null,
    "character": null,
@@ -1836,7 +4784,8 @@
    "tags": [
     "Nhân vật gốc",
     "Rừng tre",
-    "Bình minh"
+    "Bình minh",
+    "Thiên nhiên"
    ],
    "anime": null,
    "character": null,
@@ -1859,7 +4808,8 @@
    "tags": [
     "Nhân vật gốc",
     "Đồng hoa",
-    "Chạng vạng"
+    "Chạng vạng",
+    "Thiên nhiên"
    ],
    "anime": null,
    "character": null,
@@ -1882,7 +4832,8 @@
    "tags": [
     "Nhân vật gốc",
     "Thành phố",
-    "Ngày mưa"
+    "Ngày mưa",
+    "Thành thị"
    ],
    "anime": null,
    "character": null,
@@ -1905,7 +4856,8 @@
    "tags": [
     "Nhân vật gốc",
     "Bầu trời sao",
-    "Bình minh"
+    "Bình minh",
+    "Thiên nhiên"
    ],
    "anime": null,
    "character": null,
@@ -1928,7 +4880,8 @@
    "tags": [
     "Nhân vật gốc",
     "Bầu trời sao",
-    "Đêm"
+    "Đêm",
+    "Thiên nhiên"
    ],
    "anime": null,
    "character": null,
@@ -1951,379 +4904,13 @@
    "tags": [
     "Nhân vật gốc",
     "Làng tuyết",
-    "Bình minh"
+    "Bình minh",
+    "Thiên nhiên",
+    "Đông"
    ],
    "anime": null,
    "character": null,
    "phash": "b096c7a0db89a5b9",
-   "favorites": 0,
-   "aspectRatio": 2.167441860465116
-  },
-  {
-   "id": "aw_char_031",
-   "source": "anime-world",
-   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
-   "originUrl": null,
-   "uploader": null,
-   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_char_031.webp",
-   "thumbPath": "thumbs/aw_char_031.webp",
-   "width": 1290,
-   "height": 2796,
-   "fileSize": 145684,
-   "colors": [],
-   "tags": [
-    "Nhân vật gốc",
-    "Sân ga",
-    "Hoàng hôn"
-   ],
-   "anime": null,
-   "character": null,
-   "phash": "e0d57e2a0f0e1d1d",
-   "favorites": 0,
-   "aspectRatio": 2.167441860465116
-  },
-  {
-   "id": "aw_char_029",
-   "source": "anime-world",
-   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
-   "originUrl": null,
-   "uploader": null,
-   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_char_029.webp",
-   "thumbPath": "thumbs/aw_char_029.webp",
-   "width": 1290,
-   "height": 2796,
-   "fileSize": 165540,
-   "colors": [],
-   "tags": [
-    "Nhân vật gốc",
-    "Rừng tre",
-    "Hoàng hôn"
-   ],
-   "anime": null,
-   "character": null,
-   "phash": "c5883d3f30d776c0",
-   "favorites": 0,
-   "aspectRatio": 2.167441860465116
-  },
-  {
-   "id": "aw_char_027",
-   "source": "anime-world",
-   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
-   "originUrl": null,
-   "uploader": null,
-   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_char_027.webp",
-   "thumbPath": "thumbs/aw_char_027.webp",
-   "width": 1290,
-   "height": 2796,
-   "fileSize": 184412,
-   "colors": [],
-   "tags": [
-    "Nhân vật gốc",
-    "Đồng hoa",
-    "Bình minh"
-   ],
-   "anime": null,
-   "character": null,
-   "phash": "ebe834d5a5849e1a",
-   "favorites": 0,
-   "aspectRatio": 2.167441860465116
-  },
-  {
-   "id": "aw_char_025",
-   "source": "anime-world",
-   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
-   "originUrl": null,
-   "uploader": null,
-   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_char_025.webp",
-   "thumbPath": "thumbs/aw_char_025.webp",
-   "width": 1290,
-   "height": 2796,
-   "fileSize": 143614,
-   "colors": [],
-   "tags": [
-    "Nhân vật gốc",
-    "Biển",
-    "Hoàng hôn"
-   ],
-   "anime": null,
-   "character": null,
-   "phash": "8cb9629701c85eef",
-   "favorites": 0,
-   "aspectRatio": 2.167441860465116
-  },
-  {
-   "id": "aw_char_023",
-   "source": "anime-world",
-   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
-   "originUrl": null,
-   "uploader": null,
-   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_char_023.webp",
-   "thumbPath": "thumbs/aw_char_023.webp",
-   "width": 1290,
-   "height": 2796,
-   "fileSize": 125924,
-   "colors": [],
-   "tags": [
-    "Nhân vật gốc",
-    "Đền chùa",
-    "Bình minh"
-   ],
-   "anime": null,
-   "character": null,
-   "phash": "e0865e4a2d3d6787",
-   "favorites": 0,
-   "aspectRatio": 2.167441860465116
-  },
-  {
-   "id": "aw_char_021",
-   "source": "anime-world",
-   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
-   "originUrl": null,
-   "uploader": null,
-   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_char_021.webp",
-   "thumbPath": "thumbs/aw_char_021.webp",
-   "width": 1290,
-   "height": 2796,
-   "fileSize": 139866,
-   "colors": [],
-   "tags": [
-    "Nhân vật gốc",
-    "Đồng hoa",
-    "Chạng vạng"
-   ],
-   "anime": null,
-   "character": null,
-   "phash": "e98716b831c36b2d",
-   "favorites": 0,
-   "aspectRatio": 2.167441860465116
-  },
-  {
-   "id": "aw_char_019",
-   "source": "anime-world",
-   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
-   "originUrl": null,
-   "uploader": null,
-   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_char_019.webp",
-   "thumbPath": "thumbs/aw_char_019.webp",
-   "width": 1290,
-   "height": 2796,
-   "fileSize": 133432,
-   "colors": [],
-   "tags": [
-    "Nhân vật gốc",
-    "Bầu trời sao",
-    "Chạng vạng"
-   ],
-   "anime": null,
-   "character": null,
-   "phash": "a5c35e69e1077073",
-   "favorites": 0,
-   "aspectRatio": 2.167441860465116
-  },
-  {
-   "id": "aw_char_017",
-   "source": "anime-world",
-   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
-   "originUrl": null,
-   "uploader": null,
-   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_char_017.webp",
-   "thumbPath": "thumbs/aw_char_017.webp",
-   "width": 1290,
-   "height": 2796,
-   "fileSize": 170436,
-   "colors": [],
-   "tags": [
-    "Nhân vật gốc",
-    "Rừng tre",
-    "Đêm"
-   ],
-   "anime": null,
-   "character": null,
-   "phash": "da2d13ce0d936d13",
-   "favorites": 0,
-   "aspectRatio": 2.167441860465116
-  },
-  {
-   "id": "aw_char_015",
-   "source": "anime-world",
-   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
-   "originUrl": null,
-   "uploader": null,
-   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_char_015.webp",
-   "thumbPath": "thumbs/aw_char_015.webp",
-   "width": 1290,
-   "height": 2796,
-   "fileSize": 116384,
-   "colors": [],
-   "tags": [
-    "Nhân vật gốc",
-    "Rừng tre",
-    "Hoàng hôn"
-   ],
-   "anime": null,
-   "character": null,
-   "phash": "b1da4e171aa96c72",
-   "favorites": 0,
-   "aspectRatio": 2.167441860465116
-  },
-  {
-   "id": "aw_char_013",
-   "source": "anime-world",
-   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
-   "originUrl": null,
-   "uploader": null,
-   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_char_013.webp",
-   "thumbPath": "thumbs/aw_char_013.webp",
-   "width": 1290,
-   "height": 2796,
-   "fileSize": 167600,
-   "colors": [],
-   "tags": [
-    "Nhân vật gốc",
-    "Thành phố",
-    "Chạng vạng"
-   ],
-   "anime": null,
-   "character": null,
-   "phash": "e5d43a470e1e5879",
-   "favorites": 0,
-   "aspectRatio": 2.167441860465116
-  },
-  {
-   "id": "aw_char_011",
-   "source": "anime-world",
-   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
-   "originUrl": null,
-   "uploader": null,
-   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_char_011.webp",
-   "thumbPath": "thumbs/aw_char_011.webp",
-   "width": 1290,
-   "height": 2796,
-   "fileSize": 160358,
-   "colors": [],
-   "tags": [
-    "Nhân vật gốc",
-    "Sân ga",
-    "Ngày mưa"
-   ],
-   "anime": null,
-   "character": null,
-   "phash": "c59c1ae56f92a18e",
-   "favorites": 0,
-   "aspectRatio": 2.167441860465116
-  },
-  {
-   "id": "aw_char_009",
-   "source": "anime-world",
-   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
-   "originUrl": null,
-   "uploader": null,
-   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_char_009.webp",
-   "thumbPath": "thumbs/aw_char_009.webp",
-   "width": 1290,
-   "height": 2796,
-   "fileSize": 172012,
-   "colors": [],
-   "tags": [
-    "Nhân vật gốc",
-    "Đồng hoa",
-    "Chạng vạng"
-   ],
-   "anime": null,
-   "character": null,
-   "phash": "e1e71ab686d8195a",
-   "favorites": 0,
-   "aspectRatio": 2.167441860465116
-  },
-  {
-   "id": "aw_char_007",
-   "source": "anime-world",
-   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
-   "originUrl": null,
-   "uploader": null,
-   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_char_007.webp",
-   "thumbPath": "thumbs/aw_char_007.webp",
-   "width": 1290,
-   "height": 2796,
-   "fileSize": 143514,
-   "colors": [],
-   "tags": [
-    "Nhân vật gốc",
-    "Bầu trời sao",
-    "Đêm"
-   ],
-   "anime": null,
-   "character": null,
-   "phash": "e8c31ef4859cd8c3",
-   "favorites": 0,
-   "aspectRatio": 2.167441860465116
-  },
-  {
-   "id": "aw_char_005",
-   "source": "anime-world",
-   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
-   "originUrl": null,
-   "uploader": null,
-   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_char_005.webp",
-   "thumbPath": "thumbs/aw_char_005.webp",
-   "width": 1290,
-   "height": 2796,
-   "fileSize": 183124,
-   "colors": [],
-   "tags": [
-    "Nhân vật gốc",
-    "Biển",
-    "Đêm"
-   ],
-   "anime": null,
-   "character": null,
-   "phash": "90cbcf9c6c43368d",
-   "favorites": 0,
-   "aspectRatio": 2.167441860465116
-  },
-  {
-   "id": "aw_char_003",
-   "source": "anime-world",
-   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
-   "originUrl": null,
-   "uploader": null,
-   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_char_003.webp",
-   "thumbPath": "thumbs/aw_char_003.webp",
-   "width": 1290,
-   "height": 2796,
-   "fileSize": 124176,
-   "colors": [],
-   "tags": [
-    "Nhân vật gốc",
-    "Rừng tre",
-    "Đêm"
-   ],
-   "anime": null,
-   "character": null,
-   "phash": "b1464ae5ba3a61c7",
-   "favorites": 0,
-   "aspectRatio": 2.167441860465116
-  },
-  {
-   "id": "aw_char_001",
-   "source": "anime-world",
-   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
-   "originUrl": null,
-   "uploader": null,
-   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_char_001.webp",
-   "thumbPath": "thumbs/aw_char_001.webp",
-   "width": 1290,
-   "height": 2796,
-   "fileSize": 249246,
-   "colors": [],
-   "tags": [
-    "Nhân vật gốc",
-    "Làng tuyết",
-    "Đêm"
-   ],
-   "anime": null,
-   "character": null,
-   "phash": "b4d90b17297536d1",
    "favorites": 0,
    "aspectRatio": 2.167441860465116
   }
