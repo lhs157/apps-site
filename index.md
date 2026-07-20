@@ -4,6 +4,14 @@ Apps built with care for Vietnamese users.
 
 ---
 
+## Anime World Wallpaper — Hình nền anime mỗi ngày
+
+An anime wallpaper app with a daily drop, themed collections, and original AI-generated
+artwork. Vietnamese, English and Japanese.
+
+- [Support & Contact](anime-world/support.md)
+- [Privacy Policy](anime-world/privacy-policy.md)
+
 ## Astro Flick — Búng bi vũ trụ, không trọng lực
 
 A gravity-free physics puzzler: flick celestial bodies across open space and merge matching ones,
