@@ -4920,35 +4920,6 @@
    "aspectRatio": 2.167441860465116
   },
   {
-   "id": "aw_char_b8_036",
-   "source": "anime-world",
-   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
-   "originUrl": null,
-   "uploader": null,
-   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_char_b8_036.webp",
-   "thumbPath": "thumbs/aw_char_b8_036.webp",
-   "width": 1290,
-   "height": 2796,
-   "fileSize": 152140,
-   "colors": [],
-   "tags": [
-    "Nhân vật gốc",
-    "Dốc anh đào",
-    "Sáng sớm",
-    "Hạ",
-    "Mưa rào",
-    "Neon loang",
-    "Rộn ràng",
-    "Thiên nhiên"
-   ],
-   "title": "Dốc anh đào",
-   "anime": null,
-   "character": null,
-   "phash": "b4cbadb29e248a99",
-   "favorites": 0,
-   "aspectRatio": 2.167441860465116
-  },
-  {
    "id": "aw_char_b8_035",
    "source": "anime-world",
    "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
@@ -5525,6 +5496,35 @@
    "anime": null,
    "character": null,
    "phash": "863971c68ddb9865",
+   "favorites": 0,
+   "aspectRatio": 2.167441860465116
+  },
+  {
+   "id": "aw_char_b7_100",
+   "source": "anime-world",
+   "sourcePage": "https://lhs157.github.io/apps-site/anime-world/v1",
+   "originUrl": null,
+   "uploader": null,
+   "fullUrl": "https://lhs157.github.io/apps-site/anime-world/v1/full/aw_char_b7_100.webp",
+   "thumbPath": "thumbs/aw_char_b7_100.webp",
+   "width": 1290,
+   "height": 2796,
+   "fileSize": 118460,
+   "colors": [],
+   "tags": [
+    "Nhân vật gốc",
+    "Sân bóng rổ",
+    "Đêm",
+    "Hạ",
+    "Gió lùa",
+    "Neon loang",
+    "Tĩnh lặng",
+    "Thành thị"
+   ],
+   "title": "Sân bóng rổ",
+   "anime": null,
+   "character": null,
+   "phash": "c0e02f1f3f17c4e1",
    "favorites": 0,
    "aspectRatio": 2.167441860465116
   }
