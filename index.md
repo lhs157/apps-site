@@ -27,6 +27,14 @@ A block-placement roguelike puzzle game with daily challenges and an online lead
 - [Support & Contact](blockdelve/support.md)
 - [Privacy Policy](blockdelve/privacy-policy.md)
 
+## Escape — Giải đố trượt xe (Rush Hour)
+
+A pixel-art sliding-block puzzle: clear the way and drive the red car out. 150 hand-verified
+campaign levels, Endless mode and a daily challenge. Fully offline, free, no ads.
+
+- [Support & Contact](escape/support.md)
+- [Privacy Policy](escape/privacy-policy.md)
+
 ## PixCross — Pixel Nonogram / Picross
 
 A cute pixel-art nonogram (picross) puzzle game. Fully offline, free, no ads.
