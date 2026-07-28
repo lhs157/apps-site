@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "generatedAt": "2026-07-27T08:51:59.098Z",
+ "generatedAt": "2026-07-28T13:14:47.528Z",
  "total": 947,
  "pageCount": 5,
  "pageSize": 200,
@@ -7464,157 +7464,157 @@
  },
  "dailyDrop": [
   {
-   "date": "2026-07-27",
-   "wallpaperIds": [
-    "aw_char_b3_035",
-    "aw_char_b1_095",
-    "aw_char_b2_038",
-    "aw_scene_084",
-    "aw_char_b7_096",
-    "aw_scene_b1_083"
-   ]
-  },
-  {
    "date": "2026-07-28",
    "wallpaperIds": [
-    "aw_char_b7_053",
-    "aw_scene_b5_085",
-    "aw_char_b2_019",
-    "aw_char_145",
     "aw_char_b8_071",
-    "aw_char_b6_087"
+    "aw_char_b2_096",
+    "aw_char_b8_055",
+    "aw_scene_211",
+    "aw_scene_132",
+    "aw_scene_b1_044"
    ]
   },
   {
    "date": "2026-07-29",
    "wallpaperIds": [
-    "aw_scene_b6_086",
-    "aw_scene_b4_024",
-    "aw_scene_b7_001",
-    "aw_char_b8_009",
-    "aw_char_b8_060",
-    "aw_scene_b4_081"
+    "aw_char_b8_077",
+    "aw_char_153",
+    "aw_char_049",
+    "aw_char_b3_012",
+    "aw_char_b5_034",
+    "aw_char_146"
    ]
   },
   {
    "date": "2026-07-30",
    "wallpaperIds": [
-    "aw_char_b1_072",
-    "aw_char_b1_077",
-    "aw_scene_b8_001",
-    "aw_char_b4_098",
-    "aw_scene_170",
-    "aw_scene_b2_006"
+    "aw_char_175",
+    "aw_scene_064",
+    "aw_char_b6_048",
+    "aw_scene_b7_066",
+    "aw_scene_b3_002",
+    "aw_char_b8_009"
    ]
   },
   {
    "date": "2026-07-31",
    "wallpaperIds": [
-    "aw_char_b1_054",
-    "aw_char_b2_091",
-    "aw_char_b5_047",
-    "aw_char_b3_074",
-    "aw_scene_b7_005",
-    "aw_char_b6_029"
+    "aw_char_b2_068",
+    "aw_scene_b7_022",
+    "aw_char_b5_031",
+    "aw_scene_b7_021",
+    "aw_char_b7_056",
+    "aw_char_b2_087"
    ]
   },
   {
    "date": "2026-08-01",
    "wallpaperIds": [
-    "aw_char_b7_060",
-    "aw_scene_202",
-    "aw_scene_054",
-    "aw_scene_b8_046",
-    "aw_char_b8_070",
-    "aw_char_b1_094"
+    "aw_char_b3_034",
+    "aw_char_b5_060",
+    "aw_char_199",
+    "aw_scene_038",
+    "aw_char_b6_035",
+    "aw_char_b3_052"
    ]
   },
   {
    "date": "2026-08-02",
    "wallpaperIds": [
-    "aw_scene_b6_023",
-    "aw_char_b4_092",
-    "aw_scene_b2_003",
-    "aw_scene_b8_042",
-    "aw_char_b1_016",
-    "aw_char_b7_019"
+    "aw_char_179",
+    "aw_scene_b6_046",
+    "aw_scene_b5_003",
+    "aw_char_b3_038",
+    "aw_char_b3_030",
+    "aw_char_b1_072"
    ]
   },
   {
    "date": "2026-08-03",
    "wallpaperIds": [
-    "aw_char_b6_100",
-    "aw_char_b3_052",
-    "aw_char_b1_048",
-    "aw_scene_b4_063",
-    "aw_scene_b4_041",
-    "aw_scene_b6_064"
+    "aw_scene_b2_086",
+    "aw_char_b4_088",
+    "aw_char_158",
+    "aw_char_b4_068",
+    "aw_char_b3_096",
+    "aw_char_b3_070"
    ]
   },
   {
    "date": "2026-08-04",
    "wallpaperIds": [
-    "aw_char_b3_049",
-    "aw_char_b5_032",
-    "aw_char_b1_018",
-    "aw_scene_b7_042",
-    "aw_char_b5_049",
-    "aw_char_b2_079"
+    "aw_scene_212",
+    "aw_char_b5_079",
+    "aw_scene_b1_082",
+    "aw_char_b7_055",
+    "aw_scene_202",
+    "aw_char_b8_034"
    ]
   },
   {
    "date": "2026-08-05",
    "wallpaperIds": [
-    "aw_char_b4_015",
-    "aw_char_b4_031",
-    "aw_char_b5_069",
-    "aw_scene_b7_043",
-    "aw_char_127",
-    "aw_char_b5_054"
+    "aw_char_b6_009",
+    "aw_char_b1_050",
+    "aw_char_015",
+    "aw_scene_094",
+    "aw_char_b2_039",
+    "aw_char_b2_070"
    ]
   },
   {
    "date": "2026-08-06",
    "wallpaperIds": [
-    "aw_char_b4_099",
-    "aw_scene_b7_025",
-    "aw_char_186",
-    "aw_char_b7_097",
-    "aw_scene_b7_023",
-    "aw_char_b1_017"
+    "aw_scene_b3_085",
+    "aw_char_b1_007",
+    "aw_scene_142",
+    "aw_char_b5_049",
+    "aw_char_b6_020",
+    "aw_char_b1_098"
    ]
   },
   {
    "date": "2026-08-07",
    "wallpaperIds": [
-    "aw_scene_142",
-    "aw_char_b4_067",
-    "aw_char_b3_027",
-    "aw_char_109",
-    "aw_char_103",
-    "aw_scene_b5_064"
+    "aw_char_b5_011",
+    "aw_scene_b9_041",
+    "aw_char_b3_097",
+    "aw_scene_b1_083",
+    "aw_scene_068",
+    "aw_char_b7_017"
    ]
   },
   {
    "date": "2026-08-08",
    "wallpaperIds": [
-    "aw_char_b7_037",
-    "aw_scene_b8_084",
-    "aw_scene_b3_021",
-    "aw_char_003",
-    "aw_char_b3_016",
-    "aw_scene_b6_002"
+    "aw_char_b1_093",
+    "aw_char_b5_072",
+    "aw_char_b8_060",
+    "aw_scene_b5_063",
+    "aw_char_b3_017",
+    "aw_char_147"
    ]
   },
   {
    "date": "2026-08-09",
    "wallpaperIds": [
-    "aw_char_b8_031",
-    "aw_scene_000",
-    "aw_char_b1_060",
-    "aw_char_071",
-    "aw_char_b7_089",
-    "aw_char_b3_020"
+    "aw_scene_b4_042",
+    "aw_char_b2_076",
+    "aw_char_b4_076",
+    "aw_char_b2_072",
+    "aw_char_b2_079",
+    "aw_char_b4_008"
+   ]
+  },
+  {
+   "date": "2026-08-10",
+   "wallpaperIds": [
+    "aw_scene_b5_041",
+    "aw_char_b4_033",
+    "aw_char_b1_036",
+    "aw_char_b8_015",
+    "aw_scene_162",
+    "aw_char_b2_071"
    ]
   }
  ],
@@ -7720,7 +7720,77 @@
    "Bãi cát trắng": "White sand beach",
    "Bãi cát vắng": "Empty beach",
    "Biển chiều": "Evening sea",
-   "Vịnh đá": "Rocky cove"
+   "Vịnh đá": "Rocky cove",
+   "Barista": "Barista",
+   "Bác sĩ": "Doctor",
+   "Ca sĩ": "Singer",
+   "Cowboy": "Cowgirl",
+   "Cô giáo": "Teacher",
+   "Cảnh sát": "Police officer",
+   "Hầu gái": "Maid",
+   "Lễ tân": "Receptionist",
+   "Miko": "Shrine maiden",
+   "Nhân viên quán rượu": "Bartender",
+   "Nữ quản gia": "Housekeeper",
+   "Nữ sinh": "Schoolgirl",
+   "Nữ sinh đại học": "University student",
+   "Thư ký": "Secretary",
+   "Thần tượng": "Idol",
+   "Thủ thư": "Librarian",
+   "Tiếp viên": "Flight attendant",
+   "Vũ công": "Dancer",
+   "Y tá": "Nurse",
+   "Biển mây": "Sea of clouds",
+   "Băng hà": "Glacier",
+   "Hoa tử đằng": "Wisteria",
+   "Hàng bạch quả": "Ginkgo avenue",
+   "Hướng dương": "Sunflowers",
+   "Hẻm núi": "Canyon",
+   "Hồ gương": "Mirror lake",
+   "Ngân hà": "The Milky Way",
+   "Oải hương": "Lavender",
+   "Rừng cổ thụ": "Ancient forest",
+   "Rừng thông tuyết": "Snowy pine forest",
+   "Sa mạc": "Desert",
+   "Sao trời": "Star-filled sky",
+   "Suối nước nóng": "Hot spring",
+   "Thành cổ": "Ancient citadel",
+   "Thác lớn": "Great waterfall",
+   "Thảo nguyên": "Grassland",
+   "Đảo trời": "Floating island",
+   "Đầm sen": "Lotus pond",
+   "Đồng cổ": "Ancient plain",
+   "Mây rọi": "Light through clouds",
+   "Nắng cửa sổ": "Window light",
+   "Neon ngoài cửa": "Neon through the window",
+   "Sương sáng": "Bright mist",
+   "Trăng soi": "Moonlight",
+   "Đèn trần": "Ceiling light",
+   "Bạc hà": "Mint",
+   "Bạc lạnh": "Cold silver",
+   "Cam lam": "Orange and blue",
+   "Hồng tím": "Pink and violet",
+   "Hồng đào": "Peach pink",
+   "Lam ngọc": "Turquoise",
+   "Ngọc lục": "Emerald",
+   "Tím hoàng hôn": "Sunset violet",
+   "Tím than": "Charcoal violet",
+   "Vàng nghệ": "Turmeric yellow",
+   "Đỏ son": "Vermilion",
+   "Bóng nhỏ giữa cảnh": "Small figure in a wide scene",
+   "Bóng trên sườn đồi": "Figure on a hillside",
+   "Chân dung giữa cảnh": "Portrait within the scene",
+   "Cận cảnh gió": "Close-up in the wind",
+   "Cận mặt": "Face close-up",
+   "Giữa đồng hoa": "Among the flowers",
+   "Lối đi nhỏ": "Narrow path",
+   "Nghiêng": "Profile",
+   "Ngoái lại": "Looking back",
+   "Ngồi ngắm cảnh": "Sitting and looking out",
+   "Nhìn về phía xa": "Looking into the distance",
+   "Nửa người": "Waist-up",
+   "Toàn thân": "Full body",
+   "Đứng giữa mênh mông": "Standing in the vastness"
   },
   "ja": {
    "Nhân vật gốc": "オリジナルキャラクター",
@@ -7823,7 +7893,77 @@
    "Bãi cát trắng": "白い砂浜",
    "Bãi cát vắng": "人けのない砂浜",
    "Biển chiều": "夕暮れの海",
-   "Vịnh đá": "岩場の入り江"
+   "Vịnh đá": "岩場の入り江",
+   "Barista": "バリスタ",
+   "Bác sĩ": "医師",
+   "Ca sĩ": "歌手",
+   "Cowboy": "カウガール",
+   "Cô giáo": "先生",
+   "Cảnh sát": "警察官",
+   "Hầu gái": "メイド",
+   "Lễ tân": "受付",
+   "Miko": "巫女",
+   "Nhân viên quán rượu": "バーテンダー",
+   "Nữ quản gia": "家政婦",
+   "Nữ sinh": "女子学生",
+   "Nữ sinh đại học": "大学生",
+   "Thư ký": "秘書",
+   "Thần tượng": "アイドル",
+   "Thủ thư": "司書",
+   "Tiếp viên": "客室乗務員",
+   "Vũ công": "ダンサー",
+   "Y tá": "看護師",
+   "Biển mây": "雲海",
+   "Băng hà": "氷河",
+   "Hoa tử đằng": "藤の花",
+   "Hàng bạch quả": "イチョウ並木",
+   "Hướng dương": "ひまわり",
+   "Hẻm núi": "峡谷",
+   "Hồ gương": "鏡の湖",
+   "Ngân hà": "天の川",
+   "Oải hương": "ラベンダー",
+   "Rừng cổ thụ": "古木の森",
+   "Rừng thông tuyết": "雪の松林",
+   "Sa mạc": "砂漠",
+   "Sao trời": "満天の星",
+   "Suối nước nóng": "温泉",
+   "Thành cổ": "古城",
+   "Thác lớn": "大滝",
+   "Thảo nguyên": "草原",
+   "Đảo trời": "浮遊島",
+   "Đầm sen": "蓮池",
+   "Đồng cổ": "古の平原",
+   "Mây rọi": "雲間の光",
+   "Nắng cửa sổ": "窓辺の光",
+   "Neon ngoài cửa": "窓の外のネオン",
+   "Sương sáng": "明るい霧",
+   "Trăng soi": "月光",
+   "Đèn trần": "天井の灯り",
+   "Bạc hà": "ミント",
+   "Bạc lạnh": "冷たい銀",
+   "Cam lam": "オレンジと青",
+   "Hồng tím": "ピンクと紫",
+   "Hồng đào": "桃色",
+   "Lam ngọc": "ターコイズ",
+   "Ngọc lục": "エメラルド",
+   "Tím hoàng hôn": "夕暮れの紫",
+   "Tím than": "墨紫",
+   "Vàng nghệ": "うこん色",
+   "Đỏ son": "朱色",
+   "Bóng nhỏ giữa cảnh": "大景の中の小さな人影",
+   "Bóng trên sườn đồi": "丘の斜面の人影",
+   "Chân dung giữa cảnh": "情景の中の肖像",
+   "Cận cảnh gió": "風の中のクローズアップ",
+   "Cận mặt": "顔のクローズアップ",
+   "Giữa đồng hoa": "花畑の中で",
+   "Lối đi nhỏ": "小径",
+   "Nghiêng": "横顔",
+   "Ngoái lại": "振り返る",
+   "Ngồi ngắm cảnh": "座って眺める",
+   "Nhìn về phía xa": "遠くを見つめる",
+   "Nửa người": "半身",
+   "Toàn thân": "全身",
+   "Đứng giữa mênh mông": "広大な中に立つ"
   }
  },
  "proCollectionsPath": "pro/collections.json"
