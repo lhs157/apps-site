@@ -1,0 +1,5 @@
+{
+  "schemaVersion": 1,
+  "_note": "Tin cho app Hảo. App tải file này mỗi 6 giờ và mỗi khi nhận push. Trùng `id` với tin trong bản build thì bản ở ĐÂY thắng — đó là cách sửa hoặc gỡ một tin đã bắn. `audience`: all (mặc định) | free | pro. Ngày theo ISO YYYY-MM-DD. Sai định dạng một mục thì app bỏ qua đúng mục đó.",
+  "items": []
+}
