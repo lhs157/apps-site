@@ -1,5 +1,21 @@
 {
   "schemaVersion": 1,
   "_note": "Tin cho app Hảo. App tải file này mỗi 6 giờ và mỗi khi nhận push. Trùng `id` với tin trong bản build thì bản ở ĐÂY thắng — đó là cách sửa hoặc gỡ một tin đã bắn. `audience`: all (mặc định) | free | pro. Ngày theo ISO YYYY-MM-DD. Sai định dạng một mục thì app bỏ qua đúng mục đó.",
-  "items": []
+  "items": [
+    {
+      "id": "test-push-2026-07-29",
+      "kind": "content",
+      "date": "2026-07-29",
+      "audience": "all",
+      "title": {
+        "vi": "Thử đường ống thông báo",
+        "en": "Testing the notification pipe"
+      },
+      "body": {
+        "vi": "Nếu bạn đọc được mẩu tin này thì cả ba mắt xích đã thông: thông báo đẩy tới máy, app tải file tin về, và mẩu tin hiện ra đúng chỗ. Đây là tin thử — sẽ được gỡ trước khi phát hành.",
+        "en": "If you can read this, all three links work: the push reached the device, the app fetched the news file, and the item landed on the right page. This is a test — it will be removed before release."
+      },
+      "deeplink": "/news"
+    }
+  ]
 }
