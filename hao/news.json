@@ -1,5 +1,23 @@
 {
-  "schemaVersion": 1,
-  "_note": "Tin cho app Hảo. App tải file này mỗi 6 giờ và mỗi khi nhận push. Trùng `id` với tin trong bản build thì bản ở ĐÂY thắng — đó là cách sửa hoặc gỡ một tin đã bắn. `audience`: all (mặc định) | free | pro. Ngày theo ISO YYYY-MM-DD. Sai định dạng một mục thì app bỏ qua đúng mục đó.",
-  "items": []
+ "schemaVersion": 1,
+ "_note": "Feed remote cho Hảo — item cùng id sẽ override bản bundled trong app.",
+ "items": [
+  {
+   "id": "content-3.0.1-rate",
+   "kind": "content",
+   "date": "2026-08-04",
+   "title": {
+    "vi": "Bạn thấy Hảo hữu ích? ❤️",
+    "en": "Enjoying Hảo? ❤️"
+   },
+   "summary": {
+    "vi": "Một đánh giá 5 sao giúp Hảo đến được với nhiều người học hơn",
+    "en": "A 5-star review helps Hảo reach more learners"
+   },
+   "body": {
+    "vi": "Một đánh giá 5 sao trên App Store giúp Hảo đến được với nhiều người học hơn. Cảm ơn bạn!",
+    "en": "A 5-star review on the App Store helps Hảo reach more learners. Thank you!"
+   }
+  }
+ ]
 }
