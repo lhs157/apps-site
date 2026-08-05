@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "generatedAt": "2026-07-28T13:14:47.528Z",
+ "generatedAt": "2026-08-05T07:55:11.175Z",
  "total": 947,
  "pageCount": 5,
  "pageSize": 200,
@@ -7464,157 +7464,157 @@
  },
  "dailyDrop": [
   {
-   "date": "2026-07-28",
-   "wallpaperIds": [
-    "aw_char_b8_071",
-    "aw_char_b2_096",
-    "aw_char_b8_055",
-    "aw_scene_211",
-    "aw_scene_132",
-    "aw_scene_b1_044"
-   ]
-  },
-  {
-   "date": "2026-07-29",
-   "wallpaperIds": [
-    "aw_char_b8_077",
-    "aw_char_153",
-    "aw_char_049",
-    "aw_char_b3_012",
-    "aw_char_b5_034",
-    "aw_char_146"
-   ]
-  },
-  {
-   "date": "2026-07-30",
-   "wallpaperIds": [
-    "aw_char_175",
-    "aw_scene_064",
-    "aw_char_b6_048",
-    "aw_scene_b7_066",
-    "aw_scene_b3_002",
-    "aw_char_b8_009"
-   ]
-  },
-  {
-   "date": "2026-07-31",
-   "wallpaperIds": [
-    "aw_char_b2_068",
-    "aw_scene_b7_022",
-    "aw_char_b5_031",
-    "aw_scene_b7_021",
-    "aw_char_b7_056",
-    "aw_char_b2_087"
-   ]
-  },
-  {
-   "date": "2026-08-01",
-   "wallpaperIds": [
-    "aw_char_b3_034",
-    "aw_char_b5_060",
-    "aw_char_199",
-    "aw_scene_038",
-    "aw_char_b6_035",
-    "aw_char_b3_052"
-   ]
-  },
-  {
-   "date": "2026-08-02",
-   "wallpaperIds": [
-    "aw_char_179",
-    "aw_scene_b6_046",
-    "aw_scene_b5_003",
-    "aw_char_b3_038",
-    "aw_char_b3_030",
-    "aw_char_b1_072"
-   ]
-  },
-  {
-   "date": "2026-08-03",
-   "wallpaperIds": [
-    "aw_scene_b2_086",
-    "aw_char_b4_088",
-    "aw_char_158",
-    "aw_char_b4_068",
-    "aw_char_b3_096",
-    "aw_char_b3_070"
-   ]
-  },
-  {
-   "date": "2026-08-04",
-   "wallpaperIds": [
-    "aw_scene_212",
-    "aw_char_b5_079",
-    "aw_scene_b1_082",
-    "aw_char_b7_055",
-    "aw_scene_202",
-    "aw_char_b8_034"
-   ]
-  },
-  {
    "date": "2026-08-05",
    "wallpaperIds": [
-    "aw_char_b6_009",
-    "aw_char_b1_050",
-    "aw_char_015",
-    "aw_scene_094",
-    "aw_char_b2_039",
-    "aw_char_b2_070"
+    "aw_scene_b1_083",
+    "aw_scene_106",
+    "aw_scene_b1_006",
+    "aw_scene_004",
+    "aw_char_135",
+    "aw_char_b3_096"
    ]
   },
   {
    "date": "2026-08-06",
    "wallpaperIds": [
-    "aw_scene_b3_085",
-    "aw_char_b1_007",
-    "aw_scene_142",
-    "aw_char_b5_049",
-    "aw_char_b6_020",
-    "aw_char_b1_098"
+    "aw_scene_b6_061",
+    "aw_scene_100",
+    "aw_char_b3_051",
+    "aw_char_147",
+    "aw_scene_b1_061",
+    "aw_char_b1_075"
    ]
   },
   {
    "date": "2026-08-07",
    "wallpaperIds": [
-    "aw_char_b5_011",
-    "aw_scene_b9_041",
-    "aw_char_b3_097",
-    "aw_scene_b1_083",
-    "aw_scene_068",
-    "aw_char_b7_017"
+    "aw_char_194",
+    "aw_scene_b5_026",
+    "aw_char_b6_092",
+    "aw_char_b3_067",
+    "aw_scene_151",
+    "aw_scene_b4_006"
    ]
   },
   {
    "date": "2026-08-08",
    "wallpaperIds": [
-    "aw_char_b1_093",
-    "aw_char_b5_072",
-    "aw_char_b8_060",
-    "aw_scene_b5_063",
-    "aw_char_b3_017",
-    "aw_char_147"
+    "aw_char_b1_015",
+    "aw_scene_201",
+    "aw_char_b8_015",
+    "aw_char_b5_067",
+    "aw_char_b3_058",
+    "aw_char_b1_096"
    ]
   },
   {
    "date": "2026-08-09",
    "wallpaperIds": [
-    "aw_scene_b4_042",
-    "aw_char_b2_076",
-    "aw_char_b4_076",
-    "aw_char_b2_072",
-    "aw_char_b2_079",
-    "aw_char_b4_008"
+    "aw_char_b7_008",
+    "aw_char_176",
+    "aw_char_b1_047",
+    "aw_scene_190",
+    "aw_char_b7_079",
+    "aw_scene_060"
    ]
   },
   {
    "date": "2026-08-10",
    "wallpaperIds": [
+    "aw_scene_038",
+    "aw_char_b4_059",
+    "aw_scene_b6_001",
+    "aw_scene_191",
+    "aw_char_b1_013",
+    "aw_scene_094"
+   ]
+  },
+  {
+   "date": "2026-08-11",
+   "wallpaperIds": [
+    "aw_scene_b5_044",
+    "aw_char_b3_020",
+    "aw_scene_b5_082",
+    "aw_char_b7_093",
+    "aw_char_b1_011",
+    "aw_char_b3_034"
+   ]
+  },
+  {
+   "date": "2026-08-12",
+   "wallpaperIds": [
+    "aw_scene_096",
+    "aw_char_b7_034",
+    "aw_scene_b7_021",
+    "aw_scene_b3_006",
+    "aw_char_b1_068",
+    "aw_char_b7_013"
+   ]
+  },
+  {
+   "date": "2026-08-13",
+   "wallpaperIds": [
+    "aw_scene_b1_066",
     "aw_scene_b5_041",
-    "aw_char_b4_033",
-    "aw_char_b1_036",
-    "aw_char_b8_015",
-    "aw_scene_162",
-    "aw_char_b2_071"
+    "aw_char_b3_057",
+    "aw_char_b4_039",
+    "aw_char_b7_076",
+    "aw_scene_b3_004"
+   ]
+  },
+  {
+   "date": "2026-08-14",
+   "wallpaperIds": [
+    "aw_scene_b1_005",
+    "aw_scene_b4_065",
+    "aw_char_b7_075",
+    "aw_scene_b4_063",
+    "aw_char_125",
+    "aw_char_b1_036"
+   ]
+  },
+  {
+   "date": "2026-08-15",
+   "wallpaperIds": [
+    "aw_scene_b2_062",
+    "aw_char_b4_011",
+    "aw_char_b5_031",
+    "aw_scene_b8_064",
+    "aw_char_179",
+    "aw_char_b3_080"
+   ]
+  },
+  {
+   "date": "2026-08-16",
+   "wallpaperIds": [
+    "aw_char_b3_018",
+    "aw_char_b1_072",
+    "aw_char_b2_096",
+    "aw_char_b1_032",
+    "aw_char_b1_020",
+    "aw_scene_b7_063"
+   ]
+  },
+  {
+   "date": "2026-08-17",
+   "wallpaperIds": [
+    "aw_char_b4_014",
+    "aw_char_b5_029",
+    "aw_scene_b7_085",
+    "aw_scene_b4_002",
+    "aw_scene_008",
+    "aw_scene_b6_082"
+   ]
+  },
+  {
+   "date": "2026-08-18",
+   "wallpaperIds": [
+    "aw_char_148",
+    "aw_char_b6_067",
+    "aw_char_b8_014",
+    "aw_char_b2_079",
+    "aw_char_b8_013",
+    "aw_char_b1_049"
    ]
   }
  ],
