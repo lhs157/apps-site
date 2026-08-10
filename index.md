@@ -78,6 +78,14 @@ An English-learning and TOEIC-preparation app for Vietnamese speakers.
 - [Support & Contact](spark/support.md)
 - [Privacy Policy](spark/privacy-policy.md)
 
+## King’s Turn — Roguelike cờ với Súng Hồn
+
+A tactical chess roguelike where the Mage King crosses an 8×8 battlefield, harvests spirits,
+and hunts the Enemy King. Fully offline, free, and without ads.
+
+- [Support & Contact](kings-turn/support.md)
+- [Privacy Policy](kings-turn/privacy-policy.md)
+
 ## Watermelon Merge — Thả & gộp hoa quả (Suika)
 
 A Suika-style fruit drop-and-merge puzzle game. Fully offline, free, no ads.
