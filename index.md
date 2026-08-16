@@ -35,6 +35,15 @@ campaign levels, Endless mode and a daily challenge. Fully offline, free, no ads
 - [Support & Contact](escape/support.md)
 - [Privacy Policy](escape/privacy-policy.md)
 
+## KopKop (Pebble & Sky) — Sân chơi chạm cho trẻ 2–6
+
+An open-world touch playground for children aged 2–6: a hill, a sky, a meadow, a bear house,
+a music hut and more rooms full of things to tap and discover. No ads, no accounts, no data
+collection; purchases sit behind a two-finger parental gate.
+
+- [Support & Contact](kopkop/support.md)
+- [Privacy Policy](kopkop/privacy-policy.md)
+
 ## PixCross — Pixel Nonogram / Picross
 
 A cute pixel-art nonogram (picross) puzzle game. Fully offline, free, no ads.
