@@ -1,8 +1,9 @@
 # KopKop (Pebble & Sky) — Hỗ trợ / Support
 
-**KopKop** (tên hiển thị **Pebble & Sky**) là sân chơi chạm mở cho trẻ 2–6 tuổi: ngọn đồi, bầu
-trời, đồng cỏ, nhà gấu, chòi nhạc, xưởng lách cách, thảm khối, bàn vẽ… — không điểm số, không
-thua, không chữ trong khu chơi. Trẻ chạm, kéo, khám phá theo nhịp của mình.
+**KopKop** (tên hiển thị **Pebble & Sky**) là sân chơi chạm mở cho trẻ 2–6 tuổi: ngọn đồi quê với
+đàn gà, giếng nước và bạn gấu nhỏ; các phòng Bầu Trời, Đồng Cỏ, Bàn Vẽ, Nhà Gấu và Nhà Trên Cây —
+không điểm số, không thua, không chữ trong khu chơi. Trẻ chạm, kéo, khám phá theo nhịp của mình.
+Cả thế giới dùng chung một bầu trời: đổi thời tiết ở một nơi là mọi nơi cùng đổi.
 
 ---
 
@@ -31,7 +32,8 @@ Không có quảng cáo, không theo dõi, không tài khoản, không thu thậ
 [Chính sách quyền riêng tư](privacy-policy.md).
 
 **Gói mở khoá gồm những gì?**
-Có gói đăng ký tháng, đăng ký năm và mua trọn đời một lần, đều qua Apple. Đăng ký tự gia hạn
+Có gói đăng ký tháng, đăng ký năm (kèm 7 ngày dùng thử miễn phí cho người đủ điều kiện) và mua
+trọn đời một lần, đều qua Apple. Đăng ký tự gia hạn
 cho tới khi huỷ; quản lý hoặc huỷ trong Cài đặt iOS ▸ Apple ID ▸ Đăng ký, hoặc bấm "Quản lý
 đăng ký" ở màn Thông tin của ứng dụng.
 
@@ -49,8 +51,10 @@ Có, lưu trên máy. Xoá ứng dụng sẽ mất.
 
 ## Support (English)
 
-**KopKop (Pebble & Sky)** is an open-world touch playground for children aged 2–6 — no scores,
-no losing, no text in the play area.
+**KopKop (Pebble & Sky)** is an open-world touch playground for children aged 2–6: a countryside
+hill with hens, a well and a little bear, plus the Sky, Meadow, Drawing, Bear House and Treehouse
+rooms — no scores, no losing, no text in the play area. The whole world shares one sky: change the
+weather in one place and it changes everywhere.
 
 For questions, feedback or bug reports, email **luuhongson157@gmail.com** — we reply within
 1–2 business days.
@@ -60,8 +64,8 @@ For questions, feedback or bug reports, email **luuhongson157@gmail.com** — we
 - **Grown-ups area:** tap the small button at the top-right of the home screen, then hold
   **both fingers on the two discs for 3 seconds**. Releasing one finger closes the gate.
 - **No ads, no tracking, no accounts.** See the [Privacy Policy](privacy-policy.md).
-- **Unlock plans:** monthly or yearly subscription, or a one-time lifetime purchase, all through
-  Apple. Manage or cancel in iOS Settings ▸ Apple ID ▸ Subscriptions, or via "Manage subscription"
+- **Unlock plans:** monthly subscription, yearly subscription **with a 7-day free trial for
+  eligible users**, or a one-time lifetime purchase, all through Apple. Manage or cancel in iOS Settings ▸ Apple ID ▸ Subscriptions, or via "Manage subscription"
   on the About screen. **Restore Purchases** is in the Store screen.
 - **Settings:** Sound · Vibration · Night crickets toggles and language (Auto / Tiếng Việt / English)
   live in the grown-ups area.
