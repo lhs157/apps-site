@@ -1,4 +1,4 @@
-# Privacy Policy — KopKop (Pebble & Sky)
+# Privacy Policy — Kop Kop
 
 **Last updated: 2026-08-31 · Contact: luuhongson157@gmail.com**
 
@@ -6,7 +6,7 @@
 
 ## English
 
-KopKop — also shown as **Pebble & Sky** — ("the app") is an open-world touch playground for
+Kop Kop ("the app") is an open-world touch playground for
 children aged 2–6: a countryside hill with hens, a well and a little bear, plus the Sky,
 Meadow, Drawing, Bear House and Treehouse rooms — full of things to tap, drag and discover. We built it for young children, so we designed it to collect
 **nothing about them**: **there is no sign-up, no login, no chat, no user-generated content, and
@@ -50,7 +50,7 @@ profile, no behavioural advertising, and no data sharing with third parties.
 
 ## Tiếng Việt
 
-KopKop — tên hiển thị **Pebble & Sky** — ("ứng dụng") là sân chơi chạm mở cho trẻ 2–6 tuổi:
+Kop Kop ("ứng dụng") là sân chơi chạm mở cho trẻ 2–6 tuổi:
 ngọn đồi quê với đàn gà, giếng nước và bạn gấu nhỏ; các phòng Bầu Trời, Đồng Cỏ, Bàn Vẽ, Nhà Gấu
 và Nhà Trên Cây — đầy thứ để chạm, kéo và khám phá.
 Ứng dụng làm cho trẻ nhỏ nên được thiết kế để **không thu thập gì về trẻ**: **không đăng ký,

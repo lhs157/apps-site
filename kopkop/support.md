@@ -1,6 +1,6 @@
-# KopKop (Pebble & Sky) — Hỗ trợ / Support
+# Kop Kop — Hỗ trợ / Support
 
-**KopKop** (tên hiển thị **Pebble & Sky**) là sân chơi chạm mở cho trẻ 2–6 tuổi: ngọn đồi quê với
+**Kop Kop** là sân chơi chạm mở cho trẻ 2–6 tuổi: ngọn đồi quê với
 đàn gà, giếng nước và bạn gấu nhỏ; các phòng Bầu Trời, Đồng Cỏ, Bàn Vẽ, Nhà Gấu và Nhà Trên Cây —
 không điểm số, không thua, không chữ trong khu chơi. Trẻ chạm, kéo, khám phá theo nhịp của mình.
 Cả thế giới dùng chung một bầu trời: đổi thời tiết ở một nơi là mọi nơi cùng đổi.
@@ -51,7 +51,7 @@ Có, lưu trên máy. Xoá ứng dụng sẽ mất.
 
 ## Support (English)
 
-**KopKop (Pebble & Sky)** is an open-world touch playground for children aged 2–6: a countryside
+**Kop Kop** is an open-world touch playground for children aged 2–6: a countryside
 hill with hens, a well and a little bear, plus the Sky, Meadow, Drawing, Bear House and Treehouse
 rooms — no scores, no losing, no text in the play area. The whole world shares one sky: change the
 weather in one place and it changes everywhere.
