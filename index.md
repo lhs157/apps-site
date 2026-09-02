@@ -35,7 +35,7 @@ campaign levels, Endless mode and a daily challenge. Fully offline, free, no ads
 - [Support & Contact](escape/support.md)
 - [Privacy Policy](escape/privacy-policy.md)
 
-## KopKop (Pebble & Sky) — Sân chơi chạm cho trẻ 2–6
+## Kop Kop — Sân chơi chạm cho trẻ 2–6
 
 An open-world touch playground for children aged 2–6: a hill, a sky, a meadow, a bear house,
 a music hut and more rooms full of things to tap and discover. No ads, no accounts, no data
