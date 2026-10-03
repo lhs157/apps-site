@@ -27,6 +27,14 @@ A block-placement roguelike puzzle game with daily challenges and an online lead
 - [Support & Contact](blockdelve/support.md)
 - [Privacy Policy](blockdelve/privacy-policy.md)
 
+## Catch Me, Fox! — Đố Cáo Bắt Thỏ
+
+A turn-based forest puzzle: a rabbit picks the strawberry and gets home by tricking the foxes
+into crashing into each other. 300 levels, rewarded ads only.
+
+- [Support & Contact](catch-me-fox/support.md)
+- [Privacy Policy](catch-me-fox/privacy-policy.md)
+
 ## Escape — Giải đố trượt xe (Rush Hour)
 
 A pixel-art sliding-block puzzle: clear the way and drive the red car out. 150 hand-verified
