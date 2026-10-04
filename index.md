@@ -4,6 +4,14 @@ Apps built with care for Vietnamese users.
 
 ---
 
+## Afloat: Flood Escape Puzzle — Nước Lên, giải đố thoát lũ
+
+A cartoon puzzle game: the water rises floor by floor, and you direct your helpers to fix the stairs,
+carry the food up and reach the boat on the roof in time. 90 levels, rewarded ads only, no account.
+
+- [Support & Contact](afloat/support.md)
+- [Privacy Policy](afloat/privacy-policy.md)
+
 ## Anime World Wallpaper — Hình nền anime mỗi ngày
 
 An anime wallpaper app with a daily drop, themed collections, and original AI-generated
