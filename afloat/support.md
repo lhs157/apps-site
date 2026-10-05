@@ -1,8 +1,8 @@
 # Afloat: Flood Escape Puzzle (Nước Lên) — Hỗ trợ / Support
 
-**Nước Lên** là game giải đố hoạt hình: nước dâng dần trong nhà, bạn chỉ huy các nhân vật sửa cầu thang, mở cửa, mang thùng đồ ăn lên và đưa mọi người lên thuyền trên mái kịp lúc. 90 màn trong 9 chương.
+**Nước Lên** là game giải đố hoạt hình: nước dâng dần trong nhà, bạn chỉ huy các nhân vật sửa cầu thang, mở cửa, mang thùng đồ ăn lên và đưa mọi người lên thuyền trên mái kịp lúc.
 
-**Afloat** is a cartoon puzzle game: the water rises floor by floor, and you direct your helpers to fix the stairs, open doors, carry the food crates up and get everyone to the boat on the roof in time. 90 levels in 9 chapters.
+**Afloat** is a cartoon puzzle game: the water rises floor by floor, and you direct your helpers to fix the stairs, open doors, carry the food crates up and get everyone to the boat on the roof in time.
 
 ---
 
