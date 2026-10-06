@@ -1,6 +1,6 @@
 # Privacy Policy — Hảo (好)
 
-**Last updated: 2026-09-24 · Contact: luuhongson157@gmail.com**
+**Last updated: 2026-10-06 · Contact: luuhongson157@gmail.com**
 
 ---
 
@@ -39,8 +39,15 @@ Pages). Like any web request, the host sees your IP address; we do not log it.
 **Backup.** If you use the backup/restore feature, a backup file is created and
 saved or shared **by you**, to a location **you** choose. We do not receive it.
 
-**No tracking / no ads.** The app contains no third-party analytics, no advertising
-and no tracking SDKs. RevenueCat and Firebase are used only for the purposes above.
+**Advertising (Google AdMob).** The free version shows ads served by Google AdMob in a
+**non-personalised** form; the app does not ask for tracking permission (ATT) and does
+not use the advertising ID to track you across other apps. The AdMob SDK may collect
+device information (device type, operating system, truncated IP address) to serve ads
+and prevent fraud; see Google's policy at https://policies.google.com/technologies/ads.
+Users in the EU/UK are asked for consent and can change their choice in Settings ›
+Ad privacy. Hảo Pro has no ads and does not load the ad SDK. Apart from that, the app
+contains no third-party analytics; RevenueCat and Firebase are used only for the
+purposes above.
 
 **Children.** The app is suitable for general audiences and does not knowingly
 collect personal information from children.
@@ -90,9 +97,15 @@ lại.
 **Sao lưu.** Nếu bạn dùng tính năng sao lưu/khôi phục, tệp sao lưu do **chính bạn**
 tạo và lưu/chia sẻ tới nơi **bạn** chọn. Chúng tôi không nhận tệp này.
 
-**Không theo dõi / không quảng cáo.** Ứng dụng không chứa công cụ phân tích bên thứ
-ba, không quảng cáo, không SDK theo dõi. RevenueCat và Firebase chỉ dùng cho các mục
-đích nêu trên.
+**Quảng cáo (Google AdMob).** Bản miễn phí hiển thị quảng cáo của Google AdMob ở dạng
+**không cá nhân hoá**; ứng dụng không xin quyền theo dõi (ATT) và không dùng mã quảng
+cáo để theo dõi bạn qua app khác. SDK AdMob có thể thu thập thông tin thiết bị (loại
+máy, hệ điều hành, địa chỉ IP rút gọn) để phục vụ quảng cáo và chống gian lận — xem
+chính sách của Google tại https://policies.google.com/technologies/ads. Người dùng ở
+EU/UK được hỏi ý kiến và có thể đổi lựa chọn trong Cài đặt › Quyền riêng tư quảng cáo.
+Hảo Pro không có quảng cáo và không nạp SDK quảng cáo. Ngoài ra ứng dụng không chứa
+công cụ phân tích bên thứ ba; RevenueCat và Firebase chỉ dùng cho các mục đích nêu
+trên.
 
 **Trẻ em.** Ứng dụng phù hợp với mọi đối tượng và không cố ý thu thập thông tin cá
 nhân của trẻ em.
