@@ -28,8 +28,9 @@ Không. Không cần đăng ký, không đăng nhập, không thu thập thông 
 Có. Tiến trình, sao và coins được lưu trên thiết bị; xoá app sẽ mất các dữ liệu này.
 
 **Coins dùng để làm gì? Có mua bằng tiền thật không?**
-Coins kiếm được khi thắng màn, dùng để mở trợ giúp trong game (Gợi ý, Hút, thêm ống). Hoàn
-toàn miễn phí — **không** mua bằng tiền thật, **không** có mua hàng trong ứng dụng.
+Coins kiếm được khi thắng màn, dùng để mở trợ giúp trong game (Gợi ý, Hút, thêm ống). Coins
+không mua được bằng tiền thật. Game miễn phí, có quảng cáo; có thể mua **Gỡ quảng cáo** (một lần) để bỏ
+quảng cáo giữa các màn — khôi phục ở **Cài đặt ▸ Khôi phục giao dịch**.
 
 **Chơi thế nào?**
 Chạm một ống để nhấc, rồi chạm ống khác để rót khúc màu trên cùng. Chỉ rót được khi ống đích
@@ -43,9 +44,9 @@ Chơi lại và thêm ống nếu bị kẹt — không bao giờ thua.
 **PourPop** is a cute water / color-sort puzzle game. Tap a tube, then another, to pour the
 top colour — sort every tube into a single colour to win.
 
-- **Offline:** Plays fully offline, no internet required.
-- **No account:** No sign-up, no login, no personal data collected.
-- **Free:** Completely free, no ads, no in-app purchases.
+- **Offline:** Plays offline; an internet connection is only used to load ads.
+- **No account:** No sign-up, no login; we never ask for personal information.
+- **Free with ads:** Free to play with ads (non-personalized). A one-time **Remove Ads** purchase removes the ads between levels; restore it in Settings ▸ Restore Purchases.
 - **Relaxing:** No timer, no fail — Undo, Restart, and extra tubes whenever you're stuck.
 
 For any questions, feedback, or bug reports: **luuhongson157@gmail.com**
