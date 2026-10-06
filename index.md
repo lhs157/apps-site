@@ -43,10 +43,10 @@ into crashing into each other. 300 levels, rewarded ads only.
 - [Support & Contact](catch-me-fox/support.md)
 - [Privacy Policy](catch-me-fox/privacy-policy.md)
 
-## Escape — Giải đố trượt xe (Rush Hour)
+## Gridlock: Car Jam Puzzle — Giải đố trượt xe
 
-A pixel-art sliding-block puzzle: clear the way and drive the red car out. 150 hand-verified
-campaign levels, Endless mode and a daily challenge. Fully offline, free, no ads.
+A casual sliding-block puzzle: clear the way and drive the red car out. 300 campaign levels,
+Endless mode and a daily challenge. Free, with ads (Google AdMob) and an optional Remove Ads purchase.
 
 - [Support & Contact](escape/support.md)
 - [Privacy Policy](escape/privacy-policy.md)
