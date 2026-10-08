@@ -96,6 +96,14 @@ A comprehensive Chinese-learning app for Vietnamese speakers.
 - [Support & Contact](hao/support.md)
 - [Privacy Policy](hao/privacy-policy.md)
 
+## Suki (すき) — Học tiếng Nhật & Luyện thi JLPT N5·N4·N3
+
+A Japanese-learning and JLPT N5–N3 preparation app: vocabulary, kanji, grammar, listening and
+mock exams with per-question explanations. Offline-first, free with ads, one-time Pro purchase.
+
+- [Support & Contact](suki/support.md)
+- [Privacy Policy](suki/privacy-policy.md)
+
 ## Spark — Học tiếng Anh & Luyện thi TOEIC
 
 An English-learning and TOEIC-preparation app for Vietnamese speakers.
