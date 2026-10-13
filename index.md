@@ -96,6 +96,13 @@ A comprehensive Chinese-learning app for Vietnamese speakers.
 - [Support & Contact](hao/support.md)
 - [Privacy Policy](hao/privacy-policy.md)
 
+## Joa (좋아) — Học tiếng Hàn
+
+A Korean-learning app: the Hangul alphabet, smart review and pronunciation practice. Offline-first, no account.
+
+- [Support & Contact](joa/support.md)
+- [Privacy Policy](joa/privacy-policy.md)
+
 ## Suki (すき) — Học tiếng Nhật & Luyện thi JLPT N5·N4·N3
 
 A Japanese-learning and JLPT N5–N3 preparation app: vocabulary, kanji, grammar, listening and
