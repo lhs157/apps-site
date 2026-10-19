@@ -127,7 +127,7 @@ Chúng tôi không nhận bản sao và không xem được bản save của b�
 
 **Google Mobile Ads SDK có thể thu thập gì.** Theo công bố của chính Google, khi một quảng cáo được yêu cầu hoặc hiện ra, SDK có thể thu thập và gửi cho Google: địa chỉ IP (có thể dùng để ước tính vị trí chung), mã định danh thiết bị (trên Android là mã quảng cáo và app set ID; trên iOS là mã định danh trong phạm vi ứng dụng hoặc nhà phát triển, và IDFA nếu bạn cho phép theo dõi), thông tin về các quảng cáo bạn đã xem, tương tác như mở ứng dụng, chạm, xem video, và dữ liệu chẩn đoán như nhật ký lỗi, thời gian mở ứng dụng, tỉ lệ treo, mức dùng pin. Google dùng dữ liệu này để hiển thị và đo quảng cáo, chống gian lận và cải thiện SDK. Mọi dữ liệu đều được mã hoá khi truyền đi.
 
-**Đồng ý.** Nếu bạn ở Khu vực Kinh tế Châu Âu, Vương quốc Anh, Thụy Sĩ hoặc một bang của Mỹ có luật yêu cầu, ứng dụng hiện biểu mẫu đồng ý của Google (User Messaging Platform) trước khi yêu cầu quảng cáo. Bạn đổi lựa chọn bất cứ lúc nào ở **Cài đặt → Quản lý đồng ý quảng cáo**.
+**Đồng ý.** Nếu bạn ở Khu vực Kinh tế Châu Âu, Vương quốc Anh, Thụy Sĩ hoặc một bang của Mỹ có luật yêu cầu, ứng dụng hiện biểu mẫu đồng ý của Google (User Messaging Platform) trước khi yêu cầu quảng cáo. Bạn đổi lựa chọn bất cứ lúc nào ở **Cài đặt → Tùy chọn quảng cáo**.
 
 **Bạn tự quản lý.** Trên iOS, bạn đổi quyền theo dõi ở Cài đặt → Quyền riêng tư & Bảo mật → Theo dõi. Trên Android, bạn đặt lại hoặc xoá mã quảng cáo trong cài đặt hệ thống. Cài đặt quảng cáo của Google quản lý tại https://myadcenter.google.com.
 
@@ -156,7 +156,7 @@ Nút góp ý trong ứng dụng mở app Mail của chính bạn với thư so�
 Ứng dụng dùng rung và cài đặt ngôn ngữ. Ứng dụng không truy cập vị trí chính xác, danh bạ, ảnh, camera hay micro. Chúng tôi không bán dữ liệu của bạn.
 
 ### 11. Xoá dữ liệu
-- **Trên máy:** **Cài đặt → Xoá dữ liệu** xoá dữ liệu chơi lưu trên máy. Xoá ứng dụng cũng xoá dữ liệu này.
+- **Trên máy:** **Cài đặt → Xóa dữ liệu** xoá dữ liệu chơi lưu trên máy. Xoá ứng dụng cũng xoá dữ liệu này.
 - **iCloud:** mở Cài đặt iOS → tên của bạn → iCloud → Quản lý dung lượng tài khoản (hoặc Quản lý dung lượng) → Knight Shift → Xoá dữ liệu.
 - **Google Play Games:** mở app Google Play Games, vào Cài đặt và dùng tuỳ chọn xoá dữ liệu Play Games của Knight Shift (hoặc quản lý tại https://myaccount.google.com).
 - Dữ liệu quảng cáo hoặc phân tích do Google giữ: https://myadcenter.google.com hoặc công cụ quyền riêng tư của Google. Dữ liệu mua hàng do Unity giữ: unity-iap-contact@unity3d.com.

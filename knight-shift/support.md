@@ -24,7 +24,7 @@ Chúng tôi sẽ phản hồi trong vòng 1–2 ngày làm việc. / We reply wi
 Mở lại game khi có internet: giao dịch còn treo sẽ được cộng tự động. Nếu chưa thấy, vào **Cài đặt → Khôi phục mua hàng**. Cách này khôi phục Gói Khởi Đầu, Hiệp Sĩ Trọn Đời và Pass mùa; Ngọc là hàng tiêu hao nên không khôi phục được sau khi đã dùng. Nếu vẫn không được, gửi email kèm thời điểm mua và mã đơn hàng trong biên nhận của Apple hoặc Google.
 
 **Làm sao chuyển tiến độ sang máy mới?**
-Trên máy cũ, bật **Lưu mây** trong Cài đặt (iPhone/iPad lưu vào iCloud, Android lưu vào Google Play Games). Trên máy mới, đăng nhập cùng tài khoản Apple hoặc Google, mở game và bật Lưu mây để tải bản save về.
+Trên máy cũ, bật **Lưu lên iCloud** (Android: **Lưu đám mây**) trong Cài đặt (iPhone/iPad lưu vào iCloud, Android lưu vào Google Play Games). Trên máy mới, đăng nhập cùng tài khoản Apple hoặc Google, mở game và bật Lưu mây để tải bản save về.
 
 **Làm sao tắt quảng cáo toàn màn hình?**
 Mua gói **Hiệp Sĩ Trọn Đời**. Quảng cáo có thưởng vẫn hoàn toàn tự nguyện: chỉ hiện khi bạn bấm xem để nhận quà.
@@ -58,7 +58,7 @@ Việc thanh toán do Apple hoặc Google xử lý, nên yêu cầu hoàn tiền
 Reopen the game with an internet connection: pending purchases are credited automatically. If it is still missing, go to **Settings → Restore purchases**. This restores the Starter Pack, Knight for Life and the Season Pass; Gems are consumable and cannot be restored once spent. If that does not help, email us with the time of purchase and the order ID from your Apple or Google receipt.
 
 **How do I move my progress to a new device?**
-On the old device, turn on **Cloud save** in Settings (iPhone/iPad save to iCloud, Android saves to Google Play Games). On the new device, sign in with the same Apple or Google account, open the game and turn on Cloud save to download your save.
+On the old device, turn on **iCloud save** (Android: **Cloud save**) in Settings (iPhone/iPad save to iCloud, Android saves to Google Play Games). On the new device, sign in with the same Apple or Google account, open the game and turn on Cloud save to download your save.
 
 **How do I turn off full-screen ads?**
 Buy **Knight for Life**. Rewarded ads stay entirely optional: they only appear when you tap to watch one for a reward.
