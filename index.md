@@ -51,6 +51,15 @@ Endless mode and a daily challenge. Free, with ads (Google AdMob) and an optiona
 - [Support & Contact](escape/support.md)
 - [Privacy Policy](escape/privacy-policy.md)
 
+## Knight Shift — Thủ thành hoạt hình, giữ cổng lâu đài
+
+A cartoon castle-defence game: a knight holds the gate through each night, shooting and
+dragging weapons into place. Free, with ads (Google AdMob) and optional one-time purchases.
+
+- [Support & Contact](knight-shift/support.md)
+- [Privacy Policy](knight-shift/privacy-policy.md)
+- [Terms of Use](knight-shift/terms.md)
+
 ## Kop Kop — Sân chơi chạm cho trẻ 2–6
 
 An open-world touch playground for children aged 2–6: a hill, a sky, a meadow, a bear house,
