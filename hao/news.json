@@ -1,23 +1,70 @@
 {
- "schemaVersion": 1,
- "_note": "Feed remote cho Hảo — item cùng id sẽ override bản bundled trong app.",
- "items": [
-  {
-   "id": "content-3.0.1-rate",
-   "kind": "content",
-   "date": "2026-08-04",
-   "title": {
-    "vi": "Bạn thấy Hảo hữu ích? ❤️",
-    "en": "Enjoying Hảo? ❤️"
-   },
-   "summary": {
-    "vi": "Một đánh giá 5 sao giúp Hảo đến được với nhiều người học hơn",
-    "en": "A 5-star review helps Hảo reach more learners"
-   },
-   "body": {
-    "vi": "Một đánh giá 5 sao trên App Store giúp Hảo đến được với nhiều người học hơn. Cảm ơn bạn!",
-    "en": "A 5-star review on the App Store helps Hảo reach more learners. Thank you!"
-   }
-  }
- ]
+  "schemaVersion": 1,
+  "_note": "Feed remote cho Hảo — item cùng id sẽ override bản bundled trong app.",
+  "items": [
+    {
+      "id": "rel-3.3.1",
+      "kind": "release",
+      "version": "3.3.1",
+      "date": "2026-10-11",
+      "title": {
+        "vi": "Âm Hán-Việt chính xác hơn",
+        "en": "More accurate readings"
+      },
+      "summary": {
+        "vi": "Cập nhật âm Hán-Việt cho 74 thẻ từ, 18 chữ và cách đọc 大方.",
+        "en": "Updated Sino-Vietnamese readings for 74 vocabulary cards and 18 characters, plus the pronunciation of 大方."
+      },
+      "highlights": [
+        {
+          "vi": "Cập nhật âm Hán-Việt cho 74 thẻ từ",
+          "en": "Updated readings for 74 vocabulary cards"
+        },
+        {
+          "vi": "Bổ sung độ chính xác cho 18 chữ",
+          "en": "More accurate readings for 18 characters"
+        },
+        {
+          "vi": "Đọc 大方 (hào phóng) là dà fang",
+          "en": "Pronounce 大方 (generous) as dà fang"
+        }
+      ],
+      "groups": [
+        {
+          "label": "improvement",
+          "entries": [
+            {
+              "vi": "Âm Hán-Việt của 74 thẻ từ được đối chiếu lại để học và tra cứu chính xác hơn, như 使用 (sử dụng), 答案 (đáp án) và 要求 (yêu cầu).",
+              "en": "Sino-Vietnamese readings for 74 vocabulary cards have been cross-checked for more accurate study and lookup, including 使用, 答案 and 要求."
+            },
+            {
+              "vi": "Cập nhật âm Hán-Việt của 18 chữ trong phần tra cứu chữ Hán.",
+              "en": "Updated Sino-Vietnamese readings for 18 characters in character lookup."
+            },
+            {
+              "vi": "大方 với nghĩa “hào phóng” dùng pinyin dà fang, với âm fang thanh nhẹ.",
+              "en": "大方 meaning “generous” uses dà fang, with a neutral-tone fang."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "content-3.0.1-rate",
+      "kind": "content",
+      "date": "2026-08-04",
+      "title": {
+        "vi": "Bạn thấy Hảo hữu ích? ❤️",
+        "en": "Enjoying Hảo? ❤️"
+      },
+      "summary": {
+        "vi": "Một đánh giá 5 sao giúp Hảo đến được với nhiều người học hơn",
+        "en": "A 5-star review helps Hảo reach more learners"
+      },
+      "body": {
+        "vi": "Một đánh giá 5 sao trên App Store giúp Hảo đến được với nhiều người học hơn. Cảm ơn bạn!",
+        "en": "A 5-star review on the App Store helps Hảo reach more learners. Thank you!"
+      }
+    }
+  ]
 }
