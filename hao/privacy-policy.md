@@ -1,6 +1,6 @@
 # Privacy Policy — Hảo (好)
 
-**Last updated: 2026-10-06 · Contact: luuhongson157@gmail.com**
+**Last updated: 2026-10-26 · Contact: luuhongson157@gmail.com**
 
 ---
 
@@ -24,13 +24,11 @@ its own privacy terms. We do not store your voice on any server of ours.
 (Apple App Store or Google Play). We never see or store your payment details. To
 verify and restore purchases across devices we use **RevenueCat**, a purchase
 service provider: it receives an anonymous app user ID generated on your device and
-your in-app purchase history (product, date, store transaction ID). It contains no
-name, email or other personal details and is not used for advertising.
+your in-app purchase history (product, date, store transaction ID). This identifier is pseudonymous, not a name or email address, and is not used for advertising.
 
 **Notifications.** To send announcements (for example, a new release), the app uses
 **Firebase Cloud Messaging** (Google). Firebase issues a device push token and the app
-subscribes it to broad topics (all users, app language, Free or Pro). The token does
-not identify you personally. Study reminders are scheduled on your device and do not
+subscribes it to broad topics (all users, app language, Free or Pro). The token identifies an app installation for message delivery; it is not your name or email address. Study reminders are scheduled on your device and do not
 use this service. You can turn notifications off in your device settings.
 
 **News.** The "What's new" screen downloads a static file from our website (GitHub
@@ -39,15 +37,13 @@ Pages). Like any web request, the host sees your IP address; we do not log it.
 **Backup.** If you use the backup/restore feature, a backup file is created and
 saved or shared **by you**, to a location **you** choose. We do not receive it.
 
-**Advertising (Google AdMob).** The free version shows ads served by Google AdMob in a
-**non-personalised** form; the app does not ask for tracking permission (ATT) and does
-not use the advertising ID to track you across other apps. The AdMob SDK may collect
-device information (device type, operating system, truncated IP address) to serve ads
-and prevent fraud; see Google's policy at https://policies.google.com/technologies/ads.
-Users in the EU/UK are asked for consent and can change their choice in Settings ›
-Ad privacy. Hảo Pro has no ads and does not load the ad SDK. Apart from that, the app
-contains no third-party analytics; RevenueCat and Firebase are used only for the
-purposes above.
+**Advertising (Google AdMob).** The free version requests **non-personalised ads**. We do not use your learning history to personalise ads or sell your learning data. The app does not request permission to track activity across other companies' apps and websites, and does not use the IDFA for that purpose.
+
+Non-personalised advertising does not mean that no data is processed. Google AdMob may process IP addresses (including an estimate of general location), app- or device-related identifiers, ads viewed and ad interactions, and diagnostic/performance information to deliver ads, limit repetition, report aggregate ad performance and prevent fraud. See [Google's advertising policy](https://policies.google.com/technologies/ads). Cookies or other local storage may be used for these purposes. Regional consent choices do not grant permission to track you across other companies' apps and websites. Where required, Google UMP asks for consent; you can revisit choices in Settings > Ad privacy. If consent does not permit an ad request, no request is made. Hảo Pro does not request ads or initialize the Mobile Ads SDK for ad serving.
+
+**Our website.** Our Privacy Policy and support pages are static pages hosted on GitHub Pages. We do not add tracking cookies, advertising tags or a cookie-consent banner to these pages. Hosting and external resource providers receive normal web requests, including IP addresses.
+
+**Operational services.** The app does not include a separate behavioural analytics SDK. RevenueCat and Firebase process the operational data described above; advertising SDKs may process the advertising and diagnostic data described in this section.
 
 **Children.** The app is suitable for general audiences and does not knowingly
 collect personal information from children.
@@ -81,13 +77,12 @@ Store hoặc Google Play) xử lý. Chúng tôi không nhìn thấy hay lưu th�
 của bạn. Để xác thực và khôi phục giao dịch giữa các thiết bị, chúng tôi dùng
 **RevenueCat**, nhà cung cấp dịch vụ mua hàng: RevenueCat nhận một mã người dùng ẩn
 danh sinh trên máy và lịch sử mua trong app (sản phẩm, ngày, mã giao dịch của cửa
-hàng). Hồ sơ này không có tên, email hay thông tin cá nhân nào và không dùng cho
-quảng cáo.
+hàng). Mã này là định danh giả danh, không phải tên hoặc email, và không dùng cho quảng cáo.
 
 **Thông báo.** Để gửi thông báo (ví dụ khi có phiên bản mới), ứng dụng dùng
 **Firebase Cloud Messaging** (Google). Firebase cấp một mã thiết bị để nhận thông báo
 và ứng dụng đăng ký mã này vào các nhóm chung (mọi người dùng, ngôn ngữ, Free hoặc
-Pro). Mã này không định danh cá nhân bạn. Nhắc học được lên lịch ngay trên máy và
+Pro). Mã này nhận diện một lượt cài ứng dụng để chuyển thông báo, không phải tên hoặc email của bạn. Nhắc học được lên lịch ngay trên máy và
 không dùng dịch vụ này. Bạn có thể tắt thông báo trong cài đặt của máy.
 
 **Tin tức.** Màn "Có gì mới" tải một tệp tĩnh từ website của chúng tôi (GitHub
@@ -97,15 +92,13 @@ lại.
 **Sao lưu.** Nếu bạn dùng tính năng sao lưu/khôi phục, tệp sao lưu do **chính bạn**
 tạo và lưu/chia sẻ tới nơi **bạn** chọn. Chúng tôi không nhận tệp này.
 
-**Quảng cáo (Google AdMob).** Bản miễn phí hiển thị quảng cáo của Google AdMob ở dạng
-**không cá nhân hoá**; ứng dụng không xin quyền theo dõi (ATT) và không dùng mã quảng
-cáo để theo dõi bạn qua app khác. SDK AdMob có thể thu thập thông tin thiết bị (loại
-máy, hệ điều hành, địa chỉ IP rút gọn) để phục vụ quảng cáo và chống gian lận — xem
-chính sách của Google tại https://policies.google.com/technologies/ads. Người dùng ở
-EU/UK được hỏi ý kiến và có thể đổi lựa chọn trong Cài đặt › Quyền riêng tư quảng cáo.
-Hảo Pro không có quảng cáo và không nạp SDK quảng cáo. Ngoài ra ứng dụng không chứa
-công cụ phân tích bên thứ ba; RevenueCat và Firebase chỉ dùng cho các mục đích nêu
-trên.
+**Quảng cáo (Google AdMob).** Bản miễn phí yêu cầu **quảng cáo không cá nhân hoá**. Chúng tôi không dùng lịch sử học để cá nhân hoá quảng cáo hoặc bán dữ liệu học tập. Ứng dụng không xin quyền theo dõi hoạt động qua ứng dụng và website của công ty khác, và không dùng IDFA cho mục đích đó.
+
+Quảng cáo không cá nhân hoá không có nghĩa là không xử lý dữ liệu. Google AdMob có thể xử lý địa chỉ IP (bao gồm ước tính vị trí tương đối), mã liên quan đến ứng dụng hoặc thiết bị, quảng cáo đã xem và tương tác quảng cáo, thông tin chẩn đoán/hiệu năng để phân phối quảng cáo, giới hạn lặp lại, báo cáo hiệu quả tổng hợp và chống gian lận. Xem [chính sách quảng cáo của Google](https://policies.google.com/technologies/ads). Cookie hoặc bộ nhớ cục bộ có thể được dùng cho các mục đích này. Lựa chọn đồng ý theo quy định từng vùng không cấp quyền theo dõi qua ứng dụng và website của công ty khác. Khi cần, Google UMP hỏi ý kiến; bạn có thể đổi lựa chọn trong Cài đặt > Quyền riêng tư quảng cáo. Nếu consent không cho phép gửi yêu cầu quảng cáo, ứng dụng không gửi yêu cầu đó. Hảo Pro không yêu cầu quảng cáo hoặc khởi tạo SDK Mobile Ads để phân phối quảng cáo.
+
+**Website của chúng tôi.** Trang chính sách quyền riêng tư và hỗ trợ là các trang tĩnh trên GitHub Pages. Chúng tôi không thêm cookie theo dõi, thẻ quảng cáo hoặc hộp thoại đồng ý cookie vào các trang này. Nhà cung cấp hosting và tài nguyên bên ngoài nhận yêu cầu web thông thường, bao gồm địa chỉ IP.
+
+**Dịch vụ vận hành.** Ứng dụng không có SDK phân tích hành vi riêng. RevenueCat và Firebase xử lý dữ liệu vận hành đã nêu trên; SDK quảng cáo có thể xử lý dữ liệu quảng cáo và chẩn đoán được mô tả ở phần này.
 
 **Trẻ em.** Ứng dụng phù hợp với mọi đối tượng và không cố ý thu thập thông tin cá
 nhân của trẻ em.
