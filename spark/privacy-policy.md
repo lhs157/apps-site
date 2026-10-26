@@ -1,103 +1,121 @@
-# Privacy Policy — Spark
+# Chính sách quyền riêng tư / Privacy Policy — Spark
 
-**Last updated: 2026-06-06 · Contact: luuhongson157@gmail.com**
-
----
-
-## English
-
-Spark ("the app") is an offline-first English-learning and TOEIC-preparation app
-for Vietnamese speakers. We designed it to respect your privacy: **there is no
-account, no login, and we do not operate any server that collects your personal
-data.**
-
-**What stays on your device.** Your learning progress, review schedule (SRS),
-streaks, mistakes notebook, favorites, exam history, placement result, and settings
-are stored **locally on your device** (in the app's private storage). We do not
-transmit this data to us or any third party.
-
-**Microphone.** Speaking-practice features and the TOEIC Speaking & Writing exam
-use your microphone for speech recognition. Recognition is performed by your
-device's operating-system speech service; depending on your device, audio may be
-processed by that OS service (for example, Apple's Speech Recognition framework)
-under its own privacy terms. We do not store your voice on any server of ours.
-
-**Text-to-speech.** Vocabulary and listening content is read aloud using your
-device's built-in text-to-speech engine (e.g., Apple AVSpeechSynthesizer or Android
-TTS). No audio is sent to our servers.
-
-**Local notifications.** If you enable daily reminders, the app schedules
-notifications entirely on your device using the OS notification system. No
-notification data leaves your device.
-
-**Purchases.** If you buy "Spark Pro," the transaction is processed by the app
-store (Apple App Store or Google Play). We never see or store your payment details.
-The store provides us only with whether the purchase succeeded.
-
-**Backup.** If you use the backup/restore feature, a backup file is created and
-saved or shared **by you**, to a location **you** choose. We do not receive it.
-
-**No tracking / no ads.** This app contains no third-party analytics SDKs, no
-advertising networks, and no tracking.
-
-**Children.** The app is suitable for general audiences and does not knowingly
-collect personal information from children under 13.
-
-**TOEIC® Disclaimer.** TOEIC is a registered trademark of ETS. Spark is not
-affiliated with or endorsed by ETS. All exam-style content in the app is original
-material created by us to simulate the TOEIC format.
-
-**Changes.** We may update this policy; the "Last updated" date will change
-accordingly. Continued use of the app after changes constitutes acceptance of the
-updated policy.
-
-**Contact.** Questions or requests: luuhongson157@gmail.com
+**Ngày hiệu lực / Effective date:** 2026-10-26 (bản có quảng cáo AdMob / version with AdMob ads)
 
 ---
 
 ## Tiếng Việt
 
-Spark ("ứng dụng") là ứng dụng học tiếng Anh và luyện thi TOEIC cho người Việt,
-hoạt động ưu tiên ngoại tuyến. Chúng tôi tôn trọng quyền riêng tư của bạn:
-**không có tài khoản, không đăng nhập, và chúng tôi không vận hành máy chủ nào
-thu thập dữ liệu cá nhân của bạn.**
+### 1. Giới thiệu
 
-**Dữ liệu lưu trên thiết bị.** Tiến độ học, lịch ôn tập (SRS), chuỗi ngày học,
-sổ tay lỗi sai, mục yêu thích, lịch sử thi, kết quả xếp loại và cài đặt được lưu
-**cục bộ trên thiết bị của bạn**. Chúng tôi không gửi dữ liệu này đến bất kỳ đâu.
+Spark ("ứng dụng", "chúng tôi") là ứng dụng học tiếng Anh và luyện tập theo dạng TOEIC, có giao diện tiếng Anh và tiếng Việt. Chính sách này mô tả cách chúng tôi xử lý dữ liệu của bạn. Spark không yêu cầu tài khoản học tập và không vận hành máy chủ riêng để nhận tiến độ học. Dịch vụ giọng nói của thiết bị, cửa hàng ứng dụng và Google AdMob có cách xử lý dữ liệu riêng, được mô tả dưới đây. Khả năng mua hàng và quảng cáo phụ thuộc nền tảng, phiên bản và cấu hình phát hành.
 
-**Micro.** Tính năng luyện phát âm và phần thi TOEIC Speaking & Writing dùng micro
-để nhận dạng giọng nói. Việc nhận dạng do dịch vụ giọng nói của hệ điều hành thiết
-bị thực hiện (ví dụ: Apple Speech Recognition); tùy thiết bị, âm thanh có thể
-được dịch vụ đó xử lý theo điều khoản riêng của họ. Chúng tôi không lưu giọng nói
-của bạn trên bất kỳ máy chủ nào.
+### 2. Dữ liệu được lưu trữ — hoàn toàn trên thiết bị của bạn
 
-**Đọc văn bản (TTS).** Từ vựng và nội dung nghe được đọc bằng công cụ chuyển
-văn bản thành giọng nói tích hợp sẵn trong thiết bị. Không có âm thanh nào được
-gửi đến máy chủ của chúng tôi.
+Spark không yêu cầu tạo tài khoản và không kết nối đến máy chủ của chúng tôi. Mọi dữ liệu học tập đều được lưu **cục bộ trên thiết bị** của bạn:
 
-**Thông báo cục bộ.** Nếu bạn bật nhắc nhở hàng ngày, ứng dụng lên lịch thông báo
-hoàn toàn trên thiết bị của bạn. Không có dữ liệu thông báo nào rời khỏi thiết bị.
+- Tiến độ học (bài đã hoàn thành, XP, chuỗi ngày học)
+- Lịch sử ôn tập SRS (flashcard, lịch lặp lại)
+- Kết quả bài thi thử
+- Từ yêu thích và sổ tay lỗi sai
+- Cài đặt (ngôn ngữ giao diện, chế độ tối, giọng đọc, giờ nhắc nhở)
 
-**Mua hàng.** Nếu bạn mua "Spark Pro," giao dịch do Apple App Store hoặc Google
-Play xử lý. Chúng tôi không nhìn thấy hay lưu thông tin thanh toán của bạn; cửa
-hàng chỉ cho biết giao dịch thành công hay không.
+Nếu bạn xuất hoặc chia sẻ bản sao lưu, file có thể chứa dữ liệu học tập và bản ghi âm đã lưu. Nơi nhận do bạn chọn sẽ xử lý file theo chính sách riêng; chúng tôi không tự nhận bản sao. Hãy giữ file riêng tư. Dữ liệu trong ứng dụng được giữ đến khi bạn xoá qua ứng dụng/hệ điều hành; bản sao đã xuất cần được xoá riêng. Gỡ ứng dụng hoặc xoá dữ liệu có thể làm mất dữ liệu chưa sao lưu.
 
-**Sao lưu.** Nếu bạn dùng tính năng sao lưu/khôi phục, tệp sao lưu do **chính
-bạn** tạo và lưu/chia sẻ tới nơi **bạn** chọn. Chúng tôi không nhận tệp này.
+Dữ liệu này được lưu bằng SharedPreferences và cơ sở dữ liệu trên thiết bị (SQLite). **Chúng tôi không có quyền truy cập vào dữ liệu này.**
 
-**Không theo dõi / không quảng cáo.** Ứng dụng không chứa SDK phân tích bên thứ
-ba, không quảng cáo, không công cụ theo dõi.
+### 3. Quảng cáo (Google AdMob) — chỉ ở bản miễn phí
 
-**Trẻ em.** Ứng dụng phù hợp với mọi đối tượng và không cố ý thu thập thông tin
-cá nhân của trẻ em dưới 13 tuổi.
+- Người dùng **miễn phí** thấy quảng cáo do **Google AdMob** cung cấp: quảng cáo toàn màn hình sau khi kết thúc một số bài/phiên ôn/bài thi, quảng cáo có thưởng khi bạn tự chọn xem để mở tạm một bài hoặc một đề trong 24 giờ, và quảng cáo trong trang Từ điển. Không có quảng cáo trong lúc đang học, đang thi hay trong phần giới thiệu ban đầu.
+- **Người đã mua Spark Pro không thấy quảng cáo**, và luồng quảng cáo của ứng dụng được tắt cho người dùng Pro.
+- Mọi yêu cầu quảng cáo là **quảng cáo không cá nhân hoá** (non-personalized ads): Spark không dùng định danh quảng cáo (IDFA) để theo dõi bạn qua ứng dụng/trang web khác và **không hiện hộp thoại "cho phép theo dõi" (ATT)**.
+- Ở những khu vực luật yêu cầu (như EEA, Vương quốc Anh, Thuỵ Sĩ), Spark dùng nền tảng đồng ý **Google User Messaging Platform (UMP)** để hỏi sự đồng ý trước khi tải quảng cáo; bạn có thể thay đổi lựa chọn sau đó.
+- Để phân phát quảng cáo, đo lượt hiển thị và chống gian lận, Google có thể xử lý một số dữ liệu kỹ thuật từ thiết bị (ví dụ: địa chỉ IP dùng để suy ra vị trí gần đúng, tương tác trong ứng dụng/quảng cáo, thông tin chẩn đoán và định danh thiết bị hoặc tài khoản). Dữ liệu này do Google xử lý theo [chính sách quyền riêng tư của Google](https://policies.google.com/privacy) và [cách Google sử dụng dữ liệu từ ứng dụng đối tác](https://policies.google.com/technologies/partner-sites). Việc dùng quảng cáo không cá nhân hoá không có nghĩa là Google không xử lý dữ liệu kỹ thuật. Xem thêm [công bố dữ liệu của Google Mobile Ads SDK](https://developers.google.com/admob/android/privacy/play-data-disclosure).
+- Spark **không tích hợp** SDK phân tích (analytics) nào, và chúng tôi **không chia sẻ, không bán** dữ liệu học tập của bạn cho bên thứ ba.
 
-**Tuyên bố miễn trừ TOEIC®.** TOEIC là nhãn hiệu đã đăng ký của ETS. Spark không
-có mối liên hệ hay được chứng nhận bởi ETS. Toàn bộ câu hỏi kiểu TOEIC trong ứng
-dụng là nội dung gốc do chúng tôi tự biên soạn, mô phỏng theo định dạng TOEIC.
+### 4. Microphone và nhận diện giọng nói
 
-**Thay đổi.** Chính sách có thể được cập nhật; ngày "Cập nhật lần cuối" sẽ thay
-đổi tương ứng. Tiếp tục sử dụng ứng dụng sau khi thay đổi đồng nghĩa với việc
-chấp nhận chính sách mới.
+Spark có thể yêu cầu quyền truy cập microphone để hỗ trợ các bài luyện đọc to và phát âm. Bản ghi âm và bài làm được lưu trong vùng lưu trữ của ứng dụng để nghe lại hoặc xem lại. Spark yêu cầu chế độ nhận diện trên thiết bị khi dùng dịch vụ nhận diện giọng nói; khả năng hỗ trợ phụ thuộc hệ điều hành và thiết bị. Spark không tải bản ghi âm lên máy chủ của chúng tôi. Bạn có thể từ chối cấp quyền microphone; các tính năng không liên quan đến phát âm vẫn hoạt động bình thường.
 
-**Liên hệ.** Mọi thắc mắc: luuhongson157@gmail.com
+### 5. Text-to-Speech (TTS)
+
+Spark sử dụng bộ đọc văn bản tích hợp sẵn của hệ điều hành (iOS/Android) để phát âm từ vựng và đoạn hội thoại theo giọng US hoặc UK. Bộ đọc hoặc giọng đọc bạn chọn có thể cần tải dữ liệu hoặc xử lý qua mạng theo cài đặt và chính sách của nhà cung cấp. Spark không gửi văn bản đến máy chủ riêng của chúng tôi.
+
+### 6. Thông báo cục bộ
+
+Spark có thể gửi thông báo nhắc nhở học hàng ngày thông qua hệ thống thông báo cục bộ của thiết bị (không qua máy chủ đẩy). Thông báo này là tùy chọn và có thể tắt hoặc thay đổi giờ trong phần Cài đặt.
+
+### 7. Thanh toán trong ứng dụng
+
+Gói **Spark Pro** (mua một lần, không tiêu hao) được xử lý hoàn toàn bởi Apple App Store hoặc Google Play. Chúng tôi **không nhận, không lưu** thông tin thẻ ngân hàng hay chi tiết thanh toán của bạn. Hãy xem chính sách quyền riêng tư của Apple và Google để biết thêm về cách họ xử lý giao dịch.
+
+### 8. Quyền riêng tư trẻ em
+
+Spark dành cho người học từ 13 tuổi trở lên và không hướng tới trẻ em dưới 13 tuổi. Dữ liệu kỹ thuật do dịch vụ bên thứ ba xử lý được mô tả trong các mục trên. Quảng cáo trong bản miễn phí là quảng cáo không cá nhân hoá.
+
+### 9. Thay đổi chính sách
+
+Nếu chính sách này thay đổi, chúng tôi sẽ cập nhật ngày hiệu lực ở đầu tài liệu. Chúng tôi khuyến khích bạn xem lại định kỳ.
+
+### 10. Liên hệ
+
+Nếu có câu hỏi về chính sách này, vui lòng liên hệ: **luuhongson157@gmail.com**
+
+---
+
+## English
+
+### 1. Introduction
+
+Spark ("the app", "we", "us") is an English-learning and TOEIC-style practice app with English and Vietnamese interfaces. This policy explains how we handle your data. Spark does not require a learning account or operate a server that receives your study progress. Device voice services, app stores and Google AdMob have their own data practices, described below. Purchase and advertising availability depends on the platform, version and release configuration.
+
+### 2. Data Stored — Only on Your Device
+
+Spark does not require an account and does not connect to our servers. All learning data is stored **locally on your device**:
+
+- Study progress (completed lessons, XP, streaks)
+- SRS review history (flashcard scheduling)
+- Practice test results
+- Saved favorites and mistakes notebook
+- Settings (UI language, dark mode, voice preference, reminder time)
+
+If you export or share a backup, the file may include study data and saved recordings. Your chosen destination handles it under its own policy; we do not automatically receive a copy. Keep backups private. App data remains until you remove it through the app or operating system; exported copies must be deleted separately. Uninstalling or clearing app data may remove data that has not been backed up.
+
+This data is stored using SharedPreferences and an on-device SQLite database. **We have no access to this data.**
+
+### 3. Advertising (Google AdMob) — free version only
+
+- **Free** users see ads served by **Google AdMob**: a full-screen ad after some finished lessons, review sessions or practice tests; a rewarded ad you may choose to watch to open one lesson or one test for 24 hours; and ads on the Dictionary page. There are no ads while you study, take a test, or go through onboarding.
+- **Spark Pro buyers see no ads**, and the app disables its advertising flow for Pro users.
+- Every ad request is for **non-personalized ads**: Spark does not use the advertising identifier (IDFA) to track you across other apps or websites and **does not show the App Tracking Transparency prompt**.
+- Where the law requires it (e.g. the EEA, the UK, Switzerland), Spark uses Google's **User Messaging Platform (UMP)** to ask for consent before loading ads; you can change your choice later.
+- To serve ads, count impressions and prevent fraud, Google may process some technical device data (e.g. IP addresses used to infer approximate location, app/ad interactions, diagnostics, and device or account identifiers). Google handles this data under the [Google Privacy Policy](https://policies.google.com/privacy) and [How Google uses information from sites or apps that use its services](https://policies.google.com/technologies/partner-sites). Non-personalized advertising does not mean that Google processes no technical data. See the [Google Mobile Ads SDK data disclosure](https://developers.google.com/admob/android/privacy/play-data-disclosure).
+- Spark includes **no analytics SDK**, and we do **not share or sell** your learning data to any third party.
+
+### 4. Microphone and Speech Recognition
+
+Spark may request microphone access to support read-aloud and pronunciation practice exercises. Recordings and responses are stored in app storage for playback or review. Spark requests on-device recognition when using the system speech-recognition service; support depends on your operating system and device. Spark does not upload recordings to a server operated by us. You may decline the microphone permission; all features unrelated to speaking practice will continue to work normally.
+
+### 5. Text-to-Speech (TTS)
+
+Spark uses the operating system's built-in text-to-speech engine (iOS/Android) to read vocabulary words and listening transcripts aloud in US or UK English. Your selected engine or voice may download data or use network processing according to its settings and provider policy. Spark does not send this text to a server operated by us.
+
+### 6. Local Notifications
+
+Spark can send a daily study reminder via the device's local notification system (not via a push server). This is optional and can be disabled or rescheduled at any time in Settings.
+
+### 7. In-App Purchases
+
+The **Spark Pro** upgrade (one-time, non-consumable purchase) is processed entirely by the Apple App Store or Google Play. We **do not receive or store** your payment card details or billing information. Please refer to Apple's and Google's privacy policies for information on how they handle transactions.
+
+### 8. Children's Privacy
+
+Spark is intended for learners aged 13 and over and is not directed to children under 13. The sections above describe technical data processed by third-party services. Ads in the free version are non-personalized.
+
+### 9. Changes to This Policy
+
+If this policy changes, we will update the effective date at the top of this document. We encourage you to review it periodically.
+
+### 10. Contact
+
+If you have questions about this policy, please contact: **luuhongson157@gmail.com**
