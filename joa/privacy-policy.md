@@ -1,6 +1,6 @@
 # Privacy Policy — Joa (좋아)
 
-**Last updated: 2026-10-24 · Contact: luuhongson157@gmail.com**
+**Last updated: 2026-10-28 · Contact: luuhongson157@gmail.com**
 
 ---
 
@@ -16,7 +16,7 @@ Joa ("the app") is an offline-first Korean-learning app. We designed it to respe
 
 **Notifications.** To send announcements (for example, a new release), the app uses **Firebase Cloud Messaging** (Google). Firebase issues a device push token and the app subscribes it to broad topics (all users, app language, Free or Pro). The token does not identify you personally. Study reminders are scheduled on your device and do not use this service. You can turn notifications off in your device settings.
 
-**Advertising (Google AdMob).** The free version shows ads served by Google AdMob in a **non-personalised** form; the app does not ask for tracking permission (ATT) and does not use the advertising ID to track you across other apps. The AdMob SDK may collect device information (device type, operating system, truncated IP address) to serve ads and prevent fraud; see Google's policy at https://policies.google.com/technologies/ads. Users in the EU/UK are asked for consent and can change their choice in the app's ad privacy settings. Joa Pro has no ads and does not load the ad SDK. Apart from that, the app contains no third-party analytics; RevenueCat and Firebase are used only for the purposes above.
+**Advertising (Google AdMob).** The free version shows ads served by Google AdMob in a **non-personalised** form; on iOS the app asks for App Tracking Transparency permission after any regional consent choice, and the AdMob SDK may use the advertising identifier (IDFA) for advertising measurement only if you allow it. If you deny or restrict permission, tracking is not permitted and eligible non-personalised or limited ads may still be shown; your choice does not change any app feature. You can change it at any time in iOS Settings › Privacy & Security › Tracking. The AdMob SDK may collect device information (device type, operating system, truncated IP address) to serve ads and prevent fraud; see Google's policy at https://policies.google.com/technologies/ads. Users in the EU/UK are asked for consent and can change their choice in the app's ad privacy settings. Joa Pro has no ads and does not load the ad SDK. Apart from that, the app contains no third-party analytics; RevenueCat and Firebase are used only for the purposes above.
 
 **Backup and sharing.** If you export your data or share a card or your progress, the file or content is created and saved or shared **by you**, to a place **you** choose. We do not receive it.
 
@@ -42,7 +42,7 @@ Joa ("ứng dụng") là ứng dụng học tiếng Hàn hoạt động ưu tiê
 
 **Thông báo.** Để gửi thông báo (ví dụ khi có phiên bản mới), ứng dụng dùng **Firebase Cloud Messaging** (Google). Firebase cấp một mã thiết bị để nhận thông báo và ứng dụng đăng ký mã này vào các nhóm chung (mọi người dùng, ngôn ngữ, Free hoặc Pro). Mã này không định danh cá nhân bạn. Nhắc học được lên lịch ngay trên máy và không dùng dịch vụ này. Bạn có thể tắt thông báo trong cài đặt của máy.
 
-**Quảng cáo (Google AdMob).** Bản miễn phí hiển thị quảng cáo của Google AdMob ở dạng **không cá nhân hoá**; ứng dụng không xin quyền theo dõi (ATT) và không dùng mã quảng cáo để theo dõi bạn qua ứng dụng khác. SDK AdMob có thể thu thập thông tin thiết bị (loại máy, hệ điều hành, địa chỉ IP rút gọn) để phục vụ quảng cáo và chống gian lận — xem chính sách của Google tại https://policies.google.com/technologies/ads. Người dùng ở EU/UK được hỏi ý kiến và có thể đổi lựa chọn trong mục quyền riêng tư quảng cáo trong ứng dụng. Joa Pro không có quảng cáo và không nạp SDK quảng cáo. Ngoài ra ứng dụng không chứa công cụ phân tích bên thứ ba; RevenueCat và Firebase chỉ dùng cho các mục đích nêu trên.
+**Quảng cáo (Google AdMob).** Bản miễn phí hiển thị quảng cáo của Google AdMob ở dạng **không cá nhân hoá**; trên iOS, ứng dụng xin quyền App Tracking Transparency sau bước lựa chọn đồng ý theo vùng (nếu có), và SDK AdMob chỉ có thể dùng mã quảng cáo (IDFA) để đo lường quảng cáo khi bạn cho phép. Nếu bạn từ chối hoặc quyền bị hạn chế, ứng dụng không được theo dõi và quảng cáo không cá nhân hoá hoặc quảng cáo hạn chế đủ điều kiện vẫn có thể hiển thị; lựa chọn này không làm thay đổi tính năng nào của ứng dụng. Bạn có thể đổi bất cứ lúc nào trong Cài đặt iOS › Quyền riêng tư & Bảo mật › Theo dõi. SDK AdMob có thể thu thập thông tin thiết bị (loại máy, hệ điều hành, địa chỉ IP rút gọn) để phục vụ quảng cáo và chống gian lận — xem chính sách của Google tại https://policies.google.com/technologies/ads. Người dùng ở EU/UK được hỏi ý kiến và có thể đổi lựa chọn trong mục quyền riêng tư quảng cáo trong ứng dụng. Joa Pro không có quảng cáo và không nạp SDK quảng cáo. Ngoài ra ứng dụng không chứa công cụ phân tích bên thứ ba; RevenueCat và Firebase chỉ dùng cho các mục đích nêu trên.
 
 **Sao lưu và chia sẻ.** Nếu bạn xuất dữ liệu hoặc chia sẻ một thẻ hay tiến độ, tệp hoặc nội dung do **chính bạn** tạo và lưu/chia sẻ tới nơi **bạn** chọn. Chúng tôi không nhận được.
 
