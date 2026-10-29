@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "apps": {
+    "hao": {
+      "family": "language",
+      "name": { "vi": "Hảo", "en": "Hảo" },
+      "tagline": { "vi": "Học tiếng Trung & luyện thi HSK", "en": "Learn Chinese & prepare for the HSK" },
+      "icon": "promo/img/hao-icon-v1.webp",
+      "ios": { "appStoreId": "6776048143", "scheme": "hao", "listed": true },
+      "android": { "package": "com.haoapp.hao", "listed": true }
+    },
+    "suki": {
+      "family": "language",
+      "name": { "vi": "Suki", "en": "Suki" },
+      "tagline": { "vi": "Học tiếng Nhật & luyện thi JLPT", "en": "Learn Japanese & prepare for the JLPT" },
+      "icon": "promo/img/suki-icon-v1.webp",
+      "ios": { "appStoreId": "6820845049", "scheme": "suki", "listed": false },
+      "android": { "package": "com.sukiapp.suki", "listed": false }
+    },
+    "joa": {
+      "family": "language",
+      "name": { "vi": "Joa", "en": "Joa" },
+      "tagline": { "vi": "Học tiếng Hàn từ bảng chữ Hangul", "en": "Learn Korean, starting with Hangul" },
+      "icon": "promo/img/joa-icon-v1.webp",
+      "ios": { "appStoreId": "6821789007", "scheme": "joa", "listed": false },
+      "android": { "package": "com.joakorean.app", "listed": false }
+    },
+    "spark": {
+      "family": "language",
+      "name": { "vi": "Spark", "en": "Spark" },
+      "tagline": { "vi": "Học tiếng Anh & luyện thi TOEIC", "en": "Learn English & prepare for the TOEIC" },
+      "icon": "promo/img/spark-icon-v1.webp",
+      "ios": { "appStoreId": "6777419698", "scheme": "spark", "listed": true },
+      "android": { "package": "com.lhs157.spark", "listed": false }
+    }
+  }
+}
