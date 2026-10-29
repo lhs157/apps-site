@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 1,
+  "enabled": true,
+  "refreshHours": 6,
+  "global": {
+    "minDaysSinceInstall": 3,
+    "minLaunches": 5,
+    "minutesAfterInterstitial": 10,
+    "minutesAfterPushOpen": 10,
+    "hideForPro": [
+      "popup",
+      "native"
+    ]
+  },
+  "placements": {
+    "popup": {
+      "trigger": "after_session",
+      "cooldownHours": 168,
+      "maxPerWeek": 1,
+      "chance": 1.0
+    },
+    "settings": {
+      "title": {
+        "vi": "Học ngôn ngữ khác",
+        "en": "Learn another language"
+      },
+      "apps": [
+        "hao",
+        "suki",
+        "spark"
+      ]
+    }
+  },
+  "campaigns": [
+    {
+      "id": "hao-in-joa-2026-11",
+      "app": "hao",
+      "placements": [
+        "popup"
+      ],
+      "platforms": [
+        "ios",
+        "android"
+      ],
+      "locales": [
+        "vi",
+        "en"
+      ],
+      "rolloutPercent": 100,
+      "weight": 1,
+      "maxImpressions": 3,
+      "stopAfterDismiss": 1,
+      "stopAfterClick": true,
+      "skipIfInstalled": true,
+      "banner": {
+        "popup": "promo/img/hao-popup-v1.webp"
+      },
+      "label": {
+        "vi": "CÙNG NHÀ PHÁT TRIỂN",
+        "en": "From the same developer"
+      },
+      "headline": {
+        "vi": "Tiếng Trung dễ hơn bạn nghĩ",
+        "en": "Chinese is easier than it looks"
+      },
+      "body": {
+        "vi": "Hảo giúp bạn nhớ chữ Hán qua âm Hán Việt và luyện thi HSK từng cấp một.",
+        "en": "Hảo helps you learn characters step by step and get ready for the HSK."
+      },
+      "cta": {
+        "vi": "Tải {app}",
+        "en": "Get {app}"
+      },
+      "ctaInstalled": {
+        "vi": "Mở {app}",
+        "en": "Open {app}"
+      },
+      "dismiss": {
+        "vi": "Để sau",
+        "en": "Not now"
+      },
+      "startAt": "2026-11-01T00:00:00+07:00"
+    },
+    {
+      "id": "suki-in-joa-2026-11",
+      "app": "suki",
+      "placements": [
+        "popup"
+      ],
+      "platforms": [
+        "ios",
+        "android"
+      ],
+      "locales": [
+        "vi",
+        "en"
+      ],
+      "rolloutPercent": 100,
+      "weight": 1,
+      "maxImpressions": 3,
+      "stopAfterDismiss": 1,
+      "stopAfterClick": true,
+      "skipIfInstalled": true,
+      "banner": {
+        "popup": "promo/img/suki-popup-v1.webp"
+      },
+      "label": {
+        "vi": "CÙNG NHÀ PHÁT TRIỂN",
+        "en": "From the same developer"
+      },
+      "headline": {
+        "vi": "Muốn đọc được tiếng Nhật?",
+        "en": "Want to read Japanese?"
+      },
+      "body": {
+        "vi": "Từ bảng chữ kana đến luyện thi JLPT, mỗi ngày một bài ngắn.",
+        "en": "Suki takes you from kana to JLPT prep, a few minutes a day."
+      },
+      "cta": {
+        "vi": "Tải {app}",
+        "en": "Get {app}"
+      },
+      "ctaInstalled": {
+        "vi": "Mở {app}",
+        "en": "Open {app}"
+      },
+      "dismiss": {
+        "vi": "Để sau",
+        "en": "Not now"
+      },
+      "startAt": "2026-11-01T00:00:00+07:00"
+    },
+    {
+      "id": "spark-in-joa-2026-11",
+      "app": "spark",
+      "placements": [
+        "popup"
+      ],
+      "platforms": [
+        "ios",
+        "android"
+      ],
+      "locales": [
+        "vi",
+        "en"
+      ],
+      "rolloutPercent": 100,
+      "weight": 1,
+      "maxImpressions": 3,
+      "stopAfterDismiss": 1,
+      "stopAfterClick": true,
+      "skipIfInstalled": true,
+      "banner": {
+        "popup": "promo/img/spark-popup-v1.webp"
+      },
+      "label": {
+        "vi": "CÙNG NHÀ PHÁT TRIỂN",
+        "en": "From the same developer"
+      },
+      "headline": {
+        "vi": "Đang cần điểm TOEIC?",
+        "en": "Studying for the TOEIC?"
+      },
+      "body": {
+        "vi": "Mỗi ngày một bài ngắn, luyện cả nghe, đọc và từ vựng cho kỳ thi TOEIC.",
+        "en": "Short daily lessons that cover listening, reading and vocabulary for the test."
+      },
+      "cta": {
+        "vi": "Tải {app}",
+        "en": "Get {app}"
+      },
+      "ctaInstalled": {
+        "vi": "Mở {app}",
+        "en": "Open {app}"
+      },
+      "dismiss": {
+        "vi": "Để sau",
+        "en": "Not now"
+      },
+      "startAt": "2026-11-01T00:00:00+07:00"
+    }
+  ]
+}
