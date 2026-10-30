@@ -85,6 +85,9 @@ def check_catalog(cat):
     apps = cat.get("apps", {})
     if cat.get("schemaVersion") != 1:
         err("catalog.json", "schemaVersion phải là 1")
+    pt = (cat.get("ios") or {}).get("providerToken")
+    if pt is not None and not re.fullmatch(r"\d{5,12}", str(pt)):
+        err("catalog.json", "ios.providerToken phải là chuỗi số (pt= của App Store Connect)")
     for aid, a in apps.items():
         w = f"catalog.{aid}"
         for k in ("name", "tagline"):

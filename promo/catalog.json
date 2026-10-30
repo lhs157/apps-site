@@ -1,5 +1,6 @@
 {
   "schemaVersion": 1,
+  "ios": { "providerToken": "121590369" },
   "apps": {
     "hao": {
       "family": "language",
