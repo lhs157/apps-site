@@ -1,0 +1,463 @@
+{
+  "schemaVersion": 1,
+  "enabled": false,
+  "refreshHours": 6,
+  "global": {
+    "minDaysSinceInstall": 3,
+    "minLaunches": 5,
+    "minutesAfterInterstitial": 10,
+    "minutesAfterPushOpen": 10,
+    "hideForPro": [
+      "popup",
+      "native"
+    ]
+  },
+  "placements": {
+    "popup": {
+      "trigger": "after_session",
+      "cooldownHours": 168,
+      "maxPerWeek": 1,
+      "chance": 1.0
+    },
+    "settings": {
+      "title": {
+        "vi": "Game hay khác",
+        "en": "More games",
+        "ja": "ほかのゲーム",
+        "zh-Hans": "更多游戏",
+        "es": "Más juegos",
+        "de": "Weitere Spiele",
+        "fr": "Autres jeux"
+      },
+      "apps": [
+        "knightshift",
+        "koko",
+        "catchmefox",
+        "gridlock",
+        "pourpop"
+      ]
+    }
+  },
+  "campaigns": [
+    {
+      "id": "knightshift-in-afloat-2026-11",
+      "app": "knightshift",
+      "placements": [
+        "popup"
+      ],
+      "platforms": [
+        "ios",
+        "android"
+      ],
+      "locales": [
+        "vi",
+        "en",
+        "zh-Hans",
+        "ja",
+        "de",
+        "fr",
+        "es"
+      ],
+      "rolloutPercent": 100,
+      "weight": 1,
+      "maxImpressions": 3,
+      "stopAfterDismiss": 1,
+      "stopAfterClick": true,
+      "skipIfInstalled": true,
+      "banner": {
+        "popup": "promo/img/knightshift-popup-v1.webp"
+      },
+      "label": {
+        "vi": "CÙNG NHÀ PHÁT TRIỂN",
+        "en": "From the same developer",
+        "zh-Hans": "同一开发者出品",
+        "ja": "同じ開発者のゲーム",
+        "de": "Vom selben Entwickler",
+        "fr": "Du même développeur",
+        "es": "Del mismo desarrollador"
+      },
+      "headline": {
+        "vi": "Giữ nổi cổng thành tới sáng?",
+        "en": "Can you hold the gate till dawn?",
+        "zh-Hans": "你能守住城门到天亮吗？",
+        "ja": "夜明けまで門を守れるか？",
+        "de": "Hältst du das Tor bis zum Morgen?",
+        "fr": "Tiendras-tu jusqu'à l'aube ?",
+        "es": "¿Resistirás hasta el amanecer?"
+      },
+      "body": {
+        "vi": "Đêm nào goblin cũng kéo tới. Bắn nỏ, đặt bẫy, đổi vũ khí, đừng để cổng thất thủ.",
+        "en": "Goblins storm the walls every night. Shoot, set traps and swap weapons to keep them out.",
+        "zh-Hans": "哥布林每晚都来攻城。射击、布陷阱、切换武器，别让城门失守。",
+        "ja": "夜ごとゴブリンが押し寄せる城門。射撃と罠、武器の切り替えで朝まで守り抜こう。",
+        "de": "Jede Nacht stürmen Goblins die Mauer. Schieß, stell Fallen, wechsle Waffen und halte das Tor.",
+        "fr": "Chaque nuit, les gobelins attaquent. Tire, pose des pièges, change d'arme et tiens la porte.",
+        "es": "Cada noche llegan los goblins. Dispara, pon trampas y cambia de arma para defender la puerta."
+      },
+      "cta": {
+        "vi": "Tải {app}",
+        "en": "Get {app}",
+        "zh-Hans": "获取 {app}",
+        "ja": "{app}を入手",
+        "de": "{app} laden",
+        "fr": "Obtenir {app}",
+        "es": "Descargar {app}"
+      },
+      "ctaInstalled": {
+        "vi": "Mở {app}",
+        "en": "Open {app}",
+        "zh-Hans": "打开 {app}",
+        "ja": "{app}を開く",
+        "de": "{app} öffnen",
+        "fr": "Ouvrir {app}",
+        "es": "Abrir {app}"
+      },
+      "dismiss": {
+        "vi": "Để sau",
+        "en": "Not now",
+        "zh-Hans": "以后再说",
+        "ja": "あとで",
+        "de": "Später",
+        "fr": "Plus tard",
+        "es": "Ahora no"
+      },
+      "startAt": "2026-11-01T00:00:00+07:00"
+    },
+    {
+      "id": "koko-in-afloat-2026-11",
+      "app": "koko",
+      "placements": [
+        "popup"
+      ],
+      "platforms": [
+        "ios",
+        "android"
+      ],
+      "locales": [
+        "vi",
+        "en",
+        "zh-Hans",
+        "ja",
+        "de",
+        "fr",
+        "es"
+      ],
+      "rolloutPercent": 100,
+      "weight": 1,
+      "maxImpressions": 3,
+      "stopAfterDismiss": 1,
+      "stopAfterClick": true,
+      "skipIfInstalled": true,
+      "banner": {
+        "popup": "promo/img/koko-popup-v1.webp"
+      },
+      "label": {
+        "vi": "CÙNG NHÀ PHÁT TRIỂN",
+        "en": "From the same developer",
+        "zh-Hans": "同一开发者出品",
+        "ja": "同じ開発者のゲーム",
+        "de": "Vom selben Entwickler",
+        "fr": "Du même développeur",
+        "es": "Del mismo desarrollador"
+      },
+      "headline": {
+        "vi": "Cho bé một góc chơi dịu dàng",
+        "en": "Calm play for your little one",
+        "zh-Hans": "给孩子一个安静的小天地",
+        "ja": "お子さまに、やさしい遊び場を",
+        "de": "Etwas Ruhiges für dein Kind",
+        "fr": "Un coin paisible pour ton enfant",
+        "es": "Un rato tranquilo para tu peque"
+      },
+      "body": {
+        "vi": "Thế giới vẽ tay, bé chạm đâu cũng có lời đáp. Không quảng cáo, không cần biết đọc.",
+        "en": "A hand-painted world where every tap gets an answer. No ads, nothing to read, no rush.",
+        "zh-Hans": "点哪里都有回应的手绘世界。没有广告，不用识字，慢慢玩。",
+        "ja": "タッチするたびに答えが返ってくる手描きの世界。広告なし、字が読めなくても、急がなくても大丈夫。",
+        "de": "Eine handgemalte Welt, in der jedes Tippen eine Antwort bekommt. Ohne Werbung, ohne Lesen.",
+        "fr": "Un monde peint à la main où chaque geste a une réponse. Pas de pub, rien à lire.",
+        "es": "Un mundo pintado a mano donde cada toque tiene respuesta. Sin anuncios ni nada que leer."
+      },
+      "cta": {
+        "vi": "Tải {app}",
+        "en": "Get {app}",
+        "zh-Hans": "获取 {app}",
+        "ja": "{app}を入手",
+        "de": "{app} laden",
+        "fr": "Obtenir {app}",
+        "es": "Descargar {app}"
+      },
+      "ctaInstalled": {
+        "vi": "Mở {app}",
+        "en": "Open {app}",
+        "zh-Hans": "打开 {app}",
+        "ja": "{app}を開く",
+        "de": "{app} öffnen",
+        "fr": "Ouvrir {app}",
+        "es": "Abrir {app}"
+      },
+      "dismiss": {
+        "vi": "Để sau",
+        "en": "Not now",
+        "zh-Hans": "以后再说",
+        "ja": "あとで",
+        "de": "Später",
+        "fr": "Plus tard",
+        "es": "Ahora no"
+      },
+      "startAt": "2026-11-01T00:00:00+07:00"
+    },
+    {
+      "id": "catchmefox-in-afloat-2026-11",
+      "app": "catchmefox",
+      "placements": [
+        "popup"
+      ],
+      "platforms": [
+        "ios",
+        "android"
+      ],
+      "locales": [
+        "vi",
+        "en",
+        "zh-Hans",
+        "ja",
+        "de",
+        "fr",
+        "es"
+      ],
+      "rolloutPercent": 100,
+      "weight": 1,
+      "maxImpressions": 3,
+      "stopAfterDismiss": 1,
+      "stopAfterClick": true,
+      "skipIfInstalled": true,
+      "banner": {
+        "popup": "promo/img/catchmefox-popup-v1.webp"
+      },
+      "label": {
+        "vi": "CÙNG NHÀ PHÁT TRIỂN",
+        "en": "From the same developer",
+        "zh-Hans": "同一开发者出品",
+        "ja": "同じ開発者のゲーム",
+        "de": "Vom selben Entwickler",
+        "fr": "Du même développeur",
+        "es": "Del mismo desarrollador"
+      },
+      "headline": {
+        "vi": "Thỏ con đấu trí với bầy cáo",
+        "en": "Outwit a pack of hungry foxes",
+        "zh-Hans": "小兔子智斗狐狸群",
+        "ja": "腹ペコキツネの群れを出し抜け！",
+        "de": "Ein Hase gegen viele Füchse",
+        "fr": "Berne les renards affamés",
+        "es": "Burla a los zorros hambrientos"
+      },
+      "body": {
+        "vi": "Hái dâu rồi chạy về hang. Tính từng bước để dụ bầy cáo đâm sầm vào nhau.",
+        "en": "Grab the strawberry and dash home. Trick the foxes into crashing into each other.",
+        "zh-Hans": "摘到草莓就往洞里跑。引狐狸互相撞上，一步一步斗智斗勇。",
+        "ja": "イチゴを摘んで巣穴へ帰ろう。キツネ同士をぶつけて足止めする、一手ずつの頭脳戦。",
+        "de": "Schnapp dir die Erdbeere und ab in den Bau. Lass die Füchse ineinanderrennen.",
+        "fr": "Cueille la fraise et file au terrier. Fais se percuter les renards, un tour à la fois.",
+        "es": "Coge la fresa y corre a la madriguera. Haz que los zorros choquen entre sí."
+      },
+      "cta": {
+        "vi": "Tải {app}",
+        "en": "Get {app}",
+        "zh-Hans": "获取 {app}",
+        "ja": "{app}を入手",
+        "de": "{app} laden",
+        "fr": "Obtenir {app}",
+        "es": "Descargar {app}"
+      },
+      "ctaInstalled": {
+        "vi": "Mở {app}",
+        "en": "Open {app}",
+        "zh-Hans": "打开 {app}",
+        "ja": "{app}を開く",
+        "de": "{app} öffnen",
+        "fr": "Ouvrir {app}",
+        "es": "Abrir {app}"
+      },
+      "dismiss": {
+        "vi": "Để sau",
+        "en": "Not now",
+        "zh-Hans": "以后再说",
+        "ja": "あとで",
+        "de": "Später",
+        "fr": "Plus tard",
+        "es": "Ahora no"
+      },
+      "startAt": "2026-11-01T00:00:00+07:00"
+    },
+    {
+      "id": "gridlock-in-afloat-2026-11",
+      "app": "gridlock",
+      "placements": [
+        "popup"
+      ],
+      "platforms": [
+        "ios",
+        "android"
+      ],
+      "locales": [
+        "vi",
+        "en",
+        "zh-Hans",
+        "ja",
+        "de",
+        "fr",
+        "es"
+      ],
+      "rolloutPercent": 100,
+      "weight": 1,
+      "maxImpressions": 3,
+      "stopAfterDismiss": 1,
+      "stopAfterClick": true,
+      "skipIfInstalled": true,
+      "banner": {
+        "popup": "promo/img/gridlock-popup-v1.webp"
+      },
+      "label": {
+        "vi": "CÙNG NHÀ PHÁT TRIỂN",
+        "en": "From the same developer",
+        "zh-Hans": "同一开发者出品",
+        "ja": "同じ開発者のゲーム",
+        "de": "Vom selben Entwickler",
+        "fr": "Du même développeur",
+        "es": "Del mismo desarrollador"
+      },
+      "headline": {
+        "vi": "Kẹt xe rồi, gỡ giúp nhé?",
+        "en": "Stuck in traffic? Clear the jam",
+        "zh-Hans": "堵车了？来疏通一下",
+        "ja": "大渋滞をほどけるか？",
+        "de": "Stau? Mach den Weg frei",
+        "fr": "Bouchon ? Dégage la voie !",
+        "es": "¿Atasco? Despeja el camino"
+      },
+      "body": {
+        "vi": "Đẩy xe con, xe tải sang bên, mở đường cho chiếc xe đỏ chạy ra lối thoát.",
+        "en": "Slide the cars and trucks aside and get the little red car out to the exit.",
+        "zh-Hans": "把小车和卡车挪到一边，开出一条路，让红色小车驶向出口。",
+        "ja": "車やトラックをスライドして道をあけ、赤い車を出口まで導こう。",
+        "de": "Schieb Autos und Lastwagen zur Seite und lotse das kleine rote Auto zur Ausfahrt.",
+        "fr": "Fais glisser voitures et camions pour ouvrir la route à la petite voiture rouge.",
+        "es": "Desliza coches y camiones para abrir paso y lleva el cochecito rojo hasta la salida."
+      },
+      "cta": {
+        "vi": "Tải {app}",
+        "en": "Get {app}",
+        "zh-Hans": "获取 {app}",
+        "ja": "{app}を入手",
+        "de": "{app} laden",
+        "fr": "Obtenir {app}",
+        "es": "Descargar {app}"
+      },
+      "ctaInstalled": {
+        "vi": "Mở {app}",
+        "en": "Open {app}",
+        "zh-Hans": "打开 {app}",
+        "ja": "{app}を開く",
+        "de": "{app} öffnen",
+        "fr": "Ouvrir {app}",
+        "es": "Abrir {app}"
+      },
+      "dismiss": {
+        "vi": "Để sau",
+        "en": "Not now",
+        "zh-Hans": "以后再说",
+        "ja": "あとで",
+        "de": "Später",
+        "fr": "Plus tard",
+        "es": "Ahora no"
+      },
+      "startAt": "2026-11-01T00:00:00+07:00"
+    },
+    {
+      "id": "pourpop-in-afloat-2026-11",
+      "app": "pourpop",
+      "placements": [
+        "popup"
+      ],
+      "platforms": [
+        "ios",
+        "android"
+      ],
+      "locales": [
+        "vi",
+        "en",
+        "zh-Hans",
+        "ja",
+        "de",
+        "fr",
+        "es"
+      ],
+      "rolloutPercent": 100,
+      "weight": 1,
+      "maxImpressions": 3,
+      "stopAfterDismiss": 1,
+      "stopAfterClick": true,
+      "skipIfInstalled": true,
+      "banner": {
+        "popup": "promo/img/pourpop-popup-v1.webp"
+      },
+      "label": {
+        "vi": "CÙNG NHÀ PHÁT TRIỂN",
+        "en": "From the same developer",
+        "zh-Hans": "同一开发者出品",
+        "ja": "同じ開発者のゲーム",
+        "de": "Vom selben Entwickler",
+        "fr": "Du même développeur",
+        "es": "Del mismo desarrollador"
+      },
+      "headline": {
+        "vi": "Rót nước, xếp màu, thư giãn",
+        "en": "A cozy puzzle for quiet moments",
+        "zh-Hans": "适合放松一下的小谜题",
+        "ja": "ひと息つきたいときのパズル",
+        "de": "Ein Rätsel für ruhige Momente",
+        "fr": "Un puzzle pour souffler un peu",
+        "es": "Un puzle para desconectar"
+      },
+      "body": {
+        "vi": "Rót nước qua lại cho mỗi ống chỉ còn một màu. Không đếm giờ, cứ thong thả mà chơi.",
+        "en": "Pour water between tubes until each one holds a single color. No timers, no rush.",
+        "zh-Hans": "在试管之间倒水，让每根试管只剩一种颜色。不限时，按自己的节奏来。",
+        "ja": "試験管から試験管へ水を注いで、色をそろえよう。制限時間なし、自分のペースで。",
+        "de": "Gieß Wasser zwischen den Röhrchen um, bis jedes nur eine Farbe hat. Ohne Zeitdruck.",
+        "fr": "Verse l'eau d'un tube à l'autre jusqu'à ce que chacun n'ait qu'une couleur. Sans chrono.",
+        "es": "Vierte agua entre tubos hasta que cada uno tenga un solo color. Sin reloj ni prisas."
+      },
+      "cta": {
+        "vi": "Tải {app}",
+        "en": "Get {app}",
+        "zh-Hans": "获取 {app}",
+        "ja": "{app}を入手",
+        "de": "{app} laden",
+        "fr": "Obtenir {app}",
+        "es": "Descargar {app}"
+      },
+      "ctaInstalled": {
+        "vi": "Mở {app}",
+        "en": "Open {app}",
+        "zh-Hans": "打开 {app}",
+        "ja": "{app}を開く",
+        "de": "{app} öffnen",
+        "fr": "Ouvrir {app}",
+        "es": "Abrir {app}"
+      },
+      "dismiss": {
+        "vi": "Để sau",
+        "en": "Not now",
+        "zh-Hans": "以后再说",
+        "ja": "あとで",
+        "de": "Später",
+        "fr": "Plus tard",
+        "es": "Ahora no"
+      },
+      "startAt": "2026-11-01T00:00:00+07:00"
+    }
+  ]
+}

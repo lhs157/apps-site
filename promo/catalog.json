@@ -33,6 +33,54 @@
       "icon": "promo/img/spark-icon-v1.webp",
       "ios": { "appStoreId": "6777419698", "scheme": "spark", "listed": true },
       "android": { "package": "com.lhs157.spark", "listed": false }
+    },
+    "knightshift": {
+      "family": "game",
+      "name": {"vi": "Knight Shift", "en": "Knight Shift", "ja": "Knight Shift", "ko": "Knight Shift", "zh-Hans": "Knight Shift", "es": "Knight Shift", "pt": "Knight Shift", "de": "Knight Shift", "fr": "Knight Shift", "id": "Knight Shift"},
+      "tagline": {"vi": "Thủ thành, giữ cổng tới sáng", "en": "Castle defense from dusk till dawn", "ja": "夜明けまで城門を守るタワーディフェンス", "ko": "새벽까지 성문을 지키는 디펜스 게임", "zh-Hans": "守城塔防，坚守城门到天亮", "es": "Defiende el castillo hasta el alba", "pt": "Defenda o castelo até o amanhecer", "de": "Burgverteidigung bis zum Morgengrauen", "fr": "Défends le château jusqu'à l'aube", "id": "Pertahankan kastel sampai fajar"},
+      "icon": "promo/img/knightshift-icon-v1.webp",
+      "ios": { "appStoreId": "6824447058", "scheme": "lhs157knightshift", "listed": true },
+      "android": { "package": "com.lhs157.knightshift", "listed": false }
+    },
+    "afloat": {
+      "family": "game",
+      "name": {"vi": "Nước Lên", "en": "Afloat", "ja": "Afloat", "ko": "Afloat", "zh-Hans": "Afloat", "es": "Afloat", "pt": "Afloat", "de": "Afloat", "fr": "Afloat", "id": "Afloat"},
+      "tagline": {"vi": "Giải đố thoát lũ, đưa cả nhà lên mái", "en": "A puzzle escape from the rising flood", "ja": "水が迫る家からの脱出パズル", "ko": "차오르는 물을 피해 탈출하는 퍼즐", "zh-Hans": "洪水上涨，带全家逃生的解谜游戏", "es": "Un puzle para escapar del agua", "pt": "Quebra-cabeça: fuja da água que sobe", "de": "Rätselspiel gegen die steigende Flut", "fr": "Un puzzle pour échapper à l'eau qui monte", "id": "Puzzle kabur dari banjir yang terus naik"},
+      "icon": "promo/img/afloat-icon-v1.webp",
+      "ios": { "appStoreId": "6819482777", "scheme": "lhs157afloat", "listed": false },
+      "android": { "package": "com.lhs157.nuoclen", "listed": false }
+    },
+    "koko": {
+      "family": "game",
+      "name": {"vi": "KoKo", "en": "KoKo", "ja": "KoKo", "ko": "KoKo", "zh-Hans": "KoKo", "es": "KoKo", "pt": "KoKo", "de": "KoKo", "fr": "KoKo", "id": "KoKo"},
+      "tagline": {"vi": "Thế giới vẽ tay dịu dàng cho bé", "en": "A calm, hand-painted world for kids", "ja": "小さな子のための、やさしい手描きの世界", "ko": "아이를 위한 차분한 손그림 세상", "zh-Hans": "为小朋友打造的宁静手绘世界", "es": "Un mundo pintado a mano para los peques", "pt": "Um mundo pintado à mão para os pequenos", "de": "Eine ruhige, handgemalte Welt für Kinder", "fr": "Un monde peint à la main pour les petits", "id": "Dunia lukisan tangan untuk si kecil"},
+      "icon": "promo/img/koko-icon-v1.webp",
+      "ios": { "appStoreId": "6804218115", "scheme": "lhs157koko", "listed": true },
+      "android": { "package": "com.hongsonluu.kopkop", "listed": true }
+    },
+    "catchmefox": {
+      "family": "game",
+      "name": {"vi": "Catch Me, Fox!", "en": "Catch Me, Fox!", "ja": "Catch Me, Fox!", "ko": "Catch Me, Fox!", "zh-Hans": "Catch Me, Fox!", "es": "Catch Me, Fox!", "pt": "Catch Me, Fox!", "de": "Catch Me, Fox!", "fr": "Catch Me, Fox!", "id": "Catch Me, Fox!"},
+      "tagline": {"vi": "Thỏ hái dâu, dụ cáo đâm nhau", "en": "Outsmart the foxes, one move at a time", "ja": "キツネを出し抜くターン制パズル", "ko": "여우를 따돌리는 턴제 퍼즐", "zh-Hans": "智斗狐狸的回合制解谜", "es": "Engaña a los zorros, paso a paso", "pt": "Engane as raposas, uma jogada por vez", "de": "Überliste die Füchse, Zug um Zug", "fr": "Déjoue les renards, coup après coup", "id": "Kelabui rubah, langkah demi langkah"},
+      "icon": "promo/img/catchmefox-icon-v1.webp",
+      "ios": { "appStoreId": "6818778078", "scheme": "lhs157catchmefox", "listed": false },
+      "android": { "package": "com.sonluu.thohaidau", "listed": false }
+    },
+    "gridlock": {
+      "family": "game",
+      "name": {"vi": "Gridlock", "en": "Gridlock", "ja": "Gridlock", "ko": "Gridlock", "zh-Hans": "Gridlock", "es": "Gridlock", "pt": "Gridlock", "de": "Gridlock", "fr": "Gridlock", "id": "Gridlock"},
+      "tagline": {"vi": "Trượt xe, mở đường cho xe đỏ", "en": "Slide the cars, free the red one", "ja": "車をずらして赤い車を出口へ", "ko": "차를 밀어 빨간 차를 탈출시키는 퍼즐", "zh-Hans": "挪开车辆，让红色小车开出去", "es": "Mueve los coches y libera al rojo", "pt": "Deslize os carros e liberte o vermelho", "de": "Schieb die Autos, befrei den roten Wagen", "fr": "Glisse les voitures, libère la rouge", "id": "Geser mobil, bebaskan si merah"},
+      "icon": "promo/img/gridlock-icon-v1.webp",
+      "ios": { "appStoreId": "6793984624", "scheme": "lhs157gridlock", "listed": true },
+      "android": { "package": "com.lhs157.escape", "listed": false }
+    },
+    "pourpop": {
+      "family": "game",
+      "name": {"vi": "PourPop", "en": "PourPop", "ja": "PourPop", "ko": "PourPop", "zh-Hans": "PourPop", "es": "PourPop", "pt": "PourPop", "de": "PourPop", "fr": "PourPop", "id": "PourPop"},
+      "tagline": {"vi": "Giải đố rót nước, chơi thư thả", "en": "Cozy water-sorting puzzles", "ja": "のんびり遊べる水の色分けパズル", "ko": "느긋하게 즐기는 물 색깔 퍼즐", "zh-Hans": "轻松治愈的倒水分色解谜", "es": "Puzles relajantes de agua y colores", "pt": "Quebra-cabeças relaxantes de água e cores", "de": "Gemütliche Wasser-Sortierrätsel", "fr": "Des puzzles d'eau tout en douceur", "id": "Puzzle air dan warna yang santai"},
+      "icon": "promo/img/pourpop-icon-v1.webp",
+      "ios": { "appStoreId": "6785481847", "scheme": "lhs157pourpop", "listed": true },
+      "android": { "package": "com.sonluu.pourpop", "listed": false }
     }
   }
 }

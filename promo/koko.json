@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "enabled": false,
+  "refreshHours": 6,
+  "global": {
+    "minDaysSinceInstall": 3,
+    "minLaunches": 5,
+    "minutesAfterInterstitial": 10,
+    "minutesAfterPushOpen": 10,
+    "hideForPro": [
+      "popup",
+      "native"
+    ]
+  },
+  "placements": {
+    "settings": {
+      "title": {
+        "vi": "Game hay khác",
+        "en": "More games",
+        "ja": "ほかのゲーム",
+        "zh-Hans": "更多游戏",
+        "es": "Más juegos",
+        "de": "Weitere Spiele",
+        "fr": "Autres jeux"
+      },
+      "apps": [
+        "afloat",
+        "catchmefox",
+        "gridlock",
+        "pourpop"
+      ]
+    }
+  },
+  "campaigns": []
+}

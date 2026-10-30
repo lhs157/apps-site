@@ -1,0 +1,278 @@
+{
+  "schemaVersion": 1,
+  "enabled": false,
+  "refreshHours": 1,
+  "global": {
+    "minDaysSinceInstall": 3,
+    "minLaunches": 5,
+    "minutesAfterInterstitial": 10,
+    "minutesAfterPushOpen": 10,
+    "hideForPro": [
+      "popup",
+      "native"
+    ]
+  },
+  "placements": {
+    "popup": {
+      "trigger": "after_session",
+      "cooldownHours": 168,
+      "maxPerWeek": 1,
+      "chance": 1.0
+    },
+    "settings": {
+      "title": {
+        "vi": "Game hay khác",
+        "en": "More games"
+      },
+      "apps": [
+        "knightshift",
+        "afloat",
+        "koko",
+        "gridlock",
+        "pourpop"
+      ]
+    }
+  },
+  "campaigns": [
+    {
+      "id": "knightshift-in-catchmefox-2026-11-staging",
+      "app": "knightshift",
+      "placements": [
+        "popup"
+      ],
+      "platforms": [
+        "ios",
+        "android"
+      ],
+      "locales": [
+        "vi",
+        "en"
+      ],
+      "rolloutPercent": 100,
+      "weight": 1,
+      "maxImpressions": 3,
+      "stopAfterDismiss": 1,
+      "stopAfterClick": true,
+      "skipIfInstalled": true,
+      "banner": {
+        "popup": "promo/img/knightshift-popup-v1.webp"
+      },
+      "label": {
+        "vi": "CÙNG NHÀ PHÁT TRIỂN",
+        "en": "From the same developer"
+      },
+      "headline": {
+        "vi": "Giữ nổi cổng thành tới sáng?",
+        "en": "Can you hold the gate till dawn?"
+      },
+      "body": {
+        "vi": "Đêm nào goblin cũng kéo tới. Bắn nỏ, đặt bẫy, đổi vũ khí, đừng để cổng thất thủ.",
+        "en": "Goblins storm the walls every night. Shoot, set traps and swap weapons to keep them out."
+      },
+      "cta": {
+        "vi": "Tải {app}",
+        "en": "Get {app}"
+      },
+      "ctaInstalled": {
+        "vi": "Mở {app}",
+        "en": "Open {app}"
+      },
+      "dismiss": {
+        "vi": "Để sau",
+        "en": "Not now"
+      }
+    },
+    {
+      "id": "afloat-in-catchmefox-2026-11-staging",
+      "app": "afloat",
+      "placements": [
+        "popup"
+      ],
+      "platforms": [
+        "ios",
+        "android"
+      ],
+      "locales": [
+        "vi",
+        "en"
+      ],
+      "rolloutPercent": 100,
+      "weight": 1,
+      "maxImpressions": 3,
+      "stopAfterDismiss": 1,
+      "stopAfterClick": true,
+      "skipIfInstalled": true,
+      "banner": {
+        "popup": "promo/img/afloat-popup-v1.webp"
+      },
+      "label": {
+        "vi": "CÙNG NHÀ PHÁT TRIỂN",
+        "en": "From the same developer"
+      },
+      "headline": {
+        "vi": "Nước lên rồi, tính sao đây?",
+        "en": "The water's rising. Got a plan?"
+      },
+      "body": {
+        "vi": "Sửa cầu thang, mang đồ ăn lên, đưa cả nhà lên thuyền trên mái trước khi nước tới.",
+        "en": "Fix the stairs, carry the food up and get everyone to the boat on the roof in time."
+      },
+      "cta": {
+        "vi": "Tải {app}",
+        "en": "Get {app}"
+      },
+      "ctaInstalled": {
+        "vi": "Mở {app}",
+        "en": "Open {app}"
+      },
+      "dismiss": {
+        "vi": "Để sau",
+        "en": "Not now"
+      }
+    },
+    {
+      "id": "koko-in-catchmefox-2026-11-staging",
+      "app": "koko",
+      "placements": [
+        "popup"
+      ],
+      "platforms": [
+        "ios",
+        "android"
+      ],
+      "locales": [
+        "vi",
+        "en"
+      ],
+      "rolloutPercent": 100,
+      "weight": 1,
+      "maxImpressions": 3,
+      "stopAfterDismiss": 1,
+      "stopAfterClick": true,
+      "skipIfInstalled": true,
+      "banner": {
+        "popup": "promo/img/koko-popup-v1.webp"
+      },
+      "label": {
+        "vi": "CÙNG NHÀ PHÁT TRIỂN",
+        "en": "From the same developer"
+      },
+      "headline": {
+        "vi": "Cho bé một góc chơi dịu dàng",
+        "en": "Calm play for your little one"
+      },
+      "body": {
+        "vi": "Thế giới vẽ tay, bé chạm đâu cũng có lời đáp. Không quảng cáo, không cần biết đọc.",
+        "en": "A hand-painted world where every tap gets an answer. No ads, nothing to read, no rush."
+      },
+      "cta": {
+        "vi": "Tải {app}",
+        "en": "Get {app}"
+      },
+      "ctaInstalled": {
+        "vi": "Mở {app}",
+        "en": "Open {app}"
+      },
+      "dismiss": {
+        "vi": "Để sau",
+        "en": "Not now"
+      }
+    },
+    {
+      "id": "gridlock-in-catchmefox-2026-11-staging",
+      "app": "gridlock",
+      "placements": [
+        "popup"
+      ],
+      "platforms": [
+        "ios",
+        "android"
+      ],
+      "locales": [
+        "vi",
+        "en"
+      ],
+      "rolloutPercent": 100,
+      "weight": 1,
+      "maxImpressions": 3,
+      "stopAfterDismiss": 1,
+      "stopAfterClick": true,
+      "skipIfInstalled": true,
+      "banner": {
+        "popup": "promo/img/gridlock-popup-v1.webp"
+      },
+      "label": {
+        "vi": "CÙNG NHÀ PHÁT TRIỂN",
+        "en": "From the same developer"
+      },
+      "headline": {
+        "vi": "Kẹt xe rồi, gỡ giúp nhé?",
+        "en": "Stuck in traffic? Clear the jam"
+      },
+      "body": {
+        "vi": "Đẩy xe con, xe tải sang bên, mở đường cho chiếc xe đỏ chạy ra lối thoát.",
+        "en": "Slide the cars and trucks aside and get the little red car out to the exit."
+      },
+      "cta": {
+        "vi": "Tải {app}",
+        "en": "Get {app}"
+      },
+      "ctaInstalled": {
+        "vi": "Mở {app}",
+        "en": "Open {app}"
+      },
+      "dismiss": {
+        "vi": "Để sau",
+        "en": "Not now"
+      }
+    },
+    {
+      "id": "pourpop-in-catchmefox-2026-11-staging",
+      "app": "pourpop",
+      "placements": [
+        "popup"
+      ],
+      "platforms": [
+        "ios",
+        "android"
+      ],
+      "locales": [
+        "vi",
+        "en"
+      ],
+      "rolloutPercent": 100,
+      "weight": 1,
+      "maxImpressions": 3,
+      "stopAfterDismiss": 1,
+      "stopAfterClick": true,
+      "skipIfInstalled": true,
+      "banner": {
+        "popup": "promo/img/pourpop-popup-v1.webp"
+      },
+      "label": {
+        "vi": "CÙNG NHÀ PHÁT TRIỂN",
+        "en": "From the same developer"
+      },
+      "headline": {
+        "vi": "Rót nước, xếp màu, thư giãn",
+        "en": "A cozy puzzle for quiet moments"
+      },
+      "body": {
+        "vi": "Rót nước qua lại cho mỗi ống chỉ còn một màu. Không đếm giờ, cứ thong thả mà chơi.",
+        "en": "Pour water between tubes until each one holds a single color. No timers, no rush."
+      },
+      "cta": {
+        "vi": "Tải {app}",
+        "en": "Get {app}"
+      },
+      "ctaInstalled": {
+        "vi": "Mở {app}",
+        "en": "Open {app}"
+      },
+      "dismiss": {
+        "vi": "Để sau",
+        "en": "Not now"
+      }
+    }
+  ]
+}

@@ -1,0 +1,248 @@
+{
+  "schemaVersion": 1,
+  "enabled": false,
+  "refreshHours": 6,
+  "global": {
+    "minDaysSinceInstall": 3,
+    "minLaunches": 5,
+    "minutesAfterInterstitial": 10,
+    "minutesAfterPushOpen": 10,
+    "hideForPro": [
+      "popup",
+      "native"
+    ]
+  },
+  "placements": {
+    "popup": {
+      "trigger": "after_session",
+      "cooldownHours": 168,
+      "maxPerWeek": 1,
+      "chance": 1.0
+    },
+    "settings": {
+      "title": {
+        "vi": "Game hay khác",
+        "en": "More games"
+      },
+      "apps": [
+        "knightshift",
+        "afloat",
+        "koko",
+        "catchmefox",
+        "pourpop"
+      ]
+    }
+  },
+  "campaigns": [
+    {
+      "id": "knightshift-in-gridlock-2026-11",
+      "app": "knightshift",
+      "placements": [
+        "popup"
+      ],
+      "platforms": [
+        "ios",
+        "android"
+      ],
+      "locales": [
+        "en"
+      ],
+      "rolloutPercent": 100,
+      "weight": 1,
+      "maxImpressions": 3,
+      "stopAfterDismiss": 1,
+      "stopAfterClick": true,
+      "skipIfInstalled": true,
+      "banner": {
+        "popup": "promo/img/knightshift-popup-v1.webp"
+      },
+      "label": {
+        "en": "From the same developer"
+      },
+      "headline": {
+        "en": "Can you hold the gate till dawn?"
+      },
+      "body": {
+        "en": "Goblins storm the walls every night. Shoot, set traps and swap weapons to keep them out."
+      },
+      "cta": {
+        "en": "Get {app}"
+      },
+      "ctaInstalled": {
+        "en": "Open {app}"
+      },
+      "dismiss": {
+        "en": "Not now"
+      },
+      "startAt": "2026-11-01T00:00:00+07:00"
+    },
+    {
+      "id": "afloat-in-gridlock-2026-11",
+      "app": "afloat",
+      "placements": [
+        "popup"
+      ],
+      "platforms": [
+        "ios",
+        "android"
+      ],
+      "locales": [
+        "en"
+      ],
+      "rolloutPercent": 100,
+      "weight": 1,
+      "maxImpressions": 3,
+      "stopAfterDismiss": 1,
+      "stopAfterClick": true,
+      "skipIfInstalled": true,
+      "banner": {
+        "popup": "promo/img/afloat-popup-v1.webp"
+      },
+      "label": {
+        "en": "From the same developer"
+      },
+      "headline": {
+        "en": "The water's rising. Got a plan?"
+      },
+      "body": {
+        "en": "Fix the stairs, carry the food up and get everyone to the boat on the roof in time."
+      },
+      "cta": {
+        "en": "Get {app}"
+      },
+      "ctaInstalled": {
+        "en": "Open {app}"
+      },
+      "dismiss": {
+        "en": "Not now"
+      },
+      "startAt": "2026-11-01T00:00:00+07:00"
+    },
+    {
+      "id": "koko-in-gridlock-2026-11",
+      "app": "koko",
+      "placements": [
+        "popup"
+      ],
+      "platforms": [
+        "ios",
+        "android"
+      ],
+      "locales": [
+        "en"
+      ],
+      "rolloutPercent": 100,
+      "weight": 1,
+      "maxImpressions": 3,
+      "stopAfterDismiss": 1,
+      "stopAfterClick": true,
+      "skipIfInstalled": true,
+      "banner": {
+        "popup": "promo/img/koko-popup-v1.webp"
+      },
+      "label": {
+        "en": "From the same developer"
+      },
+      "headline": {
+        "en": "Calm play for your little one"
+      },
+      "body": {
+        "en": "A hand-painted world where every tap gets an answer. No ads, nothing to read, no rush."
+      },
+      "cta": {
+        "en": "Get {app}"
+      },
+      "ctaInstalled": {
+        "en": "Open {app}"
+      },
+      "dismiss": {
+        "en": "Not now"
+      },
+      "startAt": "2026-11-01T00:00:00+07:00"
+    },
+    {
+      "id": "catchmefox-in-gridlock-2026-11",
+      "app": "catchmefox",
+      "placements": [
+        "popup"
+      ],
+      "platforms": [
+        "ios",
+        "android"
+      ],
+      "locales": [
+        "en"
+      ],
+      "rolloutPercent": 100,
+      "weight": 1,
+      "maxImpressions": 3,
+      "stopAfterDismiss": 1,
+      "stopAfterClick": true,
+      "skipIfInstalled": true,
+      "banner": {
+        "popup": "promo/img/catchmefox-popup-v1.webp"
+      },
+      "label": {
+        "en": "From the same developer"
+      },
+      "headline": {
+        "en": "Outwit a pack of hungry foxes"
+      },
+      "body": {
+        "en": "Grab the strawberry and dash home. Trick the foxes into crashing into each other."
+      },
+      "cta": {
+        "en": "Get {app}"
+      },
+      "ctaInstalled": {
+        "en": "Open {app}"
+      },
+      "dismiss": {
+        "en": "Not now"
+      },
+      "startAt": "2026-11-01T00:00:00+07:00"
+    },
+    {
+      "id": "pourpop-in-gridlock-2026-11",
+      "app": "pourpop",
+      "placements": [
+        "popup"
+      ],
+      "platforms": [
+        "ios",
+        "android"
+      ],
+      "locales": [
+        "en"
+      ],
+      "rolloutPercent": 100,
+      "weight": 1,
+      "maxImpressions": 3,
+      "stopAfterDismiss": 1,
+      "stopAfterClick": true,
+      "skipIfInstalled": true,
+      "banner": {
+        "popup": "promo/img/pourpop-popup-v1.webp"
+      },
+      "label": {
+        "en": "From the same developer"
+      },
+      "headline": {
+        "en": "A cozy puzzle for quiet moments"
+      },
+      "body": {
+        "en": "Pour water between tubes until each one holds a single color. No timers, no rush."
+      },
+      "cta": {
+        "en": "Get {app}"
+      },
+      "ctaInstalled": {
+        "en": "Open {app}"
+      },
+      "dismiss": {
+        "en": "Not now"
+      },
+      "startAt": "2026-11-01T00:00:00+07:00"
+    }
+  ]
+}

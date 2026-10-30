@@ -19,6 +19,7 @@ PLACEMENTS = {"popup", "native", "settings"}
 PLATFORMS = {"ios", "android"}
 TEXT_KEYS = ("label", "headline", "body", "cta", "ctaInstalled", "dismiss")
 POPUP_SIZE = (1200, 800)  # 3:2, em chọn tạm 30/10/2026
+FAMILIES = {"language", "game"}  # R3 (30/10/2026): thêm họ game
 
 errors, warnings = [], []
 
@@ -39,10 +40,11 @@ def load(path):
         return None
 
 
-def check_asset(where, rel, size=None):
+def check_asset(where, rel, size=None, soft=False):
     p = ROOT / rel
     if not p.is_file():
-        err(where, f"thiếu file {rel}")
+        # Luật đang tắt (enabled=false) được phép chờ ảnh; bật lên thì thiếu ảnh là lỗi.
+        (warn if soft else err)(where, f"thiếu file {rel}" + (" (luật đang tắt)" if soft else ""))
         return
     if size:
         try:
@@ -88,8 +90,17 @@ def check_catalog(cat):
     pt = (cat.get("ios") or {}).get("providerToken")
     if pt is not None and not re.fullmatch(r"\d{5,12}", str(pt)):
         err("catalog.json", "ios.providerToken phải là chuỗi số (pt= của App Store Connect)")
+    seen_ref = {}
     for aid, a in apps.items():
         w = f"catalog.{aid}"
+        if a.get("family") not in FAMILIES:
+            err(w, f"family phải là một trong {sorted(FAMILIES)}")
+        for ref in (f"ios:{(a.get('ios') or {}).get('appStoreId')}", f"scheme:{(a.get('ios') or {}).get('scheme')}",
+                    f"android:{(a.get('android') or {}).get('package')}"):
+            if not ref.endswith(":None"):
+                if ref in seen_ref:
+                    err(w, f"trùng {ref} với {seen_ref[ref]}")
+                seen_ref[ref] = aid
         for k in ("name", "tagline"):
             for loc in ("vi", "en"):
                 if not a.get(k, {}).get(loc):
@@ -119,6 +130,9 @@ def check_rules(path, apps):
     w = path.name
     if host not in apps:
         err(w, f"app chủ '{host}' không có trong catalog")
+    family = apps.get(host, {}).get("family")
+    soft = cfg.get("enabled") is False
+    camp_locales = {loc for c in cfg.get("campaigns", []) for loc in c.get("locales", ["vi", "en"])}
     if cfg.get("schemaVersion") != 1:
         err(w, "schemaVersion phải là 1")
     if not isinstance(cfg.get("enabled"), bool):
@@ -136,12 +150,14 @@ def check_rules(path, apps):
             err(w, "popup.chance phải trong 0–1")
     settings = pl.get("settings")
     if settings:
-        for loc in ("vi", "en"):
+        for loc in sorted({"vi", "en"} | camp_locales):
             if not settings.get("title", {}).get(loc):
                 err(w, f"settings.title thiếu {loc}")
         for a in settings.get("apps", []):
             if a not in apps:
                 err(w, f"settings.apps có '{a}' không có trong catalog")
+            elif family and apps[a].get("family") != family:
+                warn(w, f"settings.apps có '{a}' khác họ ({apps[a].get('family')}) với app chủ ({family})")
             if a == host:
                 err(w, "settings.apps không được chứa chính app chủ")
     seen = set()
@@ -156,6 +172,11 @@ def check_rules(path, apps):
             continue
         if target == host:
             err(cw, "không quảng bá chính app chủ")
+        if family and apps[target].get("family") != family:
+            warn(cw, f"quảng bá app khác họ: {target} ({apps[target].get('family')}) trong app {family}")
+        for loc in c.get("locales", ["vi", "en"]):
+            if not apps[target].get("name", {}).get(loc):
+                warn(cw, f"catalog.{target}.name thiếu {loc} — {{app}} sẽ dùng tên en")
         if set(c.get("placements", [])) - PLACEMENTS:
             err(cw, "placements lạ")
         plats = set(c.get("platforms", []))
@@ -176,7 +197,7 @@ def check_rules(path, apps):
             err(cw, "startAt phải trước endAt")
         check_text(cw, c, c.get("locales", ["vi", "en"]))
         for placement, rel in c.get("banner", {}).items():
-            check_asset(cw, rel, POPUP_SIZE if placement == "popup" else None)
+            check_asset(cw, rel, POPUP_SIZE if placement == "popup" else None, soft=soft)
         if "popup" in c.get("placements", []) and "popup" not in c.get("banner", {}):
             err(cw, "chiến dịch popup thiếu banner.popup")
 

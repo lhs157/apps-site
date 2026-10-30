@@ -1,0 +1,566 @@
+{
+  "schemaVersion": 1,
+  "enabled": false,
+  "refreshHours": 1,
+  "global": {
+    "minDaysSinceInstall": 3,
+    "minLaunches": 5,
+    "minutesAfterInterstitial": 10,
+    "minutesAfterPushOpen": 10,
+    "hideForPro": [
+      "popup",
+      "native"
+    ]
+  },
+  "placements": {
+    "popup": {
+      "trigger": "after_session",
+      "cooldownHours": 168,
+      "maxPerWeek": 1,
+      "chance": 1.0
+    },
+    "settings": {
+      "title": {
+        "vi": "Game hay khác",
+        "en": "More games",
+        "ja": "ほかのゲーム",
+        "ko": "다른 게임",
+        "zh-Hans": "更多游戏",
+        "es": "Más juegos",
+        "pt": "Mais jogos",
+        "de": "Weitere Spiele",
+        "fr": "Autres jeux",
+        "id": "Game lainnya"
+      },
+      "apps": [
+        "afloat",
+        "koko",
+        "catchmefox",
+        "gridlock",
+        "pourpop"
+      ]
+    }
+  },
+  "campaigns": [
+    {
+      "id": "afloat-in-knightshift-2026-11-staging",
+      "app": "afloat",
+      "placements": [
+        "popup"
+      ],
+      "platforms": [
+        "ios",
+        "android"
+      ],
+      "locales": [
+        "vi",
+        "en",
+        "ja",
+        "ko",
+        "zh-Hans",
+        "es",
+        "pt",
+        "de",
+        "fr",
+        "id"
+      ],
+      "rolloutPercent": 100,
+      "weight": 1,
+      "maxImpressions": 3,
+      "stopAfterDismiss": 1,
+      "stopAfterClick": true,
+      "skipIfInstalled": true,
+      "banner": {
+        "popup": "promo/img/afloat-popup-v1.webp"
+      },
+      "label": {
+        "vi": "CÙNG NHÀ PHÁT TRIỂN",
+        "en": "From the same developer",
+        "ja": "同じ開発者のゲーム",
+        "ko": "같은 개발자의 게임",
+        "zh-Hans": "同一开发者出品",
+        "es": "Del mismo desarrollador",
+        "pt": "Do mesmo desenvolvedor",
+        "de": "Vom selben Entwickler",
+        "fr": "Du même développeur",
+        "id": "Dari pengembang yang sama"
+      },
+      "headline": {
+        "vi": "Nước lên rồi, tính sao đây?",
+        "en": "The water's rising. Got a plan?",
+        "ja": "水が迫ってくる！どう逃げる？",
+        "ko": "물이 차오르고 있어요!",
+        "zh-Hans": "水在涨，你有办法吗？",
+        "es": "El agua sube. ¿Tienes un plan?",
+        "pt": "A água está subindo. E agora?",
+        "de": "Das Wasser steigt. Und jetzt?",
+        "fr": "L'eau monte. Une idée ?",
+        "id": "Air terus naik. Ada rencana?"
+      },
+      "body": {
+        "vi": "Sửa cầu thang, mang đồ ăn lên, đưa cả nhà lên thuyền trên mái trước khi nước tới.",
+        "en": "Fix the stairs, carry the food up and get everyone to the boat on the roof in time.",
+        "ja": "階段を直し、食料を運び上げ、水が来る前にみんなで屋上のボートへ。",
+        "ko": "계단을 고치고 식량을 옮겨서, 물이 닿기 전에 모두 지붕 위 보트로 데려가세요.",
+        "zh-Hans": "修好楼梯，把食物搬上去，赶在水漫上来之前带全家登上屋顶的船。",
+        "es": "Arregla la escalera, sube la comida y lleva a todos a la barca del tejado a tiempo.",
+        "pt": "Conserte a escada, suba com a comida e leve todos ao barco do telhado a tempo.",
+        "de": "Repariere die Treppe, trag das Essen hoch und bring alle rechtzeitig zum Boot auf dem Dach.",
+        "fr": "Répare l'escalier, monte les vivres et emmène tout le monde au bateau sur le toit.",
+        "id": "Perbaiki tangga, angkut makanan ke atas, dan bawa semua ke perahu di atap tepat waktu."
+      },
+      "cta": {
+        "vi": "Tải {app}",
+        "en": "Get {app}",
+        "ja": "{app}を入手",
+        "ko": "{app} 받기",
+        "zh-Hans": "获取 {app}",
+        "es": "Descargar {app}",
+        "pt": "Baixar {app}",
+        "de": "{app} laden",
+        "fr": "Obtenir {app}",
+        "id": "Unduh {app}"
+      },
+      "ctaInstalled": {
+        "vi": "Mở {app}",
+        "en": "Open {app}",
+        "ja": "{app}を開く",
+        "ko": "{app} 열기",
+        "zh-Hans": "打开 {app}",
+        "es": "Abrir {app}",
+        "pt": "Abrir {app}",
+        "de": "{app} öffnen",
+        "fr": "Ouvrir {app}",
+        "id": "Buka {app}"
+      },
+      "dismiss": {
+        "vi": "Để sau",
+        "en": "Not now",
+        "ja": "あとで",
+        "ko": "나중에",
+        "zh-Hans": "以后再说",
+        "es": "Ahora no",
+        "pt": "Agora não",
+        "de": "Später",
+        "fr": "Plus tard",
+        "id": "Nanti saja"
+      }
+    },
+    {
+      "id": "koko-in-knightshift-2026-11-staging",
+      "app": "koko",
+      "placements": [
+        "popup"
+      ],
+      "platforms": [
+        "ios",
+        "android"
+      ],
+      "locales": [
+        "vi",
+        "en",
+        "ja",
+        "ko",
+        "zh-Hans",
+        "es",
+        "pt",
+        "de",
+        "fr",
+        "id"
+      ],
+      "rolloutPercent": 100,
+      "weight": 1,
+      "maxImpressions": 3,
+      "stopAfterDismiss": 1,
+      "stopAfterClick": true,
+      "skipIfInstalled": true,
+      "banner": {
+        "popup": "promo/img/koko-popup-v1.webp"
+      },
+      "label": {
+        "vi": "CÙNG NHÀ PHÁT TRIỂN",
+        "en": "From the same developer",
+        "ja": "同じ開発者のゲーム",
+        "ko": "같은 개발자의 게임",
+        "zh-Hans": "同一开发者出品",
+        "es": "Del mismo desarrollador",
+        "pt": "Do mesmo desenvolvedor",
+        "de": "Vom selben Entwickler",
+        "fr": "Du même développeur",
+        "id": "Dari pengembang yang sama"
+      },
+      "headline": {
+        "vi": "Cho bé một góc chơi dịu dàng",
+        "en": "Calm play for your little one",
+        "ja": "お子さまに、やさしい遊び場を",
+        "ko": "우리 아이를 위한 차분한 놀이터",
+        "zh-Hans": "给孩子一个安静的小天地",
+        "es": "Un rato tranquilo para tu peque",
+        "pt": "Um cantinho calmo para seu filho",
+        "de": "Etwas Ruhiges für dein Kind",
+        "fr": "Un coin paisible pour ton enfant",
+        "id": "Waktu main tenang untuk si kecil"
+      },
+      "body": {
+        "vi": "Thế giới vẽ tay, bé chạm đâu cũng có lời đáp. Không quảng cáo, không cần biết đọc.",
+        "en": "A hand-painted world where every tap gets an answer. No ads, nothing to read, no rush.",
+        "ja": "タッチするたびに答えが返ってくる手描きの世界。広告なし、字が読めなくても、急がなくても大丈夫。",
+        "ko": "어디를 눌러도 반응하는 손그림 세상. 광고도 없고, 글을 몰라도 천천히 놀 수 있어요.",
+        "zh-Hans": "点哪里都有回应的手绘世界。没有广告，不用识字，慢慢玩。",
+        "es": "Un mundo pintado a mano donde cada toque tiene respuesta. Sin anuncios ni nada que leer.",
+        "pt": "Um mundo pintado à mão em que cada toque tem resposta. Sem anúncios e sem nada para ler.",
+        "de": "Eine handgemalte Welt, in der jedes Tippen eine Antwort bekommt. Ohne Werbung, ohne Lesen.",
+        "fr": "Un monde peint à la main où chaque geste a une réponse. Pas de pub, rien à lire.",
+        "id": "Dunia lukisan tangan yang merespons setiap sentuhan. Tanpa iklan, tak perlu bisa membaca."
+      },
+      "cta": {
+        "vi": "Tải {app}",
+        "en": "Get {app}",
+        "ja": "{app}を入手",
+        "ko": "{app} 받기",
+        "zh-Hans": "获取 {app}",
+        "es": "Descargar {app}",
+        "pt": "Baixar {app}",
+        "de": "{app} laden",
+        "fr": "Obtenir {app}",
+        "id": "Unduh {app}"
+      },
+      "ctaInstalled": {
+        "vi": "Mở {app}",
+        "en": "Open {app}",
+        "ja": "{app}を開く",
+        "ko": "{app} 열기",
+        "zh-Hans": "打开 {app}",
+        "es": "Abrir {app}",
+        "pt": "Abrir {app}",
+        "de": "{app} öffnen",
+        "fr": "Ouvrir {app}",
+        "id": "Buka {app}"
+      },
+      "dismiss": {
+        "vi": "Để sau",
+        "en": "Not now",
+        "ja": "あとで",
+        "ko": "나중에",
+        "zh-Hans": "以后再说",
+        "es": "Ahora no",
+        "pt": "Agora não",
+        "de": "Später",
+        "fr": "Plus tard",
+        "id": "Nanti saja"
+      }
+    },
+    {
+      "id": "catchmefox-in-knightshift-2026-11-staging",
+      "app": "catchmefox",
+      "placements": [
+        "popup"
+      ],
+      "platforms": [
+        "ios",
+        "android"
+      ],
+      "locales": [
+        "vi",
+        "en",
+        "ja",
+        "ko",
+        "zh-Hans",
+        "es",
+        "pt",
+        "de",
+        "fr",
+        "id"
+      ],
+      "rolloutPercent": 100,
+      "weight": 1,
+      "maxImpressions": 3,
+      "stopAfterDismiss": 1,
+      "stopAfterClick": true,
+      "skipIfInstalled": true,
+      "banner": {
+        "popup": "promo/img/catchmefox-popup-v1.webp"
+      },
+      "label": {
+        "vi": "CÙNG NHÀ PHÁT TRIỂN",
+        "en": "From the same developer",
+        "ja": "同じ開発者のゲーム",
+        "ko": "같은 개발자의 게임",
+        "zh-Hans": "同一开发者出品",
+        "es": "Del mismo desarrollador",
+        "pt": "Do mesmo desenvolvedor",
+        "de": "Vom selben Entwickler",
+        "fr": "Du même développeur",
+        "id": "Dari pengembang yang sama"
+      },
+      "headline": {
+        "vi": "Thỏ con đấu trí với bầy cáo",
+        "en": "Outwit a pack of hungry foxes",
+        "ja": "腹ペコキツネの群れを出し抜け！",
+        "ko": "배고픈 여우 떼를 따돌려 보세요",
+        "zh-Hans": "小兔子智斗狐狸群",
+        "es": "Burla a los zorros hambrientos",
+        "pt": "Drible as raposas famintas",
+        "de": "Ein Hase gegen viele Füchse",
+        "fr": "Berne les renards affamés",
+        "id": "Kelabui kawanan rubah yang lapar"
+      },
+      "body": {
+        "vi": "Hái dâu rồi chạy về hang. Tính từng bước để dụ bầy cáo đâm sầm vào nhau.",
+        "en": "Grab the strawberry and dash home. Trick the foxes into crashing into each other.",
+        "ja": "イチゴを摘んで巣穴へ帰ろう。キツネ同士をぶつけて足止めする、一手ずつの頭脳戦。",
+        "ko": "딸기를 따서 굴로 돌아가세요. 여우끼리 부딪히게 만드는 한 수 한 수의 두뇌 싸움.",
+        "zh-Hans": "摘到草莓就往洞里跑。引狐狸互相撞上，一步一步斗智斗勇。",
+        "es": "Coge la fresa y corre a la madriguera. Haz que los zorros choquen entre sí.",
+        "pt": "Pegue o morango e corra para a toca. Faça as raposas trombarem umas nas outras.",
+        "de": "Schnapp dir die Erdbeere und ab in den Bau. Lass die Füchse ineinanderrennen.",
+        "fr": "Cueille la fraise et file au terrier. Fais se percuter les renards, un tour à la fois.",
+        "id": "Petik stroberi lalu lari pulang ke liang. Kecoh rubah sampai saling tabrak."
+      },
+      "cta": {
+        "vi": "Tải {app}",
+        "en": "Get {app}",
+        "ja": "{app}を入手",
+        "ko": "{app} 받기",
+        "zh-Hans": "获取 {app}",
+        "es": "Descargar {app}",
+        "pt": "Baixar {app}",
+        "de": "{app} laden",
+        "fr": "Obtenir {app}",
+        "id": "Unduh {app}"
+      },
+      "ctaInstalled": {
+        "vi": "Mở {app}",
+        "en": "Open {app}",
+        "ja": "{app}を開く",
+        "ko": "{app} 열기",
+        "zh-Hans": "打开 {app}",
+        "es": "Abrir {app}",
+        "pt": "Abrir {app}",
+        "de": "{app} öffnen",
+        "fr": "Ouvrir {app}",
+        "id": "Buka {app}"
+      },
+      "dismiss": {
+        "vi": "Để sau",
+        "en": "Not now",
+        "ja": "あとで",
+        "ko": "나중에",
+        "zh-Hans": "以后再说",
+        "es": "Ahora no",
+        "pt": "Agora não",
+        "de": "Später",
+        "fr": "Plus tard",
+        "id": "Nanti saja"
+      }
+    },
+    {
+      "id": "gridlock-in-knightshift-2026-11-staging",
+      "app": "gridlock",
+      "placements": [
+        "popup"
+      ],
+      "platforms": [
+        "ios",
+        "android"
+      ],
+      "locales": [
+        "vi",
+        "en",
+        "ja",
+        "ko",
+        "zh-Hans",
+        "es",
+        "pt",
+        "de",
+        "fr",
+        "id"
+      ],
+      "rolloutPercent": 100,
+      "weight": 1,
+      "maxImpressions": 3,
+      "stopAfterDismiss": 1,
+      "stopAfterClick": true,
+      "skipIfInstalled": true,
+      "banner": {
+        "popup": "promo/img/gridlock-popup-v1.webp"
+      },
+      "label": {
+        "vi": "CÙNG NHÀ PHÁT TRIỂN",
+        "en": "From the same developer",
+        "ja": "同じ開発者のゲーム",
+        "ko": "같은 개발자의 게임",
+        "zh-Hans": "同一开发者出品",
+        "es": "Del mismo desarrollador",
+        "pt": "Do mesmo desenvolvedor",
+        "de": "Vom selben Entwickler",
+        "fr": "Du même développeur",
+        "id": "Dari pengembang yang sama"
+      },
+      "headline": {
+        "vi": "Kẹt xe rồi, gỡ giúp nhé?",
+        "en": "Stuck in traffic? Clear the jam",
+        "ja": "大渋滞をほどけるか？",
+        "ko": "꽉 막힌 도로, 뚫어 볼까요?",
+        "zh-Hans": "堵车了？来疏通一下",
+        "es": "¿Atasco? Despeja el camino",
+        "pt": "Trânsito parado? Libere a pista",
+        "de": "Stau? Mach den Weg frei",
+        "fr": "Bouchon ? Dégage la voie !",
+        "id": "Macet total? Buka jalannya!"
+      },
+      "body": {
+        "vi": "Đẩy xe con, xe tải sang bên, mở đường cho chiếc xe đỏ chạy ra lối thoát.",
+        "en": "Slide the cars and trucks aside and get the little red car out to the exit.",
+        "ja": "車やトラックをスライドして道をあけ、赤い車を出口まで導こう。",
+        "ko": "자동차와 트럭을 옆으로 밀어 길을 내고, 빨간 차를 출구로 보내세요.",
+        "zh-Hans": "把小车和卡车挪到一边，开出一条路，让红色小车驶向出口。",
+        "es": "Desliza coches y camiones para abrir paso y lleva el cochecito rojo hasta la salida.",
+        "pt": "Deslize carros e caminhões para abrir caminho e leve o carrinho vermelho até a saída.",
+        "de": "Schieb Autos und Lastwagen zur Seite und lotse das kleine rote Auto zur Ausfahrt.",
+        "fr": "Fais glisser voitures et camions pour ouvrir la route à la petite voiture rouge.",
+        "id": "Geser mobil dan truk ke samping, buka jalan, dan antar mobil merah ke pintu keluar."
+      },
+      "cta": {
+        "vi": "Tải {app}",
+        "en": "Get {app}",
+        "ja": "{app}を入手",
+        "ko": "{app} 받기",
+        "zh-Hans": "获取 {app}",
+        "es": "Descargar {app}",
+        "pt": "Baixar {app}",
+        "de": "{app} laden",
+        "fr": "Obtenir {app}",
+        "id": "Unduh {app}"
+      },
+      "ctaInstalled": {
+        "vi": "Mở {app}",
+        "en": "Open {app}",
+        "ja": "{app}を開く",
+        "ko": "{app} 열기",
+        "zh-Hans": "打开 {app}",
+        "es": "Abrir {app}",
+        "pt": "Abrir {app}",
+        "de": "{app} öffnen",
+        "fr": "Ouvrir {app}",
+        "id": "Buka {app}"
+      },
+      "dismiss": {
+        "vi": "Để sau",
+        "en": "Not now",
+        "ja": "あとで",
+        "ko": "나중에",
+        "zh-Hans": "以后再说",
+        "es": "Ahora no",
+        "pt": "Agora não",
+        "de": "Später",
+        "fr": "Plus tard",
+        "id": "Nanti saja"
+      }
+    },
+    {
+      "id": "pourpop-in-knightshift-2026-11-staging",
+      "app": "pourpop",
+      "placements": [
+        "popup"
+      ],
+      "platforms": [
+        "ios",
+        "android"
+      ],
+      "locales": [
+        "vi",
+        "en",
+        "ja",
+        "ko",
+        "zh-Hans",
+        "es",
+        "pt",
+        "de",
+        "fr",
+        "id"
+      ],
+      "rolloutPercent": 100,
+      "weight": 1,
+      "maxImpressions": 3,
+      "stopAfterDismiss": 1,
+      "stopAfterClick": true,
+      "skipIfInstalled": true,
+      "banner": {
+        "popup": "promo/img/pourpop-popup-v1.webp"
+      },
+      "label": {
+        "vi": "CÙNG NHÀ PHÁT TRIỂN",
+        "en": "From the same developer",
+        "ja": "同じ開発者のゲーム",
+        "ko": "같은 개발자의 게임",
+        "zh-Hans": "同一开发者出品",
+        "es": "Del mismo desarrollador",
+        "pt": "Do mesmo desenvolvedor",
+        "de": "Vom selben Entwickler",
+        "fr": "Du même développeur",
+        "id": "Dari pengembang yang sama"
+      },
+      "headline": {
+        "vi": "Rót nước, xếp màu, thư giãn",
+        "en": "A cozy puzzle for quiet moments",
+        "ja": "ひと息つきたいときのパズル",
+        "ko": "잠깐 쉬어 갈 때 딱 좋은 퍼즐",
+        "zh-Hans": "适合放松一下的小谜题",
+        "es": "Un puzle para desconectar",
+        "pt": "Um quebra-cabeça para relaxar",
+        "de": "Ein Rätsel für ruhige Momente",
+        "fr": "Un puzzle pour souffler un peu",
+        "id": "Puzzle santai untuk rehat sejenak"
+      },
+      "body": {
+        "vi": "Rót nước qua lại cho mỗi ống chỉ còn một màu. Không đếm giờ, cứ thong thả mà chơi.",
+        "en": "Pour water between tubes until each one holds a single color. No timers, no rush.",
+        "ja": "試験管から試験管へ水を注いで、色をそろえよう。制限時間なし、自分のペースで。",
+        "ko": "시험관끼리 물을 옮겨 따라 시험관마다 한 가지 색만 남기세요. 시간 제한 없이 내 속도대로.",
+        "zh-Hans": "在试管之间倒水，让每根试管只剩一种颜色。不限时，按自己的节奏来。",
+        "es": "Vierte agua entre tubos hasta que cada uno tenga un solo color. Sin reloj ni prisas.",
+        "pt": "Despeje água entre os tubos até cada um ficar com uma cor só. Sem cronômetro, sem pressa.",
+        "de": "Gieß Wasser zwischen den Röhrchen um, bis jedes nur eine Farbe hat. Ohne Zeitdruck.",
+        "fr": "Verse l'eau d'un tube à l'autre jusqu'à ce que chacun n'ait qu'une couleur. Sans chrono.",
+        "id": "Tuang air antartabung sampai tiap tabung berisi satu warna. Tanpa batas waktu."
+      },
+      "cta": {
+        "vi": "Tải {app}",
+        "en": "Get {app}",
+        "ja": "{app}を入手",
+        "ko": "{app} 받기",
+        "zh-Hans": "获取 {app}",
+        "es": "Descargar {app}",
+        "pt": "Baixar {app}",
+        "de": "{app} laden",
+        "fr": "Obtenir {app}",
+        "id": "Unduh {app}"
+      },
+      "ctaInstalled": {
+        "vi": "Mở {app}",
+        "en": "Open {app}",
+        "ja": "{app}を開く",
+        "ko": "{app} 열기",
+        "zh-Hans": "打开 {app}",
+        "es": "Abrir {app}",
+        "pt": "Abrir {app}",
+        "de": "{app} öffnen",
+        "fr": "Ouvrir {app}",
+        "id": "Buka {app}"
+      },
+      "dismiss": {
+        "vi": "Để sau",
+        "en": "Not now",
+        "ja": "あとで",
+        "ko": "나중에",
+        "zh-Hans": "以后再说",
+        "es": "Ahora no",
+        "pt": "Agora não",
+        "de": "Später",
+        "fr": "Plus tard",
+        "id": "Nanti saja"
+      }
+    }
+  ]
+}
