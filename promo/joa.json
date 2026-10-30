@@ -61,7 +61,8 @@
       "stopAfterClick": true,
       "skipIfInstalled": true,
       "banner": {
-        "popup": "promo/img/hao-popup-v1.webp"
+        "popup": "promo/img/hao-popup-v1.webp",
+        "native": "promo/img/hao-native-v1.webp"
       },
       "label": {
         "vi": "CÙNG NHÀ PHÁT TRIỂN",
@@ -111,7 +112,8 @@
       "stopAfterClick": true,
       "skipIfInstalled": true,
       "banner": {
-        "popup": "promo/img/suki-popup-v1.webp"
+        "popup": "promo/img/suki-popup-v1.webp",
+        "native": "promo/img/suki-native-v1.webp"
       },
       "label": {
         "vi": "CÙNG NHÀ PHÁT TRIỂN",
@@ -161,7 +163,8 @@
       "stopAfterClick": true,
       "skipIfInstalled": true,
       "banner": {
-        "popup": "promo/img/spark-popup-v1.webp"
+        "popup": "promo/img/spark-popup-v1.webp",
+        "native": "promo/img/spark-native-v1.webp"
       },
       "label": {
         "vi": "CÙNG NHÀ PHÁT TRIỂN",
