@@ -19,6 +19,13 @@
       "maxPerWeek": 1,
       "chance": 1.0
     },
+    "native": {
+      "slots": [
+        "home_feed"
+      ],
+      "mode": "admob_fallback",
+      "cooldownHours": 24
+    },
     "settings": {
       "title": {
         "vi": "Học ngôn ngữ khác",
@@ -36,7 +43,8 @@
       "id": "suki-in-hao-2026-11-staging",
       "app": "suki",
       "placements": [
-        "popup"
+        "popup",
+        "native"
       ],
       "platforms": [
         "ios",
@@ -84,7 +92,8 @@
       "id": "joa-in-hao-2026-11-staging",
       "app": "joa",
       "placements": [
-        "popup"
+        "popup",
+        "native"
       ],
       "platforms": [
         "ios",
@@ -132,7 +141,8 @@
       "id": "spark-in-hao-2026-11-staging",
       "app": "spark",
       "placements": [
-        "popup"
+        "popup",
+        "native"
       ],
       "platforms": [
         "ios",
