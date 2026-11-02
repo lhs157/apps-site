@@ -1,114 +1,55 @@
-# Privacy Policy — Anime World Wallpaper
+# Privacy Policy — Elsewhere / Anime World Wallpaper
 
-**Last updated: 2026-07-20 · Contact: luuhongson157@gmail.com**
-
----
+**Updated: 2026-11-02 · Contact: luuhongson157@gmail.com**
 
 ## English
 
-Anime World Wallpaper ("the app") is a wallpaper browser. We designed it to respect your
-privacy: **there is no sign-up, no login, and we never ask for your name, email, or any
-personal information.**
+Elsewhere / Anime World Wallpaper provides illustrated corners, focus sessions and wallpapers. Features vary by platform and release. The Android closed-testing build currently provides corners, a focus timer and wallpapers; purchases, push messaging and advertising are not enabled in that build.
 
-**What stays on your device.** Your favourites, your downloaded list, your language choice,
-and the image cache are stored **locally on your device**. None of it is sent to us.
+**Local data.** Saved corner settings, favourites, focus history, timer state, language preferences and downloaded content are stored on your device. We do not operate an app account or upload these records. Uninstalling the app may remove this local data. You can remove downloaded packs and favourites in the app.
 
-**What leaves your device.** The app downloads a catalogue file and image files from a
-static website (`lhs157.github.io`). These are ordinary web requests: they carry your IP
-address and a cache validator, exactly as visiting a web page does. We run no server, keep
-no logs, and have no account system, so these requests are not associated with you.
+**Content downloads.** Catalogues, images and corner assets are downloaded over HTTPS from GitHub and GitHub-hosted content services. These requests reveal ordinary network information, such as an IP address, to the hosting provider. GitHub may process connection data under its own [privacy statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement). We do not receive an identified profile or use downloads for personalised advertising.
 
-**Photos.** When you tap *Save to Photos*, the app asks iOS for **add-only** access to your
-photo library and writes that one image. It never reads your library, never lists your
-photos, and never uploads anything. If you decline, the app simply cannot save — nothing
-else changes. (iOS does not allow any app to set your wallpaper directly; you choose it
-yourself in Settings ▸ Wallpaper.)
+**Images and wallpaper.** Saving an image writes the selected export to your device's media library. The app does not read or upload your existing photo library. Sharing passes the image to the destination you choose. On Android, setting a live wallpaper opens the operating system's wallpaper picker; wallpaper settings and scene files remain on your device. iOS wallpaper selection is performed through supported system features.
 
-**No tracking, no ads, no analytics.** The app contains no advertising, no third-party
-analytics, and no tracking SDKs. It does not use the Advertising Identifier (IDFA).
+**Timers, audio and notifications.** A focus timer can use local notifications and, on supported Android devices, exact-alarm access. Background audio uses Android's media-playback foreground service and its notification. Home-screen widgets and wallpaper services use local scene and timer state. These features do not require microphone, camera, location, contacts or health access. Local notifications are not remote push messaging.
 
-**No other permissions.** The app does not request your location, camera, microphone,
-contacts, or health data.
+**Purchases and advertising.** Versions that enable purchases use Apple or Google store services. The store processes payment information; the app does not receive your payment card details. Existing iOS versions can offer Pro and Remove Ads. Advertising-enabled versions use Google AdMob and consent controls; advertising is not requested in corners or focus sessions and is configured as non-personalised. The current Android closed-testing build does not initialise advertising, analytics or remote-push services. A future version that enables additional data processing will update this policy and the store disclosures before release. [Google privacy policy](https://policies.google.com/privacy), [Apple privacy policy](https://www.apple.com/legal/privacy/).
 
-**Children.** The app is suitable for general audiences and collects nothing from anyone,
-including children under 13.
+**Children and contact.** The app is not designed specifically for children. We do not ask for a name, birth date, email address or account registration. If you contact support by email, we receive the information you choose to send and use it to respond. You can ask us to delete that correspondence. Please do not include purchase tokens or other secrets in an email.
 
-**About the wallpapers.** Every image in the app is **original artwork generated by us**.
-They do not depict characters from any anime, game, or other franchise, and no third
-party's images are redistributed. Images are free for you to use as wallpapers.
-
-**Changes.** If this policy changes, the date above changes with it.
-
----
+This page describes data handling, not a promise that every feature is available in every release. Changes will be reflected in the date above.
 
 ## Tiếng Việt
 
-Anime World Wallpaper ("ứng dụng") là app duyệt hình nền. Ứng dụng được thiết kế để tôn
-trọng quyền riêng tư: **không đăng ký, không đăng nhập, và không bao giờ hỏi tên, email hay
-bất kỳ thông tin cá nhân nào.**
+Elsewhere / Anime World Wallpaper cung cấp góc minh hoạ, phiên tập trung và hình nền. Tính năng khác nhau theo nền tảng và phiên bản. Bản Android kiểm thử khép kín hiện có góc, bộ đếm tập trung và hình nền; chưa bật mua hàng, thông báo đẩy hay quảng cáo.
 
-**Dữ liệu ở lại máy bạn.** Danh sách yêu thích, danh sách đã tải, lựa chọn ngôn ngữ và bộ
-nhớ đệm ảnh đều lưu **ngay trên máy bạn**. Không có thứ nào được gửi về cho chúng tôi.
+**Dữ liệu trên thiết bị.** Cấu hình góc đã lưu, yêu thích, lịch sử tập trung, trạng thái bộ đếm, ngôn ngữ và nội dung đã tải được lưu ngay trên máy. Ứng dụng không có tài khoản riêng và không tải các bản ghi này lên máy chủ của chúng tôi. Gỡ ứng dụng có thể xoá dữ liệu này. Bạn có thể gỡ pack đã tải và bỏ yêu thích trong app.
 
-**Dữ liệu rời khỏi máy.** Ứng dụng tải một file danh mục và các file ảnh từ một website
-tĩnh (`lhs157.github.io`). Đó là các yêu cầu web thông thường: chúng mang theo địa chỉ IP
-và một mã kiểm tra bộ nhớ đệm, đúng như khi bạn mở một trang web. Chúng tôi không vận hành
-máy chủ, không lưu log, không có hệ thống tài khoản — nên các yêu cầu này không gắn với bạn.
+**Tải nội dung.** Danh mục, ảnh và tài nguyên góc được tải qua HTTPS từ GitHub và dịch vụ nội dung của GitHub. Nhà cung cấp nhận thông tin kết nối thông thường, ví dụ địa chỉ IP, và có thể xử lý theo [chính sách GitHub](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement). Chúng tôi không nhận hồ sơ định danh và không dùng lượt tải để cá nhân hoá quảng cáo.
 
-**Ảnh.** Khi bạn bấm *Lưu vào Ảnh*, ứng dụng xin iOS quyền **chỉ-thêm** vào thư viện ảnh và
-ghi đúng tấm ảnh đó. Ứng dụng không bao giờ đọc thư viện, không liệt kê ảnh của bạn, và
-không tải gì lên. Nếu bạn từ chối, ứng dụng chỉ đơn giản là không lưu được — không có gì
-khác thay đổi. (iOS không cho phép bất kỳ app nào tự đặt hình nền; bạn tự chọn trong Cài
-đặt ▸ Hình nền.)
+**Ảnh và hình nền.** Lưu ảnh ghi đúng ảnh xuất vào thư viện media của máy. App không đọc hoặc tải lên ảnh có sẵn của bạn. Chia sẻ chuyển ảnh tới nơi bạn chọn. Đặt hình nền động trên Android mở trình chọn của hệ điều hành; cấu hình và tệp cảnh vẫn ở máy. Trên iOS, bạn dùng các chức năng hệ thống hỗ trợ để chọn hình nền.
 
-**Không theo dõi, không quảng cáo, không phân tích.** Ứng dụng không có quảng cáo, không có
-công cụ phân tích của bên thứ ba, không có SDK theo dõi. Không dùng Advertising Identifier
-(IDFA).
+**Bộ đếm, âm thanh và thông báo.** Bộ đếm có thể dùng thông báo cục bộ và quyền báo thức chính xác trên Android được hỗ trợ. Âm thanh nền dùng dịch vụ phát media của Android kèm thông báo. Widget và dịch vụ hình nền đọc trạng thái cảnh/bộ đếm tại máy. App không cần quyền micro, camera, vị trí, danh bạ hoặc sức khoẻ. Thông báo cục bộ không phải thông báo đẩy từ xa.
 
-**Không xin quyền nào khác.** Ứng dụng không xin vị trí, camera, micro, danh bạ hay dữ liệu
-sức khoẻ.
+**Mua hàng và quảng cáo.** Phiên bản bật mua hàng dùng dịch vụ cửa hàng Apple hoặc Google. Cửa hàng xử lý thanh toán; app không nhận thông tin thẻ ngân hàng. Phiên bản iOS hiện có thể cung cấp Pro và Gỡ quảng cáo. Bản có quảng cáo dùng Google AdMob và quản lý đồng ý; quảng cáo không xuất hiện trong góc hoặc phiên tập trung và được cấu hình không cá nhân hoá. Bản Android kiểm thử hiện không khởi tạo quảng cáo, phân tích hoặc thông báo đẩy. Trước khi bật xử lý dữ liệu mới, chúng tôi sẽ cập nhật chính sách và khai báo cửa hàng. [Chính sách Google](https://policies.google.com/privacy), [chính sách Apple](https://www.apple.com/legal/privacy/).
 
-**Trẻ em.** Ứng dụng phù hợp với mọi đối tượng và không thu thập gì từ bất kỳ ai, kể cả trẻ
-em dưới 13 tuổi.
+**Trẻ em và liên hệ.** App không được thiết kế riêng cho trẻ em. Chúng tôi không hỏi tên, ngày sinh, email hoặc yêu cầu đăng ký. Khi bạn gửi email hỗ trợ, chúng tôi nhận thông tin bạn tự cung cấp để trả lời; bạn có thể yêu cầu xoá thư đó. Không gửi purchase token hoặc bí mật khác qua email.
 
-**Về các hình nền.** Mọi hình ảnh trong ứng dụng đều là **tác phẩm gốc do chúng tôi tạo
-ra**. Chúng không mô tả nhân vật của bất kỳ anime, game hay thương hiệu nào, và không phát
-tán lại hình ảnh của bên thứ ba. Bạn được tự do dùng chúng làm hình nền.
-
-**Thay đổi.** Nếu chính sách này thay đổi, ngày ở đầu trang sẽ thay đổi theo.
-
----
+Trang này mô tả cách xử lý dữ liệu, không cam kết mọi tính năng có trong mọi bản phát hành. Ngày ở đầu trang sẽ đổi khi có cập nhật.
 
 ## 日本語
 
-Anime World Wallpaper（本アプリ）は壁紙ブラウザです。プライバシーを尊重して設計されてい
-ます。**登録もログインも不要で、お名前・メールアドレス・その他の個人情報を一切お尋ねし
-ません。**
+Elsewhere / Anime World Wallpaper は、イラストの空間、集中タイマー、壁紙を提供します。機能はプラットフォームとリリースによって異なります。現在の Android クローズドテスト版では、空間、集中タイマー、壁紙を利用できます。購入、リモートプッシュ通知、広告は有効になっていません。
 
-**端末内に残るもの。** お気に入り、ダウンロード履歴、言語設定、画像キャッシュは
-すべて**お使いの端末内に**保存されます。当方に送信されることはありません。
+保存した空間設定、お気に入り、集中履歴、タイマー、言語設定、ダウンロードしたデータは端末に保存されます。専用アカウントはなく、これらを当方のサーバーに送信しません。アンインストールにより消える場合があります。ダウンロード済みパックやお気に入りはアプリ内で削除できます。
 
-**端末から送信されるもの。** 本アプリは静的サイト（`lhs157.github.io`）からカタログ
-ファイルと画像を取得します。これは通常のウェブ通信であり、ウェブページを閲覧するのと
-同様に IP アドレスとキャッシュ検証子が含まれます。当方はサーバーを運用せず、ログも保持
-せず、アカウント機能もないため、これらの通信が個人と結びつくことはありません。
+カタログ、画像、空間の素材は GitHub のサービスから HTTPS で取得します。GitHub は IP アドレスなどの通常の接続情報を受信し、[同社のプライバシーステートメント](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement)に従って処理する場合があります。当方は識別可能な利用者プロフィールを受け取らず、ダウンロードをパーソナライズ広告に使用しません。
 
-**写真。** 「写真に保存」をタップすると、本アプリは iOS に**追加のみ**の権限を求め、その
-1 枚を書き込みます。ライブラリを読み取ることも、写真を一覧することも、アップロードする
-こともありません。許可しない場合、保存ができないだけで他に影響はありません。（iOS は
-どのアプリにも壁紙の直接設定を許可していません。設定 ▸ 壁紙 からご自身で選択してくださ
-い。）
+画像保存は選択した書き出し画像のみを端末に保存します。既存の写真ライブラリを読み取ったりアップロードしたりしません。共有先は利用者が選びます。Android のライブ壁紙は OS の選択画面から設定し、空間のファイルと設定は端末に残ります。iOS の壁紙設定は対応するシステム機能を使用します。
 
-**トラッキング・広告・解析はありません。** 広告、第三者解析、トラッキング SDK を一切含み
-ません。広告識別子（IDFA）も使用しません。
+タイマーはローカル通知や、対応 Android 端末の正確なアラーム権限を使用する場合があります。バックグラウンド音声は通知付きメディア再生サービスを使用します。ウィジェットと壁紙サービスは端末上の状態を参照します。マイク、カメラ、位置情報、連絡先、健康データの権限は不要です。
 
-**その他の権限。** 位置情報、カメラ、マイク、連絡先、ヘルスケアデータを要求しません。
+購入が有効な版では Apple または Google のストアが決済を処理し、アプリはカード情報を受け取りません。既存 iOS 版には Pro と広告削除がある場合があります。広告対応版は同意管理付きの Google AdMob を使用し、空間や集中セッション内には広告を表示せず、非パーソナライズ広告に設定します。現在の Android テスト版では広告、解析、リモートプッシュのサービスを初期化しません。新しいデータ処理を有効にする前に本ページとストア申告を更新します。[Google](https://policies.google.com/privacy)、[Apple](https://www.apple.com/legal/privacy/)の方針も参照してください。
 
-**お子様について。** 本アプリは一般向けであり、13 歳未満を含むいかなる利用者からも情報を
-収集しません。
-
-**壁紙について。** アプリ内のすべての画像は**当方が生成したオリジナル作品**です。アニメ・
-ゲーム等の既存キャラクターを描いたものではなく、第三者の画像を再配布するものでもありま
-せん。壁紙として自由にお使いいただけます。
-
-**変更。** 本ポリシーを変更した場合、上部の日付を更新します。
+本アプリは子ども専用に設計されていません。名前、生年月日、メールアドレス、登録を求めません。サポートメールでは利用者が送った情報を返信に使用し、依頼に応じてその通信を削除します。購入トークンなどの秘密情報は送らないでください。本ページは全リリースでの全機能の提供を約束するものではありません。
