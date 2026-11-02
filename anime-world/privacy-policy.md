@@ -6,6 +6,8 @@
 
 Elsewhere / Anime World Wallpaper provides illustrated corners, focus sessions and wallpapers. Features vary by platform and release. The Android closed-testing build currently provides corners, a focus timer and wallpapers; purchases, push messaging and advertising are not enabled in that build.
 
+The app is a general relaxation and focus tool, not a medical device. It does not diagnose, treat, cure or prevent any medical condition.
+
 **Local data.** Saved corner settings, favourites, focus history, timer state, language preferences and downloaded content are stored on your device. We do not operate an app account or upload these records. Uninstalling the app may remove this local data. You can remove downloaded packs and favourites in the app.
 
 **Content downloads.** Catalogues, images and corner assets are downloaded over HTTPS from GitHub and GitHub-hosted content services. These requests reveal ordinary network information, such as an IP address, to the hosting provider. GitHub may process connection data under its own [privacy statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement). We do not receive an identified profile or use downloads for personalised advertising.
@@ -24,6 +26,8 @@ This page describes data handling, not a promise that every feature is available
 
 Elsewhere / Anime World Wallpaper cung cấp góc minh hoạ, phiên tập trung và hình nền. Tính năng khác nhau theo nền tảng và phiên bản. Bản Android kiểm thử khép kín hiện có góc, bộ đếm tập trung và hình nền; chưa bật mua hàng, thông báo đẩy hay quảng cáo.
 
+App hỗ trợ thư giãn và tập trung thông thường, không phải thiết bị y tế và không chẩn đoán, điều trị, chữa hoặc phòng bệnh.
+
 **Dữ liệu trên thiết bị.** Cấu hình góc đã lưu, yêu thích, lịch sử tập trung, trạng thái bộ đếm, ngôn ngữ và nội dung đã tải được lưu ngay trên máy. Ứng dụng không có tài khoản riêng và không tải các bản ghi này lên máy chủ của chúng tôi. Gỡ ứng dụng có thể xoá dữ liệu này. Bạn có thể gỡ pack đã tải và bỏ yêu thích trong app.
 
 **Tải nội dung.** Danh mục, ảnh và tài nguyên góc được tải qua HTTPS từ GitHub và dịch vụ nội dung của GitHub. Nhà cung cấp nhận thông tin kết nối thông thường, ví dụ địa chỉ IP, và có thể xử lý theo [chính sách GitHub](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement). Chúng tôi không nhận hồ sơ định danh và không dùng lượt tải để cá nhân hoá quảng cáo.
@@ -41,6 +45,8 @@ Trang này mô tả cách xử lý dữ liệu, không cam kết mọi tính nă
 ## 日本語
 
 Elsewhere / Anime World Wallpaper は、イラストの空間、集中タイマー、壁紙を提供します。機能はプラットフォームとリリースによって異なります。現在の Android クローズドテスト版では、空間、集中タイマー、壁紙を利用できます。購入、リモートプッシュ通知、広告は有効になっていません。
+
+本アプリは一般的なリラクゼーションと集中のためのツールであり、医療機器ではありません。疾患の診断、治療、治癒、予防を行いません。
 
 保存した空間設定、お気に入り、集中履歴、タイマー、言語設定、ダウンロードしたデータは端末に保存されます。専用アカウントはなく、これらを当方のサーバーに送信しません。アンインストールにより消える場合があります。ダウンロード済みパックやお気に入りはアプリ内で削除できます。
 
