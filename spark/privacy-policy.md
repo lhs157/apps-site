@@ -1,6 +1,6 @@
 # Chính sách quyền riêng tư / Privacy Policy — Spark
 
-**Ngày hiệu lực / Effective date:** 2026-10-26 (bản có quảng cáo AdMob / version with AdMob ads)
+**Ngày hiệu lực / Effective date:** 2026-10-30 (bản 2.5: thông báo đẩy Firebase / version 2.5: Firebase push notifications)
 
 ---
 
@@ -41,9 +41,11 @@ Spark có thể yêu cầu quyền truy cập microphone để hỗ trợ các b
 
 Spark sử dụng bộ đọc văn bản tích hợp sẵn của hệ điều hành (iOS/Android) để phát âm từ vựng và đoạn hội thoại theo giọng US hoặc UK. Bộ đọc hoặc giọng đọc bạn chọn có thể cần tải dữ liệu hoặc xử lý qua mạng theo cài đặt và chính sách của nhà cung cấp. Spark không gửi văn bản đến máy chủ riêng của chúng tôi.
 
-### 6. Thông báo cục bộ
+### 6. Thông báo nhắc học và thông báo đẩy
 
-Spark có thể gửi thông báo nhắc nhở học hàng ngày thông qua hệ thống thông báo cục bộ của thiết bị (không qua máy chủ đẩy). Thông báo này là tùy chọn và có thể tắt hoặc thay đổi giờ trong phần Cài đặt.
+- **Nhắc học hàng ngày** được lên lịch cục bộ trên thiết bị, không qua máy chủ. Thông báo này là tùy chọn và có thể tắt hoặc thay đổi giờ trong phần Cài đặt của ứng dụng hoặc của hệ điều hành.
+- **Thông báo đẩy (từ bản 2.5)** dùng **Firebase Cloud Messaging** của Google (và Apple Push Notification service trên iOS) để gửi tin cập nhật nội dung và thông báo về Spark. Để gửi được, dịch vụ này tạo một mã cài đặt và mã thiết bị thông báo (device token) gắn với bản cài của ứng dụng, cùng thông tin kỹ thuật như kiểu máy, phiên bản hệ điều hành, ngôn ngữ và múi giờ. Spark không dùng mã này để nhận diện bạn, không gắn nó với tên hay email nào (Spark không có tài khoản) và không dùng nó để theo dõi bạn qua ứng dụng khác. Mã này nhận các tin theo nhóm chung (ví dụ theo ngôn ngữ giao diện, người dùng Pro hay miễn phí). Google xử lý dữ liệu này theo [chính sách quyền riêng tư của Google](https://policies.google.com/privacy) và [Firebase Privacy and Security](https://firebase.google.com/support/privacy). Bạn có thể tắt thông báo bất cứ lúc nào trong Cài đặt của hệ điều hành; khi đó bạn vẫn đọc được các tin mới ngay trong ứng dụng, mục "Có gì mới".
+- Spark tải về một tệp cấu hình công khai (lịch giới thiệu các ứng dụng khác của chúng tôi) từ GitHub Pages. Tệp này chỉ được tải về; Spark không gửi dữ liệu học tập của bạn đến đó, nhưng GitHub, như mọi máy chủ web, có thể ghi nhận địa chỉ IP của yêu cầu.
 
 ### 7. Thanh toán trong ứng dụng
 
@@ -100,9 +102,11 @@ Spark may request microphone access to support read-aloud and pronunciation prac
 
 Spark uses the operating system's built-in text-to-speech engine (iOS/Android) to read vocabulary words and listening transcripts aloud in US or UK English. Your selected engine or voice may download data or use network processing according to its settings and provider policy. Spark does not send this text to a server operated by us.
 
-### 6. Local Notifications
+### 6. Study Reminders and Push Notifications
 
-Spark can send a daily study reminder via the device's local notification system (not via a push server). This is optional and can be disabled or rescheduled at any time in Settings.
+- **Daily study reminders** are scheduled locally on your device, not through a server. They are optional and can be turned off or rescheduled in the app's or your operating system's Settings.
+- **Push notifications (from version 2.5)** use Google's **Firebase Cloud Messaging** (and the Apple Push Notification service on iOS) to deliver content updates and news about Spark. To deliver them, the service creates an installation ID and a device notification token tied to this install of the app, together with technical details such as device model, OS version, language and time zone. Spark does not use this token to identify you, does not link it to a name or email (Spark has no accounts), and does not use it to track you across other apps. The token receives messages sent to broad groups (for example by interface language, or Pro versus free). Google processes this data under the [Google Privacy Policy](https://policies.google.com/privacy) and [Firebase Privacy and Security](https://firebase.google.com/support/privacy). You can switch notifications off at any time in your operating system's Settings; you can still read new items inside the app under "What's new".
+- Spark downloads a public configuration file (a schedule for introducing our other apps) from GitHub Pages. The file is only downloaded; Spark does not send your study data there, but GitHub, like any web server, may log the IP address of the request.
 
 ### 7. In-App Purchases
 
