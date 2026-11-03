@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "items": [
+    {
+      "id": "release-3.0.1",
+      "kind": "release",
+      "version": "3.0.1",
+      "date": "2026-11-03",
+      "audience": "all",
+      "title": {
+        "vi": "Góc tập trung và hình nền động mới",
+        "en": "New focus corners and live wallpapers",
+        "ja": "新しい集中コーナーと動く壁紙"
+      },
+      "summary": {
+        "vi": "Tìm một góc bình yên, tập trung theo nhịp của bạn và mang khung cảnh yêu thích lên màn hình.",
+        "en": "Find a quiet corner, focus at your own pace and bring your favourite scene to your screen.",
+        "ja": "お気に入りの静かな場所で、自分のペースで集中。好きな風景を壁紙に。"
+      },
+      "highlights": [
+        {
+          "vi": "Khám phá và lưu cấu hình góc tập trung yêu thích.",
+          "en": "Explore focus corners and save your favourite setup.",
+          "ja": "集中コーナーを見つけて、お気に入りの配置を保存。"
+        },
+        {
+          "vi": "Xem trước hình nền động từ góc của bạn. iOS xuất Live Photo; Android dùng hình nền động của hệ thống.",
+          "en": "Preview a live wallpaper from your corner. iOS exports a Live Photo; Android uses the system live wallpaper service.",
+          "ja": "コーナーを動く壁紙としてプレビュー。iOSではLive Photoに書き出し、Androidではシステムのライブ壁紙を使います。"
+        },
+        {
+          "vi": "Nhận thêm góc và hình nền tương thích qua nội dung cập nhật trong app.",
+          "en": "Discover compatible new corners and wallpapers through in-app content updates.",
+          "ja": "アプリ内のコンテンツ更新で、新しい対応コーナーや壁紙に出会えます。"
+        }
+      ],
+      "groups": []
+    }
+  ]
+}
