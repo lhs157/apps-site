@@ -12,10 +12,9 @@ carry the food up and reach the boat on the roof in time. 90 levels, rewarded ad
 - [Support & Contact](afloat/support.md)
 - [Privacy Policy](afloat/privacy-policy.md)
 
-## Anime World Wallpaper — Hình nền anime mỗi ngày
+## Cozy Anime: Focus & Wallpapers
 
-An anime wallpaper app with a daily drop, themed collections, and original AI-generated
-artwork. Vietnamese, English and Japanese.
+Animated anime corners, focus sessions and themed wallpaper collections with original AI-generated artwork. Vietnamese, English and Japanese.
 
 - [Support & Contact](anime-world/support.md)
 - [Privacy Policy](anime-world/privacy-policy.md)

@@ -1,10 +1,10 @@
-# Privacy Policy — Elsewhere / Anime World Wallpaper
+# Privacy Policy — Cozy Anime: Focus & Wallpapers
 
 **Updated: 2026-11-03 · Contact: luuhongson157@gmail.com**
 
 ## English
 
-Elsewhere / Anime World Wallpaper provides illustrated corners, focus sessions and wallpapers. Features vary by platform and release. The Android closed-testing build currently provides corners, a focus timer and wallpapers; purchases, push messaging and advertising are not enabled in that build.
+Cozy Anime: Focus & Wallpapers provides illustrated corners, focus sessions and wallpapers. Features vary by platform and release. The Android closed-testing build currently provides corners, a focus timer and wallpapers; purchases, push messaging and advertising are not enabled in that build.
 
 The app is a general relaxation and focus tool, not a medical device. It does not diagnose, treat, cure or prevent any medical condition.
 
@@ -28,7 +28,7 @@ This page describes data handling, not a promise that every feature is available
 
 ## Tiếng Việt
 
-Elsewhere / Anime World Wallpaper cung cấp góc minh hoạ, phiên tập trung và hình nền. Tính năng khác nhau theo nền tảng và phiên bản. Bản Android kiểm thử khép kín hiện có góc, bộ đếm tập trung và hình nền; chưa bật mua hàng, thông báo đẩy hay quảng cáo.
+Cozy Anime: Focus & Wallpapers cung cấp góc minh hoạ, phiên tập trung và hình nền. Tính năng khác nhau theo nền tảng và phiên bản. Bản Android kiểm thử khép kín hiện có góc, bộ đếm tập trung và hình nền; chưa bật mua hàng, thông báo đẩy hay quảng cáo.
 
 App hỗ trợ thư giãn và tập trung thông thường, không phải thiết bị y tế và không chẩn đoán, điều trị, chữa hoặc phòng bệnh.
 
@@ -52,7 +52,7 @@ Trang này mô tả cách xử lý dữ liệu, không cam kết mọi tính nă
 
 ## 日本語
 
-Elsewhere / Anime World Wallpaper は、イラストの空間、集中タイマー、壁紙を提供します。機能はプラットフォームとリリースによって異なります。現在の Android クローズドテスト版では、空間、集中タイマー、壁紙を利用できます。購入、リモートプッシュ通知、広告は有効になっていません。
+Cozy Anime: Focus & Wallpapers は、イラストの空間、集中タイマー、壁紙を提供します。機能はプラットフォームとリリースによって異なります。現在の Android クローズドテスト版では、空間、集中タイマー、壁紙を利用できます。購入、リモートプッシュ通知、広告は有効になっていません。
 
 本アプリは一般的なリラクゼーションと集中のためのツールであり、医療機器ではありません。疾患の診断、治療、治癒、予防を行いません。
 
