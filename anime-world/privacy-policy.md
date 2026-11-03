@@ -1,6 +1,6 @@
 # Privacy Policy — Elsewhere / Anime World Wallpaper
 
-**Updated: 2026-11-02 · Contact: luuhongson157@gmail.com**
+**Updated: 2026-11-03 · Contact: luuhongson157@gmail.com**
 
 ## English
 
@@ -17,6 +17,8 @@ The app is a general relaxation and focus tool, not a medical device. It does no
 **Timers, audio and notifications.** A focus timer can use local notifications and, on supported Android devices, exact-alarm access. Background audio uses Android's media-playback foreground service and its notification. Home-screen widgets and wallpaper services use local scene and timer state. These features do not require microphone, camera, location, contacts or health access. Local notifications are not remote push messaging.
 
 **Purchases and advertising.** Versions that enable purchases use Apple or Google store services. The store processes payment information; the app does not receive your payment card details. Existing iOS versions can offer Pro and Remove Ads. Advertising-enabled versions use Google AdMob and consent controls; advertising is not requested in corners or focus sessions and is configured as non-personalised. The current Android closed-testing build does not initialise advertising, analytics or remote-push services. A future version that enables additional data processing will update this policy and the store disclosures before release. [Google privacy policy](https://policies.google.com/privacy), [Apple privacy policy](https://www.apple.com/legal/privacy/).
+
+**Ad privacy and purchase verification in enabled builds.** AdMob can process IP addresses, advertising/device identifiers, ad interactions and diagnostic information to deliver ads, prevent fraud and measure performance even for non-personalised ads. UMP requests consent where required; you can reopen available choices from Settings > Ad privacy choices. Pro, Remove Ads and eligible legacy iOS users do not receive ads. Android builds with server verification send the store purchase token, package and product ID over HTTPS to our verifier and Google Play. The verifier stores a token hash and purchase/revocation timestamps to preserve access and reconcile refunds; it does not store raw purchase tokens, card details or focus history. The prepared Cloudflare-hosted verifier is only used once enabled; its provider receives normal network information under the [Cloudflare privacy policy](https://www.cloudflare.com/privacypolicy/). The current closed-test binary remains unchanged until an updated build is installed.
 
 **Children and contact.** The app is not designed specifically for children. We do not ask for a name, birth date, email address or account registration. If you contact support by email, we receive the information you choose to send and use it to respond. You can ask us to delete that correspondence. Please do not include purchase tokens or other secrets in an email.
 
@@ -38,6 +40,8 @@ App hỗ trợ thư giãn và tập trung thông thường, không phải thiế
 
 **Mua hàng và quảng cáo.** Phiên bản bật mua hàng dùng dịch vụ cửa hàng Apple hoặc Google. Cửa hàng xử lý thanh toán; app không nhận thông tin thẻ ngân hàng. Phiên bản iOS hiện có thể cung cấp Pro và Gỡ quảng cáo. Bản có quảng cáo dùng Google AdMob và quản lý đồng ý; quảng cáo không xuất hiện trong góc hoặc phiên tập trung và được cấu hình không cá nhân hoá. Bản Android kiểm thử hiện không khởi tạo quảng cáo, phân tích hoặc thông báo đẩy. Trước khi bật xử lý dữ liệu mới, chúng tôi sẽ cập nhật chính sách và khai báo cửa hàng. [Chính sách Google](https://policies.google.com/privacy), [chính sách Apple](https://www.apple.com/legal/privacy/).
 
+**Quyền riêng tư quảng cáo và xác minh mua hàng ở bản đã bật.** Dù quảng cáo không cá nhân hoá, AdMob vẫn có thể xử lý IP, mã định danh quảng cáo/thiết bị, tương tác quảng cáo và thông tin chẩn đoán để phân phối, chống gian lận và đo hiệu quả. UMP hỏi đồng ý khi cần; lựa chọn có thể mở lại ở Cài đặt > Quyền riêng tư quảng cáo. Người mua Pro, Gỡ quảng cáo và người dùng iOS cũ thuộc diện miễn không nhận quảng cáo. Bản Android bật xác minh máy chủ gửi purchase token, mã gói và mã sản phẩm qua HTTPS tới dịch vụ xác minh và Google Play. Dịch vụ lưu mã băm token cùng thời điểm mua/thu hồi để giữ quyền và đối soát hoàn tiền; không lưu token thô, thông tin thẻ hoặc lịch sử tập trung. Verifier chuẩn bị trên Cloudflare chỉ được dùng khi bật; nhà cung cấp nhận thông tin kết nối thông thường theo [chính sách Cloudflare](https://www.cloudflare.com/privacypolicy/). Binary kiểm thử hiện tại không đổi cho đến khi cài bản cập nhật.
+
 **Trẻ em và liên hệ.** App không được thiết kế riêng cho trẻ em. Chúng tôi không hỏi tên, ngày sinh, email hoặc yêu cầu đăng ký. Khi bạn gửi email hỗ trợ, chúng tôi nhận thông tin bạn tự cung cấp để trả lời; bạn có thể yêu cầu xoá thư đó. Không gửi purchase token hoặc bí mật khác qua email.
 
 Trang này mô tả cách xử lý dữ liệu, không cam kết mọi tính năng có trong mọi bản phát hành. Ngày ở đầu trang sẽ đổi khi có cập nhật.
@@ -57,5 +61,7 @@ Elsewhere / Anime World Wallpaper は、イラストの空間、集中タイマ�
 タイマーはローカル通知や、対応 Android 端末の正確なアラーム権限を使用する場合があります。バックグラウンド音声は通知付きメディア再生サービスを使用します。ウィジェットと壁紙サービスは端末上の状態を参照します。マイク、カメラ、位置情報、連絡先、健康データの権限は不要です。
 
 購入が有効な版では Apple または Google のストアが決済を処理し、アプリはカード情報を受け取りません。既存 iOS 版には Pro と広告削除がある場合があります。広告対応版は同意管理付きの Google AdMob を使用し、空間や集中セッション内には広告を表示せず、非パーソナライズ広告に設定します。現在の Android テスト版では広告、解析、リモートプッシュのサービスを初期化しません。新しいデータ処理を有効にする前に本ページとストア申告を更新します。[Google](https://policies.google.com/privacy)、[Apple](https://www.apple.com/legal/privacy/)の方針も参照してください。
+
+広告が非パーソナライズでも、AdMob は IP、広告・端末識別子、広告操作、診断情報を配信、不正防止、測定のため処理する場合があります。UMP は必要な同意を求め、設定の広告プライバシー項目から選択を再表示できます。Pro、広告削除、対象となる既存 iOS 利用者には広告を表示しません。サーバー検証を有効にした Android 版は購入トークン、パッケージ、商品 ID を HTTPS で検証サービスと Google Play に送信します。サービスは権利と返金確認のためトークンのハッシュと購入・失効時刻を保存し、生トークン、カード、集中履歴は保存しません。準備中の Cloudflare 検証サービスは有効化後のみ使用し、通信情報は [Cloudflare の方針](https://www.cloudflare.com/privacypolicy/)に従います。現在のテスト版は更新版をインストールするまで変わりません。
 
 本アプリは子ども専用に設計されていません。名前、生年月日、メールアドレス、登録を求めません。サポートメールでは利用者が送った情報を返信に使用し、依頼に応じてその通信を削除します。購入トークンなどの秘密情報は送らないでください。本ページは全リリースでの全機能の提供を約束するものではありません。
