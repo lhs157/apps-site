@@ -456,7 +456,12 @@
     "de": "Eine schöne Nachtschicht!",
     "fr": "Bonne garde de nuit !",
     "id": "Selamat berjaga malam!"
-   }
+   },
+   "highlightIcons": [
+    "s03_icon_crossbow",
+    "fx_flame",
+    "s03_star"
+   ]
   }
  ]
 }
