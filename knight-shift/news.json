@@ -1,0 +1,462 @@
+{
+ "schemaVersion": 1,
+ "_note": "Tin trong game Knight Shift. Bản kèm app (offline). Bản sống: https://lhs157.github.io/apps-site/knight-shift/news.json — trùng id thì bản GitHub thắng.",
+ "items": [
+  {
+   "id": "rel-1.2.0",
+   "kind": "release",
+   "version": "1.2.0",
+   "date": "2026-11-06",
+   "icon": "release",
+   "title": {
+    "vi": "Trận đánh sống động và đã tay hơn bao giờ hết",
+    "en": "Livelier, punchier battles than ever",
+    "ja": "かつてないほど爽快でにぎやかなバトルへ",
+    "ko": "그 어느 때보다 생생하고 손맛 좋은 전투",
+    "zh": "前所未有的爽快、热闹的战斗",
+    "es": "Batallas más vivas y emocionantes que nunca",
+    "pt": "Batalhas mais vivas e empolgantes do que nunca",
+    "de": "Lebendigere und wuchtigere Kämpfe als je zuvor",
+    "fr": "Des combats plus vivants et percutants que jamais",
+    "id": "Pertempuran lebih hidup dan seru dari sebelumnya"
+   },
+   "summary": {
+    "vi": "Nỏ bắn nhanh hơn, Chí mạng và chuỗi hạ, hiệu ứng nổ rực rỡ cùng hoạt ảnh mới cho mọi loài quái.",
+    "en": "A faster crossbow, Critical hits and combos, dazzling new effects and fresh animations for every enemy.",
+    "ja": "連射できる古いクロスボウ、クリティカルとコンボ、派手な新エフェクト、そして全モンスターの新アニメーション。",
+    "ko": "더 빨라진 낡은 석궁, 치명타와 연속 처치, 화려한 새 효과, 모든 몬스터의 새 애니메이션.",
+    "zh": "旧弩射得更快，新增暴击与连杀，绚丽的全新特效，所有怪物都有新动画。",
+    "es": "Ballesta más rápida, golpes críticos y combos, efectos deslumbrantes y animaciones nuevas para cada enemigo.",
+    "pt": "Besta mais rápida, acertos críticos e combos, efeitos deslumbrantes e animações novas para todos os inimigos.",
+    "de": "Eine schnellere Armbrust, kritische Treffer und Kombos, prächtige neue Effekte und frische Animationen für jeden Gegner.",
+    "fr": "Une arbalète plus rapide, des coups critiques et des combos, des effets éblouissants et de nouvelles animations pour chaque ennemi.",
+    "id": "Busur silang lebih cepat, serangan kritis dan kombo, efek baru yang memukau, serta animasi baru untuk setiap musuh."
+   },
+   "highlights": [
+    {
+     "vi": "Giữ ngón để bắn liên tục",
+     "en": "Hold to shoot nonstop",
+     "ja": "長押しで撃ちっぱなし",
+     "ko": "꾹 눌러 연속 사격",
+     "zh": "按住即可连续射击",
+     "es": "Mantén pulsado para disparar sin parar",
+     "pt": "Segure para atirar sem parar",
+     "de": "Gedrückt halten für Dauerfeuer",
+     "fr": "Maintenez pour tirer sans arrêt",
+     "id": "Tahan untuk menembak terus"
+    },
+    {
+     "vi": "Hiệu ứng nổ rực rỡ",
+     "en": "Explosive new effects",
+     "ja": "派手な爆発エフェクト",
+     "ko": "화려한 폭발 효과",
+     "zh": "绚丽的爆炸特效",
+     "es": "Explosiones espectaculares",
+     "pt": "Explosões espetaculares",
+     "de": "Spektakuläre Explosionen",
+     "fr": "Des explosions spectaculaires",
+     "id": "Ledakan yang spektakuler"
+    },
+    {
+     "vi": "Chí mạng và chuỗi hạ",
+     "en": "Critical hits and combos",
+     "ja": "クリティカルとコンボ",
+     "ko": "치명타와 연속 처치",
+     "zh": "暴击与连杀",
+     "es": "Golpes críticos y combos",
+     "pt": "Acertos críticos e combos",
+     "de": "Kritische Treffer und Kombos",
+     "fr": "Coups critiques et combos",
+     "id": "Serangan kritis dan kombo"
+    }
+   ],
+   "sections": [
+    {
+     "icon": "shoot",
+     "header": {
+      "vi": "Bắn đã tay hơn",
+      "en": "Snappier shooting",
+      "ja": "射撃がもっと気持ちいい",
+      "ko": "더 시원한 사격",
+      "zh": "射击更爽快",
+      "es": "Disparos más ágiles",
+      "pt": "Tiros mais ágeis",
+      "de": "Knackigeres Schießen",
+      "fr": "Des tirs plus nerveux",
+      "id": "Tembakan lebih mantap"
+     },
+     "lines": [
+      {
+       "vi": "Nỏ Cũ bắn nhanh hơn hẳn. Giữ ngón trên màn hình là bắn liên tục, kéo ngón tới đâu tên bay tới đó",
+       "en": "The Old Crossbow fires much faster. Hold your finger to shoot nonstop and drag to aim",
+       "ja": "古いクロスボウの連射がぐっと速くなりました。画面を長押しで撃ち続け、指を動かした方向へ矢が飛びます",
+       "ko": "낡은 석궁이 훨씬 빨리 쏩니다. 화면을 누르고 있으면 계속 쏘고, 손가락을 움직이는 대로 화살이 날아가요",
+       "zh": "旧弩射速大幅提升。按住屏幕即可连续射击，手指移到哪里，箭就飞向哪里",
+       "es": "La Ballesta vieja dispara mucho más rápido. Mantén el dedo en la pantalla para disparar sin parar y muévelo para apuntar",
+       "pt": "A Besta velha atira muito mais rápido. Segure o dedo na tela para atirar sem parar e arraste para mirar",
+       "de": "Die Alte Armbrust schießt deutlich schneller. Halte den Finger auf dem Bildschirm für Dauerfeuer und ziehe ihn zum Zielen",
+       "fr": "La Vieille arbalète tire bien plus vite. Gardez le doigt sur l'écran pour tirer sans arrêt et faites-le glisser pour viser",
+       "id": "Busur Silang Tua menembak jauh lebih cepat. Tahan jari di layar untuk menembak terus, geser jari untuk membidik"
+      },
+      {
+       "vi": "Băng đạn lớn hơn, đỡ phải chờ nạp giữa trận",
+       "en": "Bigger clips mean less waiting to reload",
+       "ja": "マガジンが大きくなり、戦闘中のリロード待ちが減りました",
+       "ko": "탄창이 커져서 전투 중 재장전 대기가 줄었어요",
+       "zh": "弹匣更大，战斗中等待装填的时间更少",
+       "es": "Cargadores más grandes: menos esperas para recargar en plena batalla",
+       "pt": "Pentes maiores: menos espera para recarregar no meio da batalha",
+       "de": "Größere Magazine: weniger Wartezeit beim Nachladen mitten im Kampf",
+       "fr": "Des chargeurs plus grands : moins d'attente pour recharger en plein combat",
+       "id": "Magasin lebih besar, jadi lebih jarang menunggu isi ulang di tengah pertempuran"
+      },
+      {
+       "vi": "Nhắm trúng đầu quái gây Chí mạng, sát thương cao hơn kèm chữ báo rõ ràng",
+       "en": "Aim for the head to land Critical hits with bonus damage",
+       "ja": "頭を狙えばクリティカル！ダメージが増え、はっきり表示されます",
+       "ko": "머리를 맞히면 치명타! 더 큰 피해와 함께 확실하게 표시돼요",
+       "zh": "瞄准怪物头部即可打出暴击，伤害更高，提示也更醒目",
+       "es": "Apunta a la cabeza para lograr un golpe crítico, con más daño y un aviso bien visible",
+       "pt": "Mire na cabeça para dar um acerto crítico, com mais dano e um aviso bem claro",
+       "de": "Ziele auf den Kopf für kritische Treffer mit mehr Schaden und gut sichtbarer Anzeige",
+       "fr": "Visez la tête pour un coup critique, avec plus de dégâts et un signal bien visible",
+       "id": "Bidik kepala musuh untuk serangan kritis dengan damage lebih besar dan tanda yang jelas"
+      },
+      {
+       "vi": "Hạ quái liên tiếp để nối chuỗi ×2, ×3, ×5… kèm tiếng chuông dồn dập",
+       "en": "Chain kills for ×2, ×3, ×5… combos with a rising chime",
+       "ja": "連続で倒すと×2、×3、×5…とコンボがつながり、効果音も盛り上がります",
+       "ko": "연달아 처치하면 ×2, ×3, ×5… 연속 처치가 이어지고 효과음도 점점 고조돼요",
+       "zh": "连续击杀可打出 ×2、×3、×5… 连杀，音效也越来越激昂",
+       "es": "Encadena bajas para hacer combos ×2, ×3, ×5… con un sonido cada vez más intenso",
+       "pt": "Derrube inimigos em sequência para combos ×2, ×3, ×5… com um som cada vez mais empolgante",
+       "de": "Erledige Gegner in Folge für Kombos ×2, ×3, ×5 … mit immer schnellerem Glockenklang",
+       "fr": "Enchaînez les ennemis pour des combos ×2, ×3, ×5… au son d'un carillon qui s'emballe",
+       "id": "Kalahkan musuh berturut-turut untuk kombo ×2, ×3, ×5… diiringi bunyi lonceng yang makin seru"
+      },
+      {
+       "vi": "Hạ con quái cuối mỗi đợt, trận chậm lại một nhịp để bạn tận hưởng khoảnh khắc chiến thắng",
+       "en": "Finishing the last enemy of a wave slows time for a satisfying moment",
+       "ja": "ウェーブ最後の敵を倒すと一瞬スローになり、勝利の瞬間を味わえます",
+       "ko": "웨이브의 마지막 적을 쓰러뜨리면 잠깐 느려지며 승리의 순간을 만끽할 수 있어요",
+       "zh": "击败每波最后一个敌人时，画面会短暂放慢，让你尽情享受胜利时刻",
+       "es": "Al derribar al último enemigo de la oleada, el tiempo se ralentiza para que disfrutes la victoria",
+       "pt": "Ao derrubar o último inimigo da onda, o tempo desacelera para você curtir a vitória",
+       "de": "Fällt der letzte Gegner einer Welle, verlangsamt sich die Zeit kurz, damit du den Sieg genießen kannst",
+       "fr": "Quand le dernier ennemi d'une vague tombe, le temps ralentit un instant pour savourer la victoire",
+       "id": "Saat musuh terakhir di satu gelombang tumbang, waktu melambat sejenak agar kamu bisa menikmati kemenangan"
+      }
+     ]
+    },
+    {
+     "icon": "fx",
+     "header": {
+      "vi": "Hiệu ứng hoành tráng",
+      "en": "Spectacular effects",
+      "ja": "迫力のエフェクト",
+      "ko": "화려한 효과",
+      "zh": "震撼特效",
+      "es": "Efectos espectaculares",
+      "pt": "Efeitos espetaculares",
+      "de": "Spektakuläre Effekte",
+      "fr": "Des effets spectaculaires",
+      "id": "Efek yang memukau"
+     },
+     "lines": [
+      {
+       "vi": "Vụ nổ nhiều lớp: chớp sáng, cầu lửa vẽ tay, sóng xung kích, khói cuộn và tàn lửa bay",
+       "en": "Layered explosions: flash, hand-painted fireball, shockwave, rolling smoke and drifting embers",
+       "ja": "閃光、手描きの火の玉、衝撃波、立ちのぼる煙、舞い散る火の粉を重ねた爆発",
+       "ko": "섬광, 손그림 불덩이, 충격파, 피어오르는 연기, 흩날리는 불티가 겹친 폭발",
+       "zh": "多层爆炸：闪光、手绘火球、冲击波、翻滚的浓烟和飞舞的火星",
+       "es": "Explosiones por capas: destello, bola de fuego pintada a mano, onda expansiva, humo y brasas en el aire",
+       "pt": "Explosões em camadas: clarão, bola de fogo pintada à mão, onda de choque, fumaça e brasas no ar",
+       "de": "Explosionen in Schichten: Blitz, handgemalter Feuerball, Druckwelle, wallender Rauch und fliegende Glut",
+       "fr": "Des explosions en plusieurs couches : éclair, boule de feu peinte à la main, onde de choc, fumée et braises",
+       "id": "Ledakan berlapis: kilatan, bola api lukisan tangan, gelombang kejut, asap bergulung, dan bara beterbangan"
+      },
+      {
+       "vi": "Ánh lửa hắt sáng cả chiến trường đêm: đuốc trên tường lập loè, lửa dầu soi rực mặt đất",
+       "en": "Firelight lights up the night: flickering wall torches, burning oil glowing on the ground",
+       "ja": "夜の戦場を照らす炎：城壁のたいまつが揺らめき、燃える油が地面を赤く照らします",
+       "ko": "밤의 전장을 밝히는 불빛: 성벽 횃불이 일렁이고, 불붙은 기름이 땅을 붉게 비춰요",
+       "zh": "火光照亮夜晚的战场：城墙火把摇曳，燃烧的油把地面映得通红",
+       "es": "El fuego ilumina la noche: antorchas que titilan en la muralla y aceite ardiendo que enrojece el suelo",
+       "pt": "O fogo ilumina a noite: tochas tremulando na muralha e óleo em chamas avermelhando o chão",
+       "de": "Feuerschein erhellt die Nacht: flackernde Fackeln an der Mauer, brennendes Öl lässt den Boden glühen",
+       "fr": "Le feu éclaire la nuit : torches vacillantes sur le rempart, huile enflammée qui rougeoie au sol",
+       "id": "Cahaya api menerangi malam: obor di tembok berkedip, minyak terbakar membuat tanah menyala merah"
+      },
+      {
+       "vi": "Sét đánh zíc zắc, rẽ nhánh nhảy từ quái này sang quái khác",
+       "en": "Forked lightning that leaps from enemy to enemy",
+       "ja": "稲妻がジグザグに枝分かれし、敵から敵へと飛び移ります",
+       "ko": "번개가 지그재그로 갈라지며 적에서 적으로 튀어요",
+       "zh": "闪电呈锯齿状分叉，在敌人之间跳跃",
+       "es": "Rayos en zigzag que se ramifican y saltan de un enemigo a otro",
+       "pt": "Raios em zigue-zague que se ramificam e saltam de inimigo em inimigo",
+       "de": "Verzweigte Blitze, die im Zickzack von Gegner zu Gegner springen",
+       "fr": "Des éclairs en zigzag qui se ramifient et sautent d'un ennemi à l'autre",
+       "id": "Petir zig-zag bercabang yang melompat dari satu musuh ke musuh lain"
+      },
+      {
+       "vi": "Pháo có chớp nòng và khói, đạn pháo chạm đất nổ tung",
+       "en": "Cannons with muzzle flash and smoke, shells that burst on impact",
+       "ja": "大砲はマズルフラッシュと煙つき、砲弾は着弾で炸裂",
+       "ko": "대포는 포구 화염과 연기를, 포탄은 땅에 닿으면 폭발해요",
+       "zh": "火炮带有炮口火光和硝烟，炮弹落地即爆",
+       "es": "Cañones con fogonazo y humo, y balas que estallan al impactar",
+       "pt": "Canhões com clarão e fumaça, e balas que explodem ao atingir o chão",
+       "de": "Kanonen mit Mündungsfeuer und Rauch, Kugeln, die beim Aufprall zerbersten",
+       "fr": "Des canons avec flamme de bouche et fumée, des boulets qui éclatent à l'impact",
+       "id": "Meriam dengan kilatan moncong dan asap, peluru yang meledak saat menghantam"
+      },
+      {
+       "vi": "Tên trúng đích toé tia lửa; tên đập vào khiên Orc toé tia kim loại",
+       "en": "Sparks when arrows hit, metal sparks off Orc shields",
+       "ja": "矢が当たると火花が散り、オークの盾には金属の火花",
+       "ko": "화살이 맞으면 불꽃이 튀고, 오크 방패에는 쇠 불꽃이 튀어요",
+       "zh": "箭矢命中时火花四溅，射中兽人盾牌会迸出金属火花",
+       "es": "Chispas al acertar con las flechas, y chispas metálicas contra los escudos de los orcos",
+       "pt": "Faíscas quando as flechas acertam, e faíscas de metal nos escudos dos orcs",
+       "de": "Funken, wenn Pfeile treffen, und Metallfunken an Ork-Schilden",
+       "fr": "Des étincelles quand les flèches touchent, et des étincelles métalliques sur les boucliers des orcs",
+       "id": "Percikan api saat panah mengenai sasaran, percikan logam saat mengenai perisai Orc"
+      },
+      {
+       "vi": "Cửa Orc và mái Xe Húc vỡ tung thành dăm gỗ, cổng bị đập văng gỗ và bụi",
+       "en": "Orc doors and Ram roofs burst into splinters, gate hits throw wood and dust",
+       "ja": "オークの扉や破城槌の屋根が木っ端みじんに。門への一撃で木片と土ぼこりが舞います",
+       "ko": "오크의 문짝과 공성추 지붕이 나무 조각으로 산산이 부서지고, 성문을 치면 나무 파편과 먼지가 날려요",
+       "zh": "兽人的门板和攻城锤的顶棚会炸成木屑，城门被撞时木片与尘土飞扬",
+       "es": "Las puertas de los orcos y el techo del Ariete saltan en astillas; cada golpe a la puerta levanta madera y polvo",
+       "pt": "As portas dos orcs e o teto do Aríete viram lascas; cada golpe no portão espalha madeira e poeira",
+       "de": "Ork-Türen und Rammbock-Dächer zersplittern, Treffer am Tor schleudern Holz und Staub",
+       "fr": "Les portes des orcs et le toit du Bélier volent en éclats, chaque coup sur la porte projette bois et poussière",
+       "id": "Pintu Orc dan atap Pendobrak Gerbang hancur jadi serpihan, hantaman ke gerbang menerbangkan kayu dan debu"
+      },
+      {
+       "vi": "Boss xuất hiện giữa tia sét từ trời, đổi pha kèm sóng chấn, gục ngã bằng một vụ nổ lớn",
+       "en": "Bosses arrive in a lightning strike, shake the ground between phases and fall in a huge blast",
+       "ja": "ボスは天からの落雷とともに登場し、フェーズが変わると地面が揺れ、最後は大爆発で倒れます",
+       "ko": "보스는 하늘에서 내리치는 번개와 함께 등장하고, 페이즈가 바뀔 때 땅이 흔들리며, 큰 폭발과 함께 쓰러져요",
+       "zh": "首领在天降闪电中登场，切换阶段时地动山摇，最后在一场大爆炸中倒下",
+       "es": "Los jefes llegan entre rayos, hacen temblar el suelo al cambiar de fase y caen en una gran explosión",
+       "pt": "Os chefes chegam entre raios, fazem o chão tremer ao mudar de fase e caem numa grande explosão",
+       "de": "Bosse erscheinen mit einem Blitz vom Himmel, lassen beim Phasenwechsel den Boden beben und fallen in einer gewaltigen Explosion",
+       "fr": "Les boss arrivent dans un coup de foudre, font trembler le sol en changeant de phase et tombent dans une énorme explosion",
+       "id": "Bos muncul di tengah sambaran petir, mengguncang tanah saat berganti fase, dan tumbang dalam ledakan besar"
+      },
+      {
+       "vi": "Thắng trận có pháo hoa rực rỡ trên bầu trời đêm",
+       "en": "Victory fireworks over the night sky",
+       "ja": "勝利すると夜空に花火が上がります",
+       "ko": "승리하면 밤하늘에 불꽃놀이가 터져요",
+       "zh": "胜利时夜空绽放绚丽烟花",
+       "es": "Fuegos artificiales en el cielo nocturno al ganar",
+       "pt": "Fogos de artifício no céu noturno a cada vitória",
+       "de": "Feuerwerk am Nachthimmel nach jedem Sieg",
+       "fr": "Un feu d'artifice dans le ciel nocturne à chaque victoire",
+       "id": "Kembang api di langit malam setiap kali menang"
+      }
+     ]
+    },
+    {
+     "icon": "anim",
+     "header": {
+      "vi": "Hoạt ảnh sống động",
+      "en": "Livelier animation",
+      "ja": "いきいきしたアニメーション",
+      "ko": "생생한 애니메이션",
+      "zh": "生动的动画",
+      "es": "Animaciones más vivas",
+      "pt": "Animações mais vivas",
+      "de": "Lebendigere Animationen",
+      "fr": "Des animations plus vivantes",
+      "id": "Animasi lebih hidup"
+     },
+     "lines": [
+      {
+       "vi": "Quái bước đi tự nhiên hơn: dồn lực, bắt chéo chân, có bụi chân theo từng bước",
+       "en": "Enemies walk more naturally with weight, crossing steps and dust at every footfall",
+       "ja": "敵の歩き方がより自然に：重心移動、交差する足、一歩ごとの土ぼこり",
+       "ko": "적이 더 자연스럽게 걸어요: 무게 이동, 교차하는 발걸음, 걸음마다 이는 먼지",
+       "zh": "敌人走路更自然：重心移动、交叉步伐，每一步都扬起尘土",
+       "es": "Los enemigos caminan con más naturalidad: con peso, pasos cruzados y polvo en cada pisada",
+       "pt": "Os inimigos andam de forma mais natural: com peso, passos cruzados e poeira a cada pisada",
+       "de": "Gegner gehen natürlicher: mit Gewicht, überkreuzten Schritten und Staub bei jedem Tritt",
+       "fr": "Les ennemis marchent plus naturellement : avec du poids, des pas croisés et de la poussière à chaque foulée",
+       "id": "Musuh berjalan lebih alami: berbobot, langkah menyilang, dan debu di setiap pijakan"
+      },
+      {
+       "vi": "Có bóng đổ dưới chân, trúng đòn thì bật lùi và bẹp lại đầy lực",
+       "en": "Shadows under every foot, hits that knock back and squash with real force",
+       "ja": "足元に影がつき、攻撃を受けるとしっかりのけぞってつぶれます",
+       "ko": "발밑에 그림자가 생기고, 맞으면 힘 있게 뒤로 밀리며 찌그러져요",
+       "zh": "脚下有影子，被击中时会有力地后仰、压扁",
+       "es": "Sombras bajo los pies, y golpes que los empujan y aplastan con fuerza",
+       "pt": "Sombras sob os pés, e golpes que empurram e achatam com força",
+       "de": "Schatten unter den Füßen, Treffer, die mit echter Wucht zurückstoßen und stauchen",
+       "fr": "Des ombres sous leurs pieds, des coups qui les repoussent et les écrasent avec force",
+       "id": "Bayangan di bawah kaki, serangan yang membuat musuh terdorong dan gepeng dengan mantap"
+      },
+      {
+       "vi": "Quái lấy đà trước khi đập cổng, ngã xuống có nảy và tung bụi",
+       "en": "Enemies wind up before hitting the gate, and bounce and kick up dust when they fall",
+       "ja": "敵は門を叩く前に振りかぶり、倒れるとバウンドして土ぼこりを上げます",
+       "ko": "적은 성문을 치기 전에 힘을 모으고, 쓰러질 때 튕기며 먼지를 일으켜요",
+       "zh": "敌人撞门前会先蓄力，倒地时会弹起并扬起尘土",
+       "es": "Los enemigos toman impulso antes de golpear la puerta, y al caer rebotan y levantan polvo",
+       "pt": "Os inimigos tomam impulso antes de bater no portão e, ao cair, quicam e levantam poeira",
+       "de": "Gegner holen Schwung, bevor sie aufs Tor schlagen, und prallen beim Fallen ab und wirbeln Staub auf",
+       "fr": "Les ennemis prennent leur élan avant de frapper la porte, rebondissent et soulèvent de la poussière en tombant",
+       "id": "Musuh mengambil ancang-ancang sebelum memukul gerbang, lalu memantul dan menerbangkan debu saat jatuh"
+      },
+      {
+       "vi": "Hiệp sĩ thở nhẹ khi chờ; màn hình rung và loé theo độ mạnh của từng cú đánh",
+       "en": "The knight breathes while waiting; the screen shakes and flashes to match each hit",
+       "ja": "騎士は待機中に静かに呼吸し、攻撃の強さに合わせて画面が揺れて光ります",
+       "ko": "기사는 기다리는 동안 숨을 쉬고, 화면은 타격의 세기에 맞춰 흔들리고 번쩍여요",
+       "zh": "骑士待机时会轻轻呼吸；屏幕会随每次攻击的力度震动和闪光",
+       "es": "El caballero respira mientras espera; la pantalla tiembla y destella según la fuerza de cada golpe",
+       "pt": "O cavaleiro respira enquanto espera; a tela treme e pisca conforme a força de cada golpe",
+       "de": "Der Ritter atmet, während er wartet; der Bildschirm bebt und blitzt passend zur Wucht jedes Treffers",
+       "fr": "Le chevalier respire en attendant ; l'écran tremble et flashe selon la force de chaque coup",
+       "id": "Sang ksatria bernapas saat menunggu; layar bergetar dan berkilat sesuai kekuatan tiap serangan"
+      },
+      {
+       "vi": "Quái đang cháy bốc khói, quái bị làm chậm lấp lánh băng",
+       "en": "Burning enemies smoke, slowed enemies glitter with frost",
+       "ja": "燃えている敵は煙を上げ、スロー状態の敵は霜がきらめきます",
+       "ko": "불타는 적은 연기를 내고, 느려진 적은 서리가 반짝여요",
+       "zh": "着火的敌人会冒烟，被减速的敌人身上闪着冰霜",
+       "es": "Los enemigos en llamas echan humo y los ralentizados brillan con escarcha",
+       "pt": "Inimigos em chamas soltam fumaça e os desacelerados brilham com geada",
+       "de": "Brennende Gegner qualmen, verlangsamte Gegner glitzern vor Frost",
+       "fr": "Les ennemis en feu fument, les ennemis ralentis scintillent de givre",
+       "id": "Musuh yang terbakar berasap, musuh yang diperlambat berkilau oleh embun beku"
+      }
+     ]
+    },
+    {
+     "icon": "balance",
+     "header": {
+      "vi": "Cân bằng lại",
+      "en": "Rebalanced",
+      "ja": "バランス調整",
+      "ko": "밸런스 조정",
+      "zh": "平衡调整",
+      "es": "Equilibrio",
+      "pt": "Equilíbrio",
+      "de": "Neu ausbalanciert",
+      "fr": "Rééquilibrage",
+      "id": "Penyeimbangan ulang"
+     },
+     "lines": [
+      {
+       "vi": "Vua Goblin ở đêm 10 được tinh chỉnh để trận đánh công bằng và hấp dẫn hơn",
+       "en": "The Goblin King on night 10 is tuned for a fairer, more exciting fight",
+       "ja": "夜10のゴブリン王を調整し、より公平で熱い戦いになりました",
+       "ko": "10번째 밤의 고블린 왕을 조정해 더 공정하고 흥미진진한 전투가 되었어요",
+       "zh": "调整了第 10 夜的哥布林王，战斗更公平、更精彩",
+       "es": "El Rey Goblin de la noche 10 está ajustado para una pelea más justa y emocionante",
+       "pt": "O Rei Goblin da noite 10 foi ajustado para uma luta mais justa e emocionante",
+       "de": "Der Goblinkönig in Nacht 10 wurde für einen faireren, spannenderen Kampf angepasst",
+       "fr": "Le Roi Gobelin de la nuit 10 a été ajusté pour un combat plus juste et plus palpitant",
+       "id": "Raja Goblin di malam ke-10 disesuaikan agar pertarungan lebih adil dan seru"
+      }
+     ]
+    },
+    {
+     "icon": "tools",
+     "header": {
+      "vi": "Tiện lợi hơn",
+      "en": "Smoother play",
+      "ja": "もっと快適に",
+      "ko": "더 편리하게",
+      "zh": "更加便捷",
+      "es": "Más cómodo",
+      "pt": "Mais prático",
+      "de": "Bequemer spielen",
+      "fr": "Plus pratique",
+      "id": "Lebih nyaman"
+     },
+     "lines": [
+      {
+       "vi": "Ô vũ khí hiện rõ số tên còn trong băng",
+       "en": "Weapon slots show how many arrows are left in the clip",
+       "ja": "武器スロットにマガジンの残り本数が表示されます",
+       "ko": "무기 슬롯에 탄창에 남은 화살 수가 표시돼요",
+       "zh": "武器栏会显示弹匣中剩余的箭数",
+       "es": "Las casillas de armas muestran cuántas flechas quedan en el cargador",
+       "pt": "Os espaços de arma mostram quantas flechas restam no pente",
+       "de": "Waffenplätze zeigen, wie viele Pfeile noch im Magazin sind",
+       "fr": "Les emplacements d'arme indiquent combien de flèches restent dans le chargeur",
+       "id": "Slot senjata menampilkan sisa panah di magasin"
+      },
+      {
+       "vi": "Chọn vũ khí trong túi đồ tự xếp vào ô trống, không phải bấm ô trước",
+       "en": "Picking a weapon from the bag drops it into a free slot",
+       "ja": "バッグから武器を選ぶと空きスロットに自動で入ります",
+       "ko": "가방에서 무기를 고르면 빈 슬롯에 바로 들어가요",
+       "zh": "从背包选择武器会自动放入空栏位",
+       "es": "Al elegir un arma en la mochila, se coloca sola en una casilla libre",
+       "pt": "Ao escolher uma arma na mochila, ela vai sozinha para um espaço livre",
+       "de": "Eine Waffe aus der Tasche landet automatisch in einem freien Platz",
+       "fr": "Choisir une arme dans le sac la place directement dans un emplacement libre",
+       "id": "Memilih senjata dari tas langsung menaruhnya di slot kosong"
+      },
+      {
+       "vi": "Xem quảng cáo nhận ×2 vàng, Tiếp viện và lượt quay thêm nay hoạt động ổn định",
+       "en": "Watching ads for ×2 gold, Reinforcements and extra spins now works reliably",
+       "ja": "広告を見てゴールド×2、援軍、追加ルーレットがしっかり受け取れるようになりました",
+       "ko": "광고를 보고 받는 골드 ×2, 지원군, 추가 룰렛이 안정적으로 작동해요",
+       "zh": "看广告领取双倍金币、援军和额外转盘次数现已稳定可用",
+       "es": "Ver anuncios para ganar oro ×2, Refuerzos y giros extra ahora funciona sin fallos",
+       "pt": "Assistir anúncios para ganhar ouro ×2, Reforços e giros extras agora funciona sem falhas",
+       "de": "Werbung für ×2 Gold, Verstärkung und Extra-Drehungen funktioniert jetzt zuverlässig",
+       "fr": "Regarder une pub pour l'or ×2, les Renforts et les tours de roue bonus fonctionne désormais sans accroc",
+       "id": "Menonton iklan untuk emas ×2, Bala bantuan, dan putaran tambahan kini berjalan lancar"
+      },
+      {
+       "vi": "Nhắc giờ trực ca nhận đúng cài đặt thông báo của máy",
+       "en": "Shift reminders now respect your device's notification settings",
+       "ja": "夜勤のお知らせが端末の通知設定に正しく従います",
+       "ko": "야간 근무 알림이 기기의 알림 설정을 제대로 따라요",
+       "zh": "夜班提醒会正确遵循设备的通知设置",
+       "es": "Los avisos de turno respetan los ajustes de notificaciones del dispositivo",
+       "pt": "Os lembretes de turno respeitam as configurações de notificação do aparelho",
+       "de": "Schicht-Erinnerungen richten sich nach den Mitteilungseinstellungen deines Geräts",
+       "fr": "Les rappels de garde respectent les réglages de notifications de l'appareil",
+       "id": "Pengingat jaga malam kini mengikuti pengaturan notifikasi perangkat"
+      },
+      {
+       "vi": "Cài đặt \"Giảm hiệu ứng\" giúp máy đời cũ chơi mượt hơn",
+       "en": "The \"Reduce effects\" setting helps older devices run smoothly",
+       "ja": "「エフェクトを減らす」設定で古い端末でもなめらかに遊べます",
+       "ko": "'효과 줄이기' 설정으로 오래된 기기에서도 부드럽게 즐길 수 있어요",
+       "zh": "“减少特效”设置让旧设备也能流畅运行",
+       "es": "El ajuste «Reducir efectos» ayuda a que los dispositivos antiguos vayan fluidos",
+       "pt": "A opção \"Reduzir efeitos\" deixa aparelhos mais antigos mais fluidos",
+       "de": "Die Einstellung „Effekte reduzieren“ sorgt für flüssiges Spielen auf älteren Geräten",
+       "fr": "Le réglage « Réduire les effets » rend le jeu plus fluide sur les appareils anciens",
+       "id": "Pengaturan \"Kurangi efek\" membuat perangkat lama berjalan lebih mulus"
+      }
+     ]
+    }
+   ],
+   "outro": {
+    "vi": "Chúc bạn những đêm trực vui vẻ!",
+    "en": "Have a great night shift!",
+    "ja": "楽しい夜勤を！",
+    "ko": "즐거운 야간 근무 되세요!",
+    "zh": "祝你值夜愉快！",
+    "es": "¡Que tengas un buen turno de noche!",
+    "pt": "Bom turno da noite!",
+    "de": "Eine schöne Nachtschicht!",
+    "fr": "Bonne garde de nuit !",
+    "id": "Selamat berjaga malam!"
+   }
+  }
+ ]
+}
