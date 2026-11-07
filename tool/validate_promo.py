@@ -160,6 +160,17 @@ def check_rules(path, apps):
         if not isinstance(moments, list) or not all(isinstance(m, str) and m for m in moments):
             err(w, "popup.moments phải là chuỗi hoặc danh sách chuỗi")
             moments = []
+        # cross_promo ≥ 0.2.4: nhịp linh hoạt (minGapMinutes / maxPerDay / momentMaxPerDay).
+        for k in ("minGapMinutes", "maxPerDay", "resumeAfterMinutes"):
+            if k in popup and (not isinstance(popup[k], int) or popup[k] < 0):
+                err(w, f"popup.{k} phải là số nguyên ≥ 0")
+        mmpd = popup.get("momentMaxPerDay", {})
+        if not isinstance(mmpd, dict) or not all(isinstance(v, int) and v >= 0 for v in mmpd.values()):
+            err(w, "popup.momentMaxPerDay phải là {thời điểm: số nguyên ≥ 0}")
+        elif moments and set(mmpd) - set(moments):
+            warn(w, f"popup.momentMaxPerDay có thời điểm không nằm trong moments: {sorted(set(mmpd) - set(moments))}")
+        if "yieldToHost" in popup and not isinstance(popup["yieldToHost"], bool):
+            err(w, "popup.yieldToHost phải là true/false")
         if popup.get("perMoment"):
             if not popup.get("oncePerDay"):
                 err(w, "popup.perMoment cần oncePerDay: true")

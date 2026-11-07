@@ -23,7 +23,15 @@
       "moments": [
         "app_open",
         "after_session"
-      ]
+      ],
+      "minGapMinutes": 1,
+      "maxPerDay": 3,
+      "momentMaxPerDay": {
+        "app_open": 1,
+        "after_session": 2
+      },
+      "resumeAfterMinutes": 30,
+      "yieldToHost": true
     },
     "native": {
       "slots": [
