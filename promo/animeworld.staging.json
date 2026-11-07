@@ -41,8 +41,8 @@
   },
   "campaigns": [
     {
-      "id": "pourpop-in-animeworld-2026-11-staging-temp",
-      "app": "pourpop",
+      "id": "knightshift-in-animeworld-2026-11-staging",
+      "app": "knightshift",
       "placements": [
         "popup"
       ],
@@ -62,7 +62,7 @@
       "stopAfterClick": false,
       "skipIfInstalled": true,
       "banner": {
-        "popup": "promo/img/pourpop-popup-v1.webp"
+        "popup": "promo/img/knightshift-popup-v1.webp"
       },
       "label": {
         "vi": "CÙNG NHÀ PHÁT TRIỂN",
@@ -70,14 +70,14 @@
         "ja": "同じ開発者のゲーム"
       },
       "headline": {
-        "vi": "Rót nước, xếp màu, thư giãn",
-        "en": "A cozy puzzle for quiet moments",
-        "ja": "ひと息つきたいときのパズル"
+        "vi": "Giữ nổi cổng thành tới sáng?",
+        "en": "Can you hold the gate till dawn?",
+        "ja": "夜明けまで門を守れるか？"
       },
       "body": {
-        "vi": "Rót nước qua lại cho mỗi ống chỉ còn một màu. Không đếm giờ, cứ thong thả mà chơi.",
-        "en": "Pour water between tubes until each one holds a single color. No timers, no rush.",
-        "ja": "試験管から試験管へ水を注いで、色をそろえよう。制限時間なし、自分のペースで。"
+        "vi": "Đêm nào goblin cũng kéo tới. Bắn nỏ, đặt bẫy, đổi vũ khí, đừng để cổng thất thủ.",
+        "en": "Goblins storm the walls every night. Shoot, set traps and swap weapons to keep them out.",
+        "ja": "夜ごとゴブリンが押し寄せる城門。射撃と罠、武器の切り替えで朝まで守り抜こう。"
       },
       "cta": {
         "vi": "Tải {app}",
