@@ -153,6 +153,20 @@ def check_rules(path, apps):
             err(w, "popup.cooldownHours dưới 24 (chặn cứng của app)")
         if not 0 <= popup.get("chance", 1) <= 1:
             err(w, "popup.chance phải trong 0–1")
+        # cross_promo ≥ 0.2.3: perMoment = mỗi thời điểm trong moments một suất
+        # mỗi ngày lịch (Hảo 07/11/2026: mở app + sau bài học).
+        moments = popup.get("moments", [])
+        moments = [moments] if isinstance(moments, str) else moments
+        if not isinstance(moments, list) or not all(isinstance(m, str) and m for m in moments):
+            err(w, "popup.moments phải là chuỗi hoặc danh sách chuỗi")
+            moments = []
+        if popup.get("perMoment"):
+            if not popup.get("oncePerDay"):
+                err(w, "popup.perMoment cần oncePerDay: true")
+            if len(moments) < 2:
+                warn(w, "popup.perMoment chỉ có tác dụng khi moments có từ 2 thời điểm")
+            elif popup.get("maxPerWeek", 1) < 7 * len(moments):
+                warn(w, f"popup.maxPerWeek {popup.get('maxPerWeek', 1)} < {7 * len(moments)} ⇒ trần tuần chặn trước nhịp mỗi ngày")
     settings = pl.get("settings")
     if settings:
         for loc in sorted({"vi", "en"} | camp_locales):

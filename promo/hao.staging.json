@@ -16,8 +16,14 @@
     "popup": {
       "trigger": "after_session",
       "cooldownHours": 168,
-      "maxPerWeek": 1,
-      "chance": 1.0
+      "maxPerWeek": 14,
+      "chance": 1.0,
+      "oncePerDay": true,
+      "perMoment": true,
+      "moments": [
+        "app_open",
+        "after_session"
+      ]
     },
     "native": {
       "slots": [
