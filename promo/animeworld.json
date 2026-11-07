@@ -1,0 +1,359 @@
+{
+  "schemaVersion": 1,
+  "enabled": true,
+  "refreshHours": 6,
+  "global": {
+    "minDaysSinceInstall": 2,
+    "minLaunches": 3,
+    "minutesAfterInterstitial": 10,
+    "minutesAfterPushOpen": 10,
+    "hideForPro": [
+      "popup",
+      "native"
+    ]
+  },
+  "placements": {
+    "popup": {
+      "trigger": "after_session",
+      "cooldownHours": 72,
+      "maxPerWeek": 2,
+      "chance": 1.0
+    },
+    "settings": {
+      "title": {
+        "vi": "Ứng dụng khác",
+        "en": "More apps",
+        "ja": "ほかのアプリ"
+      },
+      "apps": [
+        "pourpop",
+        "koko",
+        "knightshift",
+        "gridlock",
+        "afloat",
+        "catchmefox",
+        "hao",
+        "spark",
+        "suki",
+        "joa"
+      ]
+    }
+  },
+  "campaigns": [
+    {
+      "id": "pourpop-in-animeworld-2026-11",
+      "app": "pourpop",
+      "placements": [
+        "popup"
+      ],
+      "platforms": [
+        "ios",
+        "android"
+      ],
+      "locales": [
+        "vi",
+        "en",
+        "ja"
+      ],
+      "rolloutPercent": 100,
+      "weight": 3,
+      "maxImpressions": 3,
+      "stopAfterDismiss": 1,
+      "stopAfterClick": true,
+      "skipIfInstalled": true,
+      "banner": {
+        "popup": "promo/img/pourpop-popup-v1.webp"
+      },
+      "label": {
+        "vi": "CÙNG NHÀ PHÁT TRIỂN",
+        "en": "From the same developer",
+        "ja": "同じ開発者のゲーム"
+      },
+      "headline": {
+        "vi": "Rót nước, xếp màu, thư giãn",
+        "en": "A cozy puzzle for quiet moments",
+        "ja": "ひと息つきたいときのパズル"
+      },
+      "body": {
+        "vi": "Rót nước qua lại cho mỗi ống chỉ còn một màu. Không đếm giờ, cứ thong thả mà chơi.",
+        "en": "Pour water between tubes until each one holds a single color. No timers, no rush.",
+        "ja": "試験管から試験管へ水を注いで、色をそろえよう。制限時間なし、自分のペースで。"
+      },
+      "cta": {
+        "vi": "Tải {app}",
+        "en": "Get {app}",
+        "ja": "{app}を入手"
+      },
+      "ctaInstalled": {
+        "vi": "Mở {app}",
+        "en": "Open {app}",
+        "ja": "{app}を開く"
+      },
+      "dismiss": {
+        "vi": "Để sau",
+        "en": "Not now",
+        "ja": "あとで"
+      },
+      "startAt": "2026-11-07T00:00:00+07:00"
+    },
+    {
+      "id": "koko-in-animeworld-2026-11",
+      "app": "koko",
+      "placements": [
+        "popup"
+      ],
+      "platforms": [
+        "ios",
+        "android"
+      ],
+      "locales": [
+        "vi",
+        "en",
+        "ja"
+      ],
+      "rolloutPercent": 100,
+      "weight": 2,
+      "maxImpressions": 3,
+      "stopAfterDismiss": 1,
+      "stopAfterClick": true,
+      "skipIfInstalled": true,
+      "banner": {
+        "popup": "promo/img/koko-popup-v1.webp"
+      },
+      "label": {
+        "vi": "CÙNG NHÀ PHÁT TRIỂN",
+        "en": "From the same developer",
+        "ja": "同じ開発者のゲーム"
+      },
+      "headline": {
+        "vi": "Cho bé một góc chơi dịu dàng",
+        "en": "Calm play for your little one",
+        "ja": "お子さまに、やさしい遊び場を"
+      },
+      "body": {
+        "vi": "Thế giới vẽ tay, bé chạm đâu cũng có lời đáp. Không quảng cáo, không cần biết đọc.",
+        "en": "A hand-painted world where every tap gets an answer. No ads, nothing to read, no rush.",
+        "ja": "タッチするたびに答えが返ってくる手描きの世界。広告なし、字が読めなくても、急がなくても大丈夫。"
+      },
+      "cta": {
+        "vi": "Tải {app}",
+        "en": "Get {app}",
+        "ja": "{app}を入手"
+      },
+      "ctaInstalled": {
+        "vi": "Mở {app}",
+        "en": "Open {app}",
+        "ja": "{app}を開く"
+      },
+      "dismiss": {
+        "vi": "Để sau",
+        "en": "Not now",
+        "ja": "あとで"
+      },
+      "startAt": "2026-11-07T00:00:00+07:00"
+    },
+    {
+      "id": "knightshift-in-animeworld-2026-11",
+      "app": "knightshift",
+      "placements": [
+        "popup"
+      ],
+      "platforms": [
+        "ios",
+        "android"
+      ],
+      "locales": [
+        "vi",
+        "en",
+        "ja"
+      ],
+      "rolloutPercent": 100,
+      "weight": 1,
+      "maxImpressions": 3,
+      "stopAfterDismiss": 1,
+      "stopAfterClick": true,
+      "skipIfInstalled": true,
+      "banner": {
+        "popup": "promo/img/knightshift-popup-v1.webp"
+      },
+      "label": {
+        "vi": "CÙNG NHÀ PHÁT TRIỂN",
+        "en": "From the same developer",
+        "ja": "同じ開発者のゲーム"
+      },
+      "headline": {
+        "vi": "Giữ nổi cổng thành tới sáng?",
+        "en": "Can you hold the gate till dawn?",
+        "ja": "夜明けまで門を守れるか？"
+      },
+      "body": {
+        "vi": "Đêm nào goblin cũng kéo tới. Bắn nỏ, đặt bẫy, đổi vũ khí, đừng để cổng thất thủ.",
+        "en": "Goblins storm the walls every night. Shoot, set traps and swap weapons to keep them out.",
+        "ja": "夜ごとゴブリンが押し寄せる城門。射撃と罠、武器の切り替えで朝まで守り抜こう。"
+      },
+      "cta": {
+        "vi": "Tải {app}",
+        "en": "Get {app}",
+        "ja": "{app}を入手"
+      },
+      "ctaInstalled": {
+        "vi": "Mở {app}",
+        "en": "Open {app}",
+        "ja": "{app}を開く"
+      },
+      "dismiss": {
+        "vi": "Để sau",
+        "en": "Not now",
+        "ja": "あとで"
+      },
+      "startAt": "2026-11-07T00:00:00+07:00"
+    },
+    {
+      "id": "gridlock-in-animeworld-2026-11",
+      "app": "gridlock",
+      "placements": [
+        "popup"
+      ],
+      "platforms": [
+        "ios",
+        "android"
+      ],
+      "locales": [
+        "vi",
+        "en",
+        "ja"
+      ],
+      "rolloutPercent": 100,
+      "weight": 1,
+      "maxImpressions": 3,
+      "stopAfterDismiss": 1,
+      "stopAfterClick": true,
+      "skipIfInstalled": true,
+      "banner": {
+        "popup": "promo/img/gridlock-popup-v1.webp"
+      },
+      "label": {
+        "vi": "CÙNG NHÀ PHÁT TRIỂN",
+        "en": "From the same developer",
+        "ja": "同じ開発者のゲーム"
+      },
+      "headline": {
+        "vi": "Kẹt xe rồi, gỡ giúp nhé?",
+        "en": "Stuck in traffic? Clear the jam",
+        "ja": "大渋滞をほどけるか？"
+      },
+      "body": {
+        "vi": "Đẩy xe con, xe tải sang bên, mở đường cho chiếc xe đỏ chạy ra lối thoát.",
+        "en": "Slide the cars and trucks aside and get the little red car out to the exit.",
+        "ja": "車やトラックをスライドして道をあけ、赤い車を出口まで導こう。"
+      },
+      "cta": {
+        "vi": "Tải {app}",
+        "en": "Get {app}",
+        "ja": "{app}を入手"
+      },
+      "ctaInstalled": {
+        "vi": "Mở {app}",
+        "en": "Open {app}",
+        "ja": "{app}を開く"
+      },
+      "dismiss": {
+        "vi": "Để sau",
+        "en": "Not now",
+        "ja": "あとで"
+      },
+      "startAt": "2026-11-07T00:00:00+07:00"
+    },
+    {
+      "id": "hao-in-animeworld-2026-11",
+      "app": "hao",
+      "placements": [
+        "popup"
+      ],
+      "platforms": [
+        "ios",
+        "android"
+      ],
+      "locales": [
+        "vi",
+        "en"
+      ],
+      "rolloutPercent": 100,
+      "weight": 1,
+      "maxImpressions": 3,
+      "stopAfterDismiss": 1,
+      "stopAfterClick": true,
+      "skipIfInstalled": true,
+      "banner": {
+        "popup": "promo/img/hao-popup-v1.webp"
+      },
+      "label": {
+        "vi": "CÙNG NHÀ PHÁT TRIỂN",
+        "en": "From the same developer"
+      },
+      "headline": {
+        "vi": "Tiếng Trung dễ hơn bạn nghĩ",
+        "en": "Chinese is easier than it looks"
+      },
+      "body": {
+        "vi": "Hảo giúp bạn nhớ chữ Hán qua âm Hán Việt và luyện thi HSK từng cấp một.",
+        "en": "Hảo helps you learn characters step by step and get ready for the HSK."
+      },
+      "cta": {
+        "vi": "Tải {app}",
+        "en": "Get {app}"
+      },
+      "ctaInstalled": {
+        "vi": "Mở {app}",
+        "en": "Open {app}"
+      },
+      "dismiss": {
+        "vi": "Để sau",
+        "en": "Not now"
+      },
+      "startAt": "2026-11-07T00:00:00+07:00"
+    },
+    {
+      "id": "spark-in-animeworld-2026-11",
+      "app": "spark",
+      "placements": [
+        "popup"
+      ],
+      "platforms": [
+        "ios",
+        "android"
+      ],
+      "locales": [
+        "vi"
+      ],
+      "rolloutPercent": 100,
+      "weight": 1,
+      "maxImpressions": 3,
+      "stopAfterDismiss": 1,
+      "stopAfterClick": true,
+      "skipIfInstalled": true,
+      "banner": {
+        "popup": "promo/img/spark-popup-v1.webp"
+      },
+      "label": {
+        "vi": "CÙNG NHÀ PHÁT TRIỂN"
+      },
+      "headline": {
+        "vi": "Đang cần điểm TOEIC?"
+      },
+      "body": {
+        "vi": "Mỗi ngày một bài ngắn, luyện cả nghe, đọc và từ vựng cho kỳ thi TOEIC."
+      },
+      "cta": {
+        "vi": "Tải {app}"
+      },
+      "ctaInstalled": {
+        "vi": "Mở {app}"
+      },
+      "dismiss": {
+        "vi": "Để sau"
+      },
+      "startAt": "2026-11-07T00:00:00+07:00"
+    }
+  ]
+}

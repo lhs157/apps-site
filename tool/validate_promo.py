@@ -19,7 +19,7 @@ PLACEMENTS = {"popup", "native", "settings"}
 PLATFORMS = {"ios", "android"}
 TEXT_KEYS = ("label", "headline", "body", "cta", "ctaInstalled", "dismiss")
 POPUP_SIZE = (1200, 800)  # 3:2, em chọn tạm 30/10/2026
-FAMILIES = {"language", "game"}  # R3 (30/10/2026): thêm họ game
+FAMILIES = {"language", "game", "wallpaper"}  # R3 (30/10/2026): thêm họ game; 07/11/2026: Cozy Anime (Anime World)
 
 errors, warnings = [], []
 
