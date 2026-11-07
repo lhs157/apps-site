@@ -39,11 +39,11 @@
       "ios": {
         "appStoreId": "6820845049",
         "scheme": "suki",
-        "listed": false
+        "listed": true
       },
       "android": {
         "package": "com.sukiapp.suki",
-        "listed": false
+        "listed": true
       }
     },
     "joa": {
@@ -64,7 +64,7 @@
       },
       "android": {
         "package": "com.joakorean.app",
-        "listed": false
+        "listed": true
       }
     },
     "spark": {
@@ -229,7 +229,7 @@
       "ios": {
         "appStoreId": "6818778078",
         "scheme": "lhs157catchmefox",
-        "listed": false
+        "listed": true
       },
       "android": {
         "package": "com.sonluu.thohaidau",
