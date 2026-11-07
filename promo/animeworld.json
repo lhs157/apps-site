@@ -15,8 +15,8 @@
   "placements": {
     "popup": {
       "trigger": "after_session",
-      "cooldownHours": 72,
-      "maxPerWeek": 2,
+      "cooldownHours": 168,
+      "maxPerWeek": 1,
       "chance": 1.0
     },
     "settings": {
