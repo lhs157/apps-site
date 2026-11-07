@@ -14,10 +14,11 @@
   },
   "placements": {
     "popup": {
-      "trigger": "after_save,after_focus,app_open",
+      "trigger": "after_session",
       "cooldownHours": 168,
       "maxPerWeek": 1,
-      "chance": 1.0
+      "chance": 1.0,
+      "moments": "app_open,after_save,after_focus"
     },
     "settings": {
       "title": {

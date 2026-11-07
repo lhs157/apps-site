@@ -144,6 +144,11 @@ def check_rules(path, apps):
         err(w, f"chỗ hiển thị lạ: {sorted(set(pl) - PLACEMENTS)}")
     popup = pl.get("popup")
     if popup:
+        # Package cross_promo chỉ chọn popup khi trigger đúng bằng "after_session";
+        # giá trị khác ⇒ không bao giờ hiện (Anime World 07/11/2026). Thời điểm
+        # hiện của app chủ ghi ở "moments".
+        if popup.get("trigger") != "after_session":
+            err(w, 'popup.trigger phải là "after_session" (thời điểm hiện ghi ở popup.moments)')
         if popup.get("cooldownHours", 0) < 24:
             err(w, "popup.cooldownHours dưới 24 (chặn cứng của app)")
         if not 0 <= popup.get("chance", 1) <= 1:
