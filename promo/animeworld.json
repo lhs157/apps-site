@@ -14,7 +14,7 @@
   },
   "placements": {
     "popup": {
-      "trigger": "after_session",
+      "trigger": "after_save,after_focus",
       "cooldownHours": 168,
       "maxPerWeek": 1,
       "chance": 1.0
