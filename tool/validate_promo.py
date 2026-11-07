@@ -219,8 +219,9 @@ def check_rules(path, apps):
                 warn(cw, f"{target} chưa lên store {p} (listed=false) — app sẽ bỏ qua tới khi listed=true")
         if not 0 <= c.get("rolloutPercent", 100) <= 100:
             err(cw, "rolloutPercent phải trong 0–100")
-        if not 1 <= c.get("maxImpressions", 1) <= 10:
-            err(cw, "maxImpressions phải trong 1–10")
+        # cross_promo ≥ 0.2.4: trần 1000, 0 = không giới hạn (≥ 0.2.5). App 0.2.0–0.2.3 tự kẹp về 1–10.
+        if not 0 <= c.get("maxImpressions", 1) <= 1000:
+            err(cw, "maxImpressions phải trong 0–1000")
         start = parse_time(cw, c["startAt"]) if "startAt" in c else None
         end = parse_time(cw, c["endAt"]) if "endAt" in c else None
         if start and end and start >= end:
