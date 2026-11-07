@@ -59,7 +59,7 @@
       "maxImpressions": 10,
       "stopAfterDismiss": 10,
       "stopAfterClick": false,
-      "skipIfInstalled": true,
+      "skipIfInstalled": false,
       "banner": {
         "popup": "promo/img/knightshift-popup-v1.webp"
       },
