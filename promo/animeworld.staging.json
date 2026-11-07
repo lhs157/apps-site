@@ -3,8 +3,8 @@
   "enabled": true,
   "refreshHours": 1,
   "global": {
-    "minDaysSinceInstall": 2,
-    "minLaunches": 3,
+    "minDaysSinceInstall": 0,
+    "minLaunches": 0,
     "minutesAfterInterstitial": 10,
     "minutesAfterPushOpen": 10,
     "hideForPro": [
@@ -18,8 +18,18 @@
       "cooldownHours": 24,
       "maxPerWeek": 7,
       "chance": 1.0,
-      "moments": "app_open",
-      "oncePerDay": true
+      "oncePerDay": true,
+      "perMoment": true,
+      "moments": [
+        "app_open"
+      ],
+      "minGapMinutes": 1,
+      "maxPerDay": 1,
+      "momentMaxPerDay": {
+        "app_open": 1
+      },
+      "resumeAfterMinutes": 30,
+      "yieldToHost": true
     },
     "settings": {
       "title": {
@@ -58,7 +68,7 @@
       ],
       "rolloutPercent": 100,
       "weight": 1,
-      "maxImpressions": 10,
+      "maxImpressions": 1000,
       "stopAfterDismiss": 0,
       "stopAfterClick": false,
       "skipIfInstalled": true,
