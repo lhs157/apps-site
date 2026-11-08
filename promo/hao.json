@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "enabled": false,
+  "enabled": true,
   "refreshHours": 6,
   "global": {
     "minDaysSinceInstall": 0,
