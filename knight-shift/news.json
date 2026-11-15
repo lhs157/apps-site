@@ -3,6 +3,135 @@
   "_note": "Tin trong game Knight Shift. Bản kèm app (offline). Bản sống: https://lhs157.github.io/apps-site/knight-shift/news.json — trùng id thì bản GitHub thắng.",
   "items": [
     {
+      "id": "rel-2.0.0",
+      "kind": "release",
+      "version": "2.0.0",
+      "date": "2026-11-15",
+      "icon": "release",
+      "title": {
+        "en": "100 new nights of castle defense!",
+        "vi": "Thêm 100 đêm phòng thủ lâu đài!",
+        "de": "100 neue Nächte der Burgverteidigung!",
+        "fr": "100 nouvelles nuits de défense du château !",
+        "es": "¡100 nuevas noches de defensa del castillo!",
+        "pt": "100 novas noites de defesa do castelo!",
+        "id": "100 malam baru untuk mempertahankan kastel!",
+        "ja": "城を守る新たな100夜が登場！",
+        "ko": "성을 방어하는 새로운 100개의 밤이 추가됩니다!",
+        "zh": "新增100个城堡防守之夜！"
+      },
+      "summary": {
+        "en": "Turn on Auto Battle or play manually at 1x, 1.5x or 2x speed. Your choices stay saved between nights.",
+        "vi": "Bật Tự chiến hoặc chơi tay ở tốc độ ×1, ×1.5, ×2. Lựa chọn được giữ qua các màn.",
+        "de": "Aktiviere den automatischen Kampf oder spiele manuell mit 1-, 1,5- oder 2-facher Geschwindigkeit. Deine Auswahl bleibt zwischen den Nächten gespeichert.",
+        "fr": "Activez le combat automatique ou jouez manuellement à vitesse ×1, ×1,5 ou ×2. Vos choix sont conservés entre les nuits.",
+        "es": "Activa el combate automático o juega manualmente a velocidad ×1, ×1,5 o ×2. Tus opciones se guardan entre noches.",
+        "pt": "Ative o combate automático ou jogue manualmente nas velocidades ×1, ×1,5 ou ×2. Suas escolhas ficam salvas entre as noites.",
+        "id": "Aktifkan Pertempuran Otomatis atau mainkan secara manual dengan kecepatan ×1, ×1,5, atau ×2. Pilihanmu tersimpan antar malam.",
+        "ja": "自動戦闘をオンにするか、手動で1倍・1.5倍・2倍速でプレイできます。設定は次の夜にも引き継がれます。",
+        "ko": "자동 전투를 켜거나 1배, 1.5배, 2배 속도로 직접 플레이하세요. 선택한 설정은 다음 밤에도 유지됩니다.",
+        "zh": "开启自动战斗，或以1倍、1.5倍、2倍速度手动游玩。所选设置会在关卡之间保留。"
+      },
+      "highlights": [
+        {
+          "en": "100 new nights of castle defense!",
+          "vi": "Thêm 100 đêm phòng thủ lâu đài!",
+          "de": "100 neue Nächte der Burgverteidigung!",
+          "fr": "100 nouvelles nuits de défense du château !",
+          "es": "¡100 nuevas noches de defensa del castillo!",
+          "pt": "100 novas noites de defesa do castelo!",
+          "id": "100 malam baru untuk mempertahankan kastel!",
+          "ja": "城を守る新たな100夜が登場！",
+          "ko": "성을 방어하는 새로운 100개의 밤이 추가됩니다!",
+          "zh": "新增100个城堡防守之夜！"
+        },
+        {
+          "en": "Turn on Auto Battle or play manually at 1x, 1.5x or 2x speed. Your choices stay saved between nights.",
+          "vi": "Bật Tự chiến hoặc chơi tay ở tốc độ ×1, ×1.5, ×2. Lựa chọn được giữ qua các màn.",
+          "de": "Aktiviere den automatischen Kampf oder spiele manuell mit 1-, 1,5- oder 2-facher Geschwindigkeit. Deine Auswahl bleibt zwischen den Nächten gespeichert.",
+          "fr": "Activez le combat automatique ou jouez manuellement à vitesse ×1, ×1,5 ou ×2. Vos choix sont conservés entre les nuits.",
+          "es": "Activa el combate automático o juega manualmente a velocidad ×1, ×1,5 o ×2. Tus opciones se guardan entre noches.",
+          "pt": "Ative o combate automático ou jogue manualmente nas velocidades ×1, ×1,5 ou ×2. Suas escolhas ficam salvas entre as noites.",
+          "id": "Aktifkan Pertempuran Otomatis atau mainkan secara manual dengan kecepatan ×1, ×1,5, atau ×2. Pilihanmu tersimpan antar malam.",
+          "ja": "自動戦闘をオンにするか、手動で1倍・1.5倍・2倍速でプレイできます。設定は次の夜にも引き継がれます。",
+          "ko": "자동 전투를 켜거나 1배, 1.5배, 2배 속도로 직접 플레이하세요. 선택한 설정은 다음 밤에도 유지됩니다.",
+          "zh": "开启自动战斗，或以1倍、1.5倍、2倍速度手动游玩。所选设置会在关卡之间保留。"
+        },
+        {
+          "en": "Enjoy clearer battle controls, sequential star rewards and victory effects that finish before the results appear.",
+          "vi": "Cụm điều khiển rõ ràng hơn, sao thưởng hiện lần lượt và hiệu ứng chiến thắng chạy xong trước khi mở tổng kết.",
+          "de": "Übersichtlichere Steuerung, nacheinander erscheinende Sterne und Siegesanimationen vor der Ergebnisanzeige.",
+          "fr": "Commandes plus claires, étoiles révélées une à une et effets de victoire terminés avant les résultats.",
+          "es": "Controles más claros, estrellas que aparecen una a una y efectos de victoria que terminan antes de mostrar los resultados.",
+          "pt": "Controles mais claros, estrelas reveladas uma a uma e efeitos de vitória concluídos antes dos resultados.",
+          "id": "Kontrol lebih jelas, bintang muncul satu per satu, dan efek kemenangan selesai sebelum hasil ditampilkan.",
+          "ja": "操作ボタンを見やすく改善。獲得した星が順番に表示され、勝利演出が終わってから結果画面が開きます。",
+          "ko": "더 보기 쉬운 조작 버튼, 순서대로 나타나는 별, 승리 연출이 끝난 뒤 열리는 결과 화면을 만나보세요.",
+          "zh": "战斗按钮更加清晰，奖励星星依次亮起，胜利特效结束后再显示结算。"
+        }
+      ],
+      "highlightIcons": [
+        "s03_icon_crossbow",
+        "fx_flame",
+        "s03_star"
+      ],
+      "sections": [
+        {
+          "icon": "release",
+          "header": {
+            "en": "100 new nights of castle defense!",
+            "vi": "Thêm 100 đêm phòng thủ lâu đài!",
+            "de": "100 neue Nächte der Burgverteidigung!",
+            "fr": "100 nouvelles nuits de défense du château !",
+            "es": "¡100 nuevas noches de defensa del castillo!",
+            "pt": "100 novas noites de defesa do castelo!",
+            "id": "100 malam baru untuk mempertahankan kastel!",
+            "ja": "城を守る新たな100夜が登場！",
+            "ko": "성을 방어하는 새로운 100개의 밤이 추가됩니다!",
+            "zh": "新增100个城堡防守之夜！"
+          },
+          "lines": [
+            {
+              "en": "Turn on Auto Battle or play manually at 1x, 1.5x or 2x speed. Your choices stay saved between nights.",
+              "vi": "Bật Tự chiến hoặc chơi tay ở tốc độ ×1, ×1.5, ×2. Lựa chọn được giữ qua các màn.",
+              "de": "Aktiviere den automatischen Kampf oder spiele manuell mit 1-, 1,5- oder 2-facher Geschwindigkeit. Deine Auswahl bleibt zwischen den Nächten gespeichert.",
+              "fr": "Activez le combat automatique ou jouez manuellement à vitesse ×1, ×1,5 ou ×2. Vos choix sont conservés entre les nuits.",
+              "es": "Activa el combate automático o juega manualmente a velocidad ×1, ×1,5 o ×2. Tus opciones se guardan entre noches.",
+              "pt": "Ative o combate automático ou jogue manualmente nas velocidades ×1, ×1,5 ou ×2. Suas escolhas ficam salvas entre as noites.",
+              "id": "Aktifkan Pertempuran Otomatis atau mainkan secara manual dengan kecepatan ×1, ×1,5, atau ×2. Pilihanmu tersimpan antar malam.",
+              "ja": "自動戦闘をオンにするか、手動で1倍・1.5倍・2倍速でプレイできます。設定は次の夜にも引き継がれます。",
+              "ko": "자동 전투를 켜거나 1배, 1.5배, 2배 속도로 직접 플레이하세요. 선택한 설정은 다음 밤에도 유지됩니다.",
+              "zh": "开启自动战斗，或以1倍、1.5倍、2倍速度手动游玩。所选设置会在关卡之间保留。"
+            },
+            {
+              "en": "Enjoy clearer battle controls, sequential star rewards and victory effects that finish before the results appear.",
+              "vi": "Cụm điều khiển rõ ràng hơn, sao thưởng hiện lần lượt và hiệu ứng chiến thắng chạy xong trước khi mở tổng kết.",
+              "de": "Übersichtlichere Steuerung, nacheinander erscheinende Sterne und Siegesanimationen vor der Ergebnisanzeige.",
+              "fr": "Commandes plus claires, étoiles révélées une à une et effets de victoire terminés avant les résultats.",
+              "es": "Controles más claros, estrellas que aparecen una a una y efectos de victoria que terminan antes de mostrar los resultados.",
+              "pt": "Controles mais claros, estrelas reveladas uma a uma e efeitos de vitória concluídos antes dos resultados.",
+              "id": "Kontrol lebih jelas, bintang muncul satu per satu, dan efek kemenangan selesai sebelum hasil ditampilkan.",
+              "ja": "操作ボタンを見やすく改善。獲得した星が順番に表示され、勝利演出が終わってから結果画面が開きます。",
+              "ko": "더 보기 쉬운 조작 버튼, 순서대로 나타나는 별, 승리 연출이 끝난 뒤 열리는 결과 화면을 만나보세요.",
+              "zh": "战斗按钮更加清晰，奖励星星依次亮起，胜利特效结束后再显示结算。"
+            }
+          ]
+        }
+      ],
+      "outro": {
+        "vi": "Chúc bạn những đêm trực vui vẻ!",
+        "en": "Have a great night shift!",
+        "ja": "楽しい夜勤を！",
+        "ko": "즐거운 야간 근무 되세요!",
+        "zh": "祝你值夜愉快！",
+        "es": "¡Que tengas un buen turno de noche!",
+        "pt": "Bom turno da noite!",
+        "de": "Eine schöne Nachtschicht!",
+        "fr": "Bonne garde de nuit !",
+        "id": "Selamat berjaga malam!"
+      }
+    },
+    {
       "id": "rel-1.2.0",
       "kind": "release",
       "version": "1.2.0",
