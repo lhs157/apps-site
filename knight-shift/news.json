@@ -9,8 +9,8 @@
       "date": "2026-11-15",
       "icon": "release",
       "title": {
-        "en": "100 new nights of castle defense!",
         "vi": "Thêm 100 đêm phòng thủ lâu đài!",
+        "en": "100 new nights of castle defense!",
         "de": "100 neue Nächte der Burgverteidigung!",
         "fr": "100 nouvelles nuits de défense du château !",
         "es": "¡100 nuevas noches de defensa del castillo!",
@@ -21,53 +21,53 @@
         "zh": "新增100个城堡防守之夜！"
       },
       "summary": {
-        "en": "Turn on Auto Battle or play manually at 1x, 1.5x or 2x speed. Your choices stay saved between nights.",
-        "vi": "Bật Tự chiến hoặc chơi tay ở tốc độ ×1, ×1.5, ×2. Lựa chọn được giữ qua các màn.",
-        "de": "Aktiviere den automatischen Kampf oder spiele manuell mit 1-, 1,5- oder 2-facher Geschwindigkeit. Deine Auswahl bleibt zwischen den Nächten gespeichert.",
-        "fr": "Activez le combat automatique ou jouez manuellement à vitesse ×1, ×1,5 ou ×2. Vos choix sont conservés entre les nuits.",
-        "es": "Activa el combate automático o juega manualmente a velocidad ×1, ×1,5 o ×2. Tus opciones se guardan entre noches.",
-        "pt": "Ative o combate automático ou jogue manualmente nas velocidades ×1, ×1,5 ou ×2. Suas escolhas ficam salvas entre as noites.",
-        "id": "Aktifkan Pertempuran Otomatis atau mainkan secara manual dengan kecepatan ×1, ×1,5, atau ×2. Pilihanmu tersimpan antar malam.",
-        "ja": "自動戦闘をオンにするか、手動で1倍・1.5倍・2倍速でプレイできます。設定は次の夜にも引き継がれます。",
-        "ko": "자동 전투를 켜거나 1배, 1.5배, 2배 속도로 직접 플레이하세요. 선택한 설정은 다음 밤에도 유지됩니다.",
-        "zh": "开启自动战斗，或以1倍、1.5倍、2倍速度手动游玩。所选设置会在关卡之间保留。"
+        "vi": "Hai vùng đất mới, Tự chiến và tốc độ trận đấu đang chờ bạn.",
+        "en": "Two new lands, Auto Battle and battle speeds are waiting for you.",
+        "de": "Zwei neue Länder, der automatische Kampf und neues Kampftempo warten auf dich.",
+        "fr": "Deux nouvelles contrées, le combat automatique et la vitesse de combat vous attendent.",
+        "es": "Dos nuevas tierras, el combate automático y la velocidad de batalla te esperan.",
+        "pt": "Duas novas terras, o combate automático e a velocidade da batalha esperam por você.",
+        "id": "Dua wilayah baru, Pertempuran Otomatis, dan kecepatan pertempuran menantimu.",
+        "ja": "2つの新天地、自動戦闘、バトルの速度があなたを待っています。",
+        "ko": "새로운 두 땅, 자동 전투, 전투 속도가 기다리고 있어요.",
+        "zh": "两片全新地带、自动战斗和战斗速度，正等着你。"
       },
       "highlights": [
         {
-          "en": "100 new nights of castle defense!",
-          "vi": "Thêm 100 đêm phòng thủ lâu đài!",
-          "de": "100 neue Nächte der Burgverteidigung!",
-          "fr": "100 nouvelles nuits de défense du château !",
-          "es": "¡100 nuevas noches de defensa del castillo!",
-          "pt": "100 novas noites de defesa do castelo!",
-          "id": "100 malam baru untuk mempertahankan kastel!",
-          "ja": "城を守る新たな100夜が登場！",
-          "ko": "성을 방어하는 새로운 100개의 밤이 추가됩니다!",
-          "zh": "新增100个城堡防守之夜！"
+          "vi": "100 đêm mới qua Bến Cáp Mây và Rừng Chuông Gió, với quái, boss và vũ khí mới.",
+          "en": "100 new nights across Cloudlift Docks and Windchime Woods, with new enemies, bosses and weapons.",
+          "de": "100 neue Nächte am Wolkenhafen und im Klangwald, mit neuen Gegnern, Bossen und Waffen.",
+          "fr": "100 nouvelles nuits au Quai des nuages et au Bois des carillons, avec de nouveaux ennemis, boss et armes.",
+          "es": "100 noches nuevas en el Puerto de las Nubes y el Bosque de los Cencerros, con enemigos, jefes y armas nuevos.",
+          "pt": "100 noites novas no Cais das Nuvens e no Bosque dos Sinos, com inimigos, chefes e armas inéditos.",
+          "id": "100 malam baru di Dermaga Awan dan Hutan Lonceng Angin, lengkap dengan musuh, bos, dan senjata baru.",
+          "ja": "雲の船着き場と風鈴の森を舞台に、新たな100夜が登場。新しい敵、ボス、武器も加わります。",
+          "ko": "구름 나루와 풍경 소리 숲에서 펼쳐지는 새로운 100개의 밤! 새 몬스터와 보스, 무기도 만나 보세요.",
+          "zh": "云索码头与风铃森林带来全新的100个夜晚，更有新怪物、新首领和新武器。"
         },
         {
-          "en": "Turn on Auto Battle or play manually at 1x, 1.5x or 2x speed. Your choices stay saved between nights.",
-          "vi": "Bật Tự chiến hoặc chơi tay ở tốc độ ×1, ×1.5, ×2. Lựa chọn được giữ qua các màn.",
-          "de": "Aktiviere den automatischen Kampf oder spiele manuell mit 1-, 1,5- oder 2-facher Geschwindigkeit. Deine Auswahl bleibt zwischen den Nächten gespeichert.",
-          "fr": "Activez le combat automatique ou jouez manuellement à vitesse ×1, ×1,5 ou ×2. Vos choix sont conservés entre les nuits.",
-          "es": "Activa el combate automático o juega manualmente a velocidad ×1, ×1,5 o ×2. Tus opciones se guardan entre noches.",
-          "pt": "Ative o combate automático ou jogue manualmente nas velocidades ×1, ×1,5 ou ×2. Suas escolhas ficam salvas entre as noites.",
-          "id": "Aktifkan Pertempuran Otomatis atau mainkan secara manual dengan kecepatan ×1, ×1,5, atau ×2. Pilihanmu tersimpan antar malam.",
-          "ja": "自動戦闘をオンにするか、手動で1倍・1.5倍・2倍速でプレイできます。設定は次の夜にも引き継がれます。",
-          "ko": "자동 전투를 켜거나 1배, 1.5배, 2배 속도로 직접 플레이하세요. 선택한 설정은 다음 밤에도 유지됩니다.",
-          "zh": "开启自动战斗，或以1倍、1.5倍、2倍速度手动游玩。所选设置会在关卡之间保留。"
+          "vi": "Tự chiến: để hiệp sĩ tự giữ cổng, hoặc tự tay chơi ở tốc độ ×1, ×1,5 và ×2.",
+          "en": "Auto Battle: let the knight hold the gate on his own, or play by hand at ×1, ×1.5 and ×2 speed.",
+          "de": "Automatischer Kampf: Lass den Ritter das Tor von allein halten oder spiel selbst mit Tempo ×1, ×1,5 und ×2.",
+          "fr": "Combat automatique : laissez le chevalier garder la porte seul, ou jouez vous-même à la vitesse ×1, ×1,5 ou ×2.",
+          "es": "Combate automático: deja que el caballero guarde la puerta solo, o juega tú mismo a velocidad ×1, ×1,5 o ×2.",
+          "pt": "Combate automático: deixe o cavaleiro guardar o portão sozinho ou jogue você mesmo nas velocidades ×1, ×1,5 e ×2.",
+          "id": "Pertempuran Otomatis: biarkan ksatria menjaga gerbang sendiri, atau main sendiri dengan kecepatan ×1, ×1,5, dan ×2.",
+          "ja": "自動戦闘で騎士に門を任せるのも、1倍・1.5倍・2倍速で自分の手で戦うのも自由です。",
+          "ko": "자동 전투로 기사에게 성문을 맡기거나, 1배·1.5배·2배 속도로 직접 플레이해 보세요.",
+          "zh": "开启自动战斗，让骑士自己守门；也可以亲手操作，选择1倍、1.5倍或2倍速。"
         },
         {
-          "en": "Enjoy clearer battle controls, sequential star rewards and victory effects that finish before the results appear.",
-          "vi": "Cụm điều khiển rõ ràng hơn, sao thưởng hiện lần lượt và hiệu ứng chiến thắng chạy xong trước khi mở tổng kết.",
-          "de": "Übersichtlichere Steuerung, nacheinander erscheinende Sterne und Siegesanimationen vor der Ergebnisanzeige.",
-          "fr": "Commandes plus claires, étoiles révélées une à une et effets de victoire terminés avant les résultats.",
-          "es": "Controles más claros, estrellas que aparecen una a una y efectos de victoria que terminan antes de mostrar los resultados.",
-          "pt": "Controles mais claros, estrelas reveladas uma a uma e efeitos de vitória concluídos antes dos resultados.",
-          "id": "Kontrol lebih jelas, bintang muncul satu per satu, dan efek kemenangan selesai sebelum hasil ditampilkan.",
-          "ja": "操作ボタンを見やすく改善。獲得した星が順番に表示され、勝利演出が終わってから結果画面が開きます。",
-          "ko": "더 보기 쉬운 조작 버튼, 순서대로 나타나는 별, 승리 연출이 끝난 뒤 열리는 결과 화면을 만나보세요.",
-          "zh": "战斗按钮更加清晰，奖励星星依次亮起，胜利特效结束后再显示结算。"
+          "vi": "Chọn tuyệt chiêu Nộ yêu thích ngay trong Túi.",
+          "en": "Pick your favorite Fury ultimate right in the Bag.",
+          "de": "Such dir direkt in der Tasche deinen liebsten Wut-Ultimate aus.",
+          "fr": "Choisissez votre attaque ultime de Rage préférée directement dans le sac.",
+          "es": "Elige tu ataque definitivo de Furia favorito directamente en la mochila.",
+          "pt": "Escolha seu golpe supremo de Fúria favorito direto na mochila.",
+          "id": "Pilih jurus pamungkas Amarah favoritmu langsung di Tas.",
+          "ja": "お気に入りの怒りの必殺技を、バッグの中で選べます。",
+          "ko": "가방에서 마음에 드는 분노 필살기를 바로 고를 수 있어요.",
+          "zh": "在背包里直接选择你最爱的怒气必杀技。"
         }
       ],
       "highlightIcons": [
@@ -79,8 +79,8 @@
         {
           "icon": "release",
           "header": {
-            "en": "100 new nights of castle defense!",
             "vi": "Thêm 100 đêm phòng thủ lâu đài!",
+            "en": "100 new nights of castle defense!",
             "de": "100 neue Nächte der Burgverteidigung!",
             "fr": "100 nouvelles nuits de défense du château !",
             "es": "¡100 nuevas noches de defensa del castillo!",
@@ -92,28 +92,64 @@
           },
           "lines": [
             {
-              "en": "Turn on Auto Battle or play manually at 1x, 1.5x or 2x speed. Your choices stay saved between nights.",
-              "vi": "Bật Tự chiến hoặc chơi tay ở tốc độ ×1, ×1.5, ×2. Lựa chọn được giữ qua các màn.",
-              "de": "Aktiviere den automatischen Kampf oder spiele manuell mit 1-, 1,5- oder 2-facher Geschwindigkeit. Deine Auswahl bleibt zwischen den Nächten gespeichert.",
-              "fr": "Activez le combat automatique ou jouez manuellement à vitesse ×1, ×1,5 ou ×2. Vos choix sont conservés entre les nuits.",
-              "es": "Activa el combate automático o juega manualmente a velocidad ×1, ×1,5 o ×2. Tus opciones se guardan entre noches.",
-              "pt": "Ative o combate automático ou jogue manualmente nas velocidades ×1, ×1,5 ou ×2. Suas escolhas ficam salvas entre as noites.",
-              "id": "Aktifkan Pertempuran Otomatis atau mainkan secara manual dengan kecepatan ×1, ×1,5, atau ×2. Pilihanmu tersimpan antar malam.",
-              "ja": "自動戦闘をオンにするか、手動で1倍・1.5倍・2倍速でプレイできます。設定は次の夜にも引き継がれます。",
-              "ko": "자동 전투를 켜거나 1배, 1.5배, 2배 속도로 직접 플레이하세요. 선택한 설정은 다음 밤에도 유지됩니다.",
-              "zh": "开启自动战斗，或以1倍、1.5倍、2倍速度手动游玩。所选设置会在关卡之间保留。"
+              "vi": "100 đêm mới qua Bến Cáp Mây và Rừng Chuông Gió, với quái, boss và vũ khí mới.",
+              "en": "100 new nights across Cloudlift Docks and Windchime Woods, with new enemies, bosses and weapons.",
+              "de": "100 neue Nächte am Wolkenhafen und im Klangwald, mit neuen Gegnern, Bossen und Waffen.",
+              "fr": "100 nouvelles nuits au Quai des nuages et au Bois des carillons, avec de nouveaux ennemis, boss et armes.",
+              "es": "100 noches nuevas en el Puerto de las Nubes y el Bosque de los Cencerros, con enemigos, jefes y armas nuevos.",
+              "pt": "100 noites novas no Cais das Nuvens e no Bosque dos Sinos, com inimigos, chefes e armas inéditos.",
+              "id": "100 malam baru di Dermaga Awan dan Hutan Lonceng Angin, lengkap dengan musuh, bos, dan senjata baru.",
+              "ja": "雲の船着き場と風鈴の森を舞台に、新たな100夜が登場。新しい敵、ボス、武器も加わります。",
+              "ko": "구름 나루와 풍경 소리 숲에서 펼쳐지는 새로운 100개의 밤! 새 몬스터와 보스, 무기도 만나 보세요.",
+              "zh": "云索码头与风铃森林带来全新的100个夜晚，更有新怪物、新首领和新武器。"
             },
             {
-              "en": "Enjoy clearer battle controls, sequential star rewards and victory effects that finish before the results appear.",
-              "vi": "Cụm điều khiển rõ ràng hơn, sao thưởng hiện lần lượt và hiệu ứng chiến thắng chạy xong trước khi mở tổng kết.",
-              "de": "Übersichtlichere Steuerung, nacheinander erscheinende Sterne und Siegesanimationen vor der Ergebnisanzeige.",
-              "fr": "Commandes plus claires, étoiles révélées une à une et effets de victoire terminés avant les résultats.",
-              "es": "Controles más claros, estrellas que aparecen una a una y efectos de victoria que terminan antes de mostrar los resultados.",
-              "pt": "Controles mais claros, estrelas reveladas uma a uma e efeitos de vitória concluídos antes dos resultados.",
-              "id": "Kontrol lebih jelas, bintang muncul satu per satu, dan efek kemenangan selesai sebelum hasil ditampilkan.",
-              "ja": "操作ボタンを見やすく改善。獲得した星が順番に表示され、勝利演出が終わってから結果画面が開きます。",
-              "ko": "더 보기 쉬운 조작 버튼, 순서대로 나타나는 별, 승리 연출이 끝난 뒤 열리는 결과 화면을 만나보세요.",
-              "zh": "战斗按钮更加清晰，奖励星星依次亮起，胜利特效结束后再显示结算。"
+              "vi": "Tự chiến: để hiệp sĩ tự giữ cổng, hoặc tự tay chơi ở tốc độ ×1, ×1,5 và ×2.",
+              "en": "Auto Battle: let the knight hold the gate on his own, or play by hand at ×1, ×1.5 and ×2 speed.",
+              "de": "Automatischer Kampf: Lass den Ritter das Tor von allein halten oder spiel selbst mit Tempo ×1, ×1,5 und ×2.",
+              "fr": "Combat automatique : laissez le chevalier garder la porte seul, ou jouez vous-même à la vitesse ×1, ×1,5 ou ×2.",
+              "es": "Combate automático: deja que el caballero guarde la puerta solo, o juega tú mismo a velocidad ×1, ×1,5 o ×2.",
+              "pt": "Combate automático: deixe o cavaleiro guardar o portão sozinho ou jogue você mesmo nas velocidades ×1, ×1,5 e ×2.",
+              "id": "Pertempuran Otomatis: biarkan ksatria menjaga gerbang sendiri, atau main sendiri dengan kecepatan ×1, ×1,5, dan ×2.",
+              "ja": "自動戦闘で騎士に門を任せるのも、1倍・1.5倍・2倍速で自分の手で戦うのも自由です。",
+              "ko": "자동 전투로 기사에게 성문을 맡기거나, 1배·1.5배·2배 속도로 직접 플레이해 보세요.",
+              "zh": "开启自动战斗，让骑士自己守门；也可以亲手操作，选择1倍、1.5倍或2倍速。"
+            },
+            {
+              "vi": "Chọn tuyệt chiêu Nộ yêu thích ngay trong Túi.",
+              "en": "Pick your favorite Fury ultimate right in the Bag.",
+              "de": "Such dir direkt in der Tasche deinen liebsten Wut-Ultimate aus.",
+              "fr": "Choisissez votre attaque ultime de Rage préférée directement dans le sac.",
+              "es": "Elige tu ataque definitivo de Furia favorito directamente en la mochila.",
+              "pt": "Escolha seu golpe supremo de Fúria favorito direto na mochila.",
+              "id": "Pilih jurus pamungkas Amarah favoritmu langsung di Tas.",
+              "ja": "お気に入りの怒りの必殺技を、バッグの中で選べます。",
+              "ko": "가방에서 마음에 드는 분노 필살기를 바로 고를 수 있어요.",
+              "zh": "在背包里直接选择你最爱的怒气必杀技。"
+            },
+            {
+              "vi": "Màn chiến thắng mới: hiệp sĩ ăn mừng, sao thưởng hiện lần lượt.",
+              "en": "New victory screen: the knight celebrates and bonus stars appear one by one.",
+              "de": "Neuer Siegesbildschirm: Der Ritter jubelt, und die Bonussterne erscheinen nacheinander.",
+              "fr": "Nouvel écran de victoire : le chevalier exulte et les étoiles bonus apparaissent une à une.",
+              "es": "Nueva pantalla de victoria: el caballero lo celebra y las estrellas de recompensa aparecen una a una.",
+              "pt": "Nova tela de vitória: o cavaleiro comemora e as estrelas de bônus aparecem uma a uma.",
+              "id": "Layar kemenangan baru: ksatria merayakan kemenangan, dan bintang bonus muncul satu per satu.",
+              "ja": "勝利画面を一新。騎士が喜び、ボーナスの星が順番に現れます。",
+              "ko": "새로워진 승리 화면: 기사가 환호하고 보너스 별이 차례로 나타나요.",
+              "zh": "全新胜利画面：骑士欢呼庆祝，奖励星星依次亮起。"
+            },
+            {
+              "vi": "Quà kết nối: chia sẻ game lên Facebook để nhận 2.000 vàng.",
+              "en": "Connection Gift: share the game on Facebook to get 2,000 gold.",
+              "de": "Geschenk für dich: Teile das Spiel auf Facebook und sichere dir 2.000 Gold.",
+              "fr": "Cadeau de bienvenue : partagez le jeu sur Facebook pour recevoir 2 000 pièces d'or.",
+              "es": "Regalo de conexión: comparte el juego en Facebook y recibe 2.000 de oro.",
+              "pt": "Presente de conexão: compartilhe o jogo no Facebook e ganhe 2.000 de ouro.",
+              "id": "Hadiah kebersamaan: bagikan game ke Facebook dan dapatkan 2.000 emas.",
+              "ja": "つながるギフト：ゲームをFacebookでシェアすると、2,000ゴールドがもらえます。",
+              "ko": "함께하는 선물: 게임을 Facebook에 공유하면 2,000 골드를 받아요.",
+              "zh": "相聚好礼：把游戏分享到Facebook，即可领取2,000金币。"
             }
           ]
         }
@@ -121,14 +157,14 @@
       "outro": {
         "vi": "Chúc bạn những đêm trực vui vẻ!",
         "en": "Have a great night shift!",
-        "ja": "楽しい夜勤を！",
-        "ko": "즐거운 야간 근무 되세요!",
-        "zh": "祝你值夜愉快！",
-        "es": "¡Que tengas un buen turno de noche!",
-        "pt": "Bom turno da noite!",
         "de": "Eine schöne Nachtschicht!",
         "fr": "Bonne garde de nuit !",
-        "id": "Selamat berjaga malam!"
+        "es": "¡Que tengas un buen turno de noche!",
+        "pt": "Bom turno da noite!",
+        "id": "Selamat berjaga malam!",
+        "ja": "楽しい夜勤を！",
+        "ko": "즐거운 야간 근무 되세요!",
+        "zh": "祝你值夜愉快！"
       }
     },
     {
