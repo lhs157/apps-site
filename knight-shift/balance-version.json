@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "dataVersion": 7,
+  "dataVersion": 8,
   "minAppVersion": "2.0.0",
-  "dataUrl": "https://lhs157.github.io/apps-site/knight-shift/balance-v7.json",
-  "sha256": "a8d1ab32039e469c0672a77945f8849cd4fd450304484745c7195878b623a2ce"
+  "dataUrl": "https://lhs157.github.io/apps-site/knight-shift/balance-v8.json",
+  "sha256": "cf812c8e2a72b2906a09f67ffe70e3da58c9b42d96034efb369332cc604ae42c"
 }
