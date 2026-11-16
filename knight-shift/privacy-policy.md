@@ -1,6 +1,6 @@
 # Privacy Policy — Knight Shift
 
-**Last updated: 2026-10-19 · Contact: luuhongson157@gmail.com**
+**Last updated: 2026-11-16 · Contact: luuhongson157@gmail.com**
 
 ---
 
@@ -20,7 +20,7 @@ Your game data stays in the app's storage on your device:
 - a random player ID shown in Settings, which is not linked to your identity;
 - a list of store transaction IDs that have already been credited (so a purchase is never credited twice).
 
-We do not run any server for the app. Deleting the app deletes this data from your device, unless you turned on cloud save (see section 3).
+We do not upload your game save to our configuration server. Deleting the app deletes this data from your device, unless you turned on cloud save (see section 3).
 
 ### 3. Cloud save (optional)
 Cloud save is off until you turn it on in Settings.
@@ -37,9 +37,9 @@ The app uses **Game Center** (iOS) and **Google Play Games Services** (Android) 
 The app is free and shows ads from Google AdMob:
 
 - **Rewarded ads**, only when you tap to watch one: to double your Gold, to call a Resupply, or to get a second spin.
-- **Interstitial (full-screen) ads**, at most once after every 3 won nights, starting from night 11, and at least 3 minutes apart. The **Knight for Life** purchase turns interstitial ads off.
+- **Interstitial (full-screen) ads**, at natural breaks after a win, never before night 11. The default interval is 10 wins and 10 minutes; these intervals may be adjusted through remote configuration. The **Knight for Life** purchase turns interstitial ads off.
 
-**Personalised ads.** Ads can be personalised. On iOS this happens only if you allow it in Apple's App Tracking Transparency prompt, which the app shows after night 3, with an explanation screen first. If you do not allow it, the app does not use the advertising identifier (IDFA).
+**Personalised ads.** Ads can be personalised. On iOS this happens only if you allow it in Apple's App Tracking Transparency prompt, which the app shows after night 3. If you do not allow it, the app does not use the advertising identifier (IDFA).
 
 **What the Google Mobile Ads SDK may collect.** According to Google's own disclosures, when an ad is requested or shown the SDK may collect and send to Google: your IP address (which can be used to estimate your general location), device identifiers (on Android the advertising ID and app set ID; on iOS an app- or developer-scoped device identifier, and the IDFA if you allowed tracking), information about the ads you have seen, interactions such as app launches, taps and video views, and diagnostic data such as crash logs, app launch time, hang rate and energy use. Google uses this data to show and measure ads, prevent fraud and improve the SDK. All of it is encrypted in transit.
 
@@ -56,14 +56,17 @@ The app sells Gem packs (consumable), a Starter Pack, Knight for Life and a Seas
 The app uses Unity In-App Purchasing, a library from Unity Technologies, to talk to the store. When you start or finish a purchase, this library sends Unity a purchase event: the product, the transaction ID, the store, the app version, your device model, operating system version and language, a random installation ID and session ID created by the library, and on Apple devices the identifier for vendor (IDFV). Unity uses this to run and report on its purchase service and to prevent fraud. The app does not send your advertising identifier to Unity. Unity's privacy policy: https://unity.com/legal/game-player-and-app-user-privacy-policy (source checked 2026-10-19: https://docs.unity.com/en-us/iap/privacy-and-consent/overview).
 
 ### 7. Analytics and configuration (Firebase)
-The app uses **Firebase Analytics** from Google to understand how the game is played and balance it. It records anonymous gameplay events (night started, won or lost; weapons used; ads watched; purchases; screens opened) together with an app-instance ID, device model, OS and app version, language, and an approximate country estimated from the IP address. It does not receive your name or email. Advertising-related storage (such as ad_storage) is switched on only if you allow it through the App Tracking Transparency prompt or Google's consent form.
+The app uses **Firebase Analytics** from Google to understand how the game is played and balance it. It records gameplay events (night started, won or lost; weapons used; ads watched; purchases; screens opened) together with an app-instance ID, device model, OS and app version, language, and an approximate country estimated from the IP address. It does not receive your name or email. Advertising-related storage (such as ad_storage) is switched on only if you allow it through the App Tracking Transparency prompt or Google's consent form.
 
-The app also uses **Firebase Remote Config** to download settings (for example turning an event on or off, or the pace of ads). This sends nothing about you beyond the app-instance ID.
+The app also uses **Firebase Remote Config** to download settings (for example turning an event on or off, or the pace of ads). Firebase processes installation identifiers and technical request information to provide this service.
 
 Firebase privacy information: https://firebase.google.com/support/privacy. Google's policy: https://policies.google.com/privacy.
 
+### 7a. Game configuration and news
+The app downloads public game settings, descriptions, release news and update information from our Cloudflare-hosted service. These requests do not include your game save, purchase receipts or player ID. Cloudflare processes network information such as IP addresses, requested URLs and HTTP headers to deliver and protect the service. The configuration database stores game content, not player profiles. Some shared promotional content is hosted on GitHub Pages. Provider policies: https://www.cloudflare.com/privacypolicy/ and https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement.
+
 ### 8. Notifications
-The app only uses **local notifications**: a reminder for your "watch time" at 20:00, and only if you tap Yes to allow it. There is no push server. You can turn the reminder off in the app or in your system settings.
+The app supports local reminders and remote notifications through Firebase Cloud Messaging (FCM) and, on Apple devices, Apple Push Notification service (APNs). These services process installation identifiers and push tokens to deliver messages. The app subscribes to notification topics based on its language and notification settings (daily reminders, events and pass updates). Notifications are displayed only with system permission where required. You can manage notification categories in the app and disable notifications in system settings. Firebase privacy information: https://firebase.google.com/support/privacy.
 
 ### 9. Feedback by email
 The feedback button in the app opens your own Mail app with a pre-written message to luuhongson157@gmail.com. It includes the app version, your device model, OS version, language and current night. You can see and edit the message before sending. We use your email address only to reply.
@@ -104,7 +107,7 @@ Dữ liệu chơi nằm trong bộ nhớ của ứng dụng trên máy bạn:
 - một ID người chơi ngẫu nhiên hiện trong Cài đặt, không gắn với danh tính của bạn;
 - danh sách mã giao dịch của store đã được cấp (để một giao dịch không bao giờ bị cộng hai lần).
 
-Chúng tôi không chạy máy chủ nào cho ứng dụng. Xoá ứng dụng là xoá dữ liệu này khỏi máy, trừ khi bạn đã bật Lưu mây (xem mục 3).
+Chúng tôi không tải bản lưu trò chơi của bạn lên máy chủ cấu hình của chúng tôi. Xoá ứng dụng là xoá dữ liệu này khỏi máy, trừ khi bạn đã bật Lưu mây (xem mục 3).
 
 ### 3. Lưu mây (tuỳ chọn)
 Lưu mây tắt cho tới khi bạn tự bật trong Cài đặt.
@@ -121,9 +124,9 @@ Chúng tôi không nhận bản sao và không xem được bản save của b�
 Ứng dụng miễn phí và hiện quảng cáo từ Google AdMob:
 
 - **Quảng cáo có thưởng**, chỉ khi bạn tự bấm xem: để nhân đôi Vàng, gọi Tiếp viện, hoặc có lượt quay thứ hai.
-- **Quảng cáo toàn màn hình (interstitial)**, tối đa một lần sau mỗi 3 đêm thắng, từ đêm 11, và cách nhau ít nhất 3 phút. Gói **Hiệp Sĩ Trọn Đời** tắt quảng cáo toàn màn hình.
+- **Quảng cáo toàn màn hình (interstitial)**, ở điểm nghỉ sau khi thắng, không trước đêm 11. Khoảng cách mặc định là 10 trận thắng và 10 phút; các khoảng cách này có thể được điều chỉnh qua cấu hình từ xa. Gói **Hiệp Sĩ Trọn Đời** tắt quảng cáo toàn màn hình.
 
-**Quảng cáo cá nhân hoá.** Quảng cáo có thể được cá nhân hoá. Trên iOS, điều này chỉ xảy ra nếu bạn cho phép ở hộp thoại App Tracking Transparency của Apple; ứng dụng hiện hộp thoại này sau đêm 3, có màn giải thích trước. Nếu bạn không cho phép, ứng dụng không dùng mã định danh quảng cáo (IDFA).
+**Quảng cáo cá nhân hoá.** Quảng cáo có thể được cá nhân hoá. Trên iOS, điều này chỉ xảy ra nếu bạn cho phép ở hộp thoại App Tracking Transparency của Apple; ứng dụng hiện hộp thoại này sau đêm 3. Nếu bạn không cho phép, ứng dụng không dùng mã định danh quảng cáo (IDFA).
 
 **Google Mobile Ads SDK có thể thu thập gì.** Theo công bố của chính Google, khi một quảng cáo được yêu cầu hoặc hiện ra, SDK có thể thu thập và gửi cho Google: địa chỉ IP (có thể dùng để ước tính vị trí chung), mã định danh thiết bị (trên Android là mã quảng cáo và app set ID; trên iOS là mã định danh trong phạm vi ứng dụng hoặc nhà phát triển, và IDFA nếu bạn cho phép theo dõi), thông tin về các quảng cáo bạn đã xem, tương tác như mở ứng dụng, chạm, xem video, và dữ liệu chẩn đoán như nhật ký lỗi, thời gian mở ứng dụng, tỉ lệ treo, mức dùng pin. Google dùng dữ liệu này để hiển thị và đo quảng cáo, chống gian lận và cải thiện SDK. Mọi dữ liệu đều được mã hoá khi truyền đi.
 
@@ -140,14 +143,17 @@ Nguồn cho danh sách trên (tra ngày 19/10/2026): https://developers.google.c
 Ứng dụng dùng Unity In-App Purchasing, thư viện của Unity Technologies, để làm việc với store. Khi bạn bắt đầu hoặc hoàn tất một lần mua, thư viện này gửi cho Unity một sự kiện mua hàng: sản phẩm, mã giao dịch, store, phiên bản ứng dụng, đời máy, phiên bản hệ điều hành và ngôn ngữ, một mã cài đặt và mã phiên ngẫu nhiên do thư viện tạo, và trên máy Apple là mã định danh nhà cung cấp (IDFV). Unity dùng dữ liệu này để vận hành, báo cáo dịch vụ mua hàng và chống gian lận. Ứng dụng không gửi mã định danh quảng cáo của bạn cho Unity. Chính sách quyền riêng tư của Unity: https://unity.com/legal/game-player-and-app-user-privacy-policy (nguồn tra ngày 19/10/2026: https://docs.unity.com/en-us/iap/privacy-and-consent/overview).
 
 ### 7. Phân tích và cấu hình (Firebase)
-Ứng dụng dùng **Firebase Analytics** của Google để hiểu cách game được chơi và cân bằng game. Dịch vụ ghi các sự kiện chơi ẩn danh (bắt đầu, thắng, thua đêm; vũ khí đã dùng; quảng cáo đã xem; giao dịch mua; màn hình đã mở) cùng mã app-instance, đời máy, phiên bản hệ điều hành và ứng dụng, ngôn ngữ, và quốc gia ước tính từ địa chỉ IP. Dịch vụ không nhận tên hay email của bạn. Phần lưu trữ liên quan quảng cáo (như ad_storage) chỉ bật khi bạn cho phép qua hộp thoại App Tracking Transparency hoặc biểu mẫu đồng ý của Google.
+Ứng dụng dùng **Firebase Analytics** của Google để hiểu cách game được chơi và cân bằng game. Dịch vụ ghi các sự kiện chơi (bắt đầu, thắng, thua đêm; vũ khí đã dùng; quảng cáo đã xem; giao dịch mua; màn hình đã mở) cùng mã app-instance, đời máy, phiên bản hệ điều hành và ứng dụng, ngôn ngữ, và quốc gia ước tính từ địa chỉ IP. Dịch vụ không nhận tên hay email của bạn. Phần lưu trữ liên quan quảng cáo (như ad_storage) chỉ bật khi bạn cho phép qua hộp thoại App Tracking Transparency hoặc biểu mẫu đồng ý của Google.
 
-Ứng dụng cũng dùng **Firebase Remote Config** để tải cấu hình (ví dụ bật/tắt một sự kiện, hay nhịp hiện quảng cáo). Việc này không gửi gì về bạn ngoài mã app-instance.
+Ứng dụng cũng dùng **Firebase Remote Config** để tải cấu hình (ví dụ bật/tắt một sự kiện, hay nhịp hiện quảng cáo). Firebase xử lý mã định danh bản cài đặt và thông tin kỹ thuật của yêu cầu để cung cấp dịch vụ này.
 
 Thông tin quyền riêng tư của Firebase: https://firebase.google.com/support/privacy. Chính sách của Google: https://policies.google.com/privacy.
 
+### 7a. Cấu hình và tin tức trò chơi
+Ứng dụng tải cấu hình công khai, mô tả, tin phiên bản và thông tin cập nhật từ dịch vụ của chúng tôi trên Cloudflare. Các yêu cầu này không chứa bản lưu trò chơi, biên nhận mua hàng hoặc mã người chơi. Cloudflare xử lý thông tin mạng như địa chỉ IP, URL được yêu cầu và HTTP header để chuyển dữ liệu và bảo vệ dịch vụ. Cơ sở dữ liệu cấu hình lưu nội dung trò chơi, không lưu hồ sơ người chơi. Một số nội dung quảng bá dùng chung được lưu trên GitHub Pages. Chính sách nhà cung cấp: https://www.cloudflare.com/privacypolicy/ và https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement.
+
 ### 8. Thông báo
-Ứng dụng chỉ dùng **thông báo cục bộ**: một lời nhắc "giờ trực" lúc 20:00, và chỉ khi bạn bấm Có để cho phép. Không có máy chủ push. Bạn tắt lời nhắc trong ứng dụng hoặc trong cài đặt hệ thống.
+Ứng dụng hỗ trợ lời nhắc cục bộ và thông báo đẩy qua Firebase Cloud Messaging (FCM), cùng Apple Push Notification service (APNs) trên thiết bị Apple. Các dịch vụ này xử lý mã định danh bản cài đặt và push token để chuyển thông báo. Ứng dụng đăng ký chủ đề dựa trên ngôn ngữ và cài đặt thông báo (lời nhắc hằng ngày, sự kiện và cập nhật Pass). Thông báo chỉ hiển thị khi được hệ thống cho phép tại nơi yêu cầu quyền. Bạn quản lý các nhóm thông báo trong ứng dụng hoặc tắt thông báo trong cài đặt hệ thống. Thông tin quyền riêng tư của Firebase: https://firebase.google.com/support/privacy.
 
 ### 9. Góp ý qua email
 Nút góp ý trong ứng dụng mở app Mail của chính bạn với thư soạn sẵn gửi luuhongson157@gmail.com. Thư có phiên bản ứng dụng, đời máy, phiên bản hệ điều hành, ngôn ngữ và đêm hiện tại. Bạn xem và sửa được thư trước khi gửi. Chúng tôi chỉ dùng địa chỉ email của bạn để trả lời.
