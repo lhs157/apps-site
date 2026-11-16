@@ -1,7 +1,8 @@
-# Watermelon Merge — Hỗ trợ / Support
+# Fruit Flick: Merge Puzzle — Hỗ trợ / Support
 
-**Watermelon Merge** là game thả & gộp hoa quả kiểu Suika: thả quả vào hộp, hai quả **cùng
-loại** chạm nhau sẽ **gộp** thành quả lớn hơn — gộp tới quả dưa hấu, đừng để tràn miệng hộp.
+**Fruit Flick** là game giải đố **búng & gộp** hoa quả vẽ tay (crayon): **búng** quả để ngắm
+(chỉnh góc & lực), hai quả **cùng loại** chạm nhau sẽ **gộp** thành quả lớn hơn. Có **20 màn
+puzzle** thủ công cùng chế độ **endless** với vật cản, nhiệm vụ và bom.
 
 ---
 
@@ -18,14 +19,18 @@ Chúng tôi sẽ phản hồi trong vòng 1–2 ngày làm việc.
 ## Câu hỏi thường gặp
 
 **Ứng dụng có cần kết nối Internet không?**
-Không. Watermelon Merge chạy hoàn toàn offline; chơi mọi lúc, mọi nơi mà không cần mạng.
+Không. Fruit Flick chạy hoàn toàn offline; chơi mọi lúc, mọi nơi mà không cần mạng.
 
 **Có cần đăng nhập / tài khoản không?**
 Không. Không cần đăng ký, không đăng nhập, không thu thập thông tin cá nhân nào.
 
 **Chơi thế nào?**
-Kéo để ngắm rồi thả quả. Hai quả **cùng loại** chạm nhau sẽ gộp thành quả lớn hơn. Đừng để
-đống quả dâng quá vạch nguy hiểm ở trên.
+**Búng** quả để ngắm — kéo để chọn góc và lực, thả ra để bắn. Hai quả **cùng loại** chạm nhau
+sẽ gộp thành quả lớn hơn. Ở chế độ endless, đừng để đống quả dâng quá vạch nguy hiểm.
+
+**Có gì ngoài chơi vô tận?**
+Có **20 màn puzzle** thủ công, mỗi màn một thử thách riêng với số lần búng giới hạn (par để
+phá đảo), cùng chế độ **endless** với vật cản (quả hỏng), nhiệm vụ xoay vòng và bom cầm tay.
 
 **Quả đặc biệt là gì?**
 Thỉnh thoảng trong hàng chờ xuất hiện quả đặc biệt: 💣 **Bom** nổ xoá các quả xung quanh,
@@ -35,19 +40,21 @@ Thỉnh thoảng trong hàng chờ xuất hiện quả đặc biệt: 💣 **Bom
 Có. Điểm cao, sao và cài đặt được lưu trên thiết bị; xoá app sẽ mất các dữ liệu này.
 
 **Ứng dụng có quảng cáo hay mua hàng không?**
-Không. Watermelon Merge hoàn toàn miễn phí, không quảng cáo và không có mua hàng.
+Không. Fruit Flick hoàn toàn miễn phí, không quảng cáo và không có mua hàng.
 
 ---
 
 ## English
 
-**Watermelon Merge** is a Suika-style fruit drop-and-merge puzzle. Drop a fruit into the box;
-two of the **same** fruit that touch **merge** into the next bigger one — reach the watermelon
-and don't let the pile overflow the top.
+**Fruit Flick** is a hand-drawn crayon **flick-and-merge** fruit puzzle: **flick** a fruit to
+aim (drag for angle and power, release to shoot), and two of the **same** fruit that touch
+**merge** into the next bigger one. It ships with **20 handcrafted puzzles** plus an **endless**
+mode with hazards, rotating missions and hand-bombs.
 
 - **Offline:** Plays fully offline, no internet required.
 - **No account:** No sign-up, no login, no personal data collected.
 - **Free:** Completely free, no ads, no in-app purchases.
+- **20 puzzles + endless:** Beat the par on each handcrafted puzzle, or survive the endless board.
 - **Special fruits:** A rare 💣 Bomb clears nearby fruit, 🌈 Rainbow merges with anything,
   and a heavy 🪨 Iron presses the pile down.
 
