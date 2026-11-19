@@ -1,6 +1,6 @@
 # Privacy Policy — Knight Shift
 
-**Last updated: 2026-11-16 · Contact: luuhongson157@gmail.com**
+**Last updated: 2026-11-19 · Contact: luuhongson157@gmail.com**
 
 ---
 
@@ -8,8 +8,10 @@
 
 Knight Shift ("the app") is a cartoon castle-defence game for iPhone, iPad and Android (`com.lhs157.knightshift`), made by Luu Hong Son, an independent developer ("we"). You play a knight who holds the castle gate through each night, shooting and dragging weapons into place. This policy explains what data the app and the services built into it handle, and why.
 
-### 1. No accounts
-The app has no sign-up and no login. We never ask for your name, email, phone number or address, and the app has no chat and no user-generated content.
+### 1. Optional sign-in
+Version 2.0.0 has no Knight Shift account or in-game sign-in. In versions with **Settings → Account → Cloud account**, you can keep playing as a guest or sign in with Google, Facebook or Apple to sync progress. The app has no chat or user-generated content.
+
+Google's Firebase Authentication verifies your sign-in and maintains your Knight Shift account. It processes a Firebase user ID, the sign-in provider and its user identifier, and profile details such as an email address if the provider shares them. Apple may share a private relay address. The provider handles your sign-in credentials. We use this account information to identify your save, link sign-in methods you choose and manage account access. Firebase also processes IP addresses and browser or app information to help secure authentication. See [Firebase privacy information](https://firebase.google.com/support/privacy).
 
 ### 2. Data kept on your device
 Your game data stays in the app's storage on your device:
@@ -17,18 +19,20 @@ Your game data stays in the app's storage on your device:
 - progress: nights finished and stars earned;
 - Gold and Gems, weapons, skins and charms, and achievements;
 - settings: sound, vibration, language, frame rate and similar options;
-- a random player ID shown in Settings, which is not linked to your identity;
+- a random player ID shown in Settings, which is included in your save;
 - a list of store transaction IDs that have already been credited (so a purchase is never credited twice).
 
-We do not upload your game save to our configuration server. Deleting the app deletes this data from your device, unless you turned on cloud save (see section 3).
+We do not upload your game save to our configuration server. Uninstalling removes the app's local copy. Any cloud copy is handled separately as described in sections 3 and 11.
 
 ### 3. Cloud save (optional)
-Cloud save is off until you turn it on in Settings.
+If you sign in to a Knight Shift account, your full game save is synced to Google Cloud Firestore in Singapore. It is stored under your Firebase user ID and includes your progress, inventory, settings, player ID, and in-game purchase records such as transaction IDs used to record grants and prevent duplicate credits. We use it to restore and sync your progress. The save contains no payment card details or sign-in credentials. Access by the app requires authentication as the owner of the save.
+
+Legacy cloud save uses the platform's own service. In version 2.0.0, it is off until you turn it on in Settings:
 
 - **iPhone and iPad:** your save is stored in your own **iCloud** account (iCloud key-value storage). Apple holds it under your Apple ID and Apple's privacy policy: https://www.apple.com/legal/privacy/.
 - **Android:** your save is stored in **Google Play Games saved games**, in your own Google account, under Google's privacy policy: https://policies.google.com/privacy.
 
-We do not receive a copy and cannot see your save.
+For these legacy platform saves, we do not receive a separate copy.
 
 ### 4. Leaderboards and achievements
 The app uses **Game Center** (iOS) and **Google Play Games Services** (Android) for leaderboards and achievements. Your game nickname and scores are handled and shown to other players by Apple or Google, according to your own settings with them. Apple's privacy policy: https://www.apple.com/legal/privacy/. Google's: https://policies.google.com/privacy.
@@ -75,7 +79,8 @@ The feedback button in the app opens your own Mail app with a pre-written messag
 The app uses vibration (haptics) and your language setting. It does not access your precise location, contacts, photos, camera or microphone. We do not sell your data.
 
 ### 11. Deleting your data
-- **On your device:** **Settings → Delete data** removes the game data stored on the device. Deleting the app also removes it.
+- **Knight Shift account:** We retain the account and its cloud save while the account exists. To delete both, open **Settings → Account → Cloud account → Delete account** and confirm with your sign-in provider. Deletion removes the active cloud save and the account's save on that device. Google documents its separate retention period for Firebase Authentication data. You can also request deletion by email. See [account deletion instructions](delete-data.md) and [Firebase retention information](https://firebase.google.com/support/privacy#data_processing_information).
+- **On your device:** If you play as a guest, **Settings → Delete data** removes the local game save. Uninstalling removes the app's local copy.
 - **iCloud:** open iOS Settings → your name → iCloud → Manage Account Storage (or Manage Storage) → Knight Shift → Delete Data.
 - **Google Play Games:** open the Google Play Games app, go to Settings and use the option to delete your Play Games data for Knight Shift (or manage it at https://myaccount.google.com).
 - Data held by Google for ads or analytics: https://myadcenter.google.com or Google's privacy tools. Purchase data held by Unity: unity-iap-contact@unity3d.com.
@@ -95,8 +100,10 @@ Email: luuhongson157@gmail.com
 
 Knight Shift ("ứng dụng") là game thủ thành hoạt hình trên iPhone, iPad và Android (`com.lhs157.knightshift`), do Luu Hong Son, một nhà phát triển độc lập ("chúng tôi"), làm ra. Bạn vào vai một hiệp sĩ giữ cổng lâu đài qua từng đêm, bắn và kéo-thả vũ khí vào vị trí. Trang này giải thích ứng dụng và các dịch vụ tích hợp trong đó xử lý dữ liệu nào, và vì sao.
 
-### 1. Không có tài khoản
-Ứng dụng không có đăng ký hay đăng nhập. Chúng tôi không bao giờ hỏi tên, email, số điện thoại hay địa chỉ của bạn, và ứng dụng không có chat hay nội dung do người dùng tạo.
+### 1. Đăng nhập tùy chọn
+Bản 2.0.0 không có tài khoản Knight Shift hoặc đăng nhập trong game. Trong các bản có mục **Cài đặt → Tài khoản → Tài khoản đám mây**, bạn có thể tiếp tục chơi với tư cách khách hoặc đăng nhập bằng Google, Facebook hay Apple để đồng bộ tiến độ. Ứng dụng không có chat hay nội dung do người dùng tạo.
+
+Firebase Authentication của Google xác minh lượt đăng nhập và quản lý tài khoản Knight Shift. Dịch vụ xử lý mã người dùng Firebase, tên nhà cung cấp đăng nhập, mã người dùng tại nhà cung cấp đó và thông tin hồ sơ như email nếu nhà cung cấp chia sẻ. Apple có thể cung cấp địa chỉ email chuyển tiếp riêng tư. Nhà cung cấp đăng nhập xử lý thông tin xác thực của bạn. Chúng tôi dùng thông tin tài khoản để xác định bản lưu, liên kết phương thức đăng nhập bạn chọn và quản lý quyền truy cập. Firebase cũng xử lý địa chỉ IP và thông tin về trình duyệt hoặc ứng dụng để hỗ trợ bảo mật đăng nhập. Xem [thông tin quyền riêng tư của Firebase](https://firebase.google.com/support/privacy).
 
 ### 2. Dữ liệu lưu trên máy bạn
 Dữ liệu chơi nằm trong bộ nhớ của ứng dụng trên máy bạn:
@@ -104,18 +111,20 @@ Dữ liệu chơi nằm trong bộ nhớ của ứng dụng trên máy bạn:
 - tiến độ: các đêm đã qua và số sao đạt được;
 - Vàng và Ngọc, vũ khí, skin và bùa, thành tựu;
 - cài đặt: âm thanh, rung, ngôn ngữ, tốc độ khung hình và các tuỳ chọn tương tự;
-- một ID người chơi ngẫu nhiên hiện trong Cài đặt, không gắn với danh tính của bạn;
+- một ID người chơi ngẫu nhiên hiện trong Cài đặt và có trong bản lưu;
 - danh sách mã giao dịch của store đã được cấp (để một giao dịch không bao giờ bị cộng hai lần).
 
-Chúng tôi không tải bản lưu trò chơi của bạn lên máy chủ cấu hình của chúng tôi. Xoá ứng dụng là xoá dữ liệu này khỏi máy, trừ khi bạn đã bật Lưu mây (xem mục 3).
+Chúng tôi không tải bản lưu trò chơi của bạn lên máy chủ cấu hình của chúng tôi. Gỡ ứng dụng sẽ xóa bản lưu trên máy. Bản trên đám mây được xử lý riêng theo mục 3 và mục 11.
 
 ### 3. Lưu mây (tuỳ chọn)
-Lưu mây tắt cho tới khi bạn tự bật trong Cài đặt.
+Nếu bạn đăng nhập tài khoản Knight Shift, bản lưu đầy đủ được đồng bộ lên Google Cloud Firestore tại Singapore. Dữ liệu được lưu theo mã người dùng Firebase, gồm tiến độ, kho vật phẩm, cài đặt, mã người chơi và hồ sơ mua trong game, chẳng hạn mã giao dịch để ghi nhận vật phẩm đã cấp và tránh cấp trùng. Chúng tôi dùng dữ liệu này để khôi phục và đồng bộ tiến độ. Bản lưu không chứa thông tin thẻ thanh toán hoặc thông tin xác thực đăng nhập. Ứng dụng phải xác thực đúng chủ tài khoản để truy cập bản lưu.
+
+Tính năng lưu mây cũ dùng dịch vụ của từng nền tảng. Trong bản 2.0.0, tính năng này tắt cho tới khi bạn tự bật trong Cài đặt:
 
 - **iPhone và iPad:** bản save được lưu vào **iCloud** của chính bạn (iCloud key-value storage). Apple giữ dữ liệu này theo Apple ID của bạn và chính sách quyền riêng tư của Apple: https://www.apple.com/legal/privacy/.
 - **Android:** bản save được lưu vào **Google Play Games saved games** trong tài khoản Google của bạn, theo chính sách của Google: https://policies.google.com/privacy.
 
-Chúng tôi không nhận bản sao và không xem được bản save của bạn.
+Đối với bản lưu qua các dịch vụ nền tảng này, chúng tôi không nhận bản sao riêng.
 
 ### 4. Bảng xếp hạng và thành tựu
 Ứng dụng dùng **Game Center** (iOS) và **Google Play Games Services** (Android) cho bảng xếp hạng và thành tựu. Biệt danh và điểm của bạn do Apple hoặc Google xử lý và hiển thị cho người chơi khác theo cài đặt của chính bạn với họ. Chính sách của Apple: https://www.apple.com/legal/privacy/. Của Google: https://policies.google.com/privacy.
@@ -162,7 +171,8 @@ Nút góp ý trong ứng dụng mở app Mail của chính bạn với thư so�
 Ứng dụng dùng rung và cài đặt ngôn ngữ. Ứng dụng không truy cập vị trí chính xác, danh bạ, ảnh, camera hay micro. Chúng tôi không bán dữ liệu của bạn.
 
 ### 11. Xoá dữ liệu
-- **Trên máy:** **Cài đặt → Xóa dữ liệu** xoá dữ liệu chơi lưu trên máy. Xoá ứng dụng cũng xoá dữ liệu này.
+- **Tài khoản Knight Shift:** Chúng tôi lưu tài khoản và bản lưu đám mây trong thời gian tài khoản còn tồn tại. Để xóa cả hai, mở **Cài đặt → Tài khoản → Tài khoản đám mây → Xóa tài khoản** và xác nhận với nhà cung cấp đăng nhập. Thao tác này xóa bản lưu đám mây đang sử dụng và bản lưu của tài khoản trên thiết bị đó. Google công bố thời hạn lưu riêng đối với dữ liệu Firebase Authentication. Bạn cũng có thể yêu cầu xóa qua email. Xem [hướng dẫn xóa tài khoản](delete-data.md) và [thông tin về thời hạn lưu dữ liệu của Firebase](https://firebase.google.com/support/privacy#data_processing_information).
+- **Trên máy:** Nếu chơi với tư cách khách, **Cài đặt → Xóa dữ liệu** xóa bản lưu trên máy. Gỡ ứng dụng cũng xóa bản lưu này.
 - **iCloud:** mở Cài đặt iOS → tên của bạn → iCloud → Quản lý dung lượng tài khoản (hoặc Quản lý dung lượng) → Knight Shift → Xoá dữ liệu.
 - **Google Play Games:** mở app Google Play Games, vào Cài đặt và dùng tuỳ chọn xoá dữ liệu Play Games của Knight Shift (hoặc quản lý tại https://myaccount.google.com).
 - Dữ liệu quảng cáo hoặc phân tích do Google giữ: https://myadcenter.google.com hoặc công cụ quyền riêng tư của Google. Dữ liệu mua hàng do Unity giữ: unity-iap-contact@unity3d.com.
