@@ -1,6 +1,6 @@
 # Delete your Gridlock account / Xóa tài khoản Gridlock
 
-**Gridlock: Car Jam Puzzle · Developer / Nhà phát triển: Luu Hong Son · iPhone**
+**Gridlock: Car Jam Puzzle · Developer / Nhà phát triển: Luu Hong Son**
 
 ## English
 
@@ -10,7 +10,7 @@
 2. Select **Delete account** and confirm the request.
 3. Verify your identity with your sign-in provider when prompted.
 
-This deletes your Gridlock account, its cloud save (level progress, stars, daily-challenge results and achievements), your leaderboard entry, and the account's save on the device where you complete deletion. Google, Facebook and Apple retain their own accounts. The App Store may retain its own transaction records under its policies. [Gridlock privacy policy](privacy-policy.md)
+This deletes your Gridlock account, its cloud save (level progress, stars, daily-challenge results and achievements), your leaderboard entry, and the account's save on the device where you complete deletion. Google, Facebook and Apple retain their own accounts. App stores may retain its own transaction records under its policies. [Gridlock privacy policy](privacy-policy.md)
 
 ### Request deletion without the app
 
@@ -26,7 +26,7 @@ If your version has no **Account** section, or you play as a guest, your progres
 2. Chọn **Delete account** và xác nhận yêu cầu.
 3. Xác minh danh tính với nhà cung cấp đăng nhập khi ứng dụng yêu cầu.
 
-Thao tác này xóa tài khoản Gridlock, bản lưu đám mây của tài khoản (tiến trình màn chơi, số sao, kết quả thử thách hằng ngày và thành tựu), dòng của bạn trên bảng xếp hạng, và bản lưu của tài khoản trên thiết bị nơi bạn hoàn tất thao tác. Tài khoản Google, Facebook hoặc Apple của bạn vẫn thuộc nhà cung cấp đăng nhập. App Store có thể giữ hồ sơ giao dịch riêng theo chính sách của họ. [Chính sách quyền riêng tư của Gridlock](privacy-policy.md)
+Thao tác này xóa tài khoản Gridlock, bản lưu đám mây của tài khoản (tiến trình màn chơi, số sao, kết quả thử thách hằng ngày và thành tựu), dòng của bạn trên bảng xếp hạng, và bản lưu của tài khoản trên thiết bị nơi bạn hoàn tất thao tác. Tài khoản Google, Facebook hoặc Apple của bạn vẫn thuộc nhà cung cấp đăng nhập. Cửa hàng ứng dụng có thể giữ hồ sơ giao dịch riêng theo chính sách của họ. [Chính sách quyền riêng tư của Gridlock](privacy-policy.md)
 
 ### Yêu cầu xóa khi không dùng được ứng dụng
 

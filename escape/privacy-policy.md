@@ -42,13 +42,15 @@ through Google's consent form (UMP) and you can change your choice any time in
 
 **In-app purchase — Remove Ads.** The app offers a one-time purchase, "Remove Ads"
 ($2.99; price may vary by region), which removes banner and interstitial ads. The payment
-is processed by Apple; **the app never receives or stores your payment information.** You
-can restore it on any of your devices with **Restore Purchases**. Players who installed a
-version released before ads were introduced (v1.0) continue to play without banner and
-interstitial ads.
+is processed by the app store you downloaded the app from; **the app never receives or
+stores your payment information.** You can restore it on your other devices with
+**Restore Purchases**.
 
-**No special permissions.** The app does not request access to your location, camera,
-microphone, photos, contacts, or notifications. It uses the device's vibration/haptic
+**Permissions.** The app does not request access to your location, camera, microphone,
+photos or contacts. It may ask permission to send notifications: a weekly reminder
+scheduled on your device and occasional announcements delivered through Firebase Cloud
+Messaging (Google), which uses a device token and installation identifier to deliver them.
+You can turn notifications off in Settings. The app uses the device's vibration/haptic
 feedback only to give tactile response while you play; this can be turned off in Settings.
 
 **What we collect.** We do not collect personal information. Our advertising partner
@@ -126,14 +128,15 @@ biểu mẫu của Google (UMP) và có thể đổi lựa chọn bất cứ lú
 choices**.
 
 **Mua trong ứng dụng — Remove Ads.** Ứng dụng có một gói mua một lần "Remove Ads" ($2.99;
-giá có thể khác theo khu vực) để tắt banner và quảng cáo xen giữa. Thanh toán do Apple xử
-lý; **ứng dụng không nhận hay lưu thông tin thanh toán của bạn.** Bạn khôi phục gói trên
-thiết bị khác bằng **Restore Purchases**. Người chơi đã cài phiên bản phát hành trước khi
-có quảng cáo (v1.0) tiếp tục chơi không có banner và quảng cáo xen giữa.
+giá có thể khác theo khu vực) để tắt banner và quảng cáo xen giữa. Thanh toán do cửa hàng
+ứng dụng nơi bạn tải app xử lý; **ứng dụng không nhận hay lưu thông tin thanh toán của bạn.**
+Bạn khôi phục gói trên thiết bị khác bằng **Restore Purchases**.
 
-**Không xin quyền đặc biệt.** Ứng dụng không yêu cầu truy cập vị trí, camera, micro, ảnh,
-danh bạ hay thông báo. Ứng dụng chỉ dùng rung/phản hồi xúc giác của máy để tạo cảm giác
-khi chơi; bạn có thể tắt trong phần Cài đặt.
+**Quyền truy cập.** Ứng dụng không yêu cầu truy cập vị trí, camera, micro, ảnh hay danh bạ.
+Ứng dụng có thể xin quyền gửi thông báo: một lời nhắc hằng tuần đặt lịch ngay trên máy và
+thỉnh thoảng là thông báo qua Firebase Cloud Messaging (Google), dịch vụ dùng mã thiết bị và
+định danh cài đặt để gửi. Bạn có thể tắt thông báo trong Cài đặt. Ứng dụng chỉ dùng rung/phản
+hồi xúc giác của máy để tạo cảm giác khi chơi; bạn có thể tắt trong phần Cài đặt.
 
 **Thông tin chúng tôi thu thập.** Chúng tôi không thu thập thông tin cá nhân. Đối tác quảng
 cáo xử lý dữ liệu như mô tả ở trên.
