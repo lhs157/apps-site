@@ -10,7 +10,7 @@
 2. Select **Delete account** and confirm the request.
 3. Verify your identity with your sign-in provider when prompted.
 
-This deletes your Gridlock account, its cloud save (level progress, stars, daily-challenge results and achievements), your leaderboard entry, and the account's save on the device where you complete deletion. Google, Facebook and Apple retain their own accounts. App stores may retain its own transaction records under its policies. [Gridlock privacy policy](privacy-policy.md)
+This deletes your Gridlock account, its cloud save (level progress, stars, daily-challenge results and achievements), your leaderboard entry, and the account's save on the device where you complete deletion. Google, Facebook and Apple retain their own accounts. App stores may retain their own transaction records under their policies. [Gridlock privacy policy](privacy-policy.md)
 
 ### Request deletion without the app
 
