@@ -1,6 +1,6 @@
 # Privacy Policy — Gridlock: Car Jam Puzzle
 
-**Last updated: 2026-10-06 · Contact: luuhongson157@gmail.com**
+**Last updated: 2026-11-20 · Contact: luuhongson157@gmail.com**
 
 ---
 
@@ -60,6 +60,29 @@ information, and our advertising partner processes data as described above.
 
 **Deleting your data.** Game data is stored locally, so deleting the app from your device
 removes it. For ad-related data held by Google, see Google's privacy policy above.
+
+**Version 1.3 and later: optional sign-in, cloud save and leaderboard.** The statements above
+about having no login, no servers of our own, no leaderboard and no cloud save describe
+versions up to 1.2. From version 1.3:
+
+- **Leaderboard.** The app sends three numbers (total stars, levels cleared, Endless levels
+  cleared) and a random key created on your device to our Cloudflare-hosted service, and
+  shows a public ranking. Guests appear under a generated name such as "Driver-1A2B3C4D".
+  Cloudflare processes network information such as IP addresses to deliver and protect the
+  service: https://www.cloudflare.com/privacypolicy/.
+- **Optional sign-in.** You can keep playing as a guest, or sign in with Apple, Google or
+  Facebook in **Settings → Account**. Google's Firebase Authentication verifies your sign-in
+  and processes a Firebase user ID, the sign-in provider and its user identifier, and
+  profile details such as a name or email address if the provider shares them (Apple may
+  share a private relay address). The provider handles your sign-in credentials. If you sign
+  in, the name shared by your provider is shown on the leaderboard.
+  Firebase privacy information: https://firebase.google.com/support/privacy.
+- **Cloud save.** If you sign in, your level progress, stars, daily-challenge results and
+  achievements are synced to Google Cloud Firestore in Singapore under your Firebase user
+  ID, so you can continue on another device. The save contains no payment details and no
+  sign-in credentials.
+- **Deleting your account.** **Settings → Account → Delete account** removes the account,
+  its cloud save and its leaderboard entry. See [account deletion instructions](delete-data.md).
 
 **Changes.** We may update this policy; the "Last updated" date will change accordingly.
 
@@ -121,6 +144,29 @@ cố ý thu thập thông tin cá nhân của trẻ em; chúng tôi không thu t
 
 **Xoá dữ liệu.** Dữ liệu chơi lưu cục bộ nên gỡ ứng dụng khỏi máy là xoá sạch. Với dữ liệu
 quảng cáo do Google giữ, xem chính sách quyền riêng tư của Google ở trên.
+
+**Từ phiên bản 1.3: đăng nhập tuỳ chọn, lưu đám mây và bảng xếp hạng.** Các câu ở trên về
+việc không đăng nhập, không máy chủ riêng, không bảng xếp hạng và không lưu đám mây mô tả
+các phiên bản đến 1.2. Từ phiên bản 1.3:
+
+- **Bảng xếp hạng.** Ứng dụng gửi ba con số (tổng sao, số màn đã qua, số màn Endless đã qua)
+  cùng một khoá ngẫu nhiên tạo trên máy bạn tới dịch vụ của chúng tôi đặt trên Cloudflare,
+  và hiển thị bảng xếp hạng công khai. Khách hiện dưới tên tự sinh như "Driver-1A2B3C4D".
+  Cloudflare xử lý thông tin mạng như địa chỉ IP để vận hành và bảo vệ dịch vụ:
+  https://www.cloudflare.com/privacypolicy/.
+- **Đăng nhập tuỳ chọn.** Bạn có thể tiếp tục chơi với tư cách khách, hoặc đăng nhập bằng
+  Apple, Google hay Facebook trong **Settings → Account**. Firebase Authentication của Google
+  xác minh lượt đăng nhập và xử lý ID người dùng Firebase, nhà cung cấp đăng nhập cùng định
+  danh của nhà cung cấp đó, và thông tin hồ sơ như tên hoặc email nếu nhà cung cấp chia sẻ
+  (Apple có thể chia sẻ địa chỉ chuyển tiếp riêng tư). Nhà cung cấp tự xử lý thông tin đăng
+  nhập của bạn. Khi bạn đăng nhập, tên do nhà cung cấp chia sẻ được hiển thị trên bảng xếp
+  hạng. Thông tin quyền riêng tư của Firebase: https://firebase.google.com/support/privacy.
+- **Lưu đám mây.** Khi bạn đăng nhập, tiến trình màn chơi, số sao, kết quả thử thách hằng
+  ngày và thành tựu được đồng bộ lên Google Cloud Firestore tại Singapore theo ID người dùng
+  Firebase, để bạn chơi tiếp trên thiết bị khác. Bản lưu không chứa thông tin thanh toán
+  hay thông tin đăng nhập.
+- **Xoá tài khoản.** **Settings → Account → Delete account** xoá tài khoản, bản lưu đám mây
+  và dòng của bạn trên bảng xếp hạng. Xem [hướng dẫn xoá tài khoản](delete-data.md).
 
 **Thay đổi.** Chính sách có thể được cập nhật; ngày "Cập nhật lần cuối" sẽ thay đổi tương
 ứng.
