@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "revision": 1,
+  "enabled": false,
+  "previewEnabled": true,
+  "startsAt": "2026-11-26T17:00:00Z",
+  "endsAt": "2026-11-29T17:00:00Z",
+  "priceVnd": 99000,
+  "bannerUrl": "https://lhs157.github.io/apps-site/promo/img/hao-black-friday-v1.webp",
+  "vi": {
+    "title": "Black Friday: Giảm 50% Hảo Pro",
+    "details": "Ưu đãi đặc biệt chỉ dịp này. Mở trọn HSK 1–6 với {price}, mua một lần.",
+    "action": "Xem gói Pro"
+  },
+  "en": {
+    "title": "Black Friday: 50% off Hảo Pro",
+    "details": "A special Black Friday offer. Unlock all HSK 1–6 for {price} with one purchase.",
+    "action": "View Pro"
+  }
+}
