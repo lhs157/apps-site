@@ -6,6 +6,7 @@
   "startsAt": "2026-11-22T17:00:00Z",
   "endsAt": "2026-11-27T17:00:00Z",
   "priceVnd": 99000,
+  "regularPriceVnd": 199000,
   "bannerUrl": "https://lhs157.github.io/apps-site/promo/img/hao-black-friday-v1.webp",
   "vi": {
     "title": "Black Friday: Giảm 50% Hảo Pro",
