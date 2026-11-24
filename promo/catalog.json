@@ -349,6 +349,23 @@
         "scheme": "toeic-listening",
         "listed": true
       }
+    },
+    "ecp": {
+      "family": "language",
+      "name": {
+        "vi": "English Conversation Practices",
+        "en": "English Conversation"
+      },
+      "tagline": {
+        "vi": "Luyện hội thoại tiếng Anh",
+        "en": "Practice everyday English conversations"
+      },
+      "icon": "promo/img/ecp-icon-v1.webp",
+      "ios": {
+        "appStoreId": "1101666363",
+        "scheme": "lhs157ecp",
+        "listed": true
+      }
     }
   }
 }
