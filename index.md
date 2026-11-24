@@ -126,6 +126,13 @@ An English-learning and TOEIC-preparation app for Vietnamese speakers.
 - [Support & Contact](spark/support.md)
 - [Privacy Policy](spark/privacy-policy.md)
 
+## Listening & Reading Practice for the TOEIC Test — iOS
+
+Part 1–7 practice, timed mock exams, and review of missed questions for Vietnamese speakers.
+
+- [Support & Contact](toeic-listening/support.md)
+- [Privacy Policy](toeic-listening/privacy-policy.md)
+
 ## King’s Turn — Roguelike cờ với Súng Hồn
 
 A tactical chess roguelike where the Mage King crosses an 8×8 battlefield, harvests spirits,
