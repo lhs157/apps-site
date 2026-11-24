@@ -332,6 +332,23 @@
         "package": "com.sonluu.animeworld",
         "listed": false
       }
+    },
+    "toeic-listening": {
+      "family": "language",
+      "name": {
+        "vi": "Toeic Listening Practice",
+        "en": "Toeic Listening Practice"
+      },
+      "tagline": {
+        "vi": "Luyện nghe TOEIC",
+        "en": "TOEIC listening practice"
+      },
+      "icon": "promo/img/toeic-listening-icon-v1.webp",
+      "ios": {
+        "appStoreId": "1160311932",
+        "scheme": "toeic-listening",
+        "listed": true
+      }
     }
   }
 }

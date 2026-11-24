@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "id": "toeic-ios-1-1-0-preview",
+      "kind": "release",
+      "date": "2026-11-24",
+      "version": "1.1.0",
+      "audience": "all",
+      "title": {
+        "vi": "Luyện nghe và đọc TOEIC",
+        "en": "TOEIC Listening and Reading practice"
+      },
+      "summary": {
+        "vi": "Luyện theo Part 1–7, làm đề thi thử và xem lại câu sai.",
+        "en": "Practice Parts 1–7, take a mock test, and review mistakes."
+      },
+      "highlights": [
+        {
+          "vi": "Luyện riêng từng Part Nghe và Đọc.",
+          "en": "Practice individual Listening and Reading parts."
+        },
+        {
+          "vi": "Làm đề 200 câu, xem kết quả theo từng Part.",
+          "en": "Take 200-question mock tests with a breakdown by part."
+        },
+        {
+          "vi": "Xem lại và làm lại câu đã trả lời sai.",
+          "en": "Review and retry questions you answered incorrectly."
+        }
+      ],
+      "deeplink": "practice"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "enabled": true,
+  "refreshHours": 1,
+  "global": {
+    "minDaysSinceInstall": 3,
+    "minLaunches": 5,
+    "minutesAfterInterstitial": 10,
+    "minutesAfterPushOpen": 10,
+    "hideForPro": [
+      "popup",
+      "native"
+    ]
+  },
+  "placements": {
+    "native": {
+      "slots": [],
+      "mode": "house_only",
+      "cooldownHours": 24
+    },
+    "settings": {
+      "title": {
+        "vi": "Ứng dụng khác",
+        "en": "Other apps"
+      },
+      "apps": [
+        "hao",
+        "suki",
+        "joa"
+      ]
+    }
+  },
+  "campaigns": []
+}
