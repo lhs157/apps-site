@@ -21,7 +21,22 @@
         "zh-Hans": "更多游戏",
         "es": "Más juegos",
         "de": "Weitere Spiele",
-        "fr": "Autres jeux"
+        "fr": "Autres jeux",
+        "da": "Flere spil",
+        "fi": "Lisää pelejä",
+        "id": "Game lainnya",
+        "it": "Altri giochi",
+        "ko": "다른 게임",
+        "ms": "Lagi permainan",
+        "nb": "Flere spill",
+        "nl": "Meer games",
+        "pt": "Mais jogos",
+        "pt-PT": "Mais jogos",
+        "ru": "Другие игры",
+        "sv": "Fler spel",
+        "th": "เกมอื่น ๆ",
+        "tr": "Diğer oyunlar",
+        "zh-Hant": "更多遊戲"
       },
       "apps": [
         "afloat",

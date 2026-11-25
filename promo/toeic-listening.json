@@ -21,7 +21,27 @@
     "settings": {
       "title": {
         "vi": "Ứng dụng khác",
-        "en": "Other apps"
+        "en": "Other apps",
+        "da": "Andre apps",
+        "de": "Weitere Apps",
+        "es": "Otras apps",
+        "fi": "Muut sovellukset",
+        "fr": "Autres applis",
+        "id": "Aplikasi lainnya",
+        "it": "Altre app",
+        "ja": "ほかのアプリ",
+        "ko": "다른 앱",
+        "ms": "Aplikasi lain",
+        "nb": "Andre apper",
+        "nl": "Andere apps",
+        "pt": "Outros apps",
+        "pt-PT": "Outras apps",
+        "ru": "Другие приложения",
+        "sv": "Andra appar",
+        "th": "แอปอื่น ๆ",
+        "tr": "Diğer uygulamalar",
+        "zh-Hans": "其他应用",
+        "zh-Hant": "其他 App"
       },
       "apps": [
         "hao",

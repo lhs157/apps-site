@@ -30,7 +30,19 @@
         "pt": "Mais jogos",
         "de": "Weitere Spiele",
         "fr": "Autres jeux",
-        "id": "Game lainnya"
+        "id": "Game lainnya",
+        "da": "Flere spil",
+        "fi": "Lisää pelejä",
+        "it": "Altri giochi",
+        "ms": "Lagi permainan",
+        "nb": "Flere spill",
+        "nl": "Meer games",
+        "pt-PT": "Mais jogos",
+        "ru": "Другие игры",
+        "sv": "Fler spel",
+        "th": "เกมอื่น ๆ",
+        "tr": "Diğer oyunlar",
+        "zh-Hant": "更多遊戲"
       },
       "apps": [
         "afloat",
@@ -83,7 +95,19 @@
         "pt": "Do mesmo desenvolvedor",
         "de": "Vom selben Entwickler",
         "fr": "Du même développeur",
-        "id": "Dari pengembang yang sama"
+        "id": "Dari pengembang yang sama",
+        "da": "Fra samme udvikler",
+        "fi": "Samalta kehittäjältä",
+        "it": "Dallo stesso sviluppatore",
+        "ms": "Daripada pembangun yang sama",
+        "nb": "Fra samme utvikler",
+        "nl": "Van dezelfde ontwikkelaar",
+        "pt-PT": "Do mesmo programador",
+        "ru": "От того же разработчика",
+        "sv": "Från samma utvecklare",
+        "th": "จากผู้พัฒนาเดียวกัน",
+        "tr": "Aynı geliştiriciden",
+        "zh-Hant": "同開發者出品"
       },
       "headline": {
         "vi": "Nước lên rồi, tính sao đây?",
@@ -95,7 +119,19 @@
         "pt": "A água está subindo. E agora?",
         "de": "Das Wasser steigt. Und jetzt?",
         "fr": "L'eau monte. Une idée ?",
-        "id": "Air terus naik. Ada rencana?"
+        "id": "Air terus naik. Ada rencana?",
+        "da": "Vandet stiger. Har du en plan?",
+        "fi": "Vesi nousee. Onko sinulla suunnitelma?",
+        "it": "L'acqua sale. Hai un piano?",
+        "ms": "Air makin naik. Ada rancangan?",
+        "nb": "Vannet stiger. Har du en plan?",
+        "nl": "Het water stijgt. Heb je een plan?",
+        "pt-PT": "A água está a subir. Tens um plano?",
+        "ru": "Вода прибывает. Есть план?",
+        "sv": "Vattnet stiger. Har du en plan?",
+        "th": "น้ำกำลังขึ้น มีแผนหรือยัง?",
+        "tr": "Su yükseliyor. Bir planın var mı?",
+        "zh-Hant": "水位正在上漲，你有對策嗎？"
       },
       "body": {
         "vi": "Sửa cầu thang, mang đồ ăn lên, đưa cả nhà lên thuyền trên mái trước khi nước tới.",
@@ -107,7 +143,19 @@
         "pt": "Conserte a escada, suba com a comida e leve todos ao barco do telhado a tempo.",
         "de": "Repariere die Treppe, trag das Essen hoch und bring alle rechtzeitig zum Boot auf dem Dach.",
         "fr": "Répare l'escalier, monte les vivres et emmène tout le monde au bateau sur le toit.",
-        "id": "Perbaiki tangga, angkut makanan ke atas, dan bawa semua ke perahu di atap tepat waktu."
+        "id": "Perbaiki tangga, angkut makanan ke atas, dan bawa semua ke perahu di atap tepat waktu.",
+        "da": "Reparér trappen, bær maden op, og få alle op til båden på taget i tide.",
+        "fi": "Korjaa portaat, kanna ruoka ylös ja ehdi viedä kaikki katolla odottavaan veneeseen.",
+        "it": "Ripara le scale, porta su il cibo e fai salire tutti sulla barca sul tetto in tempo.",
+        "ms": "Baiki tangga, angkut makanan ke atas dan bawa semua orang ke bot di atas bumbung tepat pada masanya.",
+        "nb": "Reparer trappen, bær maten opp og få alle til båten på taket i tide.",
+        "nl": "Repareer de trap, breng het eten naar boven en krijg iedereen op tijd naar de boot op het dak.",
+        "pt-PT": "Arranja as escadas, leva a comida para cima e põe todos no barco do telhado a tempo.",
+        "ru": "Почини лестницу, подними еду наверх и успей переправить всех в лодку на крыше.",
+        "sv": "Laga trappan, bär upp maten och få alla till båten på taket i tid.",
+        "th": "ซ่อมบันได ขนอาหารขึ้นไป แล้วพาทุกคนไปขึ้นเรือบนหลังคาให้ทันเวลา",
+        "tr": "Merdiveni onar, yiyecekleri yukarı taşı ve herkesi zamanında çatıdaki tekneye ulaştır.",
+        "zh-Hant": "修好樓梯、把食物搬上樓，及時讓大家登上屋頂的小船。"
       },
       "cta": {
         "vi": "Tải {app}",
@@ -119,7 +167,19 @@
         "pt": "Baixar {app}",
         "de": "{app} laden",
         "fr": "Obtenir {app}",
-        "id": "Unduh {app}"
+        "id": "Unduh {app}",
+        "da": "Hent {app}",
+        "fi": "Hae {app}",
+        "it": "Ottieni {app}",
+        "ms": "Dapatkan {app}",
+        "nb": "Hent {app}",
+        "nl": "Download {app}",
+        "pt-PT": "Obter {app}",
+        "ru": "Скачать {app}",
+        "sv": "Hämta {app}",
+        "th": "รับ {app}",
+        "tr": "{app} indir",
+        "zh-Hant": "取得 {app}"
       },
       "ctaInstalled": {
         "vi": "Mở {app}",
@@ -131,7 +191,19 @@
         "pt": "Abrir {app}",
         "de": "{app} öffnen",
         "fr": "Ouvrir {app}",
-        "id": "Buka {app}"
+        "id": "Buka {app}",
+        "da": "Åbn {app}",
+        "fi": "Avaa {app}",
+        "it": "Apri {app}",
+        "ms": "Buka {app}",
+        "nb": "Åpne {app}",
+        "nl": "Open {app}",
+        "pt-PT": "Abrir {app}",
+        "ru": "Открыть {app}",
+        "sv": "Öppna {app}",
+        "th": "เปิด {app}",
+        "tr": "{app} aç",
+        "zh-Hant": "開啟 {app}"
       },
       "dismiss": {
         "vi": "Để sau",
@@ -143,7 +215,19 @@
         "pt": "Agora não",
         "de": "Später",
         "fr": "Plus tard",
-        "id": "Nanti saja"
+        "id": "Nanti saja",
+        "da": "Ikke nu",
+        "fi": "Ei nyt",
+        "it": "Non ora",
+        "ms": "Bukan sekarang",
+        "nb": "Ikke nå",
+        "nl": "Niet nu",
+        "pt-PT": "Agora não",
+        "ru": "Не сейчас",
+        "sv": "Inte nu",
+        "th": "ไว้ก่อน",
+        "tr": "Şimdi değil",
+        "zh-Hant": "暫時不要"
       }
     },
     {
@@ -187,7 +271,19 @@
         "pt": "Do mesmo desenvolvedor",
         "de": "Vom selben Entwickler",
         "fr": "Du même développeur",
-        "id": "Dari pengembang yang sama"
+        "id": "Dari pengembang yang sama",
+        "da": "Fra samme udvikler",
+        "fi": "Samalta kehittäjältä",
+        "it": "Dallo stesso sviluppatore",
+        "ms": "Daripada pembangun yang sama",
+        "nb": "Fra samme utvikler",
+        "nl": "Van dezelfde ontwikkelaar",
+        "pt-PT": "Do mesmo programador",
+        "ru": "От того же разработчика",
+        "sv": "Från samma utvecklare",
+        "th": "จากผู้พัฒนาเดียวกัน",
+        "tr": "Aynı geliştiriciden",
+        "zh-Hant": "同開發者出品"
       },
       "headline": {
         "vi": "Cho bé một góc chơi dịu dàng",
@@ -199,7 +295,19 @@
         "pt": "Um cantinho calmo para seu filho",
         "de": "Etwas Ruhiges für dein Kind",
         "fr": "Un coin paisible pour ton enfant",
-        "id": "Waktu main tenang untuk si kecil"
+        "id": "Waktu main tenang untuk si kecil",
+        "da": "Rolig leg for den lille",
+        "fi": "Rauhallista leikkiä pienimmälle",
+        "it": "Gioco tranquillo per i più piccoli",
+        "ms": "Permainan tenang untuk si manja",
+        "nb": "Rolig lek for den lille",
+        "nl": "Rustig spelen voor je kleintje",
+        "pt-PT": "Jogo calmo para os mais pequenos",
+        "ru": "Спокойная игра для вашего малыша",
+        "sv": "Lugn lek för de minsta",
+        "th": "พื้นที่เล่นแสนสงบสำหรับเจ้าตัวน้อย",
+        "tr": "Miniklere sakin bir oyun dünyası",
+        "zh-Hant": "給小寶貝的靜心遊戲"
       },
       "body": {
         "vi": "Thế giới vẽ tay, bé chạm đâu cũng có lời đáp. Không quảng cáo, không cần biết đọc.",
@@ -211,7 +319,19 @@
         "pt": "Um mundo pintado à mão em que cada toque tem resposta. Sem anúncios e sem nada para ler.",
         "de": "Eine handgemalte Welt, in der jedes Tippen eine Antwort bekommt. Ohne Werbung, ohne Lesen.",
         "fr": "Un monde peint à la main où chaque geste a une réponse. Pas de pub, rien à lire.",
-        "id": "Dunia lukisan tangan yang merespons setiap sentuhan. Tanpa iklan, tak perlu bisa membaca."
+        "id": "Dunia lukisan tangan yang merespons setiap sentuhan. Tanpa iklan, tak perlu bisa membaca.",
+        "da": "En håndmalet verden, hvor hvert tryk giver svar. Ingen reklamer, intet at læse, intet jag.",
+        "fi": "Käsin maalattu maailma, jossa jokainen napautus vastaa. Ei mainoksia, ei lukemista, ei kiirettä.",
+        "it": "Un mondo dipinto a mano dove ogni tocco risponde. Niente pubblicità, niente da leggere, zero fretta.",
+        "ms": "Dunia lukisan tangan yang menjawab setiap ketikan. Tiada iklan, tiada bacaan, tiada tergesa-gesa.",
+        "nb": "En håndmalt verden der hvert trykk får svar. Ingen reklame, ingenting å lese, ingen hast.",
+        "nl": "Een handgeschilderde wereld waarin elke tik antwoord krijgt. Geen reclame, geen tekst, geen haast.",
+        "pt-PT": "Um mundo pintado à mão onde cada toque tem resposta. Sem anúncios, sem nada para ler, sem pressas.",
+        "ru": "Нарисованный вручную мир, где каждое нажатие оживает. Без рекламы, текста и спешки.",
+        "sv": "En handmålad värld där varje tryck får svar. Ingen reklam, inget att läsa, ingen stress.",
+        "th": "โลกภาพวาดมือที่ทุกการแตะมีการตอบสนอง ไม่มีโฆษณา ไม่ต้องอ่าน ไม่ต้องรีบ",
+        "tr": "Her dokunuşun karşılık bulduğu el boyaması bir dünya. Reklam yok, okuma yok, acele yok.",
+        "zh-Hant": "手繪世界，每次點按都有回應。沒有廣告、不必認字、不趕時間。"
       },
       "cta": {
         "vi": "Tải {app}",
@@ -223,7 +343,19 @@
         "pt": "Baixar {app}",
         "de": "{app} laden",
         "fr": "Obtenir {app}",
-        "id": "Unduh {app}"
+        "id": "Unduh {app}",
+        "da": "Hent {app}",
+        "fi": "Hae {app}",
+        "it": "Ottieni {app}",
+        "ms": "Dapatkan {app}",
+        "nb": "Hent {app}",
+        "nl": "Download {app}",
+        "pt-PT": "Obter {app}",
+        "ru": "Скачать {app}",
+        "sv": "Hämta {app}",
+        "th": "รับ {app}",
+        "tr": "{app} indir",
+        "zh-Hant": "取得 {app}"
       },
       "ctaInstalled": {
         "vi": "Mở {app}",
@@ -235,7 +367,19 @@
         "pt": "Abrir {app}",
         "de": "{app} öffnen",
         "fr": "Ouvrir {app}",
-        "id": "Buka {app}"
+        "id": "Buka {app}",
+        "da": "Åbn {app}",
+        "fi": "Avaa {app}",
+        "it": "Apri {app}",
+        "ms": "Buka {app}",
+        "nb": "Åpne {app}",
+        "nl": "Open {app}",
+        "pt-PT": "Abrir {app}",
+        "ru": "Открыть {app}",
+        "sv": "Öppna {app}",
+        "th": "เปิด {app}",
+        "tr": "{app} aç",
+        "zh-Hant": "開啟 {app}"
       },
       "dismiss": {
         "vi": "Để sau",
@@ -247,7 +391,19 @@
         "pt": "Agora não",
         "de": "Später",
         "fr": "Plus tard",
-        "id": "Nanti saja"
+        "id": "Nanti saja",
+        "da": "Ikke nu",
+        "fi": "Ei nyt",
+        "it": "Non ora",
+        "ms": "Bukan sekarang",
+        "nb": "Ikke nå",
+        "nl": "Niet nu",
+        "pt-PT": "Agora não",
+        "ru": "Не сейчас",
+        "sv": "Inte nu",
+        "th": "ไว้ก่อน",
+        "tr": "Şimdi değil",
+        "zh-Hant": "暫時不要"
       }
     },
     {
@@ -291,7 +447,19 @@
         "pt": "Do mesmo desenvolvedor",
         "de": "Vom selben Entwickler",
         "fr": "Du même développeur",
-        "id": "Dari pengembang yang sama"
+        "id": "Dari pengembang yang sama",
+        "da": "Fra samme udvikler",
+        "fi": "Samalta kehittäjältä",
+        "it": "Dallo stesso sviluppatore",
+        "ms": "Daripada pembangun yang sama",
+        "nb": "Fra samme utvikler",
+        "nl": "Van dezelfde ontwikkelaar",
+        "pt-PT": "Do mesmo programador",
+        "ru": "От того же разработчика",
+        "sv": "Från samma utvecklare",
+        "th": "จากผู้พัฒนาเดียวกัน",
+        "tr": "Aynı geliştiriciden",
+        "zh-Hant": "同開發者出品"
       },
       "headline": {
         "vi": "Thỏ con đấu trí với bầy cáo",
@@ -303,7 +471,19 @@
         "pt": "Drible as raposas famintas",
         "de": "Ein Hase gegen viele Füchse",
         "fr": "Berne les renards affamés",
-        "id": "Kelabui kawanan rubah yang lapar"
+        "id": "Kelabui kawanan rubah yang lapar",
+        "da": "Overlist en flok sultne ræve",
+        "fi": "Naruta nälkäinen kettulauma",
+        "it": "Beffa un branco di volpi affamate",
+        "ms": "Perdaya sekawan musang yang lapar",
+        "nb": "Overlist en flokk sultne rever",
+        "nl": "Wees hongerige vossen te slim af",
+        "pt-PT": "Engane uma matilha de raposas famintas",
+        "ru": "Перехитрите стаю голодных лис",
+        "sv": "Överlista en flock hungriga rävar",
+        "th": "ชิงไหวชิงพริบกับฝูงจิ้งจอกหิวโหย",
+        "tr": "Aç tilki sürüsünü zekânla alt et",
+        "zh-Hant": "智取一群飢餓的狐狸"
       },
       "body": {
         "vi": "Hái dâu rồi chạy về hang. Tính từng bước để dụ bầy cáo đâm sầm vào nhau.",
@@ -315,7 +495,19 @@
         "pt": "Pegue o morango e corra para a toca. Faça as raposas trombarem umas nas outras.",
         "de": "Schnapp dir die Erdbeere und ab in den Bau. Lass die Füchse ineinanderrennen.",
         "fr": "Cueille la fraise et file au terrier. Fais se percuter les renards, un tour à la fois.",
-        "id": "Petik stroberi lalu lari pulang ke liang. Kecoh rubah sampai saling tabrak."
+        "id": "Petik stroberi lalu lari pulang ke liang. Kecoh rubah sampai saling tabrak.",
+        "da": "Snup jordbærret, og spurt hjem. Lok rævene til at brage ind i hinanden.",
+        "fi": "Nappaa mansikka ja kiiruhda kotiin. Huijaa ketut törmäämään toisiinsa.",
+        "it": "Afferra la fragola e corri a casa. Inganna le volpi per farle scontrare tra loro.",
+        "ms": "Capai strawberi dan pecut pulang. Perdaya musang supaya saling bertembung.",
+        "nb": "Snapp jordbæret og spurt hjem. Lur revene til å krasje i hverandre.",
+        "nl": "Pak de aardbei en ren naar huis. Laat de vossen tegen elkaar op botsen.",
+        "pt-PT": "Apanhe o morango e corra para casa. Engane as raposas para chocarem umas contra as outras.",
+        "ru": "Хватайте клубнику и мчитесь домой. Подстройте всё так, чтобы лисы столкнулись друг с другом.",
+        "sv": "Ta jordgubben och rusa hem. Lura rävarna att krocka med varandra.",
+        "th": "คว้าสตรอว์เบอร์รีแล้วรีบวิ่งกลับบ้าน หลอกล่อให้พวกจิ้งจอกชนกันเอง",
+        "tr": "Çileği kap ve eve koş. Tilkileri kandırıp birbirleriyle çarpıştır.",
+        "zh-Hant": "搶到草莓就快衝回家，設計讓狐狸彼此撞成一團。"
       },
       "cta": {
         "vi": "Tải {app}",
@@ -327,7 +519,19 @@
         "pt": "Baixar {app}",
         "de": "{app} laden",
         "fr": "Obtenir {app}",
-        "id": "Unduh {app}"
+        "id": "Unduh {app}",
+        "da": "Hent {app}",
+        "fi": "Hae {app}",
+        "it": "Ottieni {app}",
+        "ms": "Dapatkan {app}",
+        "nb": "Hent {app}",
+        "nl": "Download {app}",
+        "pt-PT": "Obter {app}",
+        "ru": "Скачать {app}",
+        "sv": "Hämta {app}",
+        "th": "รับ {app}",
+        "tr": "{app} indir",
+        "zh-Hant": "取得 {app}"
       },
       "ctaInstalled": {
         "vi": "Mở {app}",
@@ -339,7 +543,19 @@
         "pt": "Abrir {app}",
         "de": "{app} öffnen",
         "fr": "Ouvrir {app}",
-        "id": "Buka {app}"
+        "id": "Buka {app}",
+        "da": "Åbn {app}",
+        "fi": "Avaa {app}",
+        "it": "Apri {app}",
+        "ms": "Buka {app}",
+        "nb": "Åpne {app}",
+        "nl": "Open {app}",
+        "pt-PT": "Abrir {app}",
+        "ru": "Открыть {app}",
+        "sv": "Öppna {app}",
+        "th": "เปิด {app}",
+        "tr": "{app} aç",
+        "zh-Hant": "開啟 {app}"
       },
       "dismiss": {
         "vi": "Để sau",
@@ -351,7 +567,19 @@
         "pt": "Agora não",
         "de": "Später",
         "fr": "Plus tard",
-        "id": "Nanti saja"
+        "id": "Nanti saja",
+        "da": "Ikke nu",
+        "fi": "Ei nyt",
+        "it": "Non ora",
+        "ms": "Bukan sekarang",
+        "nb": "Ikke nå",
+        "nl": "Niet nu",
+        "pt-PT": "Agora não",
+        "ru": "Не сейчас",
+        "sv": "Inte nu",
+        "th": "ไว้ก่อน",
+        "tr": "Şimdi değil",
+        "zh-Hant": "暫時不要"
       }
     },
     {
@@ -395,7 +623,19 @@
         "pt": "Do mesmo desenvolvedor",
         "de": "Vom selben Entwickler",
         "fr": "Du même développeur",
-        "id": "Dari pengembang yang sama"
+        "id": "Dari pengembang yang sama",
+        "da": "Fra samme udvikler",
+        "fi": "Samalta kehittäjältä",
+        "it": "Dallo stesso sviluppatore",
+        "ms": "Daripada pembangun yang sama",
+        "nb": "Fra samme utvikler",
+        "nl": "Van dezelfde ontwikkelaar",
+        "pt-PT": "Do mesmo programador",
+        "ru": "От того же разработчика",
+        "sv": "Från samma utvecklare",
+        "th": "จากผู้พัฒนาเดียวกัน",
+        "tr": "Aynı geliştiriciden",
+        "zh-Hant": "同開發者出品"
       },
       "headline": {
         "vi": "Kẹt xe rồi, gỡ giúp nhé?",
@@ -407,7 +647,19 @@
         "pt": "Trânsito parado? Libere a pista",
         "de": "Stau? Mach den Weg frei",
         "fr": "Bouchon ? Dégage la voie !",
-        "id": "Macet total? Buka jalannya!"
+        "id": "Macet total? Buka jalannya!",
+        "da": "Sidder du i kø? Løs trafikproppen",
+        "fi": "Jumissa ruuhkassa? Pura suma",
+        "it": "Nel traffico? Sblocca l’ingorgo",
+        "ms": "Kesesakan lalu lintas? Leraikannya",
+        "nb": "Fast i kø? Løs opp floken",
+        "nl": "Vast in de file? Los het op",
+        "pt-PT": "Preso no trânsito? Desbloqueie a fila",
+        "ru": "Застряли в пробке? Разрулите затор",
+        "sv": "Fast i trafiken? Lös upp köerna",
+        "th": "รถติดใช่ไหม? ช่วยเคลียร์ทางหน่อย",
+        "tr": "Trafikte mi kaldın? Yolu aç",
+        "zh-Hant": "塞車了？快來疏通車陣"
       },
       "body": {
         "vi": "Đẩy xe con, xe tải sang bên, mở đường cho chiếc xe đỏ chạy ra lối thoát.",
@@ -419,7 +671,19 @@
         "pt": "Deslize carros e caminhões para abrir caminho e leve o carrinho vermelho até a saída.",
         "de": "Schieb Autos und Lastwagen zur Seite und lotse das kleine rote Auto zur Ausfahrt.",
         "fr": "Fais glisser voitures et camions pour ouvrir la route à la petite voiture rouge.",
-        "id": "Geser mobil dan truk ke samping, buka jalan, dan antar mobil merah ke pintu keluar."
+        "id": "Geser mobil dan truk ke samping, buka jalan, dan antar mobil merah ke pintu keluar.",
+        "da": "Skub biler og lastbiler til side, og få den lille røde bil ud til udgangen.",
+        "fi": "Liu’uta autot ja rekat sivuun ja ohjaa pieni punainen auto uloskäynnille.",
+        "it": "Fai scorrere auto e camion di lato e porta la macchinina rossa fino all’uscita.",
+        "ms": "Luncurkan kereta dan lori ke tepi, lalu bawa kereta merah kecil ke pintu keluar.",
+        "nb": "Skyv biler og lastebiler til side, og få den lille røde bilen ut til utgangen.",
+        "nl": "Schuif de auto’s en vrachtwagens opzij en leid het rode autootje naar de uitgang.",
+        "pt-PT": "Deslize os carros e camiões para o lado e leve o carrinho vermelho até à saída.",
+        "ru": "Раздвиньте машины и грузовики, чтобы вывести маленькую красную машинку к выезду.",
+        "sv": "Skjut bilar och lastbilar åt sidan och få ut den lilla röda bilen till utfarten.",
+        "th": "เลื่อนรถและรถบรรทุกหลบข้างทาง เพื่อพารถสีแดงคันจิ๋วไปยังทางออก",
+        "tr": "Arabaları ve kamyonları kenara kaydırıp küçük kırmızı arabayı çıkışa ulaştır.",
+        "zh-Hant": "滑開周圍的汽車和卡車，幫紅色小車順利開向出口。"
       },
       "cta": {
         "vi": "Tải {app}",
@@ -431,7 +695,19 @@
         "pt": "Baixar {app}",
         "de": "{app} laden",
         "fr": "Obtenir {app}",
-        "id": "Unduh {app}"
+        "id": "Unduh {app}",
+        "da": "Hent {app}",
+        "fi": "Hae {app}",
+        "it": "Ottieni {app}",
+        "ms": "Dapatkan {app}",
+        "nb": "Hent {app}",
+        "nl": "Download {app}",
+        "pt-PT": "Obter {app}",
+        "ru": "Скачать {app}",
+        "sv": "Hämta {app}",
+        "th": "รับ {app}",
+        "tr": "{app} indir",
+        "zh-Hant": "取得 {app}"
       },
       "ctaInstalled": {
         "vi": "Mở {app}",
@@ -443,7 +719,19 @@
         "pt": "Abrir {app}",
         "de": "{app} öffnen",
         "fr": "Ouvrir {app}",
-        "id": "Buka {app}"
+        "id": "Buka {app}",
+        "da": "Åbn {app}",
+        "fi": "Avaa {app}",
+        "it": "Apri {app}",
+        "ms": "Buka {app}",
+        "nb": "Åpne {app}",
+        "nl": "Open {app}",
+        "pt-PT": "Abrir {app}",
+        "ru": "Открыть {app}",
+        "sv": "Öppna {app}",
+        "th": "เปิด {app}",
+        "tr": "{app} aç",
+        "zh-Hant": "開啟 {app}"
       },
       "dismiss": {
         "vi": "Để sau",
@@ -455,7 +743,19 @@
         "pt": "Agora não",
         "de": "Später",
         "fr": "Plus tard",
-        "id": "Nanti saja"
+        "id": "Nanti saja",
+        "da": "Ikke nu",
+        "fi": "Ei nyt",
+        "it": "Non ora",
+        "ms": "Bukan sekarang",
+        "nb": "Ikke nå",
+        "nl": "Niet nu",
+        "pt-PT": "Agora não",
+        "ru": "Не сейчас",
+        "sv": "Inte nu",
+        "th": "ไว้ก่อน",
+        "tr": "Şimdi değil",
+        "zh-Hant": "暫時不要"
       }
     },
     {
@@ -499,7 +799,19 @@
         "pt": "Do mesmo desenvolvedor",
         "de": "Vom selben Entwickler",
         "fr": "Du même développeur",
-        "id": "Dari pengembang yang sama"
+        "id": "Dari pengembang yang sama",
+        "da": "Fra samme udvikler",
+        "fi": "Samalta kehittäjältä",
+        "it": "Dallo stesso sviluppatore",
+        "ms": "Daripada pembangun yang sama",
+        "nb": "Fra samme utvikler",
+        "nl": "Van dezelfde ontwikkelaar",
+        "pt-PT": "Do mesmo programador",
+        "ru": "От того же разработчика",
+        "sv": "Från samma utvecklare",
+        "th": "จากผู้พัฒนาเดียวกัน",
+        "tr": "Aynı geliştiriciden",
+        "zh-Hant": "同開發者出品"
       },
       "headline": {
         "vi": "Rót nước, xếp màu, thư giãn",
@@ -511,7 +823,19 @@
         "pt": "Um quebra-cabeça para relaxar",
         "de": "Ein Rätsel für ruhige Momente",
         "fr": "Un puzzle pour souffler un peu",
-        "id": "Puzzle santai untuk rehat sejenak"
+        "id": "Puzzle santai untuk rehat sejenak",
+        "da": "Et hyggeligt puslespil i ro og mag",
+        "fi": "Leppoisa pulmapeli rauhallisiin hetkiin",
+        "it": "Un puzzle rilassante per momenti calmi",
+        "ms": "Teka-teki santai untuk saat tenang",
+        "nb": "Koselig puslespill for rolige stunder",
+        "nl": "Fijne puzzel voor rustige momenten",
+        "pt-PT": "Um puzzle acolhedor para momentos calmos",
+        "ru": "Уютная головоломка для тихих минут",
+        "sv": "Ett mysigt pussel för lugna stunder",
+        "th": "พัซเซิลอบอุ่นสำหรับช่วงเวลาสงบ",
+        "tr": "Sakin anlar için huzurlu bir bulmaca",
+        "zh-Hant": "適合靜謐時刻的療癒益智遊戲"
       },
       "body": {
         "vi": "Rót nước qua lại cho mỗi ống chỉ còn một màu. Không đếm giờ, cứ thong thả mà chơi.",
@@ -523,7 +847,19 @@
         "pt": "Despeje água entre os tubos até cada um ficar com uma cor só. Sem cronômetro, sem pressa.",
         "de": "Gieß Wasser zwischen den Röhrchen um, bis jedes nur eine Farbe hat. Ohne Zeitdruck.",
         "fr": "Verse l'eau d'un tube à l'autre jusqu'à ce que chacun n'ait qu'une couleur. Sans chrono.",
-        "id": "Tuang air antartabung sampai tiap tabung berisi satu warna. Tanpa batas waktu."
+        "id": "Tuang air antartabung sampai tiap tabung berisi satu warna. Tanpa batas waktu.",
+        "da": "Hæld vand mellem rørene, indtil hvert rør kun har én farve. Ingen tidtager, intet jag.",
+        "fi": "Kaada vettä putkesta toiseen, kunnes jokaisessa on vain yhtä väriä. Ei ajastinta, ei kiirettä.",
+        "it": "Versa l’acqua tra le provette finché ognuna contiene un solo colore. Niente timer, nessuna fretta.",
+        "ms": "Tuang air antara tiub sehingga setiap satu hanya ada satu warna. Tiada pemasa, tiada tergesa-gesa.",
+        "nb": "Hell vann mellom rørene til hvert rør bare har én farge. Ingen tidsfrist, ingen hast.",
+        "nl": "Giet water over tussen buisjes tot elk buisje één kleur heeft. Geen timer, geen haast.",
+        "pt-PT": "Verta água entre os tubos até cada um ficar com uma só cor. Sem cronómetro, sem pressas.",
+        "ru": "Переливайте воду между пробирками, пока в каждой не останется один цвет. Без таймера и спешки.",
+        "sv": "Häll vatten mellan rören tills varje rör bara har en färg. Ingen timer, ingen stress.",
+        "th": "เทน้ำสลับหลอดจนแต่ละหลอดมีสีเดียว ไม่มีจับเวลา ไม่ต้องรีบ",
+        "tr": "Her tüpte tek bir renk kalana kadar suları aktar. Süre yok, acele yok.",
+        "zh-Hant": "在試管間倒水，直到每支試管只剩單一顏色。沒有倒數計時，不用趕時間。"
       },
       "cta": {
         "vi": "Tải {app}",
@@ -535,7 +871,19 @@
         "pt": "Baixar {app}",
         "de": "{app} laden",
         "fr": "Obtenir {app}",
-        "id": "Unduh {app}"
+        "id": "Unduh {app}",
+        "da": "Hent {app}",
+        "fi": "Hae {app}",
+        "it": "Ottieni {app}",
+        "ms": "Dapatkan {app}",
+        "nb": "Hent {app}",
+        "nl": "Download {app}",
+        "pt-PT": "Obter {app}",
+        "ru": "Скачать {app}",
+        "sv": "Hämta {app}",
+        "th": "รับ {app}",
+        "tr": "{app} indir",
+        "zh-Hant": "取得 {app}"
       },
       "ctaInstalled": {
         "vi": "Mở {app}",
@@ -547,7 +895,19 @@
         "pt": "Abrir {app}",
         "de": "{app} öffnen",
         "fr": "Ouvrir {app}",
-        "id": "Buka {app}"
+        "id": "Buka {app}",
+        "da": "Åbn {app}",
+        "fi": "Avaa {app}",
+        "it": "Apri {app}",
+        "ms": "Buka {app}",
+        "nb": "Åpne {app}",
+        "nl": "Open {app}",
+        "pt-PT": "Abrir {app}",
+        "ru": "Открыть {app}",
+        "sv": "Öppna {app}",
+        "th": "เปิด {app}",
+        "tr": "{app} aç",
+        "zh-Hant": "開啟 {app}"
       },
       "dismiss": {
         "vi": "Để sau",
@@ -559,7 +919,19 @@
         "pt": "Agora não",
         "de": "Später",
         "fr": "Plus tard",
-        "id": "Nanti saja"
+        "id": "Nanti saja",
+        "da": "Ikke nu",
+        "fi": "Ei nyt",
+        "it": "Non ora",
+        "ms": "Bukan sekarang",
+        "nb": "Ikke nå",
+        "nl": "Niet nu",
+        "pt-PT": "Agora não",
+        "ru": "Не сейчас",
+        "sv": "Inte nu",
+        "th": "ไว้ก่อน",
+        "tr": "Şimdi değil",
+        "zh-Hant": "暫時不要"
       }
     }
   ]
