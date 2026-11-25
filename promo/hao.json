@@ -84,10 +84,7 @@
         "ios",
         "android"
       ],
-      "locales": [
-        "vi",
-        "en"
-      ],
+      "locales": [],
       "rolloutPercent": 100,
       "weight": 1,
       "maxImpressions": 1000,
@@ -255,10 +252,7 @@
         "ios",
         "android"
       ],
-      "locales": [
-        "vi",
-        "en"
-      ],
+      "locales": [],
       "rolloutPercent": 100,
       "weight": 1,
       "maxImpressions": 1000,
@@ -426,10 +420,7 @@
         "ios",
         "android"
       ],
-      "locales": [
-        "vi",
-        "en"
-      ],
+      "locales": [],
       "rolloutPercent": 100,
       "weight": 1,
       "maxImpressions": 1000,
@@ -596,10 +587,7 @@
         "ios",
         "android"
       ],
-      "locales": [
-        "vi",
-        "en"
-      ],
+      "locales": [],
       "rolloutPercent": 100,
       "weight": 1,
       "maxImpressions": 1000,
@@ -765,10 +753,7 @@
         "ios",
         "android"
       ],
-      "locales": [
-        "vi",
-        "en"
-      ],
+      "locales": [],
       "rolloutPercent": 100,
       "weight": 1,
       "maxImpressions": 1000,
@@ -934,10 +919,7 @@
         "ios",
         "android"
       ],
-      "locales": [
-        "vi",
-        "en"
-      ],
+      "locales": [],
       "rolloutPercent": 100,
       "weight": 1,
       "maxImpressions": 1000,
@@ -1103,10 +1085,7 @@
         "ios",
         "android"
       ],
-      "locales": [
-        "vi",
-        "en"
-      ],
+      "locales": [],
       "rolloutPercent": 100,
       "weight": 1,
       "maxImpressions": 1000,
@@ -1272,10 +1251,7 @@
         "ios",
         "android"
       ],
-      "locales": [
-        "vi",
-        "en"
-      ],
+      "locales": [],
       "rolloutPercent": 100,
       "weight": 1,
       "maxImpressions": 1000,

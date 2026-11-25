@@ -132,7 +132,7 @@ def check_rules(path, apps):
         err(w, f"app chủ '{host}' không có trong catalog")
     family = apps.get(host, {}).get("family")
     soft = cfg.get("enabled") is False
-    camp_locales = {loc for c in cfg.get("campaigns", []) for loc in c.get("locales", ["vi", "en"])}
+    camp_locales = {loc for c in cfg.get("campaigns", []) for loc in (c.get("locales") or ["vi", "en"])}
     if cfg.get("schemaVersion") != 1:
         err(w, "schemaVersion phải là 1")
     if not isinstance(cfg.get("enabled"), bool):
@@ -204,7 +204,7 @@ def check_rules(path, apps):
             err(cw, "không quảng bá chính app chủ")
         if family and apps[target].get("family") != family:
             warn(cw, f"quảng bá app khác họ: {target} ({apps[target].get('family')}) trong app {family}")
-        for loc in c.get("locales", ["vi", "en"]):
+        for loc in (c.get("locales") or ["vi", "en"]):
             if not apps[target].get("name", {}).get(loc):
                 warn(cw, f"catalog.{target}.name thiếu {loc} — {{app}} sẽ dùng tên en")
         if set(c.get("placements", [])) - PLACEMENTS:
@@ -226,7 +226,7 @@ def check_rules(path, apps):
         end = parse_time(cw, c["endAt"]) if "endAt" in c else None
         if start and end and start >= end:
             err(cw, "startAt phải trước endAt")
-        check_text(cw, c, c.get("locales", ["vi", "en"]))
+        check_text(cw, c, (c.get("locales") or ["vi", "en"]))
         for placement, rel in c.get("banner", {}).items():
             check_asset(cw, rel, POPUP_SIZE if placement == "popup" else None, soft=soft)
         if "popup" in c.get("placements", []) and "popup" not in c.get("banner", {}):

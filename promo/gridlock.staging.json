@@ -63,9 +63,7 @@
         "ios",
         "android"
       ],
-      "locales": [
-        "en"
-      ],
+      "locales": [],
       "rolloutPercent": 100,
       "weight": 1,
       "maxImpressions": 3,
@@ -230,9 +228,7 @@
         "ios",
         "android"
       ],
-      "locales": [
-        "en"
-      ],
+      "locales": [],
       "rolloutPercent": 100,
       "weight": 1,
       "maxImpressions": 3,
@@ -397,9 +393,7 @@
         "ios",
         "android"
       ],
-      "locales": [
-        "en"
-      ],
+      "locales": [],
       "rolloutPercent": 100,
       "weight": 1,
       "maxImpressions": 3,
@@ -564,9 +558,7 @@
         "ios",
         "android"
       ],
-      "locales": [
-        "en"
-      ],
+      "locales": [],
       "rolloutPercent": 100,
       "weight": 1,
       "maxImpressions": 3,

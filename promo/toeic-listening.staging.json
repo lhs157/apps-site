@@ -70,10 +70,7 @@
       "platforms": [
         "ios"
       ],
-      "locales": [
-        "vi",
-        "en"
-      ],
+      "locales": [],
       "rolloutPercent": 100,
       "weight": 1,
       "maxImpressions": 3,
@@ -239,10 +236,7 @@
       "platforms": [
         "ios"
       ],
-      "locales": [
-        "vi",
-        "en"
-      ],
+      "locales": [],
       "rolloutPercent": 100,
       "weight": 1,
       "maxImpressions": 3,
