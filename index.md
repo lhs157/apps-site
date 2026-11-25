@@ -126,6 +126,13 @@ An English-learning and TOEIC-preparation app for Vietnamese speakers.
 - [Support & Contact](spark/support.md)
 - [Privacy Policy](spark/privacy-policy.md)
 
+## English Conversation Practices — iOS
+
+Everyday English conversations to listen to, role-play and review.
+
+- [Support & Contact](ecp/support.md)
+- [Privacy Policy](ecp/privacy-policy.md)
+
 ## Listening & Reading Practice for the TOEIC Test — iOS
 
 Part 1–7 practice, timed mock exams, and review of missed questions for Vietnamese speakers.
