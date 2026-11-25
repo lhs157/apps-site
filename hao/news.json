@@ -3,6 +3,111 @@
   "_note": "Feed remote cho Hảo — item cùng id sẽ override bản bundled trong app.",
   "items": [
     {
+      "id": "rel-4.0.3",
+      "kind": "release",
+      "version": "4.0.3",
+      "date": "2026-11-23",
+      "title": {
+        "vi": "Khám phá Hảo Pro dễ hơn",
+        "en": "Explore Hảo Pro more easily"
+      },
+      "summary": {
+        "vi": "Xem ưu đãi và đi thẳng đến màn nâng cấp Hảo Pro.",
+        "en": "See offers and go straight to the Hảo Pro upgrade screen."
+      },
+      "highlights": [
+        {
+          "vi": "Xem nhanh quyền lợi Hảo Pro",
+          "en": "See Hảo Pro benefits at a glance"
+        }
+      ],
+      "groups": [
+        {
+          "label": "improvement",
+          "entries": [
+            {
+              "vi": "Màn nâng cấp gọn hơn, giúp bạn xem nhanh quyền lợi và giá hiện tại của Hảo Pro.",
+              "en": "A simpler upgrade screen makes it easier to see Hảo Pro benefits and the current price."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rel-4.0.0",
+      "kind": "release",
+      "version": "4.0.0",
+      "date": "2026-10-25",
+      "title": {
+        "vi": "Thêm đề thi, thêm cách học",
+        "en": "More exams, more ways to learn"
+      },
+      "summary": {
+        "vi": "30 đề mới, luyện viết và học từ ngay trên màn hình khóa.",
+        "en": "30 new mock papers, writing practice and vocabulary on your Lock Screen."
+      },
+      "highlights": [
+        {
+          "vi": "30 đề mô phỏng HSK 3.0 mới",
+          "en": "30 new HSK 3.0 mock papers"
+        },
+        {
+          "vi": "Luyện viết với bài mẫu và hướng dẫn",
+          "en": "Writing practice with models and guidance"
+        },
+        {
+          "vi": "Ôn từ ngay trên màn hình khóa",
+          "en": "Review words on your Lock Screen"
+        }
+      ],
+      "groups": [
+        {
+          "label": "content",
+          "entries": [
+            {
+              "vi": "30 đề mô phỏng phần thi viết HSK 3.0 do Hảo biên soạn, mỗi cấp HSK1–6 có 5 đề. Có sẵn audio và hình ảnh để luyện cả khi không có mạng.",
+              "en": "30 Hảo-authored HSK 3.0 written-exam mock papers, five per level from HSK1–6. Audio and images are included for offline practice."
+            },
+            {
+              "vi": "Luyện viết với bài mẫu, kiểm tra theo tiêu chí và hướng dẫn tự đánh giá. Điểm phần viết được hiển thị riêng.",
+              "en": "Practise writing with model answers, rule-based checks and self-assessment guidance. Writing scores are shown separately."
+            }
+          ]
+        },
+        {
+          "label": "feature",
+          "entries": [
+            {
+              "vi": "Ôn chữ Hán, pinyin, nghĩa và ví dụ ngay trên widget màn hình chính hoặc màn hình khóa. Chọn chủ đề, nhịp đổi từ và bật thêm thông báo theo ý bạn.",
+              "en": "Review Chinese, pinyin, meanings and examples on Home or Lock Screen widgets. Choose a topic, set how often words change and turn on vocabulary notifications if you like."
+            }
+          ],
+          "action": "widgetGuide"
+        },
+        {
+          "label": "improvement",
+          "entries": [
+            {
+              "vi": "Cập nhật nội dung từ vựng HSK1–6: cách đọc, pinyin, nghĩa và câu ví dụ.",
+              "en": "Updated HSK1–6 vocabulary content: readings, pinyin, meanings and examples."
+            },
+            {
+              "vi": "Cập nhật nội dung đề thi: câu hỏi, đáp án, lời giải, bản dịch và một số bài nghe.",
+              "en": "Updated exam content: questions, answers, explanations, translations and selected listening recordings."
+            },
+            {
+              "vi": "Cải thiện lựa chọn quyền riêng tư quảng cáo và thêm lối mở chính sách quyền riêng tư trong Cài đặt.",
+              "en": "Improved ad privacy choices and added a privacy policy link in Settings."
+            }
+          ]
+        }
+      ],
+      "note": {
+        "vi": "Hảo Pro tự đổi từ; bản miễn phí có từ mẫu. Thời điểm cập nhật widget phụ thuộc hệ điều hành.",
+        "en": "Hảo Pro rotates words; the free version includes a sample. Widget refresh timing depends on your system."
+      }
+    },
+    {
       "id": "rel-3.3.1",
       "kind": "release",
       "version": "3.3.1",
