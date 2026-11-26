@@ -21,7 +21,8 @@
     "tr": "Joa",
     "vi": "Joa",
     "zh-Hans": "Joa",
-    "zh-Hant": "Joa"
+    "zh-Hant": "Joa",
+    "ar": "Joa"
   },
   "tagline": {
     "en": "Learn Korean, starting with Hangul",
@@ -45,7 +46,8 @@
     "tr": "Hangul’dan başlayarak Korece öğren",
     "vi": "Học tiếng Hàn từ bảng chữ Hangul",
     "zh-Hans": "从韩文字母开始学韩语",
-    "zh-Hant": "從韓文字母開始學韓文"
+    "zh-Hant": "從韓文字母開始學韓文",
+    "ar": "تعلّم الكورية بدءًا من الهانغول"
   },
   "copy": [
     {
@@ -71,7 +73,8 @@
         "tr": "Korece ilgini mi çekiyor?",
         "vi": "Tò mò về tiếng Hàn?",
         "zh-Hans": "对韩语感兴趣吗？",
-        "zh-Hant": "對韓文感興趣嗎？"
+        "zh-Hant": "對韓文感興趣嗎？",
+        "ar": "هل تشدّك اللغة الكورية؟"
       },
       "body": {
         "en": "Start reading Hangul early, with reviews timed right before you forget.",
@@ -95,7 +98,8 @@
         "tr": "Hangul okumaya erkenden başla, tekrarlar tam unutmadan önce gelsin.",
         "vi": "Joa giúp bạn đọc được Hangul từ những bài đầu, rồi nhắc ôn đúng lúc sắp quên.",
         "zh-Hans": "从一开始就读韩文字母，并在快要忘记时及时复习。",
-        "zh-Hant": "從一開始就讀韓文字母，並在快要忘記時及時複習。"
+        "zh-Hant": "從一開始就讀韓文字母，並在快要忘記時及時複習。",
+        "ar": "ابدأ قراءة الهانغول مبكرًا، مع مراجعات تأتي قبل أن تنسى مباشرة."
       }
     }
   ]

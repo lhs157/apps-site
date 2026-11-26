@@ -21,7 +21,8 @@
     "tr": "Hảo",
     "vi": "Hảo",
     "zh-Hans": "Hảo",
-    "zh-Hant": "Hảo"
+    "zh-Hant": "Hảo",
+    "ar": "Hảo"
   },
   "tagline": {
     "en": "Learn Chinese & prepare for the HSK",
@@ -45,7 +46,8 @@
     "tr": "Çince öğren ve HSK’ye hazırlan",
     "vi": "Học tiếng Trung & luyện thi HSK",
     "zh-Hans": "学中文，备考HSK",
-    "zh-Hant": "學中文並備戰 HSK"
+    "zh-Hant": "學中文並備戰 HSK",
+    "ar": "تعلّم الصينية واستعد لاختبار HSK"
   },
   "copy": [
     {
@@ -71,7 +73,8 @@
         "tr": "Çince göründüğünden daha kolay",
         "vi": "Tiếng Trung dễ hơn bạn nghĩ",
         "zh-Hans": "中文比你想的简单",
-        "zh-Hant": "中文比想像中更簡單"
+        "zh-Hant": "中文比想像中更簡單",
+        "ar": "الصينية أسهل مما تبدو"
       },
       "body": {
         "en": "Hảo helps you learn characters step by step and get ready for the HSK.",
@@ -95,7 +98,8 @@
         "tr": "Hảo, karakterleri adım adım öğrenmene ve HSK’ye hazırlanmana yardımcı olur.",
         "vi": "Hảo giúp bạn nhớ chữ Hán qua âm Hán Việt và luyện thi HSK từng cấp một.",
         "zh-Hans": "Hảo 带你一步步学汉字，轻松备考HSK。",
-        "zh-Hant": "Hảo 帶你一步步學會漢字，輕鬆備戰 HSK。"
+        "zh-Hant": "Hảo 帶你一步步學會漢字，輕鬆備戰 HSK。",
+        "ar": "يساعدك Hảo على تعلّم الحروف الصينية خطوة بخطوة والاستعداد لاختبار HSK."
       }
     }
   ]

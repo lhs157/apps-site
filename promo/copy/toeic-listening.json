@@ -21,7 +21,8 @@
     "tr": "Toeic Listening Practice",
     "vi": "Toeic Listening Practice",
     "zh-Hans": "Toeic Listening Practice",
-    "zh-Hant": "Toeic Listening Practice"
+    "zh-Hant": "Toeic Listening Practice",
+    "ar": "Toeic Listening Practice"
   },
   "tagline": {
     "en": "TOEIC listening practice",
@@ -45,7 +46,8 @@
     "tr": "TOEIC dinleme pratiği",
     "vi": "Luyện nghe TOEIC",
     "zh-Hans": "TOEIC听力练习",
-    "zh-Hant": "TOEIC 聽力練習"
+    "zh-Hant": "TOEIC 聽力練習",
+    "ar": "تدرّب على استماع TOEIC"
   },
   "copy": [
     {
@@ -71,7 +73,8 @@
         "tr": "TOEIC dinleme becerini geliştir",
         "vi": "Luyện nghe TOEIC hiệu quả hơn",
         "zh-Hans": "提升你的托业听力",
-        "zh-Hant": "提升你的多益聽力"
+        "zh-Hant": "提升你的多益聽力",
+        "ar": "حسّن مهارة الاستماع في TOEIC"
       },
       "body": {
         "en": "Listen to test-style questions and train your ear for every part of the listening section.",
@@ -95,7 +98,8 @@
         "tr": "Sınav tarzı soruları dinle, kulağını dinleme bölümünün her kısmına hazırla.",
         "vi": "Nghe câu hỏi theo dạng đề thi, quen tai với mọi phần của bài nghe.",
         "zh-Hans": "收听考试风格的题目，为听力部分的每一部分练好耳朵。",
-        "zh-Hant": "收聽考試風格的題目，為聽力部分的每一部分練好耳朵。"
+        "zh-Hant": "收聽考試風格的題目，為聽力部分的每一部分練好耳朵。",
+        "ar": "استمع إلى أسئلة بأسلوب الاختبار ودرّب أذنك على كل أجزاء قسم الاستماع."
       }
     }
   ]

@@ -21,7 +21,8 @@
     "tr": "Afloat",
     "vi": "Nước Lên",
     "zh-Hans": "Afloat",
-    "zh-Hant": "Afloat"
+    "zh-Hant": "Afloat",
+    "ar": "Afloat"
   },
   "tagline": {
     "en": "A puzzle escape from the rising flood",
@@ -45,7 +46,8 @@
     "tr": "Yükselen selden kaçış bulmacası",
     "vi": "Giải đố thoát lũ, đưa cả nhà lên mái",
     "zh-Hans": "洪水上涨，带全家逃生的解谜游戏",
-    "zh-Hant": "逃離暴漲洪水的解謎遊戲"
+    "zh-Hant": "逃離暴漲洪水的解謎遊戲",
+    "ar": "لغز للنجاة من الفيضان المتصاعد"
   },
   "copy": [
     {
@@ -71,7 +73,8 @@
         "tr": "Su yükseliyor. Bir planın var mı?",
         "vi": "Nước lên rồi, tính sao đây?",
         "zh-Hans": "水在涨，你有办法吗？",
-        "zh-Hant": "水位正在上漲，你有對策嗎？"
+        "zh-Hant": "水位正在上漲，你有對策嗎？",
+        "ar": "الماء يرتفع. هل لديك خطة؟"
       },
       "body": {
         "en": "Fix the stairs, carry the food up and get everyone to the boat on the roof in time.",
@@ -95,7 +98,8 @@
         "tr": "Merdiveni onar, yiyecekleri yukarı taşı ve herkesi zamanında çatıdaki tekneye ulaştır.",
         "vi": "Sửa cầu thang, mang đồ ăn lên, đưa cả nhà lên thuyền trên mái trước khi nước tới.",
         "zh-Hans": "修好楼梯，把食物搬上去，赶在水漫上来之前带全家登上屋顶的船。",
-        "zh-Hant": "修好樓梯、把食物搬上樓，及時讓大家登上屋頂的小船。"
+        "zh-Hant": "修好樓梯、把食物搬上樓，及時讓大家登上屋頂的小船。",
+        "ar": "أصلح السلالم، واحمل الطعام إلى الأعلى، وأوصل الجميع إلى القارب على السطح في الوقت المناسب."
       }
     }
   ]

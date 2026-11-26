@@ -21,7 +21,8 @@
     "tr": "Catch Me, Fox!",
     "vi": "Catch Me, Fox!",
     "zh-Hans": "Catch Me, Fox!",
-    "zh-Hant": "Catch Me, Fox!"
+    "zh-Hant": "Catch Me, Fox!",
+    "ar": "Catch Me, Fox!"
   },
   "tagline": {
     "en": "Outsmart the foxes, one move at a time",
@@ -45,7 +46,8 @@
     "tr": "Tilkileri hamle hamle alt et",
     "vi": "Thỏ hái dâu, dụ cáo đâm nhau",
     "zh-Hans": "智斗狐狸的回合制解谜",
-    "zh-Hant": "步步為營，智取狐狸"
+    "zh-Hant": "步步為營，智取狐狸",
+    "ar": "تفوّق على الثعالب بذكائك، خطوة بخطوة"
   },
   "copy": [
     {
@@ -71,7 +73,8 @@
         "tr": "Aç tilki sürüsünü zekânla alt et",
         "vi": "Thỏ con đấu trí với bầy cáo",
         "zh-Hans": "小兔子智斗狐狸群",
-        "zh-Hant": "智取一群飢餓的狐狸"
+        "zh-Hant": "智取一群飢餓的狐狸",
+        "ar": "تغلّب بذكائك على قطيع من الثعالب الجائعة"
       },
       "body": {
         "en": "Grab the strawberry and dash home. Trick the foxes into crashing into each other.",
@@ -95,7 +98,8 @@
         "tr": "Çileği kap ve eve koş. Tilkileri kandırıp birbirleriyle çarpıştır.",
         "vi": "Hái dâu rồi chạy về hang. Tính từng bước để dụ bầy cáo đâm sầm vào nhau.",
         "zh-Hans": "摘到草莓就往洞里跑。引狐狸互相撞上，一步一步斗智斗勇。",
-        "zh-Hant": "搶到草莓就快衝回家，設計讓狐狸彼此撞成一團。"
+        "zh-Hant": "搶到草莓就快衝回家，設計讓狐狸彼此撞成一團。",
+        "ar": "التقط الفراولة واركض إلى البيت. واخدع الثعالب لتصطدم ببعضها."
       }
     }
   ]

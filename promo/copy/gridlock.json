@@ -21,7 +21,8 @@
     "tr": "Gridlock",
     "vi": "Gridlock",
     "zh-Hans": "Gridlock",
-    "zh-Hant": "Gridlock"
+    "zh-Hant": "Gridlock",
+    "ar": "Gridlock"
   },
   "tagline": {
     "en": "Slide the cars, free the red one",
@@ -45,7 +46,8 @@
     "tr": "Arabaları kaydır, kırmızıyı kurtar",
     "vi": "Trượt xe, mở đường cho xe đỏ",
     "zh-Hans": "挪开车辆，让红色小车开出去",
-    "zh-Hant": "滑動車輛，讓紅車脫困"
+    "zh-Hant": "滑動車輛，讓紅車脫困",
+    "ar": "حرّك السيارات وحرّر السيارة الحمراء"
   },
   "copy": [
     {
@@ -71,7 +73,8 @@
         "tr": "Trafikte mi kaldın? Yolu aç",
         "vi": "Kẹt xe rồi, gỡ giúp nhé?",
         "zh-Hans": "堵车了？来疏通一下",
-        "zh-Hant": "塞車了？快來疏通車陣"
+        "zh-Hant": "塞車了？快來疏通車陣",
+        "ar": "عالق في الزحام؟ افتح الطريق"
       },
       "body": {
         "en": "Slide the cars and trucks aside and get the little red car out to the exit.",
@@ -95,7 +98,8 @@
         "tr": "Arabaları ve kamyonları kenara kaydırıp küçük kırmızı arabayı çıkışa ulaştır.",
         "vi": "Đẩy xe con, xe tải sang bên, mở đường cho chiếc xe đỏ chạy ra lối thoát.",
         "zh-Hans": "把小车和卡车挪到一边，开出一条路，让红色小车驶向出口。",
-        "zh-Hant": "滑開周圍的汽車和卡車，幫紅色小車順利開向出口。"
+        "zh-Hant": "滑開周圍的汽車和卡車，幫紅色小車順利開向出口。",
+        "ar": "أزح السيارات والشاحنات جانبًا وأخرج السيارة الحمراء الصغيرة إلى المخرج."
       }
     }
   ]

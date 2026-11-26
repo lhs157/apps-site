@@ -21,7 +21,8 @@
     "tr": "Cozy Anime",
     "vi": "Cozy Anime",
     "zh-Hans": "Cozy Anime",
-    "zh-Hant": "Cozy Anime"
+    "zh-Hant": "Cozy Anime",
+    "ar": "Cozy Anime"
   },
   "tagline": {
     "en": "Anime wallpapers & cozy focus spaces",
@@ -45,7 +46,8 @@
     "tr": "Anime duvar kâğıtları ve odak alanları",
     "vi": "Hình nền anime & góc tập trung",
     "zh-Hans": "动漫壁纸与温馨专注空间",
-    "zh-Hant": "動漫桌布與療癒專注空間"
+    "zh-Hant": "動漫桌布與療癒專注空間",
+    "ar": "خلفيات أنمي وأماكن هادئة للتركيز"
   },
   "copy": [
     {
@@ -71,7 +73,8 @@
         "tr": "Anime duvar kâğıtları ve odak alanları",
         "vi": "Hình nền anime & góc tập trung",
         "zh-Hans": "动漫壁纸与温馨专注空间",
-        "zh-Hant": "動漫桌布與療癒專注空間"
+        "zh-Hant": "動漫桌布與療癒專注空間",
+        "ar": "خلفيات أنمي وأماكن هادئة للتركيز"
       },
       "body": {
         "en": "A quiet anime corner for your focus time — and your Lock Screen.",
@@ -95,7 +98,8 @@
         "tr": "Odaklanma anların ve Kilit Ekranın için sakin bir anime köşesi.",
         "vi": "Một góc anime yên tĩnh cho giờ tập trung và cho Màn hình khoá của bạn.",
         "zh-Hans": "一个安静的动漫角落，陪你专注，也装点你的锁定屏幕。",
-        "zh-Hant": "專屬你的靜謐動漫角落，陪你專注，也點綴你的鎖定畫面。"
+        "zh-Hant": "專屬你的靜謐動漫角落，陪你專注，也點綴你的鎖定畫面。",
+        "ar": "ركن أنمي هادئ لوقت تركيزك، ولشاشة القفل أيضًا."
       }
     }
   ]

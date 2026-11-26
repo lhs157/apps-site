@@ -21,7 +21,8 @@
     "tr",
     "vi",
     "zh-Hans",
-    "zh-Hant"
+    "zh-Hant",
+    "ar"
   ],
   "strings": {
     "From the same developer": {
@@ -46,7 +47,8 @@
       "tr": "Aynı geliştiriciden",
       "vi": "CÙNG NHÀ PHÁT TRIỂN",
       "zh-Hans": "同一开发者出品",
-      "zh-Hant": "同開發者出品"
+      "zh-Hant": "同開發者出品",
+      "ar": "من المطوّر نفسه"
     },
     "Get {app}": {
       "en": "Get {app}",
@@ -70,7 +72,8 @@
       "tr": "{app} indir",
       "vi": "Tải {app}",
       "zh-Hans": "获取 {app}",
-      "zh-Hant": "取得 {app}"
+      "zh-Hant": "取得 {app}",
+      "ar": "احصل على {app}"
     },
     "Open {app}": {
       "en": "Open {app}",
@@ -94,7 +97,8 @@
       "tr": "{app} aç",
       "vi": "Mở {app}",
       "zh-Hans": "打开 {app}",
-      "zh-Hant": "開啟 {app}"
+      "zh-Hant": "開啟 {app}",
+      "ar": "افتح {app}"
     },
     "Not now": {
       "en": "Not now",
@@ -118,7 +122,8 @@
       "tr": "Şimdi değil",
       "vi": "Để sau",
       "zh-Hans": "以后再说",
-      "zh-Hant": "暫時不要"
+      "zh-Hant": "暫時不要",
+      "ar": "ليس الآن"
     },
     "Take a little break": {
       "en": "Take a little break",
@@ -142,7 +147,8 @@
       "tr": "Kısa bir mola ver",
       "vi": "GIẢI TRÍ MỘT CHÚT NHÉ",
       "zh-Hans": "休息一下",
-      "zh-Hant": "稍微休息一下"
+      "zh-Hant": "稍微休息一下",
+      "ar": "خذ استراحة قصيرة"
     },
     "Recommended apps": {
       "en": "Recommended apps",
@@ -166,7 +172,8 @@
       "tr": "Önerilen uygulamalar",
       "vi": "Ứng dụng đề xuất",
       "zh-Hans": "推荐应用",
-      "zh-Hant": "推薦 App"
+      "zh-Hant": "推薦 App",
+      "ar": "تطبيقات مقترحة"
     },
     "More games": {
       "en": "More games",
@@ -190,7 +197,8 @@
       "tr": "Diğer oyunlar",
       "vi": "Game hay khác",
       "zh-Hans": "更多游戏",
-      "zh-Hant": "更多遊戲"
+      "zh-Hant": "更多遊戲",
+      "ar": "ألعاب أخرى"
     },
     "Learn another language": {
       "en": "Learn another language",
@@ -214,7 +222,8 @@
       "tr": "Başka bir dil öğren",
       "vi": "Học ngôn ngữ khác",
       "zh-Hans": "学习另一门语言",
-      "zh-Hant": "學習另一種語言"
+      "zh-Hant": "學習另一種語言",
+      "ar": "تعلّم لغة أخرى"
     },
     "Other apps": {
       "en": "Other apps",
@@ -238,7 +247,8 @@
       "tr": "Diğer uygulamalar",
       "vi": "Ứng dụng khác",
       "zh-Hans": "其他应用",
-      "zh-Hant": "其他 App"
+      "zh-Hant": "其他 App",
+      "ar": "تطبيقات أخرى"
     },
     "Hảo – Learn Chinese": {
       "en": "Hảo – Learn Chinese",
@@ -262,7 +272,8 @@
       "tr": "Hảo – Çince öğren",
       "vi": "Hảo – Học tiếng Trung",
       "zh-Hans": "Hảo – 学中文",
-      "zh-Hant": "Hảo – 學中文"
+      "zh-Hant": "Hảo – 學中文",
+      "ar": "Hảo – تعلّم الصينية"
     },
     "Suki – Learn Japanese": {
       "en": "Suki – Learn Japanese",
@@ -286,7 +297,8 @@
       "tr": "Suki – Japonca öğren",
       "vi": "Suki – Học tiếng Nhật",
       "zh-Hans": "Suki – 学日语",
-      "zh-Hant": "Suki – 學日文"
+      "zh-Hant": "Suki – 學日文",
+      "ar": "Suki – تعلّم اليابانية"
     },
     "More apps": {
       "en": "More apps",
@@ -310,7 +322,8 @@
       "tr": "Diğer uygulamalar",
       "vi": "Ứng dụng khác",
       "zh-Hans": "更多应用",
-      "zh-Hant": "更多 App"
+      "zh-Hant": "更多 App",
+      "ar": "تطبيقات أخرى"
     }
   }
 }

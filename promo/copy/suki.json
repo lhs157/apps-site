@@ -21,7 +21,8 @@
     "tr": "Suki",
     "vi": "Suki",
     "zh-Hans": "Suki",
-    "zh-Hant": "Suki"
+    "zh-Hant": "Suki",
+    "ar": "Suki"
   },
   "tagline": {
     "en": "Learn Japanese & prepare for the JLPT",
@@ -45,7 +46,8 @@
     "tr": "Japonca öğren ve JLPT’ye hazırlan",
     "vi": "Học tiếng Nhật & luyện thi JLPT",
     "zh-Hans": "学日语，备考JLPT",
-    "zh-Hant": "學日文並備戰 JLPT"
+    "zh-Hant": "學日文並備戰 JLPT",
+    "ar": "تعلّم اليابانية واستعد لاختبار JLPT"
   },
   "copy": [
     {
@@ -71,7 +73,8 @@
         "tr": "Japonca okumak ister misin?",
         "vi": "Muốn đọc được tiếng Nhật?",
         "zh-Hans": "想读懂日语吗？",
-        "zh-Hant": "想看懂日文嗎？"
+        "zh-Hant": "想看懂日文嗎？",
+        "ar": "تريد قراءة اليابانية؟"
       },
       "body": {
         "en": "Suki takes you from kana to JLPT prep, a few minutes a day.",
@@ -95,7 +98,8 @@
         "tr": "Suki, günde birkaç dakika ile seni kana’dan JLPT hazırlığına taşır.",
         "vi": "Từ bảng chữ kana đến luyện thi JLPT, mỗi ngày một bài ngắn.",
         "zh-Hans": "Suki 每天几分钟，带你从假名学到备考JLPT。",
-        "zh-Hant": "每天幾分鐘，Suki 帶你從假名一路備戰 JLPT。"
+        "zh-Hant": "每天幾分鐘，Suki 帶你從假名一路備戰 JLPT。",
+        "ar": "يأخذك Suki من الكانا إلى الاستعداد لاختبار JLPT، ببضع دقائق يوميًا."
       }
     },
     {
@@ -121,7 +125,8 @@
         "tr": "Japonca kanjiler sana tanıdık gelecek",
         "vi": "Đã biết chữ Hán, thử luôn tiếng Nhật?",
         "zh-Hans": "日语汉字看着会很眼熟",
-        "zh-Hant": "日文漢字看起來會很眼熟"
+        "zh-Hant": "日文漢字看起來會很眼熟",
+        "ar": "ستبدو لك حروف الكانجي اليابانية مألوفة"
       },
       "body": {
         "en": "Suki takes you from kana to JLPT prep, a few minutes a day.",
@@ -145,7 +150,8 @@
         "tr": "Suki, günde birkaç dakika ile seni kana’dan JLPT hazırlığına taşır.",
         "vi": "Từ bảng chữ kana đến luyện thi JLPT, mỗi ngày một bài ngắn.",
         "zh-Hans": "Suki 每天几分钟，带你从假名学到备考JLPT。",
-        "zh-Hant": "每天幾分鐘，Suki 帶你從假名一路備戰 JLPT。"
+        "zh-Hant": "每天幾分鐘，Suki 帶你從假名一路備戰 JLPT。",
+        "ar": "يأخذك Suki من الكانا إلى الاستعداد لاختبار JLPT، ببضع دقائق يوميًا."
       }
     }
   ]
