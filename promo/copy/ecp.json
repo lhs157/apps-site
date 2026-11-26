@@ -47,5 +47,56 @@
     "zh-Hans": "练习日常英语会话",
     "zh-Hant": "練習日常英語會話"
   },
-  "copy": []
+  "copy": [
+    {
+      "headline": {
+        "en": "Ready to speak English with confidence?",
+        "da": "Klar til at tale engelsk med selvtillid?",
+        "de": "Bereit, selbstbewusst Englisch zu sprechen?",
+        "es": "¿Listo para hablar inglés con confianza?",
+        "fi": "Valmis puhumaan englantia itsevarmasti?",
+        "fr": "Prêt à parler anglais avec assurance ?",
+        "id": "Siap berbicara bahasa Inggris dengan percaya diri?",
+        "it": "Pronto a parlare inglese con sicurezza?",
+        "ja": "自信を持って英語を話したい？",
+        "ko": "자신 있게 영어로 말하고 싶나요?",
+        "ms": "Sedia bercakap bahasa Inggeris dengan yakin?",
+        "nb": "Klar til å snakke engelsk med selvtillit?",
+        "nl": "Klaar om zelfverzekerd Engels te spreken?",
+        "pt": "Pronto para falar inglês com confiança?",
+        "pt-PT": "Pronto para falar inglês com confiança?",
+        "ru": "Хотите уверенно говорить по-английски?",
+        "sv": "Redo att prata engelska med självförtroende?",
+        "th": "พร้อมพูดภาษาอังกฤษอย่างมั่นใจหรือยัง?",
+        "tr": "İngilizceyi özgüvenle konuşmaya hazır mısın?",
+        "vi": "Muốn nói tiếng Anh tự tin hơn?",
+        "zh-Hans": "想自信地说英语吗？",
+        "zh-Hant": "想自信地說英語嗎？"
+      },
+      "body": {
+        "en": "Practice everyday English conversations, from small talk to travel, a few minutes at a time.",
+        "da": "Øv engelske hverdagssamtaler, fra small talk til rejser, et par minutter ad gangen.",
+        "de": "Übe englische Alltagsgespräche, von Smalltalk bis Reisen, ein paar Minuten am Stück.",
+        "es": "Practica conversaciones cotidianas en inglés, desde charlas informales hasta viajes, unos minutos cada vez.",
+        "fi": "Harjoittele arjen englanninkielisiä keskusteluja jutustelusta matkailuun, muutama minuutti kerrallaan.",
+        "fr": "Entraîne-toi aux conversations du quotidien en anglais, des banalités aux voyages, quelques minutes à la fois.",
+        "id": "Latih percakapan bahasa Inggris sehari-hari, dari obrolan ringan hingga saat bepergian, beberapa menit setiap kali.",
+        "it": "Allenati con le conversazioni quotidiane in inglese, dalle chiacchiere ai viaggi, pochi minuti alla volta.",
+        "ja": "雑談から旅行まで、日常の英会話を数分ずつ練習できます。",
+        "ko": "가벼운 대화부터 여행까지, 일상 영어 회화를 몇 분씩 연습해 보세요.",
+        "ms": "Berlatih perbualan harian dalam bahasa Inggeris, daripada sembang ringan hingga melancong, beberapa minit setiap kali.",
+        "nb": "Øv på engelske hverdagssamtaler, fra småprat til reiser, noen minutter om gangen.",
+        "nl": "Oefen alledaagse Engelse gesprekken, van small talk tot reizen, een paar minuten per keer.",
+        "pt": "Pratique conversas do dia a dia em inglês, do bate-papo às viagens, alguns minutos de cada vez.",
+        "pt-PT": "Pratique conversas do dia a dia em inglês, da conversa de circunstância às viagens, alguns minutos de cada vez.",
+        "ru": "Тренируйте повседневные разговоры на английском — от светской беседы до путешествий, по несколько минут.",
+        "sv": "Öva på vardagliga samtal på engelska, från småprat till resor, några minuter i taget.",
+        "th": "ฝึกบทสนทนาภาษาอังกฤษในชีวิตประจำวัน ตั้งแต่คุยเล่นไปจนถึงการเดินทาง ครั้งละไม่กี่นาที",
+        "tr": "Sohbetten seyahate, günlük İngilizce konuşmaları birkaç dakikada pratik et.",
+        "vi": "Luyện hội thoại tiếng Anh hằng ngày, từ chuyện phiếm đến đi du lịch, mỗi lần vài phút.",
+        "zh-Hans": "从闲聊到旅行，每次几分钟，练习日常英语会话。",
+        "zh-Hant": "從閒聊到旅行，每次幾分鐘，練習日常英語會話。"
+      }
+    }
+  ]
 }

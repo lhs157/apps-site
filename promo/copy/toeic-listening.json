@@ -47,5 +47,56 @@
     "zh-Hans": "TOEIC听力练习",
     "zh-Hant": "TOEIC 聽力練習"
   },
-  "copy": []
+  "copy": [
+    {
+      "headline": {
+        "en": "Sharpen your TOEIC listening",
+        "da": "Skærp din TOEIC-lytning",
+        "de": "Verbessere dein TOEIC-Hörverstehen",
+        "es": "Mejora tu comprensión auditiva del TOEIC",
+        "fi": "Hio TOEIC-kuullunymmärtämistäsi",
+        "fr": "Affine ta compréhension orale au TOEIC",
+        "id": "Asah kemampuan menyimak TOEIC-mu",
+        "it": "Affina l’ascolto per il TOEIC",
+        "ja": "TOEICのリスニング力を磨こう",
+        "ko": "TOEIC 듣기 실력을 키워 보세요",
+        "ms": "Asah kemahiran mendengar TOEIC anda",
+        "nb": "Skjerp TOEIC-lyttingen din",
+        "nl": "Scherp je TOEIC-luistervaardigheid aan",
+        "pt": "Afie sua compreensão auditiva no TOEIC",
+        "pt-PT": "Melhore a sua compreensão oral no TOEIC",
+        "ru": "Прокачайте аудирование для TOEIC",
+        "sv": "Vässa din TOEIC-hörförståelse",
+        "th": "ฝึกการฟัง TOEIC ให้คล่องขึ้น",
+        "tr": "TOEIC dinleme becerini geliştir",
+        "vi": "Luyện nghe TOEIC hiệu quả hơn",
+        "zh-Hans": "提升你的托业听力",
+        "zh-Hant": "提升你的多益聽力"
+      },
+      "body": {
+        "en": "Listen to test-style questions and train your ear for every part of the listening section.",
+        "da": "Lyt til opgaver i testens stil, og træn dit øre til alle dele af lytteprøven.",
+        "de": "Höre Aufgaben im Stil des Tests und trainiere dein Ohr für jeden Teil des Hörteils.",
+        "es": "Escucha preguntas al estilo del examen y entrena tu oído para cada parte de la sección auditiva.",
+        "fi": "Kuuntele kokeen tyylisiä tehtäviä ja harjoita korvaasi kuunteluosion jokaista osaa varten.",
+        "fr": "Écoute des questions au format de l’examen et entraîne ton oreille pour chaque partie de l’épreuve d’écoute.",
+        "id": "Dengarkan soal bergaya ujian dan latih telingamu untuk setiap bagian sesi menyimak.",
+        "it": "Ascolta domande in stile esame e allena l’orecchio per ogni parte della sezione di ascolto.",
+        "ja": "本番形式の問題を聞いて、リスニングの全パートに耳を慣らそう。",
+        "ko": "시험 형식의 문제를 듣고 듣기 영역의 모든 파트에 귀를 익혀 보세요.",
+        "ms": "Dengar soalan gaya peperiksaan dan latih telinga anda untuk setiap bahagian ujian mendengar.",
+        "nb": "Lytt til oppgaver i testens stil og tren øret til alle deler av lytteprøven.",
+        "nl": "Luister naar vragen in examenstijl en train je oor voor elk deel van het luistergedeelte.",
+        "pt": "Ouça questões no estilo da prova e treine o ouvido para cada parte da seção de listening.",
+        "pt-PT": "Ouça perguntas no estilo do exame e treine o ouvido para cada parte da secção de compreensão oral.",
+        "ru": "Слушайте задания в формате экзамена и тренируйте слух для каждой части аудирования.",
+        "sv": "Lyssna på uppgifter i provets stil och träna örat för varje del av hörförståelsen.",
+        "th": "ฟังโจทย์แบบเดียวกับข้อสอบ และฝึกหูให้พร้อมทุกพาร์ตของการฟัง",
+        "tr": "Sınav tarzı soruları dinle, kulağını dinleme bölümünün her kısmına hazırla.",
+        "vi": "Nghe câu hỏi theo dạng đề thi, quen tai với mọi phần của bài nghe.",
+        "zh-Hans": "收听考试风格的题目，为听力部分的每一部分练好耳朵。",
+        "zh-Hant": "收聽考試風格的題目，為聽力部分的每一部分練好耳朵。"
+      }
+    }
+  ]
 }
