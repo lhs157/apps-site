@@ -22,7 +22,8 @@
     "vi": "Spark",
     "zh-Hans": "Spark",
     "zh-Hant": "Spark",
-    "ar": "Spark"
+    "ar": "Spark",
+    "pl": "Spark"
   },
   "tagline": {
     "en": "Learn English & prepare for the TOEIC",
@@ -47,7 +48,8 @@
     "vi": "Học tiếng Anh & luyện thi TOEIC",
     "zh-Hans": "学英语，备考TOEIC",
     "zh-Hant": "學英文並備戰 TOEIC",
-    "ar": "تعلّم الإنجليزية واستعد لاختبار TOEIC"
+    "ar": "تعلّم الإنجليزية واستعد لاختبار TOEIC",
+    "pl": "Ucz się angielskiego i ćwicz do TOEIC"
   },
   "copy": [
     {
@@ -74,7 +76,8 @@
         "vi": "Luyện thi TOEIC cùng {app}",
         "zh-Hans": "用{app}备考TOEIC",
         "zh-Hant": "用 {app} 備戰 TOEIC",
-        "ar": "استعد لاختبار TOEIC مع {app}"
+        "ar": "استعد لاختبار TOEIC مع {app}",
+        "pl": "Ćwicz do TOEIC z {app}"
       },
       "body": {
         "en": "Practice tests, vocabulary and grammar in one app.",
@@ -99,7 +102,8 @@
         "vi": "Đề thi thử, từ vựng và ngữ pháp trong một ứng dụng.",
         "zh-Hans": "模拟题、词汇和语法，一个应用全搞定。",
         "zh-Hant": "模擬試題、字彙與文法，一個 App 全搞定。",
-        "ar": "اختبارات تدريبية ومفردات وقواعد في تطبيق واحد."
+        "ar": "اختبارات تدريبية ومفردات وقواعد في تطبيق واحد.",
+        "pl": "Próbne testy, słownictwo i gramatyka w jednej aplikacji."
       }
     },
     {
@@ -126,7 +130,8 @@
         "vi": "Đang cần điểm TOEIC?",
         "zh-Hans": "在备考TOEIC吗？",
         "zh-Hant": "正在準備 TOEIC 嗎？",
-        "ar": "تستعد لاختبار TOEIC؟"
+        "ar": "تستعد لاختبار TOEIC؟",
+        "pl": "Uczysz się do TOEIC?"
       },
       "body": {
         "en": "Short daily lessons that cover listening, reading and vocabulary for the test.",
@@ -151,7 +156,8 @@
         "vi": "Mỗi ngày một bài ngắn, luyện cả nghe, đọc và từ vựng cho kỳ thi TOEIC.",
         "zh-Hans": "每天几节短课，覆盖考试所需的听力、阅读和词汇。",
         "zh-Hant": "每日精簡課程，一次涵蓋考試所需的聽力、閱讀與字彙。",
-        "ar": "دروس يومية قصيرة تغطي الاستماع والقراءة والمفردات للاختبار."
+        "ar": "دروس يومية قصيرة تغطي الاستماع والقراءة والمفردات للاختبار.",
+        "pl": "Krótkie lekcje na każdy dzień: ćwicz słuchanie, czytanie i słownictwo do egzaminu."
       }
     }
   ]

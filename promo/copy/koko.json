@@ -22,7 +22,8 @@
     "vi": "KoKo",
     "zh-Hans": "KoKo",
     "zh-Hant": "KoKo",
-    "ar": "KoKo"
+    "ar": "KoKo",
+    "pl": "KoKo"
   },
   "tagline": {
     "en": "A calm, hand-painted world for kids",
@@ -47,7 +48,8 @@
     "vi": "Thế giới vẽ tay dịu dàng cho bé",
     "zh-Hans": "为小朋友打造的宁静手绘世界",
     "zh-Hant": "為孩子打造的靜謐手繪世界",
-    "ar": "عالم هادئ مرسوم باليد للأطفال"
+    "ar": "عالم هادئ مرسوم باليد للأطفال",
+    "pl": "Zaciszny, ręcznie malowany świat dla dzieci"
   },
   "copy": [
     {
@@ -74,7 +76,8 @@
         "vi": "Cho bé một góc chơi dịu dàng",
         "zh-Hans": "给孩子一个安静的小天地",
         "zh-Hant": "給小寶貝的靜心遊戲",
-        "ar": "لعب هادئ لطفلك الصغير"
+        "ar": "لعب هادئ لطفلك الصغير",
+        "pl": "Spokojna zabawa dla malucha"
       },
       "body": {
         "en": "A hand-painted world where every tap gets an answer. No ads, nothing to read, no rush.",
@@ -99,7 +102,8 @@
         "vi": "Thế giới vẽ tay, bé chạm đâu cũng có lời đáp. Không quảng cáo, không cần biết đọc.",
         "zh-Hans": "点哪里都有回应的手绘世界。没有广告，不用识字，慢慢玩。",
         "zh-Hant": "手繪世界，每次點按都有回應。沒有廣告、不必認字、不趕時間。",
-        "ar": "عالم مرسوم باليد تتجاوب فيه كل لمسة. بلا إعلانات، وبلا قراءة، وبلا عجلة."
+        "ar": "عالم مرسوم باليد تتجاوب فيه كل لمسة. بلا إعلانات، وبلا قراءة، وبلا عجلة.",
+        "pl": "W ręcznie malowanym świecie każdy dotyk coś ożywia. Bez reklam, czytania i pośpiechu."
       }
     }
   ]

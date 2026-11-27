@@ -22,7 +22,8 @@
     "vi": "Suki",
     "zh-Hans": "Suki",
     "zh-Hant": "Suki",
-    "ar": "Suki"
+    "ar": "Suki",
+    "pl": "Suki"
   },
   "tagline": {
     "en": "Learn Japanese & prepare for the JLPT",
@@ -47,7 +48,8 @@
     "vi": "Học tiếng Nhật & luyện thi JLPT",
     "zh-Hans": "学日语，备考JLPT",
     "zh-Hant": "學日文並備戰 JLPT",
-    "ar": "تعلّم اليابانية واستعد لاختبار JLPT"
+    "ar": "تعلّم اليابانية واستعد لاختبار JLPT",
+    "pl": "Ucz się japońskiego i ćwicz do JLPT"
   },
   "copy": [
     {
@@ -74,7 +76,8 @@
         "vi": "Muốn đọc được tiếng Nhật?",
         "zh-Hans": "想读懂日语吗？",
         "zh-Hant": "想看懂日文嗎？",
-        "ar": "تريد قراءة اليابانية؟"
+        "ar": "تريد قراءة اليابانية؟",
+        "pl": "Chcesz czytać po japońsku?"
       },
       "body": {
         "en": "Suki takes you from kana to JLPT prep, a few minutes a day.",
@@ -99,7 +102,8 @@
         "vi": "Từ bảng chữ kana đến luyện thi JLPT, mỗi ngày một bài ngắn.",
         "zh-Hans": "Suki 每天几分钟，带你从假名学到备考JLPT。",
         "zh-Hant": "每天幾分鐘，Suki 帶你從假名一路備戰 JLPT。",
-        "ar": "يأخذك Suki من الكانا إلى الاستعداد لاختبار JLPT، ببضع دقائق يوميًا."
+        "ar": "يأخذك Suki من الكانا إلى الاستعداد لاختبار JLPT، ببضع دقائق يوميًا.",
+        "pl": "Z Suki przejdziesz od nauki kany do ćwiczeń przed JLPT. Wystarczy kilka minut dziennie."
       }
     },
     {
@@ -126,7 +130,8 @@
         "vi": "Đã biết chữ Hán, thử luôn tiếng Nhật?",
         "zh-Hans": "日语汉字看着会很眼熟",
         "zh-Hant": "日文漢字看起來會很眼熟",
-        "ar": "ستبدو لك حروف الكانجي اليابانية مألوفة"
+        "ar": "ستبدو لك حروف الكانجي اليابانية مألوفة",
+        "pl": "Te kanji już skądś znasz"
       },
       "body": {
         "en": "Suki takes you from kana to JLPT prep, a few minutes a day.",
@@ -151,7 +156,8 @@
         "vi": "Từ bảng chữ kana đến luyện thi JLPT, mỗi ngày một bài ngắn.",
         "zh-Hans": "Suki 每天几分钟，带你从假名学到备考JLPT。",
         "zh-Hant": "每天幾分鐘，Suki 帶你從假名一路備戰 JLPT。",
-        "ar": "يأخذك Suki من الكانا إلى الاستعداد لاختبار JLPT، ببضع دقائق يوميًا."
+        "ar": "يأخذك Suki من الكانا إلى الاستعداد لاختبار JLPT، ببضع دقائق يوميًا.",
+        "pl": "Z Suki przejdziesz od nauki kany do ćwiczeń przed JLPT. Wystarczy kilka minut dziennie."
       }
     }
   ]

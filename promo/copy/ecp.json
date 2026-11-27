@@ -22,7 +22,8 @@
     "vi": "English Conversation Practices",
     "zh-Hans": "English Conversation Practices",
     "zh-Hant": "English Conversation Practices",
-    "ar": "English Conversation Practices"
+    "ar": "English Conversation Practices",
+    "pl": "English Conversation Practices"
   },
   "tagline": {
     "en": "Practice everyday English conversations",
@@ -47,7 +48,8 @@
     "vi": "Luyện hội thoại tiếng Anh",
     "zh-Hans": "练习日常英语会话",
     "zh-Hant": "練習日常英語會話",
-    "ar": "تدرّب على محادثات الإنجليزية اليومية"
+    "ar": "تدرّب على محادثات الإنجليزية اليومية",
+    "pl": "Ćwicz codzienne rozmowy po angielsku"
   },
   "copy": [
     {
@@ -74,7 +76,8 @@
         "vi": "Muốn nói tiếng Anh tự tin hơn?",
         "zh-Hans": "想自信地说英语吗？",
         "zh-Hant": "想自信地說英語嗎？",
-        "ar": "هل أنت مستعد للتحدث بالإنجليزية بثقة؟"
+        "ar": "هل أنت مستعد للتحدث بالإنجليزية بثقة؟",
+        "pl": "Chcesz mówić pewniej po angielsku?"
       },
       "body": {
         "en": "Practice everyday English conversations, from small talk to travel, a few minutes at a time.",
@@ -99,7 +102,8 @@
         "vi": "Luyện hội thoại tiếng Anh hằng ngày, từ chuyện phiếm đến đi du lịch, mỗi lần vài phút.",
         "zh-Hans": "从闲聊到旅行，每次几分钟，练习日常英语会话。",
         "zh-Hant": "從閒聊到旅行，每次幾分鐘，練習日常英語會話。",
-        "ar": "تدرّب على محادثات الإنجليزية اليومية، من الدردشة الخفيفة إلى السفر، ببضع دقائق كل مرة."
+        "ar": "تدرّب على محادثات الإنجليزية اليومية، من الدردشة الخفيفة إلى السفر، ببضع دقائق كل مرة.",
+        "pl": "Jak zagadać po angielsku? Ćwicz po kilka minut: od luźnych pogawędek po rozmowy w podróży."
       }
     }
   ]

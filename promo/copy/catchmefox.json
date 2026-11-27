@@ -22,7 +22,8 @@
     "vi": "Catch Me, Fox!",
     "zh-Hans": "Catch Me, Fox!",
     "zh-Hant": "Catch Me, Fox!",
-    "ar": "Catch Me, Fox!"
+    "ar": "Catch Me, Fox!",
+    "pl": "Catch Me, Fox!"
   },
   "tagline": {
     "en": "Outsmart the foxes, one move at a time",
@@ -47,7 +48,8 @@
     "vi": "Thỏ hái dâu, dụ cáo đâm nhau",
     "zh-Hans": "智斗狐狸的回合制解谜",
     "zh-Hant": "步步為營，智取狐狸",
-    "ar": "تفوّق على الثعالب بذكائك، خطوة بخطوة"
+    "ar": "تفوّق على الثعالب بذكائك، خطوة بخطوة",
+    "pl": "Przechytrz lisy sprytnymi ruchami"
   },
   "copy": [
     {
@@ -74,7 +76,8 @@
         "vi": "Thỏ con đấu trí với bầy cáo",
         "zh-Hans": "小兔子智斗狐狸群",
         "zh-Hant": "智取一群飢餓的狐狸",
-        "ar": "تغلّب بذكائك على قطيع من الثعالب الجائعة"
+        "ar": "تغلّب بذكائك على قطيع من الثعالب الجائعة",
+        "pl": "Przechytrz stado głodnych lisów"
       },
       "body": {
         "en": "Grab the strawberry and dash home. Trick the foxes into crashing into each other.",
@@ -99,7 +102,8 @@
         "vi": "Hái dâu rồi chạy về hang. Tính từng bước để dụ bầy cáo đâm sầm vào nhau.",
         "zh-Hans": "摘到草莓就往洞里跑。引狐狸互相撞上，一步一步斗智斗勇。",
         "zh-Hant": "搶到草莓就快衝回家，設計讓狐狸彼此撞成一團。",
-        "ar": "التقط الفراولة واركض إلى البيت. واخدع الثعالب لتصطدم ببعضها."
+        "ar": "التقط الفراولة واركض إلى البيت. واخدع الثعالب لتصطدم ببعضها.",
+        "pl": "Złap truskawkę i pędź do nory. Wymanewruj lisy tak, by wpadły na siebie!"
       }
     }
   ]
