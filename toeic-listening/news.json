@@ -1,3 +1,84 @@
 {
-  "items": []
+  "items": [
+    {
+      "id": "toeic-ios-1-1-0",
+      "kind": "release",
+      "date": "2026-11-27",
+      "version": "1.1.0",
+      "audience": "all",
+      "title": {
+        "vi": "Luyện Nghe và Đọc theo từng Part",
+        "en": "Practice Listening and Reading by Part",
+        "ja": "パート別のリスニング・リーディング練習",
+        "ko": "파트별 듣기·읽기 연습",
+        "th": "ฝึกการฟังและการอ่านแยกตามพาร์ต",
+        "id": "Latihan Menyimak dan Membaca per bagian",
+        "de": "Hör- und Leseverstehen nach Prüfungsteil üben",
+        "fr": "Entraînez-vous à la compréhension orale et écrite par partie",
+        "es": "Practica la comprensión oral y la lectura por parte",
+        "it": "Esercitati nella comprensione orale e scritta per parte",
+        "pt": "Pratica a compreensão oral e a leitura por parte",
+        "ru": "Тренировка аудирования и чтения по частям"
+      },
+      "highlights": [
+        {
+          "vi": "Giao diện mới",
+          "en": "New design",
+          "ja": "新しいデザイン",
+          "ko": "새로운 디자인",
+          "th": "ดีไซน์ใหม่",
+          "id": "Desain baru",
+          "de": "Neues Design",
+          "fr": "Nouveau design",
+          "es": "Nuevo diseño",
+          "it": "Nuovo design",
+          "pt": "Novo design",
+          "ru": "Новый дизайн"
+        },
+        {
+          "vi": "Đề thi thử có lời giải theo ngôn ngữ bạn chọn",
+          "en": "Mock tests with explanations in the language you choose",
+          "ja": "選んだ言語で解説が表示される模擬試験",
+          "ko": "선택한 언어로 해설을 볼 수 있는 모의고사",
+          "th": "แบบทดสอบจำลองพร้อมคำอธิบายในภาษาที่คุณเลือก",
+          "id": "Simulasi tes dengan penjelasan dalam bahasa yang Anda pilih",
+          "de": "Probetests mit Erklärungen in Ihrer gewählten Sprache",
+          "fr": "Tests blancs avec explications dans la langue de votre choix",
+          "es": "Simulacros con explicaciones en el idioma que elijas",
+          "it": "Test di simulazione con spiegazioni nella lingua che scegli",
+          "pt": "Testes de simulação com explicações no idioma que escolhes",
+          "ru": "Пробные тесты с объяснениями на выбранном вами языке"
+        },
+        {
+          "vi": "Ôn lại câu sai và từ vựng",
+          "en": "Review your mistakes and vocabulary",
+          "ja": "間違えた問題と単語の復習",
+          "ko": "오답과 단어 복습",
+          "th": "ทบทวนข้อที่ตอบผิดและคำศัพท์",
+          "id": "Ulas jawaban salah dan kosakata",
+          "de": "Fehler durchgehen und Wortschatz wiederholen",
+          "fr": "Revoyez vos erreurs et votre vocabulaire",
+          "es": "Revisa tus errores y tu vocabulario",
+          "it": "Rivedi i tuoi errori e il vocabolario",
+          "pt": "Revê os teus erros e o vocabulário",
+          "ru": "Разбор ошибок и повторение слов"
+        }
+      ],
+      "body": {
+        "vi": "Nếu đã mua Pro trong TOEIC trước đây, vào Cài đặt rồi chọn Khôi phục mua hàng.",
+        "en": "If you previously purchased Pro in TOEIC, open Settings and select Restore purchases.",
+        "ja": "以前 TOEIC で Pro を購入した場合は、設定を開いて「購入を復元」を選択してください。",
+        "ko": "이전에 TOEIC에서 Pro를 구매했다면 설정을 열고 ‘구매 항목 복원’을 선택하세요.",
+        "th": "หากเคยซื้อ Pro ใน TOEIC มาก่อน ให้เปิดการตั้งค่า แล้วเลือกกู้คืนการซื้อ",
+        "id": "Jika sebelumnya pernah membeli Pro di TOEIC, buka Pengaturan dan pilih Pulihkan pembelian.",
+        "de": "Wenn Sie Pro zuvor in TOEIC gekauft haben, öffnen Sie die Einstellungen und wählen Sie „Käufe wiederherstellen“.",
+        "fr": "Si vous avez déjà acheté Pro dans TOEIC, ouvrez les Réglages et sélectionnez « Restaurer les achats ».",
+        "es": "Si compraste Pro en TOEIC anteriormente, abre Ajustes y selecciona Restaurar compras.",
+        "it": "Se in precedenza hai acquistato Pro in TOEIC, apri Impostazioni e seleziona «Ripristina acquisti».",
+        "pt": "Se comprou Pro no TOEIC anteriormente, abra as Definições e selecione Restaurar compras.",
+        "ru": "Если вы ранее приобрели Pro в TOEIC, откройте Настройки и выберите «Восстановить покупки»."
+      },
+      "deeplink": "practice"
+    }
+  ]
 }
